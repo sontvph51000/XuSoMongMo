@@ -1,0 +1,4580 @@
+fileFormatVersion: 2
+guid: cfc29a20dbb4eb8449e81b036a5758ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2172064311403682072
+    second: light-blonde_0
+  - first:
+      213: -8425957121077069630
+    second: light-blonde_1
+  - first:
+      213: -6860131807692979529
+    second: light-blonde_2
+  - first:
+      213: 7840519635861146081
+    second: light-blonde_3
+  - first:
+      213: 4520222368700509112
+    second: light-blonde_4
+  - first:
+      213: 7643471668887867475
+    second: light-blonde_5
+  - first:
+      213: 1186703753741452874
+    second: light-blonde_6
+  - first:
+      213: 4745703556846039646
+    second: light-blonde_7
+  - first:
+      213: 2969067630793908862
+    second: light-blonde_8
+  - first:
+      213: 3802152828268123611
+    second: light-blonde_9
+  - first:
+      213: 4409328664959306433
+    second: light-blonde_10
+  - first:
+      213: -7017602362678838005
+    second: light-blonde_11
+  - first:
+      213: 5690390249450445234
+    second: light-blonde_12
+  - first:
+      213: -5851362753807909462
+    second: light-blonde_13
+  - first:
+      213: -6096674169233282687
+    second: light-blonde_14
+  - first:
+      213: 9195899013029214093
+    second: light-blonde_15
+  - first:
+      213: 3144892857294318663
+    second: light-blonde_16
+  - first:
+      213: 6975010458903049140
+    second: light-blonde_17
+  - first:
+      213: 8697255941175394853
+    second: light-blonde_18
+  - first:
+      213: 1634148637150930705
+    second: light-blonde_19
+  - first:
+      213: -6498800909011446171
+    second: light-blonde_20
+  - first:
+      213: -3543621246997566191
+    second: light-blonde_21
+  - first:
+      213: 6349300406967896868
+    second: light-blonde_22
+  - first:
+      213: -5924337774047422262
+    second: light-blonde_23
+  - first:
+      213: 6052144445675971049
+    second: light-blonde_24
+  - first:
+      213: 5932231234348983923
+    second: light-blonde_25
+  - first:
+      213: 1188884434823291402
+    second: light-blonde_26
+  - first:
+      213: -464782438699961871
+    second: light-blonde_27
+  - first:
+      213: -4073697167774006245
+    second: light-blonde_28
+  - first:
+      213: -1311069608085558192
+    second: light-blonde_29
+  - first:
+      213: 520484636239371966
+    second: light-blonde_30
+  - first:
+      213: -6809632819961068878
+    second: light-blonde_31
+  - first:
+      213: 9017478613361014158
+    second: light-blonde_32
+  - first:
+      213: -7399105147485602299
+    second: light-blonde_33
+  - first:
+      213: -1723996117378775354
+    second: light-blonde_34
+  - first:
+      213: 5552390057646535440
+    second: light-blonde_35
+  - first:
+      213: 3466626710069634079
+    second: light-blonde_36
+  - first:
+      213: 6329629580626620375
+    second: light-blonde_37
+  - first:
+      213: 4075442993520784562
+    second: light-blonde_38
+  - first:
+      213: -1360073889546889219
+    second: light-blonde_39
+  - first:
+      213: 7204601819676312205
+    second: light-blonde_40
+  - first:
+      213: 7507036236587623834
+    second: light-blonde_41
+  - first:
+      213: 4670234925899337848
+    second: light-blonde_42
+  - first:
+      213: -7523477894263641209
+    second: light-blonde_43
+  - first:
+      213: -1641460564464116596
+    second: light-blonde_44
+  - first:
+      213: 4518712809169165434
+    second: light-blonde_45
+  - first:
+      213: -4450406024693634807
+    second: light-blonde_46
+  - first:
+      213: 8971459077878027384
+    second: light-blonde_47
+  - first:
+      213: 6248232510161411448
+    second: light-blonde_48
+  - first:
+      213: -5254039678454237408
+    second: light-blonde_49
+  - first:
+      213: 3555582462454807240
+    second: light-blonde_50
+  - first:
+      213: -869065491248597530
+    second: light-blonde_51
+  - first:
+      213: 2178231024271778064
+    second: light-blonde_52
+  - first:
+      213: 3070167515334113139
+    second: light-blonde_53
+  - first:
+      213: 4295488983330916901
+    second: light-blonde_54
+  - first:
+      213: -8395567658508028612
+    second: light-blonde_55
+  - first:
+      213: -4195012517308684159
+    second: light-blonde_56
+  - first:
+      213: 7668591893776258032
+    second: light-blonde_57
+  - first:
+      213: 8436793250684542571
+    second: light-blonde_58
+  - first:
+      213: 2968045777184771856
+    second: light-blonde_59
+  - first:
+      213: 529273172933649654
+    second: light-blonde_60
+  - first:
+      213: -6757732376824217320
+    second: light-blonde_61
+  - first:
+      213: -8732819590765232454
+    second: light-blonde_62
+  - first:
+      213: 5965013532406637222
+    second: light-blonde_63
+  - first:
+      213: -5801325359881282738
+    second: light-blonde_64
+  - first:
+      213: -4083412217131070327
+    second: light-blonde_65
+  - first:
+      213: -1246372707094635459
+    second: light-blonde_66
+  - first:
+      213: 6645796297631379428
+    second: light-blonde_67
+  - first:
+      213: -9162419517008209182
+    second: light-blonde_68
+  - first:
+      213: 1735400752148439748
+    second: light-blonde_69
+  - first:
+      213: -450011108314735632
+    second: light-blonde_70
+  - first:
+      213: -189787873087458981
+    second: light-blonde_71
+  - first:
+      213: 7183763531558660812
+    second: light-blonde_72
+  - first:
+      213: -923144854380401058
+    second: light-blonde_73
+  - first:
+      213: -1719632899025318172
+    second: light-blonde_74
+  - first:
+      213: 5883929800603901745
+    second: light-blonde_75
+  - first:
+      213: -2228332978761737927
+    second: light-blonde_76
+  - first:
+      213: -2590907785217724564
+    second: light-blonde_77
+  - first:
+      213: -3068583012179575462
+    second: light-blonde_78
+  - first:
+      213: 7206977847940646961
+    second: light-blonde_79
+  - first:
+      213: 8568406597997838151
+    second: light-blonde_80
+  - first:
+      213: -3460772467202220411
+    second: light-blonde_81
+  - first:
+      213: 4920883804388792979
+    second: light-blonde_82
+  - first:
+      213: -7749219200944823346
+    second: light-blonde_83
+  - first:
+      213: 2050165479071996327
+    second: light-blonde_84
+  - first:
+      213: -2942060326175443476
+    second: light-blonde_85
+  - first:
+      213: 5310575048758128909
+    second: light-blonde_86
+  - first:
+      213: -5763106027960121863
+    second: light-blonde_87
+  - first:
+      213: 5950810462234635572
+    second: light-blonde_88
+  - first:
+      213: 1460570250235067401
+    second: light-blonde_89
+  - first:
+      213: -603011621245635835
+    second: light-blonde_90
+  - first:
+      213: 6095574895172839783
+    second: light-blonde_91
+  - first:
+      213: 7310796428386960387
+    second: light-blonde_92
+  - first:
+      213: 3022527788219806459
+    second: light-blonde_93
+  - first:
+      213: -2471095864629300772
+    second: light-blonde_94
+  - first:
+      213: -6095135929448382165
+    second: light-blonde_95
+  - first:
+      213: -5764885595178076131
+    second: light-blonde_96
+  - first:
+      213: 8406871665421338853
+    second: light-blonde_97
+  - first:
+      213: 3857949652013239322
+    second: light-blonde_98
+  - first:
+      213: -6751215999324198766
+    second: light-blonde_99
+  - first:
+      213: -4767663472334241574
+    second: light-blonde_100
+  - first:
+      213: -6448207932060644604
+    second: light-blonde_101
+  - first:
+      213: 6066773667794355172
+    second: light-blonde_102
+  - first:
+      213: -368549542572599840
+    second: light-blonde_103
+  - first:
+      213: -7102991518606443514
+    second: light-blonde_104
+  - first:
+      213: -1447459211070660145
+    second: light-blonde_105
+  - first:
+      213: -3095601390135993982
+    second: light-blonde_106
+  - first:
+      213: -4771930663134397380
+    second: light-blonde_107
+  - first:
+      213: -5443685415280115405
+    second: light-blonde_108
+  - first:
+      213: -8542670496752827583
+    second: light-blonde_109
+  - first:
+      213: 7019732573047926443
+    second: light-blonde_110
+  - first:
+      213: -6907650256936148868
+    second: light-blonde_111
+  - first:
+      213: -1198921114794379155
+    second: light-blonde_112
+  - first:
+      213: -8372491374876869154
+    second: light-blonde_113
+  - first:
+      213: 5167385636617826874
+    second: light-blonde_114
+  - first:
+      213: 6452759046086997256
+    second: light-blonde_115
+  - first:
+      213: -2486192338600540375
+    second: light-blonde_116
+  - first:
+      213: 5227228650929485122
+    second: light-blonde_117
+  - first:
+      213: 7965001884086311985
+    second: light-blonde_118
+  - first:
+      213: 7794211795052275702
+    second: light-blonde_119
+  - first:
+      213: -8928128429763960249
+    second: light-blonde_120
+  - first:
+      213: 8558706040671489566
+    second: light-blonde_121
+  - first:
+      213: 6897689890516936399
+    second: light-blonde_122
+  - first:
+      213: -8217592245528154781
+    second: light-blonde_123
+  - first:
+      213: -6561911451359322379
+    second: light-blonde_124
+  - first:
+      213: -1477408900815757623
+    second: light-blonde_125
+  - first:
+      213: 1481347917004213438
+    second: light-blonde_126
+  - first:
+      213: -8199082230198654881
+    second: light-blonde_127
+  - first:
+      213: 3536674861403978579
+    second: light-blonde_128
+  - first:
+      213: -4004379400676011075
+    second: light-blonde_129
+  - first:
+      213: -6140322082282274318
+    second: light-blonde_130
+  - first:
+      213: 1770385023802553196
+    second: light-blonde_131
+  - first:
+      213: 412969392665540950
+    second: light-blonde_132
+  - first:
+      213: 1305452669158880949
+    second: light-blonde_133
+  - first:
+      213: -6794424930351690722
+    second: light-blonde_134
+  - first:
+      213: -2430706984625909347
+    second: light-blonde_135
+  - first:
+      213: 681196173047803049
+    second: light-blonde_136
+  - first:
+      213: 8222894941636631620
+    second: light-blonde_137
+  - first:
+      213: -4428113257698780241
+    second: light-blonde_138
+  - first:
+      213: -918293855504906974
+    second: light-blonde_139
+  - first:
+      213: -8644274390438410085
+    second: light-blonde_140
+  - first:
+      213: -6732230179563117416
+    second: light-blonde_141
+  - first:
+      213: -2915738573463360154
+    second: light-blonde_142
+  - first:
+      213: 3180963116762611103
+    second: light-blonde_143
+  - first:
+      213: 4342585593455575301
+    second: light-blonde_144
+  - first:
+      213: -3120770772735379060
+    second: light-blonde_145
+  - first:
+      213: -9089365550082574594
+    second: light-blonde_146
+  - first:
+      213: -1712114144373439255
+    second: light-blonde_147
+  - first:
+      213: 4642837799830214442
+    second: light-blonde_148
+  - first:
+      213: -5485842620359683881
+    second: light-blonde_149
+  - first:
+      213: -8236493401066223910
+    second: light-blonde_150
+  - first:
+      213: 4902346901629561365
+    second: light-blonde_151
+  - first:
+      213: -8543092728965462490
+    second: light-blonde_152
+  - first:
+      213: -8860358843256810528
+    second: light-blonde_153
+  - first:
+      213: -5547373586552639675
+    second: light-blonde_154
+  - first:
+      213: 8987230734694299535
+    second: light-blonde_155
+  - first:
+      213: 1494218584398235429
+    second: light-blonde_156
+  - first:
+      213: 3055090435401477132
+    second: light-blonde_157
+  - first:
+      213: 1544361270663459327
+    second: light-blonde_158
+  - first:
+      213: 6908772456995257610
+    second: light-blonde_159
+  - first:
+      213: 4805050352481231306
+    second: light-blonde_160
+  - first:
+      213: 2717615374898287443
+    second: light-blonde_161
+  - first:
+      213: 4951344782699361674
+    second: light-blonde_162
+  - first:
+      213: -6497860077081902698
+    second: light-blonde_163
+  - first:
+      213: -76462156881263265
+    second: light-blonde_164
+  - first:
+      213: -7527139532396849785
+    second: light-blonde_165
+  - first:
+      213: -2521654160690550140
+    second: light-blonde_166
+  - first:
+      213: 8609197435736265996
+    second: light-blonde_167
+  - first:
+      213: 3886970839157170065
+    second: light-blonde_168
+  - first:
+      213: -8551854101636001240
+    second: light-blonde_169
+  - first:
+      213: -442855791500309126
+    second: light-blonde_170
+  - first:
+      213: 9200594564082129013
+    second: light-blonde_171
+  - first:
+      213: -2343234224507788101
+    second: light-blonde_172
+  - first:
+      213: -8181242439771862426
+    second: light-blonde_173
+  - first:
+      213: -1370630019341871054
+    second: light-blonde_174
+  - first:
+      213: 3222789524941211312
+    second: light-blonde_175
+  - first:
+      213: 326819835938024496
+    second: light-blonde_176
+  - first:
+      213: 659472312205311623
+    second: light-blonde_177
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: light-blonde_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1299
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819158eabf8b42e10800000000000000
+      internalID: 2172064311403682072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1299
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8378914acf01b80800000000000000
+      internalID: -8425957121077069630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1299
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b20a1aa77aebc0a0800000000000000
+      internalID: -6860131807692979529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1299
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e98af5611f1fcc60800000000000000
+      internalID: 7840519635861146081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1299
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb2b209b4e0bbe30800000000000000
+      internalID: 4520222368700509112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_5
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1299
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350d2da6cf0131a60800000000000000
+      internalID: 7643471668887867475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_6
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1299
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46c16fc6c4087010800000000000000
+      internalID: 1186703753741452874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_7
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1239
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52bd1bbd302cd140800000000000000
+      internalID: 4745703556846039646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_8
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1239
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72e497874f343920800000000000000
+      internalID: 2969067630793908862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1239
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd51ba64ad5f3c430800000000000000
+      internalID: 3802152828268123611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_10
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1239
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cac8d42f05113d30800000000000000
+      internalID: 4409328664959306433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_11
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1239
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0df59df4d77c9e90800000000000000
+      internalID: -7017602362678838005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_12
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1239
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b917db68c358fe40800000000000000
+      internalID: 5690390249450445234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_13
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1239
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aadf357c398cbcea0800000000000000
+      internalID: -5851362753807909462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1175
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189ec870523446ba0800000000000000
+      internalID: -6096674169233282687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1175
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87b8fd2e656e9f70800000000000000
+      internalID: 9195899013029214093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1175
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ce0bf2467e4ab20800000000000000
+      internalID: 3144892857294318663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_17
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1175
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3fc83ae073cc060800000000000000
+      internalID: 6975010458903049140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_18
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1175
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5224a6ec23cd2b870800000000000000
+      internalID: 8697255941175394853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_19
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1175
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117e1930789ada610800000000000000
+      internalID: 1634148637150930705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_20
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1175
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5661360610f9fc5a0800000000000000
+      internalID: -6498800909011446171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_21
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1111
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11dee22304782dec0800000000000000
+      internalID: -3543621246997566191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_22
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1111
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b8091841f3d1850800000000000000
+      internalID: 6349300406967896868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_23
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1111
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac89978de2688cda0800000000000000
+      internalID: -5924337774047422262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_24
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1111
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1aed5ce498df350800000000000000
+      internalID: 6052144445675971049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_25
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1111
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37629d890e4835250800000000000000
+      internalID: 5932231234348983923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_26
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1111
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0222a03814cf7010800000000000000
+      internalID: 1188884434823291402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_27
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1111
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1f273a5d2cc89f0800000000000000
+      internalID: -464782438699961871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_28
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1043
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14c05062025777c0800000000000000
+      internalID: -4073697167774006245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_29
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1042
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05cef3643252ecde0800000000000000
+      internalID: -1311069608085558192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_30
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1043
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe981ed402293700800000000000000
+      internalID: 520484636239371966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_31
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1043
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2016b77035f71a0800000000000000
+      internalID: -6809632819961068878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_32
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1042
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85b01fa505842d70800000000000000
+      internalID: 9017478613361014158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_33
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1042
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e3b5c0219115990800000000000000
+      internalID: -7399105147485602299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_34
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1042
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c64c755aa22318e0800000000000000
+      internalID: -1723996117378775354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_35
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1043
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013be60f65d0e0d40800000000000000
+      internalID: 5552390057646535440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_36
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 983
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14e49630aeeb1030800000000000000
+      internalID: 3466626710069634079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_37
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 983
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dfed09519c57d750800000000000000
+      internalID: 6329629580626620375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_38
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 983
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4392b5fc1ee8830800000000000000
+      internalID: 4075442993520784562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_39
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 983
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df71641e00c002de0800000000000000
+      internalID: -1360073889546889219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_40
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 983
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8280f1fe23ebf360800000000000000
+      internalID: 7204601819676312205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_41
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 983
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a956ac5eea95e2860800000000000000
+      internalID: 7507036236587623834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_42
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 983
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8705adfcbe100d040800000000000000
+      internalID: 4670234925899337848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_43
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 983
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b69ec57bc379790800000000000000
+      internalID: -7523477894263641209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_44
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 919
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8cdd4e305c5839e0800000000000000
+      internalID: -1641460564464116596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_45
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 919
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c1988db51b5be30800000000000000
+      internalID: 4518712809169165434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_46
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 919
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909a0efbc4bfc32c0800000000000000
+      internalID: -4450406024693634807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_47
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 919
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8749fdd9f76018c70800000000000000
+      internalID: 8971459077878027384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_48
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 918
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87dd73a0d5e26b650800000000000000
+      internalID: 6248232510161411448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_49
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 918
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0277de1efb6e517b0800000000000000
+      internalID: -5254039678454237408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_50
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 918
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca3a3c4967f75130800000000000000
+      internalID: 3555582462454807240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_51
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 919
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5b39b4a8570f3f0800000000000000
+      internalID: -869065491248597530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_52
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 855
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01164786391aa3e10800000000000000
+      internalID: 2178231024271778064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_53
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 855
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377fe68b61d6b9a20800000000000000
+      internalID: 3070167515334113139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_54
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 855
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a0b0cc874ac9b30800000000000000
+      internalID: 4295488983330916901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_55
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 855
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35feda32b3fc7b80800000000000000
+      internalID: -8395567658508028612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_56
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 855
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188af75775258c5c0800000000000000
+      internalID: -4195012517308684159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_57
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 855
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f359fb82bf4c6a60800000000000000
+      internalID: 7668591893776258032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_58
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 855
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e177ee2c2851570800000000000000
+      internalID: 8436793250684542571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_59
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 855
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f4232b8ed903920800000000000000
+      internalID: 2968045777184771856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_60
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 788
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4aad5852b585700800000000000000
+      internalID: 529273172933649654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_61
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 788
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8118c301536b732a0800000000000000
+      internalID: -6757732376824217320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_62
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 788
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abebdd4c9dacec680800000000000000
+      internalID: -8732819590765232454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_63
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 787
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2ee77243cf7c250800000000000000
+      internalID: 5965013532406637222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_64
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 788
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b9fc9625d8d7fa0800000000000000
+      internalID: -5801325359881282738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_65
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 788
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c896e293ec457c0800000000000000
+      internalID: -4083412217131070327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_66
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 788
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3cd1ef50aef3bee0800000000000000
+      internalID: -1246372707094635459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_67
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 787
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eface1958c9a3c50800000000000000
+      internalID: 6645796297631379428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_68
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 788
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea9e9d6efb88d080800000000000000
+      internalID: -9162419517008209182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_69
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 727
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2e0ce1ac1651810800000000000000
+      internalID: 1735400752148439748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_70
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 726
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb9beff74d31c9f0800000000000000
+      internalID: -450011108314735632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_71
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 727
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51f1f95fecbd5df0800000000000000
+      internalID: -189787873087458981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_72
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 727
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccaa5f8eedad1b360800000000000000
+      internalID: 7183763531558660812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_73
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 727
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e2d6e55a45033f0800000000000000
+      internalID: -923144854380401058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_74
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 726
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee45854df2a228e0800000000000000
+      internalID: -1719632899025318172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_75
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 727
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f9450bafae7a150800000000000000
+      internalID: 5883929800603901745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_76
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 727
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9395e9746fe5311e0800000000000000
+      internalID: -2228332978761737927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_77
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 727
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6fad48b81f3b0cd0800000000000000
+      internalID: -2590907785217724564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_78
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 663
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5dfc3b22043a65d0800000000000000
+      internalID: -3068583012179575462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_79
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 663
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1388c922b24540460800000000000000
+      internalID: 7206977847940646961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_80
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 663
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f36cc476819e670800000000000000
+      internalID: 8568406597997838151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_81
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 662
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e95fbe6cdd8ffc0800000000000000
+      internalID: -3460772467202220411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_82
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 663
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a11958fbd7a4440800000000000000
+      internalID: 4920883804388792979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_83
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 663
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec32c01a13e357490800000000000000
+      internalID: -7749219200944823346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_84
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 663
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9dad614a6a37c10800000000000000
+      internalID: 2050165479071996327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_85
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 662
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5fa8698b3bb27d0800000000000000
+      internalID: -2942060326175443476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_86
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 663
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01f746ced3f2b940800000000000000
+      internalID: 5310575048758128909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_87
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 599
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f546801a955500b0800000000000000
+      internalID: -5763106027960121863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_88
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 598
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d6c2f2696859250800000000000000
+      internalID: 5950810462234635572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_89
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 599
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90cb3c677ecf44410800000000000000
+      internalID: 1460570250235067401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_90
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 599
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503b838102ca1a7f0800000000000000
+      internalID: -603011621245635835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_91
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 599
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769e0984215d79450800000000000000
+      internalID: 6095574895172839783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_92
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 598
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304033b0e9a257560800000000000000
+      internalID: 7310796428386960387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_93
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 599
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2b694620d22f920800000000000000
+      internalID: 3022527788219806459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_94
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 599
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd175de4767e4bdd0800000000000000
+      internalID: -2471095864629300772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_95
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 599
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2142836a2ab96ba0800000000000000
+      internalID: -6095135929448382165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_96
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 531
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18f4a848130fffa0800000000000000
+      internalID: -5764885595178076131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_97
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 530
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e84cb9fc353ba470800000000000000
+      internalID: 8406871665421338853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_98
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 530
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c4799a4c03a8530800000000000000
+      internalID: 3857949652013239322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_99
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 531
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298e85e61dcde42a0800000000000000
+      internalID: -6751215999324198766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_100
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 531
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad089e2055bd5ddb0800000000000000
+      internalID: -4767663472334241574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_101
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 531
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b4ba3cc0d5386a0800000000000000
+      internalID: -6448207932060644604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_102
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 471
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e38399f182813450800000000000000
+      internalID: 6066773667794355172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_103
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 469
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5d3d8c426a2eaf0800000000000000
+      internalID: -368549542572599840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_104
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 471
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60cb9dad8da1d6d90800000000000000
+      internalID: -7102991518606443514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_105
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 471
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc12449348799ebe0800000000000000
+      internalID: -1447459211070660145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_106
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 471
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2891db6dfe63a05d0800000000000000
+      internalID: -3095601390135993982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_107
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 471
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c741b3852b6cdb0800000000000000
+      internalID: -4771930663134397380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_108
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 407
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3310149e4f42474b0800000000000000
+      internalID: -5443685415280115405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_109
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 407
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14386d7b176527980800000000000000
+      internalID: -8542670496752827583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_110
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 405
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baea2c245991b6160800000000000000
+      internalID: 7019732573047926443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_111
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 406
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c706faa80b81320a0800000000000000
+      internalID: -6907650256936148868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_112
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 407
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6837f629939c5fe0800000000000000
+      internalID: -1198921114794379155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_113
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 407
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd3173347feecb80800000000000000
+      internalID: -8372491374876869154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_114
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 343
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32bf08cbdd36b740800000000000000
+      internalID: 5167385636617826874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_115
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 341
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805343b0a2ecc8950800000000000000
+      internalID: 6452759046086997256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_116
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 343
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927ca6e8d354f7dd0800000000000000
+      internalID: -2486192338600540375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_117
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 343
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245756253c8da8840800000000000000
+      internalID: 5227228650929485122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_118
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 343
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c1840630f598e60800000000000000
+      internalID: 7965001884086311985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_119
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 343
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f72044055a9a2c60800000000000000
+      internalID: 7794211795052275702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_120
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 275
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7426ad21f7ae81480800000000000000
+      internalID: -8928128429763960249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_121
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 274
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ec63b4cc1a6c670800000000000000
+      internalID: 8558706040671489566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_122
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 275
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6a01fe86489bf50800000000000000
+      internalID: 6897689890516936399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_123
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 275
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d2a40346f35fd80800000000000000
+      internalID: -8217592245528154781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_124
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 275
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fed82e2d486fe4a0800000000000000
+      internalID: -6561911451359322379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_125
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 275
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce50eeae603f7be0800000000000000
+      internalID: -1477408900815757623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_126
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 275
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc0dcdf41ece8410800000000000000
+      internalID: 1481347917004213438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_127
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 275
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58aac8f622073e80800000000000000
+      internalID: -8199082230198654881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_128
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 275
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35bb9006c0bc41130800000000000000
+      internalID: 3536674861403978579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_129
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 275
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db390d4b6269d68c0800000000000000
+      internalID: -4004379400676011075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_130
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 275
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f10417599139caa0800000000000000
+      internalID: -6140322082282274318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_131
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 275
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c633c6b9ccba19810800000000000000
+      internalID: 1770385023802553196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_132
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 275
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65930f089792bb500800000000000000
+      internalID: 412969392665540950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_133
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 215
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b6fc483946ed1210800000000000000
+      internalID: 1305452669158880949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_134
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 215
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c4455368a55b1a0800000000000000
+      internalID: -6794424930351690722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_135
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 215
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91df4c30e4644ed0800000000000000
+      internalID: -2430706984625909347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_136
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 215
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9acaedc6f48147900800000000000000
+      internalID: 681196173047803049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_137
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 216
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c9b95f1679d1270800000000000000
+      internalID: 8222894941636631620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_138
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 215
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab9aa9047e2c82c0800000000000000
+      internalID: -4428113257698780241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_139
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 215
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225c43f8a909143f0800000000000000
+      internalID: -918293855504906974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_140
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 215
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9889e0cd3e590880800000000000000
+      internalID: -8644274390438410085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_141
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 215
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894e9f012505292a0800000000000000
+      internalID: -6732230179563117416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_142
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 216
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66defc637373987d0800000000000000
+      internalID: -2915738573463360154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_143
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 215
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d314ae91d052c20800000000000000
+      internalID: 3180963116762611103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_144
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 215
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50106a8d696f34c30800000000000000
+      internalID: 4342585593455575301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_145
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 215
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89bfa9448bc0b4d0800000000000000
+      internalID: -3120770772735379060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_146
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 151
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6b7a190361cd180800000000000000
+      internalID: -9089365550082574594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_147
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 151
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e403b1c1495d38e0800000000000000
+      internalID: -1712114144373439255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_148
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 151
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27d2a0516cae6040800000000000000
+      internalID: 4642837799830214442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_149
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 151
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d053c7b33f5ed3b0800000000000000
+      internalID: -5485842620359683881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_150
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 151
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6499af3e812bd80800000000000000
+      internalID: -8236493401066223910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_151
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 151
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51aed558882a80440800000000000000
+      internalID: 4902346901629561365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_152
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 151
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6268ace1d66d07980800000000000000
+      internalID: -8543092728965462490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_153
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 151
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3df25839ea90580800000000000000
+      internalID: -8860358843256810528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_154
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 151
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f25214d15c303b0800000000000000
+      internalID: -5547373586552639675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_155
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 151
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f873def9cbe09bc70800000000000000
+      internalID: 8987230734694299535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_156
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 151
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52708d3c2e78cb410800000000000000
+      internalID: 1494218584398235429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_157
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 151
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c6cce709cd56a20800000000000000
+      internalID: 3055090435401477132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_158
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 151
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff134cea46cae6510800000000000000
+      internalID: 1544361270663459327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_159
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 87
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d743502f3e0ef50800000000000000
+      internalID: 6908772456995257610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_160
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 87
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1628b56d7fea240800000000000000
+      internalID: 4805050352481231306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_161
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 87
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353d3f0f8c8e6b520800000000000000
+      internalID: 2717615374898287443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_162
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 87
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a857745b8d5b6b440800000000000000
+      internalID: 4951344782699361674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_163
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 88
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6914751efa6f2d5a0800000000000000
+      internalID: -6497860077081902698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_164
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 87
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55055cc21a50fef0800000000000000
+      internalID: -76462156881263265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_165
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 87
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7859facc97a3a8790800000000000000
+      internalID: -7527139532396849785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_166
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 87
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a67a1b6e8410dd0800000000000000
+      internalID: -2521654160690550140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_167
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 87
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05934e44730a7770800000000000000
+      internalID: 8609197435736265996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_168
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 88
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19fd348526b41f530800000000000000
+      internalID: 3886970839157170065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_169
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 87
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822d4051106b15980800000000000000
+      internalID: -8551854101636001240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_170
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 87
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d46e40109aad9f0800000000000000
+      internalID: -442855791500309126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_171
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 87
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578518a52041faf70800000000000000
+      internalID: 9200594564082129013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_172
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 23
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4eca643e82b7fd0800000000000000
+      internalID: -2343234224507788101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_173
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 22
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a4c0cd853667e80800000000000000
+      internalID: -8181242439771862426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_174
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 13
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23814a2624b8afce0800000000000000
+      internalID: -1370630019341871054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_175
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 8
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b688f37ff5a9bc20800000000000000
+      internalID: 3222789524941211312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_176
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 5
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c23a2c8e8198400800000000000000
+      internalID: 326819835938024496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-blonde_177
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 0
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ef33ce29ae62900800000000000000
+      internalID: 659472312205311623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

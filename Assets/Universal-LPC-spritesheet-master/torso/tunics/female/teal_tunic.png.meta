@@ -1,0 +1,4855 @@
+fileFormatVersion: 2
+guid: 26d9a1d86eec76f42ae183ffd4982e8e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7187433532600704277
+    second: teal_tunic_0
+  - first:
+      213: -2707314311351568856
+    second: teal_tunic_1
+  - first:
+      213: 8040180031042727790
+    second: teal_tunic_2
+  - first:
+      213: -6779521190180387434
+    second: teal_tunic_3
+  - first:
+      213: 2533738387605631887
+    second: teal_tunic_4
+  - first:
+      213: 2650580255909802349
+    second: teal_tunic_5
+  - first:
+      213: 1071784032998291158
+    second: teal_tunic_6
+  - first:
+      213: -6331044198223454312
+    second: teal_tunic_7
+  - first:
+      213: -8960667401760443494
+    second: teal_tunic_8
+  - first:
+      213: -1962675608327589218
+    second: teal_tunic_9
+  - first:
+      213: 7273525294642850042
+    second: teal_tunic_10
+  - first:
+      213: 5566531547751343070
+    second: teal_tunic_11
+  - first:
+      213: -4376303601420064854
+    second: teal_tunic_12
+  - first:
+      213: -6509035933833362065
+    second: teal_tunic_13
+  - first:
+      213: -3932331225879614505
+    second: teal_tunic_14
+  - first:
+      213: 6184348190766090785
+    second: teal_tunic_15
+  - first:
+      213: 2402826740621298756
+    second: teal_tunic_16
+  - first:
+      213: 6984230466344381722
+    second: teal_tunic_17
+  - first:
+      213: -8511111356347210183
+    second: teal_tunic_18
+  - first:
+      213: -2767657856460145225
+    second: teal_tunic_19
+  - first:
+      213: -8419434235512109573
+    second: teal_tunic_20
+  - first:
+      213: -4949815969425474152
+    second: teal_tunic_21
+  - first:
+      213: -8779405125997713437
+    second: teal_tunic_22
+  - first:
+      213: 997644231903038419
+    second: teal_tunic_23
+  - first:
+      213: 6235000198817184982
+    second: teal_tunic_24
+  - first:
+      213: 7776901301030877136
+    second: teal_tunic_25
+  - first:
+      213: -5457286110778921620
+    second: teal_tunic_26
+  - first:
+      213: -5440771583221941469
+    second: teal_tunic_27
+  - first:
+      213: 6704138555463513573
+    second: teal_tunic_28
+  - first:
+      213: 978651424474294384
+    second: teal_tunic_29
+  - first:
+      213: -8967724725506739728
+    second: teal_tunic_30
+  - first:
+      213: -369170937237079586
+    second: teal_tunic_31
+  - first:
+      213: 2970575350798006392
+    second: teal_tunic_32
+  - first:
+      213: 8383428206981187415
+    second: teal_tunic_33
+  - first:
+      213: 2073675536743902148
+    second: teal_tunic_34
+  - first:
+      213: -3762375851255006370
+    second: teal_tunic_35
+  - first:
+      213: -4597265155867968462
+    second: teal_tunic_36
+  - first:
+      213: 531275668094028003
+    second: teal_tunic_37
+  - first:
+      213: 3162408720801606568
+    second: teal_tunic_38
+  - first:
+      213: -6421600436618370435
+    second: teal_tunic_39
+  - first:
+      213: 6488568714611134346
+    second: teal_tunic_40
+  - first:
+      213: 5499268947246775374
+    second: teal_tunic_41
+  - first:
+      213: -96688793615675076
+    second: teal_tunic_42
+  - first:
+      213: -9146834718878615946
+    second: teal_tunic_43
+  - first:
+      213: -3965500104594054028
+    second: teal_tunic_44
+  - first:
+      213: -953650196253616951
+    second: teal_tunic_45
+  - first:
+      213: 3893387637475147751
+    second: teal_tunic_46
+  - first:
+      213: 8180778558187883166
+    second: teal_tunic_47
+  - first:
+      213: -647634450303289635
+    second: teal_tunic_48
+  - first:
+      213: -4994584231427722927
+    second: teal_tunic_49
+  - first:
+      213: 1124903624324127981
+    second: teal_tunic_50
+  - first:
+      213: -2983873920798443172
+    second: teal_tunic_51
+  - first:
+      213: 4265436817586240158
+    second: teal_tunic_52
+  - first:
+      213: -2491791185363625162
+    second: teal_tunic_53
+  - first:
+      213: -7092627366386728751
+    second: teal_tunic_54
+  - first:
+      213: -772524614763953376
+    second: teal_tunic_55
+  - first:
+      213: -8364028651731376181
+    second: teal_tunic_56
+  - first:
+      213: 4886531253920107433
+    second: teal_tunic_57
+  - first:
+      213: 7198137210049564650
+    second: teal_tunic_58
+  - first:
+      213: -7459809162669501729
+    second: teal_tunic_59
+  - first:
+      213: 2411978343960272694
+    second: teal_tunic_60
+  - first:
+      213: 2833576307627815439
+    second: teal_tunic_61
+  - first:
+      213: -4543035395100100220
+    second: teal_tunic_62
+  - first:
+      213: 566326432095443802
+    second: teal_tunic_63
+  - first:
+      213: 856803108035991085
+    second: teal_tunic_64
+  - first:
+      213: 6499909430153061888
+    second: teal_tunic_65
+  - first:
+      213: -6763632457622248001
+    second: teal_tunic_66
+  - first:
+      213: -140151111864644696
+    second: teal_tunic_67
+  - first:
+      213: 2094751375117942816
+    second: teal_tunic_68
+  - first:
+      213: 4629116843532709372
+    second: teal_tunic_69
+  - first:
+      213: -400649766257628491
+    second: teal_tunic_70
+  - first:
+      213: 1676673659030006785
+    second: teal_tunic_71
+  - first:
+      213: -7205155987441291634
+    second: teal_tunic_72
+  - first:
+      213: 2874564268776071845
+    second: teal_tunic_73
+  - first:
+      213: 3955852258903753988
+    second: teal_tunic_74
+  - first:
+      213: -4974069994074878856
+    second: teal_tunic_75
+  - first:
+      213: 443400376035167652
+    second: teal_tunic_76
+  - first:
+      213: 4631326902017537155
+    second: teal_tunic_77
+  - first:
+      213: 4229060296149828670
+    second: teal_tunic_78
+  - first:
+      213: 4834638061952838899
+    second: teal_tunic_79
+  - first:
+      213: 3809015424929018643
+    second: teal_tunic_80
+  - first:
+      213: 482320762537709348
+    second: teal_tunic_81
+  - first:
+      213: -3837101842383322777
+    second: teal_tunic_82
+  - first:
+      213: 7424606462796442481
+    second: teal_tunic_83
+  - first:
+      213: 152010049948914476
+    second: teal_tunic_84
+  - first:
+      213: 4105558605418884399
+    second: teal_tunic_85
+  - first:
+      213: 3637788458902201475
+    second: teal_tunic_86
+  - first:
+      213: -1241440935252117257
+    second: teal_tunic_87
+  - first:
+      213: -4576704438223909470
+    second: teal_tunic_88
+  - first:
+      213: -4370014511324244041
+    second: teal_tunic_89
+  - first:
+      213: -3077159113337352432
+    second: teal_tunic_90
+  - first:
+      213: -7858146476315532064
+    second: teal_tunic_91
+  - first:
+      213: 3818768842266245090
+    second: teal_tunic_92
+  - first:
+      213: -4673251179008254264
+    second: teal_tunic_93
+  - first:
+      213: -3963632887670567902
+    second: teal_tunic_94
+  - first:
+      213: 260701008092317591
+    second: teal_tunic_95
+  - first:
+      213: -485922313984122115
+    second: teal_tunic_96
+  - first:
+      213: 5234144156812921603
+    second: teal_tunic_97
+  - first:
+      213: 9141756141459320175
+    second: teal_tunic_98
+  - first:
+      213: 613356329248838972
+    second: teal_tunic_99
+  - first:
+      213: -2621717186715513792
+    second: teal_tunic_100
+  - first:
+      213: 1876606839182816819
+    second: teal_tunic_101
+  - first:
+      213: -1147019194031747606
+    second: teal_tunic_102
+  - first:
+      213: 1983630765948423578
+    second: teal_tunic_103
+  - first:
+      213: 7568110444215302072
+    second: teal_tunic_104
+  - first:
+      213: 8013935724959009933
+    second: teal_tunic_105
+  - first:
+      213: 6721254958007547448
+    second: teal_tunic_106
+  - first:
+      213: -5408014848639002298
+    second: teal_tunic_107
+  - first:
+      213: 8507866213631930443
+    second: teal_tunic_108
+  - first:
+      213: -6014921342949537284
+    second: teal_tunic_109
+  - first:
+      213: -1672688536198583252
+    second: teal_tunic_110
+  - first:
+      213: 2180702375971857749
+    second: teal_tunic_111
+  - first:
+      213: 2166901631201490385
+    second: teal_tunic_112
+  - first:
+      213: 1829055036606393308
+    second: teal_tunic_113
+  - first:
+      213: -378759276374927100
+    second: teal_tunic_114
+  - first:
+      213: 3814547487198703481
+    second: teal_tunic_115
+  - first:
+      213: 5758148188886455438
+    second: teal_tunic_116
+  - first:
+      213: 4310806969563029454
+    second: teal_tunic_117
+  - first:
+      213: -1031981232014870540
+    second: teal_tunic_118
+  - first:
+      213: 1043901200054262163
+    second: teal_tunic_119
+  - first:
+      213: 243696463701906114
+    second: teal_tunic_120
+  - first:
+      213: -7468290034142104651
+    second: teal_tunic_121
+  - first:
+      213: 7927762817302614517
+    second: teal_tunic_122
+  - first:
+      213: -7341492322324149220
+    second: teal_tunic_123
+  - first:
+      213: -5630307027901346722
+    second: teal_tunic_124
+  - first:
+      213: 4739360593575346483
+    second: teal_tunic_125
+  - first:
+      213: 6476948519787409620
+    second: teal_tunic_126
+  - first:
+      213: 8924300502182667356
+    second: teal_tunic_127
+  - first:
+      213: 8750043720127691585
+    second: teal_tunic_128
+  - first:
+      213: -7467060321877778745
+    second: teal_tunic_129
+  - first:
+      213: 1032924399991157971
+    second: teal_tunic_130
+  - first:
+      213: 7064867398039300973
+    second: teal_tunic_131
+  - first:
+      213: 8408419957935836373
+    second: teal_tunic_132
+  - first:
+      213: -6637040163166172674
+    second: teal_tunic_133
+  - first:
+      213: -4632243222159060479
+    second: teal_tunic_134
+  - first:
+      213: -1188914606064316570
+    second: teal_tunic_135
+  - first:
+      213: -2191146628787936204
+    second: teal_tunic_136
+  - first:
+      213: -43451795047122131
+    second: teal_tunic_137
+  - first:
+      213: 8907291927031067179
+    second: teal_tunic_138
+  - first:
+      213: -1679843478887274911
+    second: teal_tunic_139
+  - first:
+      213: 6195056349615038105
+    second: teal_tunic_140
+  - first:
+      213: -2864975035645141662
+    second: teal_tunic_141
+  - first:
+      213: 308609818721003201
+    second: teal_tunic_142
+  - first:
+      213: -5452242939940904791
+    second: teal_tunic_143
+  - first:
+      213: -2831386905980750317
+    second: teal_tunic_144
+  - first:
+      213: -2572258445173111641
+    second: teal_tunic_145
+  - first:
+      213: 7648899488702507855
+    second: teal_tunic_146
+  - first:
+      213: -1231760912633896904
+    second: teal_tunic_147
+  - first:
+      213: 607796629253119224
+    second: teal_tunic_148
+  - first:
+      213: 321753121289102911
+    second: teal_tunic_149
+  - first:
+      213: 8505599732137068220
+    second: teal_tunic_150
+  - first:
+      213: 9167917105623911731
+    second: teal_tunic_151
+  - first:
+      213: -4225987248086716745
+    second: teal_tunic_152
+  - first:
+      213: -6869420321553908543
+    second: teal_tunic_153
+  - first:
+      213: 5720508890383968319
+    second: teal_tunic_154
+  - first:
+      213: -9152663953120829550
+    second: teal_tunic_155
+  - first:
+      213: 8855475121747898425
+    second: teal_tunic_156
+  - first:
+      213: -6764539064877368012
+    second: teal_tunic_157
+  - first:
+      213: -6712222905597548947
+    second: teal_tunic_158
+  - first:
+      213: 3822057494124252646
+    second: teal_tunic_159
+  - first:
+      213: -3317503449762215846
+    second: teal_tunic_160
+  - first:
+      213: -7069023760630130466
+    second: teal_tunic_161
+  - first:
+      213: -8204273698836947110
+    second: teal_tunic_162
+  - first:
+      213: 51944751996919686
+    second: teal_tunic_163
+  - first:
+      213: -4355284313228654868
+    second: teal_tunic_164
+  - first:
+      213: 6322650359206025359
+    second: teal_tunic_165
+  - first:
+      213: -2433540023738710629
+    second: teal_tunic_166
+  - first:
+      213: 6326882540915273902
+    second: teal_tunic_167
+  - first:
+      213: 3977791922725519635
+    second: teal_tunic_168
+  - first:
+      213: -5157120160056133955
+    second: teal_tunic_169
+  - first:
+      213: -2059175032529096652
+    second: teal_tunic_170
+  - first:
+      213: -546257298312644258
+    second: teal_tunic_171
+  - first:
+      213: -1650402331590258636
+    second: teal_tunic_172
+  - first:
+      213: -1633049818535290926
+    second: teal_tunic_173
+  - first:
+      213: 1334455328756247476
+    second: teal_tunic_174
+  - first:
+      213: 6292663398499455617
+    second: teal_tunic_175
+  - first:
+      213: -5491968920981453001
+    second: teal_tunic_176
+  - first:
+      213: -933584196102964732
+    second: teal_tunic_177
+  - first:
+      213: 21938446550173066
+    second: teal_tunic_178
+  - first:
+      213: 1260590207622064603
+    second: teal_tunic_179
+  - first:
+      213: 3627519917603517317
+    second: teal_tunic_180
+  - first:
+      213: 6201210138334709116
+    second: teal_tunic_181
+  - first:
+      213: 6571799791850488934
+    second: teal_tunic_182
+  - first:
+      213: 4308641817303032976
+    second: teal_tunic_183
+  - first:
+      213: -9190455824631438497
+    second: teal_tunic_184
+  - first:
+      213: 1688861639311146271
+    second: teal_tunic_185
+  - first:
+      213: 63826166389347532
+    second: teal_tunic_186
+  - first:
+      213: 5055272863769700661
+    second: teal_tunic_187
+  - first:
+      213: 2407611973930770250
+    second: teal_tunic_188
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: teal_tunic_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1290
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d556d97b4eeb360800000000000000
+      internalID: 7187433532600704277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1290
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826fe805affad6ad0800000000000000
+      internalID: -2707314311351568856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1290
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6fad78b325749f60800000000000000
+      internalID: 8040180031042727790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1290
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6958010a56d4ae1a0800000000000000
+      internalID: -6779521190180387434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1290
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f833103a3a5a92320800000000000000
+      internalID: 2533738387605631887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_5
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1290
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61fa2a03b0c8c420800000000000000
+      internalID: 2650580255909802349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_6
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1290
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d67cc246edbfde00800000000000000
+      internalID: 1071784032998291158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_7
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1227
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fd79358dc9328a0800000000000000
+      internalID: -6331044198223454312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_8
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1227
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9375a7497055a380800000000000000
+      internalID: -8960667401760443494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_9
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1233
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e927f44deec23c4e0800000000000000
+      internalID: -1962675608327589218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_10
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1227
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8610cf7b0c0f460800000000000000
+      internalID: 7273525294642850042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_11
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1227
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed369be23fa404d40800000000000000
+      internalID: 5566531547751343070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_12
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1227
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa72818af0f3443c0800000000000000
+      internalID: -4376303601420064854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_13
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1227
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f650c95fd424ba5a0800000000000000
+      internalID: -6509035933833362065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_14
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1227
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dbe44e959d8d69c0800000000000000
+      internalID: -3932331225879614505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_15
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1163
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a41f5d9e733d550800000000000000
+      internalID: 6184348190766090785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_16
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1163
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44cca8b903e885120800000000000000
+      internalID: 2402826740621298756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_17
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1163
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1deae7ea98fce060800000000000000
+      internalID: 6984230466344381722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_18
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1163
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936a121b05572e980800000000000000
+      internalID: -8511111356347210183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_19
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1163
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bdbfddd7dd4799d0800000000000000
+      internalID: -2767657856460145225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_20
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1163
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5c98ebb29282b80800000000000000
+      internalID: -8419434235512109573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_21
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1163
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89db6ded998be4bb0800000000000000
+      internalID: -4949815969425474152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_22
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1099
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7a9ad9d89492680800000000000000
+      internalID: -8779405125997713437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_23
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1099
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db4cc6a42858dd00800000000000000
+      internalID: 997644231903038419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_24
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1105
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dcfcf875ab278650800000000000000
+      internalID: 6235000198817184982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_25
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1099
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7f73d878a1deb60800000000000000
+      internalID: 7776901301030877136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_26
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1099
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d69593233d344b0800000000000000
+      internalID: -5457286110778921620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_27
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1099
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b340e421f7e74b0800000000000000
+      internalID: -5440771583221941469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_28
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1099
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e537630f72e90d50800000000000000
+      internalID: 6704138555463513573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_29
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1099
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07868b2194ed49d00800000000000000
+      internalID: 978651424474294384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_30
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1033
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1feac00ed3c8380800000000000000
+      internalID: -8967724725506739728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_31
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1033
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9f5901df070eaf0800000000000000
+      internalID: -369170937237079586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_32
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1033
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878b8d2fa8a993920800000000000000
+      internalID: 2970575350798006392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_33
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1034
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7578a15798be75470800000000000000
+      internalID: 8383428206981187415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_34
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1033
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cba903f9ec27cc10800000000000000
+      internalID: 2073675536743902148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_35
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1033
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5bff62e81b59cbc0800000000000000
+      internalID: -3762375851255006370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_36
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1033
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c7536b2bb3330c0800000000000000
+      internalID: -4597265155867968462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_37
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1034
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e88d82c7687f5700800000000000000
+      internalID: 531275668094028003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_38
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 971
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab2af5f9f123eb20800000000000000
+      internalID: 3162408720801606568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_39
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 971
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d726edd0d64e1e6a0800000000000000
+      internalID: -6421600436618370435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_40
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 971
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f0c173ed60c0a50800000000000000
+      internalID: 6488568714611134346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_41
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 971
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4cfafc98f3515c40800000000000000
+      internalID: 5499268947246775374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_42
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 972
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31d6c2fd0e78aef0800000000000000
+      internalID: -96688793615675076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_43
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 972
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676b702094aef0180800000000000000
+      internalID: -9146834718878615946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_44
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 972
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474a5ec3aa6b7f8c0800000000000000
+      internalID: -3965500104594054028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_45
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 971
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4525cf234f3c2f0800000000000000
+      internalID: -953650196253616951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_46
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 907
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef7a90ad67180630800000000000000
+      internalID: 3893387637475147751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_47
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 907
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9acbea41c6f78170800000000000000
+      internalID: 8180778558187883166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_48
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 917
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6fd5516e32307f0800000000000000
+      internalID: -647634450303289635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_49
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 907
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151bbfc9a1cafaab0800000000000000
+      internalID: -4994584231427722927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_50
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 919
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec9366e2e57c9f00800000000000000
+      internalID: 1124903624324127981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_51
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 907
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59b1407a762796d0800000000000000
+      internalID: -2983873920798443172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_52
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 916
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ab914bf20e13b30800000000000000
+      internalID: 4265436817586240158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_53
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 915
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b93f57e116b6dd0800000000000000
+      internalID: -2491791185363625162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_54
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 916
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d00e461dfce19d90800000000000000
+      internalID: -7092627366386728751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_55
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 919
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023cfb4b4f07745f0800000000000000
+      internalID: -772524614763953376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_56
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 907
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7ac5a71400deb80800000000000000
+      internalID: -8364028651731376181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_57
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 906
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab80c5194270d340800000000000000
+      internalID: 4886531253920107433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_58
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 906
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef8689b7abe4e360800000000000000
+      internalID: 7198137210049564650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_59
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 906
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd251ee171f697890800000000000000
+      internalID: -7459809162669501729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_60
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 843
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63fdfad4681197120800000000000000
+      internalID: 2411978343960272694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_61
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 843
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f027e1c83a2e25720800000000000000
+      internalID: 2833576307627815439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_62
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 843
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4893801d065e3f0c0800000000000000
+      internalID: -4543035395100100220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_63
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 843
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b96f3b3eefbd700800000000000000
+      internalID: 566326432095443802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_64
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 843
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d269fe023e9f3eb00800000000000000
+      internalID: 856803108035991085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_65
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 843
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0062c705031543a50800000000000000
+      internalID: 6499909430153061888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_66
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 843
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5af147d10c222a0800000000000000
+      internalID: -6763632457622248001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_67
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 843
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab8e6a6e451e0ef0800000000000000
+      internalID: -140151111864644696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_68
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 778
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0208aa6f64d021d10800000000000000
+      internalID: 2094751375117942816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_69
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 778
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd6b8a3e3ded3040800000000000000
+      internalID: 4629116843532709372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_70
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 778
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5baeeda092b907af0800000000000000
+      internalID: -400649766257628491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_71
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 778
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10cecba3fcdb44710800000000000000
+      internalID: 1676673659030006785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_72
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 778
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e6841ddc4220c90800000000000000
+      internalID: -7205155987441291634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_73
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 778
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2ad6ce8f084e720800000000000000
+      internalID: 2874564268776071845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_74
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 778
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40582e3aba206e630800000000000000
+      internalID: 3955852258903753988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_75
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 778
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ccc33b1bd88fab0800000000000000
+      internalID: -4974069994074878856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_76
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 778
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4adc9d2fa46472600800000000000000
+      internalID: 443400376035167652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_77
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 715
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38437719747c54040800000000000000
+      internalID: 4631326902017537155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_78
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 714
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3408bdcee3a0ba30800000000000000
+      internalID: 4229060296149828670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_79
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 714
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc284cc3b5181340800000000000000
+      internalID: 4834638061952838899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_80
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 715
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313b0e219575cd430800000000000000
+      internalID: 3809015424929018643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_81
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 715
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f0bd69d2c81b600800000000000000
+      internalID: 482320762537709348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_82
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 714
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761ceb54430efbac0800000000000000
+      internalID: -3837101842383322777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_83
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 714
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b2d0c9d30890760800000000000000
+      internalID: 7424606462796442481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_84
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 715
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c239e75c55c0c1200800000000000000
+      internalID: 152010049948914476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_85
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 715
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d6a88accfd9f830800000000000000
+      internalID: 4105558605418884399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_86
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 651
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384a1ec54550c7230800000000000000
+      internalID: 3637788458902201475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_87
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 651
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f83bacfb0485cee0800000000000000
+      internalID: -1241440935252117257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_88
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 651
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2adc5b5df874c70c0800000000000000
+      internalID: -4576704438223909470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_89
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 650
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7573d84f69a53c0800000000000000
+      internalID: -4370014511324244041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_90
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 651
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01fcb24071cbb45d0800000000000000
+      internalID: -3077159113337352432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_91
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 651
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4a93ef96142f290800000000000000
+      internalID: -7858146476315532064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_92
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 651
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7fb92870efef430800000000000000
+      internalID: 3818768842266245090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_93
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 650
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce990900d6452fb0800000000000000
+      internalID: -4673251179008254264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_94
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 651
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c075e83e85ef8c0800000000000000
+      internalID: -3963632887670567902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_95
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 587
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797cde38f223e9300800000000000000
+      internalID: 260701008092317591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_96
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 586
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df26a8eda38a149f0800000000000000
+      internalID: -485922313984122115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_97
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 586
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b4502016a63a840800000000000000
+      internalID: 5234144156812921603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_98
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 587
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6dadea86ca0ede70800000000000000
+      internalID: 9141756141459320175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_99
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 587
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c355d9de454138800800000000000000
+      internalID: 613356329248838972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_100
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 586
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c0940fb1acd9bd0800000000000000
+      internalID: -2621717186715513792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_101
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 586
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3367f804afb0b0a10800000000000000
+      internalID: 1876606839182816819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_102
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 587
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aedce25ce18f410f0800000000000000
+      internalID: -1147019194031747606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_103
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 587
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d44e10ca5478b10800000000000000
+      internalID: 1983630765948423578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_104
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 522
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b77068f954570960800000000000000
+      internalID: 7568110444215302072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_105
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 522
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c8efa0518373f60800000000000000
+      internalID: 8013935724959009933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_106
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 522
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8367fd806c1b64d50800000000000000
+      internalID: 6721254958007547448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_107
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 523
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64995d6e52fd2f4b0800000000000000
+      internalID: -5408014848639002298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_108
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 523
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b403414ae33021670800000000000000
+      internalID: 8507866213631930443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_109
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 523
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9c39138e4b68ca0800000000000000
+      internalID: -6014921342949537284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_110
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 459
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ce30c73aa69c8e0800000000000000
+      internalID: -1672688536198583252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_111
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 457
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55527a0d149634e10800000000000000
+      internalID: 2180702375971857749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_112
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 458
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5baf68d81621e10800000000000000
+      internalID: 2166901631201490385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_113
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 459
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb20937ddb126910800000000000000
+      internalID: 1829055036606393308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_114
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 459
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409d944e1706ebaf0800000000000000
+      internalID: -378759276374927100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_115
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 459
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f6651babeffe430800000000000000
+      internalID: 3814547487198703481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_116
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 395
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84d2a2154d09ef40800000000000000
+      internalID: 5758148188886455438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_117
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 393
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf1514691013db30800000000000000
+      internalID: 4310806969563029454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_118
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 394
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f732e2898aada1f0800000000000000
+      internalID: -1031981232014870540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_119
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 395
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39996d15c9eac7e00800000000000000
+      internalID: 1043901200054262163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_120
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 395
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c298ff74a8c16300800000000000000
+      internalID: 243696463701906114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_121
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 395
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3be5b58cd4b5890800000000000000
+      internalID: -7468290034142104651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_122
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 331
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f15fdc7742150e60800000000000000
+      internalID: 7927762817302614517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_123
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 329
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c8c9631a7cd1a90800000000000000
+      internalID: -7341492322324149220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_124
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 330
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c0e89b6912dd1b0800000000000000
+      internalID: -5630307027901346722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_125
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 331
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3310b82895795c140800000000000000
+      internalID: 4739360593575346483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_126
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 331
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0bb66cc5eb2e950800000000000000
+      internalID: 6476948519787409620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_127
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 331
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c542075160c79db70800000000000000
+      internalID: 8924300502182667356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_128
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 266
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b395b57666e6970800000000000000
+      internalID: 8750043720127691585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_129
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 266
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce9f0e033caf5890800000000000000
+      internalID: -7467060321877778745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_130
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 266
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d47e45e44fa55e00800000000000000
+      internalID: 1032924399991157971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_131
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 265
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6bee5d97737b0260800000000000000
+      internalID: 7064867398039300973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_132
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 265
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc021be665b0b470800000000000000
+      internalID: 8408419957935836373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_133
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 265
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9ca7ad22f74e3a0800000000000000
+      internalID: -6637040163166172674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_134
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 265
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1029ff50557f6bfb0800000000000000
+      internalID: -4632243222159060479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_135
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 265
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f43450770208fe0800000000000000
+      internalID: -1188914606064316570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_136
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 265
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434ec4410cb7791e0800000000000000
+      internalID: -2191146628787936204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_137
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 265
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2bfc5792d0a56ff0800000000000000
+      internalID: -43451795047122131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_138
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 265
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22346590de0d9b70800000000000000
+      internalID: 8907291927031067179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_139
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 265
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166eaa2914fffa8e0800000000000000
+      internalID: -1679843478887274911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_140
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 265
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e155a5de249f550800000000000000
+      internalID: 6195056349615038105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_141
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 203
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d520662609d38d0800000000000000
+      internalID: -2864975035645141662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_142
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 203
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6201bbef6684400800000000000000
+      internalID: 308609818721003201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_143
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 203
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0e0bfeeedb554b0800000000000000
+      internalID: -5452242939940904791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_144
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 201
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316335f3c94e4b8d0800000000000000
+      internalID: -2831386905980750317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_145
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 203
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a445f092908d4cd0800000000000000
+      internalID: -2572258445173111641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_146
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 203
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ba7c23f89562a60800000000000000
+      internalID: 7648899488702507855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_147
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 203
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830ee32e9f7e7eee0800000000000000
+      internalID: -1231760912633896904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_148
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 203
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fcdf4660d35f6800800000000000000
+      internalID: 607796629253119224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_149
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 203
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f366fc352c8177400800000000000000
+      internalID: 321753121289102911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_150
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 203
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb600bb44e5f90670800000000000000
+      internalID: 8505599732137068220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_151
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 203
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33dc0faa80cfa3f70800000000000000
+      internalID: 9167917105623911731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_152
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 203
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bee574fcf64a55c0800000000000000
+      internalID: -4225987248086716745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_153
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 203
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ccfde00d9aeaa0a0800000000000000
+      internalID: -6869420321553908543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_154
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 139
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38ecc9f684536f40800000000000000
+      internalID: 5720508890383968319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_155
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 139
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29fd5b5a0a43bf080800000000000000
+      internalID: -9152663953120829550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_156
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 139
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930b71574b7f4ea70800000000000000
+      internalID: 8855475121747898425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_157
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 139
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d3bb08f878f12a0800000000000000
+      internalID: -6764539064877368012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_158
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 139
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d662e9a84d469d2a0800000000000000
+      internalID: -6712222905597548947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_159
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 139
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed45607a0daa0530800000000000000
+      internalID: 3822057494124252646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_160
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 152
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a584ac7703cd5f1d0800000000000000
+      internalID: -3317503449762215846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_161
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 139
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed858dec758c5ed90800000000000000
+      internalID: -7069023760630130466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_162
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 152
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f5ebcf980942e80800000000000000
+      internalID: -8204273698836947110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_163
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 139
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68fd8ba0a7b88b000800000000000000
+      internalID: 51944751996919686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_164
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 139
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6cc2e0efbee83c0800000000000000
+      internalID: -4355284313228654868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_165
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 139
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88987bb0019eb750800000000000000
+      internalID: 6322650359206025359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_166
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 139
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95cb5aed345a3ed0800000000000000
+      internalID: -2433540023738710629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_167
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 149
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea030e2562a9dc750800000000000000
+      internalID: 6326882540915273902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_168
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 139
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3110970bda4f33730800000000000000
+      internalID: 3977791922725519635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_169
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 139
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db639dbb98a3e68b0800000000000000
+      internalID: -5157120160056133955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_170
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 75
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430ffb7c7375c63e0800000000000000
+      internalID: -2059175032529096652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_171
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 75
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e593c12a1ed4b68f0800000000000000
+      internalID: -546257298312644258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_172
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 75
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4301619d2d79819e0800000000000000
+      internalID: -1650402331590258636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_173
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 73
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d710b1a7dd3659e0800000000000000
+      internalID: -1633049818535290926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_174
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 75
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bba42f1d00f48210800000000000000
+      internalID: 1334455328756247476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_175
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 75
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18299ae5508045750800000000000000
+      internalID: 6292663398499455617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_176
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 75
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7374a633d5b98c3b0800000000000000
+      internalID: -5491968920981453001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_177
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 75
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a3d57be1e3b03f0800000000000000
+      internalID: -933584196102964732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_178
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 75
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a850c81a6e0fd4000800000000000000
+      internalID: 21938446550173066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_179
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 75
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd926ac6d148e7110800000000000000
+      internalID: 1260590207622064603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_180
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 75
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5837968452a875230800000000000000
+      internalID: 3627519917603517317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_181
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 75
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75cdf0f3cf1f0650800000000000000
+      internalID: 6201210138334709116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_182
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 75
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6640c308719b33b50800000000000000
+      internalID: 6571799791850488934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_183
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 10
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094adb897ee5bcb30800000000000000
+      internalID: 4308641817303032976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_184
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 10
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f536ce0ee11f47080800000000000000
+      internalID: -9190455824631438497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_185
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 3
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1dbce586ba007710800000000000000
+      internalID: 1688861639311146271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_186
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 4
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc413076f81c2e000800000000000000
+      internalID: 63826166389347532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_187
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 18
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5392aa7b2efe72640800000000000000
+      internalID: 5055272863769700661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_tunic_188
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 6
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4fde1f855e896120800000000000000
+      internalID: 2407611973930770250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

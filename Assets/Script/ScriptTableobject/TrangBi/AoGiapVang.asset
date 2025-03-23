@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bae21ea90c44c64498f09541a005ac5, type: 3}
+  m_Name: AoGiapVang
+  m_EditorClassIdentifier: 
+  TrangBi_ID: 2
+  TrangBi_Name: Golden Armor
+  TrangBi_Sprite: {fileID: -691368162, guid: 589abe42b8dd895498800464f069a53e, type: 3}
+  TrangBi_Infor: 
+  TrangBi_Type: 2
+  TrangBi_Animator: {fileID: 22100000, guid: 2e1e128e04d0f5f49ae32c0ea30094be, type: 2}
+  TiLeRa: 20

@@ -1,0 +1,5005 @@
+fileFormatVersion: 2
+guid: 7af6de374c103c14e8ecf1dbe38f53a7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7268380317342929342
+    second: dress_w_sash_female_0
+  - first:
+      213: -2955274722253824459
+    second: dress_w_sash_female_1
+  - first:
+      213: 61330480557290449
+    second: dress_w_sash_female_2
+  - first:
+      213: -796341643301789209
+    second: dress_w_sash_female_3
+  - first:
+      213: 2533116990581341240
+    second: dress_w_sash_female_4
+  - first:
+      213: -9055220911160949701
+    second: dress_w_sash_female_5
+  - first:
+      213: 4191347139578192755
+    second: dress_w_sash_female_6
+  - first:
+      213: 227560740944068942
+    second: dress_w_sash_female_7
+  - first:
+      213: -4571542773075480805
+    second: dress_w_sash_female_8
+  - first:
+      213: -988875714011203590
+    second: dress_w_sash_female_9
+  - first:
+      213: -1978607685501239493
+    second: dress_w_sash_female_10
+  - first:
+      213: 1639411583254548129
+    second: dress_w_sash_female_11
+  - first:
+      213: -8200157034675750412
+    second: dress_w_sash_female_12
+  - first:
+      213: -420551013906024502
+    second: dress_w_sash_female_13
+  - first:
+      213: -8454218461487022742
+    second: dress_w_sash_female_14
+  - first:
+      213: 2991499485308370415
+    second: dress_w_sash_female_15
+  - first:
+      213: -1245587020155602830
+    second: dress_w_sash_female_16
+  - first:
+      213: 8025875222704082288
+    second: dress_w_sash_female_17
+  - first:
+      213: 2621808563225101249
+    second: dress_w_sash_female_18
+  - first:
+      213: 4602557926453853207
+    second: dress_w_sash_female_19
+  - first:
+      213: -8250990616531646738
+    second: dress_w_sash_female_20
+  - first:
+      213: 6109407522975640956
+    second: dress_w_sash_female_21
+  - first:
+      213: -646895691481739041
+    second: dress_w_sash_female_22
+  - first:
+      213: -3598072505128870831
+    second: dress_w_sash_female_23
+  - first:
+      213: 1034502359033586810
+    second: dress_w_sash_female_24
+  - first:
+      213: 3722685549740856457
+    second: dress_w_sash_female_25
+  - first:
+      213: -2961890847424022869
+    second: dress_w_sash_female_26
+  - first:
+      213: 2877461191321997964
+    second: dress_w_sash_female_27
+  - first:
+      213: -1127574825599925617
+    second: dress_w_sash_female_28
+  - first:
+      213: 1503475900192752328
+    second: dress_w_sash_female_29
+  - first:
+      213: -7123035577906283903
+    second: dress_w_sash_female_30
+  - first:
+      213: -1090612833731678698
+    second: dress_w_sash_female_31
+  - first:
+      213: 1239138770325808262
+    second: dress_w_sash_female_32
+  - first:
+      213: 8433092781905731453
+    second: dress_w_sash_female_33
+  - first:
+      213: 7547729362135658118
+    second: dress_w_sash_female_34
+  - first:
+      213: -4114451733891906059
+    second: dress_w_sash_female_35
+  - first:
+      213: -8493969193237239844
+    second: dress_w_sash_female_36
+  - first:
+      213: -5108815416385534813
+    second: dress_w_sash_female_37
+  - first:
+      213: 6591204798730210636
+    second: dress_w_sash_female_38
+  - first:
+      213: -630895866894550602
+    second: dress_w_sash_female_39
+  - first:
+      213: -1628040111954494765
+    second: dress_w_sash_female_40
+  - first:
+      213: 3523595923949266520
+    second: dress_w_sash_female_41
+  - first:
+      213: 8952678915665037400
+    second: dress_w_sash_female_42
+  - first:
+      213: 5618029611841293636
+    second: dress_w_sash_female_43
+  - first:
+      213: -5324743592852573126
+    second: dress_w_sash_female_44
+  - first:
+      213: -3782323287897649134
+    second: dress_w_sash_female_45
+  - first:
+      213: -5960442305615914311
+    second: dress_w_sash_female_46
+  - first:
+      213: 1032406078586161295
+    second: dress_w_sash_female_47
+  - first:
+      213: -851203253694403974
+    second: dress_w_sash_female_48
+  - first:
+      213: -5618359185828855818
+    second: dress_w_sash_female_49
+  - first:
+      213: -8766602729322748695
+    second: dress_w_sash_female_50
+  - first:
+      213: -2169314851087937856
+    second: dress_w_sash_female_51
+  - first:
+      213: 914675035291854725
+    second: dress_w_sash_female_52
+  - first:
+      213: 8095818594940805588
+    second: dress_w_sash_female_53
+  - first:
+      213: 3410817557911986604
+    second: dress_w_sash_female_54
+  - first:
+      213: -7723848532514902535
+    second: dress_w_sash_female_55
+  - first:
+      213: 836002494742704974
+    second: dress_w_sash_female_56
+  - first:
+      213: 3788472205550541215
+    second: dress_w_sash_female_57
+  - first:
+      213: 4571939506975242686
+    second: dress_w_sash_female_58
+  - first:
+      213: 9124509973532838751
+    second: dress_w_sash_female_59
+  - first:
+      213: 9154657821100442340
+    second: dress_w_sash_female_60
+  - first:
+      213: -3442316046217187544
+    second: dress_w_sash_female_61
+  - first:
+      213: 1096204930769616363
+    second: dress_w_sash_female_62
+  - first:
+      213: -3099467534623725121
+    second: dress_w_sash_female_63
+  - first:
+      213: 3020650610072987468
+    second: dress_w_sash_female_64
+  - first:
+      213: 1211481687279692741
+    second: dress_w_sash_female_65
+  - first:
+      213: 9133513129669247759
+    second: dress_w_sash_female_66
+  - first:
+      213: -1990974327760072303
+    second: dress_w_sash_female_67
+  - first:
+      213: -2220509028163370637
+    second: dress_w_sash_female_68
+  - first:
+      213: 2247867690119832614
+    second: dress_w_sash_female_69
+  - first:
+      213: 3386340315754792283
+    second: dress_w_sash_female_70
+  - first:
+      213: 2067038706966848449
+    second: dress_w_sash_female_71
+  - first:
+      213: -7940529613041168989
+    second: dress_w_sash_female_72
+  - first:
+      213: -6390394515401572264
+    second: dress_w_sash_female_73
+  - first:
+      213: -884471031498665562
+    second: dress_w_sash_female_74
+  - first:
+      213: -3869154185673624732
+    second: dress_w_sash_female_75
+  - first:
+      213: -4866916627814119375
+    second: dress_w_sash_female_76
+  - first:
+      213: -6477375293359372036
+    second: dress_w_sash_female_77
+  - first:
+      213: -3964826080854626433
+    second: dress_w_sash_female_78
+  - first:
+      213: 3022876179998446695
+    second: dress_w_sash_female_79
+  - first:
+      213: 3875115649657437652
+    second: dress_w_sash_female_80
+  - first:
+      213: 3923326588557511496
+    second: dress_w_sash_female_81
+  - first:
+      213: -3781466080710137097
+    second: dress_w_sash_female_82
+  - first:
+      213: -1039640686184068416
+    second: dress_w_sash_female_83
+  - first:
+      213: -1957747891390627440
+    second: dress_w_sash_female_84
+  - first:
+      213: -6290169844805660585
+    second: dress_w_sash_female_85
+  - first:
+      213: 6074725984545044529
+    second: dress_w_sash_female_86
+  - first:
+      213: 2481426055293957089
+    second: dress_w_sash_female_87
+  - first:
+      213: 2347109524274716912
+    second: dress_w_sash_female_88
+  - first:
+      213: -4015536327657894252
+    second: dress_w_sash_female_89
+  - first:
+      213: 7795798234341689388
+    second: dress_w_sash_female_90
+  - first:
+      213: 764578604273135953
+    second: dress_w_sash_female_91
+  - first:
+      213: -943920444431572723
+    second: dress_w_sash_female_92
+  - first:
+      213: -6886651788136301677
+    second: dress_w_sash_female_93
+  - first:
+      213: 5125410079707585156
+    second: dress_w_sash_female_94
+  - first:
+      213: 1706617920785036655
+    second: dress_w_sash_female_95
+  - first:
+      213: 4842954143414517317
+    second: dress_w_sash_female_96
+  - first:
+      213: 7843542788587869744
+    second: dress_w_sash_female_97
+  - first:
+      213: 5011619957061557878
+    second: dress_w_sash_female_98
+  - first:
+      213: 8759610409457802980
+    second: dress_w_sash_female_99
+  - first:
+      213: -8009015664556200712
+    second: dress_w_sash_female_100
+  - first:
+      213: 5292634088094539365
+    second: dress_w_sash_female_101
+  - first:
+      213: -5416439308154048644
+    second: dress_w_sash_female_102
+  - first:
+      213: -824875180903823622
+    second: dress_w_sash_female_103
+  - first:
+      213: -5175716955588310498
+    second: dress_w_sash_female_104
+  - first:
+      213: -7589913208447401922
+    second: dress_w_sash_female_105
+  - first:
+      213: -2392605321563034093
+    second: dress_w_sash_female_106
+  - first:
+      213: 7354960138483506777
+    second: dress_w_sash_female_107
+  - first:
+      213: -216331437654668102
+    second: dress_w_sash_female_108
+  - first:
+      213: -4222295710904275273
+    second: dress_w_sash_female_109
+  - first:
+      213: -3664450503036037031
+    second: dress_w_sash_female_110
+  - first:
+      213: 2705879342726846498
+    second: dress_w_sash_female_111
+  - first:
+      213: -4252097683398478
+    second: dress_w_sash_female_112
+  - first:
+      213: 1733558513374483508
+    second: dress_w_sash_female_113
+  - first:
+      213: 4519452812891858423
+    second: dress_w_sash_female_114
+  - first:
+      213: 4590432093579204637
+    second: dress_w_sash_female_115
+  - first:
+      213: -5322677679012363476
+    second: dress_w_sash_female_116
+  - first:
+      213: 7975484844964562901
+    second: dress_w_sash_female_117
+  - first:
+      213: -8447305731152565534
+    second: dress_w_sash_female_118
+  - first:
+      213: 7276624578084682619
+    second: dress_w_sash_female_119
+  - first:
+      213: 3184292117743951842
+    second: dress_w_sash_female_120
+  - first:
+      213: 3572220967896479026
+    second: dress_w_sash_female_121
+  - first:
+      213: 8465260174513851100
+    second: dress_w_sash_female_122
+  - first:
+      213: -4177174444907061593
+    second: dress_w_sash_female_123
+  - first:
+      213: -5108978125636430034
+    second: dress_w_sash_female_124
+  - first:
+      213: 6460832538952842067
+    second: dress_w_sash_female_125
+  - first:
+      213: 6745032172302667586
+    second: dress_w_sash_female_126
+  - first:
+      213: -4536673487844618989
+    second: dress_w_sash_female_127
+  - first:
+      213: -3832206546771887054
+    second: dress_w_sash_female_128
+  - first:
+      213: -8906418993699153151
+    second: dress_w_sash_female_129
+  - first:
+      213: 1968399638911894623
+    second: dress_w_sash_female_130
+  - first:
+      213: 2669611826489513895
+    second: dress_w_sash_female_131
+  - first:
+      213: -710453877850483160
+    second: dress_w_sash_female_132
+  - first:
+      213: 7186986628620822217
+    second: dress_w_sash_female_133
+  - first:
+      213: -2099858421814750178
+    second: dress_w_sash_female_134
+  - first:
+      213: 348447550362759881
+    second: dress_w_sash_female_135
+  - first:
+      213: 1813157483285180200
+    second: dress_w_sash_female_136
+  - first:
+      213: -7794583072775226477
+    second: dress_w_sash_female_137
+  - first:
+      213: 1315707376389477811
+    second: dress_w_sash_female_138
+  - first:
+      213: -3469137310391059275
+    second: dress_w_sash_female_139
+  - first:
+      213: 4642110611125500376
+    second: dress_w_sash_female_140
+  - first:
+      213: 6314922825907144081
+    second: dress_w_sash_female_141
+  - first:
+      213: 127890397344397370
+    second: dress_w_sash_female_142
+  - first:
+      213: 8674994572765142711
+    second: dress_w_sash_female_143
+  - first:
+      213: 5318544852332357152
+    second: dress_w_sash_female_144
+  - first:
+      213: -146593591044720386
+    second: dress_w_sash_female_145
+  - first:
+      213: 5277723173766206148
+    second: dress_w_sash_female_146
+  - first:
+      213: 7344727779952871260
+    second: dress_w_sash_female_147
+  - first:
+      213: 1236466366100538886
+    second: dress_w_sash_female_148
+  - first:
+      213: -6533351697199963537
+    second: dress_w_sash_female_149
+  - first:
+      213: 3979205193760669269
+    second: dress_w_sash_female_150
+  - first:
+      213: 6804274745922080960
+    second: dress_w_sash_female_151
+  - first:
+      213: -5084966069809030100
+    second: dress_w_sash_female_152
+  - first:
+      213: -3663076466125592823
+    second: dress_w_sash_female_153
+  - first:
+      213: 131525371716905463
+    second: dress_w_sash_female_154
+  - first:
+      213: 1645451265787775588
+    second: dress_w_sash_female_155
+  - first:
+      213: 4691760761112883509
+    second: dress_w_sash_female_156
+  - first:
+      213: -4489353092446700447
+    second: dress_w_sash_female_157
+  - first:
+      213: -8241984172641930907
+    second: dress_w_sash_female_158
+  - first:
+      213: 9133518953513603971
+    second: dress_w_sash_female_159
+  - first:
+      213: -8209864579220175543
+    second: dress_w_sash_female_160
+  - first:
+      213: -3905155952358382104
+    second: dress_w_sash_female_161
+  - first:
+      213: -7168171259022782286
+    second: dress_w_sash_female_162
+  - first:
+      213: 1880432317885845677
+    second: dress_w_sash_female_163
+  - first:
+      213: -4093419377146713398
+    second: dress_w_sash_female_164
+  - first:
+      213: 1240844483162611919
+    second: dress_w_sash_female_165
+  - first:
+      213: 3748501464478336312
+    second: dress_w_sash_female_166
+  - first:
+      213: -2655406497228386427
+    second: dress_w_sash_female_167
+  - first:
+      213: -2482768438603294284
+    second: dress_w_sash_female_168
+  - first:
+      213: -4196234577194367417
+    second: dress_w_sash_female_169
+  - first:
+      213: -6327994870223438976
+    second: dress_w_sash_female_170
+  - first:
+      213: -7441363072519291362
+    second: dress_w_sash_female_171
+  - first:
+      213: -1097125241438720569
+    second: dress_w_sash_female_172
+  - first:
+      213: -4387275346748842953
+    second: dress_w_sash_female_173
+  - first:
+      213: 4763069292431689216
+    second: dress_w_sash_female_174
+  - first:
+      213: -2517275974003701255
+    second: dress_w_sash_female_175
+  - first:
+      213: -835276429001900000
+    second: dress_w_sash_female_176
+  - first:
+      213: -3005925810047028768
+    second: dress_w_sash_female_177
+  - first:
+      213: -2561492220418153816
+    second: dress_w_sash_female_178
+  - first:
+      213: -4045629915346495428
+    second: dress_w_sash_female_179
+  - first:
+      213: -7413427445949149408
+    second: dress_w_sash_female_180
+  - first:
+      213: -6078115923459468818
+    second: dress_w_sash_female_181
+  - first:
+      213: 9073938078748155022
+    second: dress_w_sash_female_182
+  - first:
+      213: 1039679597923677736
+    second: dress_w_sash_female_183
+  - first:
+      213: 3159990271838119283
+    second: dress_w_sash_female_184
+  - first:
+      213: -6532792036748099690
+    second: dress_w_sash_female_185
+  - first:
+      213: 3093474346110852355
+    second: dress_w_sash_female_186
+  - first:
+      213: -5211319416730573052
+    second: dress_w_sash_female_187
+  - first:
+      213: 6879867772824834081
+    second: dress_w_sash_female_188
+  - first:
+      213: -3394773486239508397
+    second: dress_w_sash_female_189
+  - first:
+      213: -8600263414384918130
+    second: dress_w_sash_female_190
+  - first:
+      213: -8745097089764526887
+    second: dress_w_sash_female_191
+  - first:
+      213: 1496632616308718987
+    second: dress_w_sash_female_192
+  - first:
+      213: 8022615219649850948
+    second: dress_w_sash_female_193
+  - first:
+      213: 46610007090280599
+    second: dress_w_sash_female_194
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dress_w_sash_female_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1287
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb19aab93697ed460800000000000000
+      internalID: 7268380317342929342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1287
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e9e5e3c41ccf6d0800000000000000
+      internalID: -2955274722253824459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1287
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d375834fb3e9d000800000000000000
+      internalID: 61330480557290449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1287
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1652f9e73d2f4f0800000000000000
+      internalID: -796341643301789209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_4
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1287
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c7b1e5b70772320800000000000000
+      internalID: 2533116990581341240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_5
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1287
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b340093de84655280800000000000000
+      internalID: -9055220911160949701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_6
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1287
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37368e84408aa2a30800000000000000
+      internalID: 4191347139578192755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_7
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1223
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41cbc8c945782300800000000000000
+      internalID: 227560740944068942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_8
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1223
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1fe457a11e9e80c0800000000000000
+      internalID: -4571542773075480805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1223
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7f95307cec642f0800000000000000
+      internalID: -988875714011203590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_10
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1233
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f37db0bc29a84e0800000000000000
+      internalID: -1978607685501239493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_11
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1223
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae4c84262c50c610800000000000000
+      internalID: 1639411583254548129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_12
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1223
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f93bbd8f90333e80800000000000000
+      internalID: -8200157034675750412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_13
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1223
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7733eb417e92af0800000000000000
+      internalID: -420551013906024502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_14
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1223
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d34850a159caa80800000000000000
+      internalID: -8454218461487022742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_15
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1159
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fedb197aee0f38920800000000000000
+      internalID: 2991499485308370415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_16
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1159
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278b9ce5439c6bee0800000000000000
+      internalID: -1245587020155602830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_17
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1159
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07dc2ecfdf2a16f60800000000000000
+      internalID: 8025875222704082288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_18
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1159
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c30c105ff8826420800000000000000
+      internalID: 2621808563225101249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_19
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1159
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71cb0787c029fdf30800000000000000
+      internalID: 4602557926453853207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_20
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1159
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6cc88ffb79e7d80800000000000000
+      internalID: -8250990616531646738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_21
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1159
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7def0be5c9f8c450800000000000000
+      internalID: 6109407522975640956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_22
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1095
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd01086cbc3c507f0800000000000000
+      internalID: -646895691481739041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_23
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1095
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c91b7be14111ec0800000000000000
+      internalID: -3598072505128870831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_24
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1105
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74208d1a6a4b5e00800000000000000
+      internalID: 1034502359033586810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_25
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1095
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98498caa8c2a9a330800000000000000
+      internalID: 3722685549740856457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_26
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1095
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba67fcf87ff35e6d0800000000000000
+      internalID: -2961890847424022869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_27
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1095
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8258b345bbcee720800000000000000
+      internalID: 2877461191321997964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_28
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1095
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8281769bac0a50f0800000000000000
+      internalID: -1127574825599925617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_29
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1095
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2895f8d5b6dd410800000000000000
+      internalID: 1503475900192752328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_30
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1030
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a3d60a1e4e52d90800000000000000
+      internalID: -7123035577906283903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_31
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1030
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ee0f1f76d5dd0f0800000000000000
+      internalID: -1090612833731678698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_32
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1031
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6842fa8752e423110800000000000000
+      internalID: 1239138770325808262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_33
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1031
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fd667643d580570800000000000000
+      internalID: 8433092781905731453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_34
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1030
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ea1e28ddbeeb860800000000000000
+      internalID: 7547729362135658118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_35
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1030
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f502e382f786e6c0800000000000000
+      internalID: -4114451733891906059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_36
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1030
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7abff850c5f1a80800000000000000
+      internalID: -8493969193237239844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_37
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1031
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a40d4b4277d919b0800000000000000
+      internalID: -5108815416385534813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_38
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 967
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d0a2eb7d9a87b50800000000000000
+      internalID: 6591204798730210636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_39
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 967
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9fc7b3d8b9e37f0800000000000000
+      internalID: -630895866894550602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_40
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 967
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da7dd6d42a0869e0800000000000000
+      internalID: -1628040111954494765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_41
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 967
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856a203f2d356e030800000000000000
+      internalID: 3523595923949266520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_42
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 967
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858085c5a0e4e3c70800000000000000
+      internalID: 8952678915665037400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_43
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 967
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d0d679a2047fd40800000000000000
+      internalID: 5618029611841293636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_44
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 967
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a343cfbf9e5ba16b0800000000000000
+      internalID: -5324743592852573126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_45
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 967
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2105c2f520d728bc0800000000000000
+      internalID: -3782323287897649134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_46
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 903
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba9d858d41484da0800000000000000
+      internalID: -5960442305615914311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_47
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 903
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88051acbd7d35e00800000000000000
+      internalID: 1032406078586161295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_48
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 917
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a63ef862bef24f0800000000000000
+      internalID: -851203253694403974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_49
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 919
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff3e1c76149702b0800000000000000
+      internalID: -5618359185828855818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_50
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 918
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e46fbfd345c65680800000000000000
+      internalID: -8766602729322748695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_51
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 916
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce8ceee2ab05e1e0800000000000000
+      internalID: -2169314851087937856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_52
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 915
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5872d73391491bc00800000000000000
+      internalID: 914675035291854725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_53
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 916
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1e27d5e102a5070800000000000000
+      internalID: 8095818594940805588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_54
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 919
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca162056f78a55f20800000000000000
+      internalID: 3410817557911986604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_55
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 918
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fde680bea06fc490800000000000000
+      internalID: -7723848532514902535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_56
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 903
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43ba72f6d31a9b00800000000000000
+      internalID: 836002494742704974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_57
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 903
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99d745166b539430800000000000000
+      internalID: 3788472205550541215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_58
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 902
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb975d722cac27f30800000000000000
+      internalID: 4571939506975242686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_59
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 902
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b0fe92a75c0ae70800000000000000
+      internalID: 9124509973532838751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_60
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 902
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e281fae8c0eb0f70800000000000000
+      internalID: 9154657821100442340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_61
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 903
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82fe89c4bcf6a30d0800000000000000
+      internalID: -3442316046217187544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_62
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 839
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedfd8b9390863f00800000000000000
+      internalID: 1096204930769616363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_63
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 839
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9a5ede2ba7cf4d0800000000000000
+      internalID: -3099467534623725121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_64
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 839
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47a7fbc9b18be920800000000000000
+      internalID: 3020650610072987468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_65
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 839
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb62360d2c00d010800000000000000
+      internalID: 1211481687279692741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_66
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 839
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f034d4dccc1c0ce70800000000000000
+      internalID: 9133513129669247759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_67
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 839
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19150f4c563ae54e0800000000000000
+      internalID: -1990974327760072303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_68
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 839
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37146cbbdca2f21e0800000000000000
+      internalID: -2220509028163370637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_69
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 839
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624aba321c7023f10800000000000000
+      internalID: 2247867690119832614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_70
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 775
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5506295392befe20800000000000000
+      internalID: 3386340315754792283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_71
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 775
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3edb990c89fac10800000000000000
+      internalID: 2067038706966848449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_72
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 775
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad063e33629dc190800000000000000
+      internalID: -7940529613041168989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_73
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 774
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85082e6cb02c057a0800000000000000
+      internalID: -6390394515401572264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_74
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 775
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a11661784ab9b3f0800000000000000
+      internalID: -884471031498665562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_75
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 775
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46335bd84c00e4ac0800000000000000
+      internalID: -3869154185673624732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_76
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 775
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13882bfec1d357cb0800000000000000
+      internalID: -4866916627814119375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_77
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 774
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf84c624d7dbb16a0800000000000000
+      internalID: -6477375293359372036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_78
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 775
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7fa47e9fab1af8c0800000000000000
+      internalID: -3964826080854626433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_79
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 711
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7641cccaed963f920800000000000000
+      internalID: 3022876179998446695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_80
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 710
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd7361f62d27c530800000000000000
+      internalID: 3875115649657437652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_81
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 710
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84bc0d0eeb4727630800000000000000
+      internalID: 3923326588557511496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_82
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 711
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa651972a8858bc0800000000000000
+      internalID: -3781466080710137097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_83
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 711
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca84fddd447291f0800000000000000
+      internalID: -1039640686184068416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_84
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 710
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09144e55aaea4d4e0800000000000000
+      internalID: -1957747891390627440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_85
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 710
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7501c775ad3d4b8a0800000000000000
+      internalID: -6290169844805660585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_86
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 711
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13874a00913cd4450800000000000000
+      internalID: 6074725984545044529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_87
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 711
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3f132a9dbcf6220800000000000000
+      internalID: 2481426055293957089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_88
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 647
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0a4534dab929020800000000000000
+      internalID: 2347109524274716912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_89
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 647
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e46473cf2f548c0800000000000000
+      internalID: -4015536327657894252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_90
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 647
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28cd82b03d303c60800000000000000
+      internalID: 7795798234341689388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_91
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 646
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151709e80345c9a00800000000000000
+      internalID: 764578604273135953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_92
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 647
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d016d6d5b5586e2f0800000000000000
+      internalID: -943920444431572723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_93
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 647
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39bb35c8fa2bd60a0800000000000000
+      internalID: -6886651788136301677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_94
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 647
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a5d29df4d112740800000000000000
+      internalID: 5125410079707585156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_95
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 646
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6535b7f4ff1fa710800000000000000
+      internalID: 1706617920785036655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_96
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 647
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e7ab56221a53340800000000000000
+      internalID: 4842954143414517317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_97
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 583
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0365b5efb9cd9dc60800000000000000
+      internalID: 7843542788587869744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_98
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 582
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e99e95cc9dc8540800000000000000
+      internalID: 5011619957061557878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_99
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 582
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eedb8ac143609970800000000000000
+      internalID: 8759610409457802980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_100
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 583
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fca699cfa24ad090800000000000000
+      internalID: -8009015664556200712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_101
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 583
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e9ffa59a6337940800000000000000
+      internalID: 5292634088094539365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_102
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 582
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fe3029521f4d4b0800000000000000
+      internalID: -5416439308154048644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_103
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 582
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af60132b4647d84f0800000000000000
+      internalID: -824875180903823622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_104
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 583
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a413cd9d82c28b0800000000000000
+      internalID: -5175716955588310498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_105
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 583
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30827666263ba690800000000000000
+      internalID: -7589913208447401922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_106
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 520
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ea688f222cbced0800000000000000
+      internalID: -2392605321563034093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_107
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 519
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e97771741121660800000000000000
+      internalID: 7354960138483506777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_108
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 519
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc08d024bf6ffcf0800000000000000
+      internalID: -216331437654668102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_109
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 521
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be25eeeb646765c0800000000000000
+      internalID: -4222295710904275273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_110
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 521
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958198dbea1452dc0800000000000000
+      internalID: -3664450503036037031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_111
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 521
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2281d440de63d8520800000000000000
+      internalID: 2705879342726846498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_112
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 456
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0e70c5db4e0fff0800000000000000
+      internalID: -4252097683398478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_113
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 453
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4345a0b7846de0810800000000000000
+      internalID: 1733558513374483508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_114
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 454
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f52f83636258be30800000000000000
+      internalID: 4519452812891858423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_115
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 456
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18575ffaad74bf30800000000000000
+      internalID: 4590432093579204637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_116
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 456
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2341980adc0226b0800000000000000
+      internalID: -5322677679012363476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_117
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 456
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7cf97e53d9eae60800000000000000
+      internalID: 7975484844964562901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_118
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 392
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eaa789713425ca80800000000000000
+      internalID: -8447305731152565534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_119
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 389
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b3d942083cbf460800000000000000
+      internalID: 7276624578084682619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_120
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 390
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef543b5fc0e03c20800000000000000
+      internalID: 3184292117743951842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_121
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 392
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235fbaa3b04139130800000000000000
+      internalID: 3572220967896479026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_122
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 392
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdac8212745aa7570800000000000000
+      internalID: 8465260174513851100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_123
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 392
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae997659f1b706c0800000000000000
+      internalID: -4177174444907061593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_124
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 328
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27133896734919b0800000000000000
+      internalID: -5108978125636430034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_125
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 325
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35bb19596fc79a950800000000000000
+      internalID: 6460832538952842067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_126
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 326
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f8ea4260b2b9d50800000000000000
+      internalID: 6745032172302667586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_127
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 328
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31dc617cf7f7a01c0800000000000000
+      internalID: -4536673487844618989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_128
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 328
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c3cb9137441dac0800000000000000
+      internalID: -3832206546771887054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_129
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 328
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b15cb0d1b066480800000000000000
+      internalID: -8906418993699153151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_130
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 263
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54c955ea09215b10800000000000000
+      internalID: 1968399638911894623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_131
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 263
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7d61edfcd5c0520800000000000000
+      internalID: 2669611826489513895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_132
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 263
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8265c6556f5f326f0800000000000000
+      internalID: -710453877850483160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_133
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 263
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c62d6ca24e4db360800000000000000
+      internalID: 7186986628620822217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_134
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 263
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e149e1114edcbd2e0800000000000000
+      internalID: -2099858421814750178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_135
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 263
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c23a3e633fe5d400800000000000000
+      internalID: 348447550362759881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_136
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 263
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82fed01ef11a92910800000000000000
+      internalID: 1813157483285180200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_137
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 263
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39bb5f62ef314d390800000000000000
+      internalID: -7794583072775226477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_138
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 263
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b55e0e43e4524210800000000000000
+      internalID: 1315707376389477811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_139
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 263
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc36191ff52bdfc0800000000000000
+      internalID: -3469137310391059275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_140
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 263
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9f43081071c6040800000000000000
+      internalID: 4642110611125500376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_141
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 263
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195833e2adc13a750800000000000000
+      internalID: 6314922825907144081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_142
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 263
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3875e783ab56c100800000000000000
+      internalID: 127890397344397370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_143
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 199
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be9b121a95c36870800000000000000
+      internalID: 8674994572765142711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_144
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 199
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026a0454d544fc940800000000000000
+      internalID: 5318544852332357152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_145
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 199
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef83e67d7e137fdf0800000000000000
+      internalID: -146593591044720386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_146
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 197
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c29e23934d3e3940800000000000000
+      internalID: 5277723173766206148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_147
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 199
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57c8087007bde560800000000000000
+      internalID: 7344727779952871260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_148
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 199
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6060420eb9fc82110800000000000000
+      internalID: 1236466366100538886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_149
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 199
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6263bf1f3fd455a0800000000000000
+      internalID: -6533351697199963537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_150
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 199
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e7e7e7a0af83730800000000000000
+      internalID: 3979205193760669269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_151
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 199
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0d8d0b4d3ad6e50800000000000000
+      internalID: 6804274745922080960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_152
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 199
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c5e120d429e69b0800000000000000
+      internalID: -5084966069809030100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_153
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 199
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907ad73ac532a2dc0800000000000000
+      internalID: -3663076466125592823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_154
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 199
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f92324f0a543d100800000000000000
+      internalID: 131525371716905463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_155
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 199
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a4f705531d5d610800000000000000
+      internalID: 1645451265787775588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_156
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 135
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531ff31ed8b7c1140800000000000000
+      internalID: 4691760761112883509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_157
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 135
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16cb965e52d92b1c0800000000000000
+      internalID: -4489353092446700447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_158
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 135
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561394910179e9d80800000000000000
+      internalID: -8241984172641930907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_159
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 135
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383d975c817c0ce70800000000000000
+      internalID: 9133518953513603971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_160
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 135
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9450585b9a3b01e80800000000000000
+      internalID: -8209864579220175543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_161
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 151
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e52d2b0a591ec9c0800000000000000
+      internalID: -3905155952358382104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_162
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 151
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b058c0f73a858c90800000000000000
+      internalID: -7168171259022782286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_163
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 135
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da010cbea33a81a10800000000000000
+      internalID: 1880432317885845677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_164
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 151
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca287ca3c04137c0800000000000000
+      internalID: -4093419377146713398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_165
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 135
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc02960bb7d583110800000000000000
+      internalID: 1240844483162611919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_166
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 151
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8354346b83a550430800000000000000
+      internalID: 3748501464478336312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_167
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 135
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f00761cd9162bd0800000000000000
+      internalID: -2655406497228386427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_168
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 149
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9df75624f6b8dd0800000000000000
+      internalID: -2482768438603294284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_169
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 135
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7464e1872eaf3c5c0800000000000000
+      internalID: -4196234577194367417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_170
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 150
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b76d351327e28a0800000000000000
+      internalID: -6327994870223438976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_171
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 135
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e37c926b7fab890800000000000000
+      internalID: -7441363072519291362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_172
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 135
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd2eedd76a36c0f0800000000000000
+      internalID: -1097125241438720569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_173
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 150
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73cd43121544d13c0800000000000000
+      internalID: -4387275346748842953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_174
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 135
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00646ff1942d91240800000000000000
+      internalID: 4763069292431689216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_175
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 135
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f942e7b6d6d01dd0800000000000000
+      internalID: -2517275974003701255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_176
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 71
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020c51863808864f0800000000000000
+      internalID: -835276429001900000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_177
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 71
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1f7fed66ec846d0800000000000000
+      internalID: -3005925810047028768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_178
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 71
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2ac0b9560c37cd0800000000000000
+      internalID: -2561492220418153816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_179
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 69
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c381413d6090bd7c0800000000000000
+      internalID: -4045629915346495428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_180
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 71
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02fc11414073e1990800000000000000
+      internalID: -7413427445949149408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_181
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 71
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee19d8655c136aba0800000000000000
+      internalID: -6078115923459468818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_182
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 71
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c9ca95b9a1ded70800000000000000
+      internalID: 9073938078748155022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_183
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 71
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826367af51fad6e00800000000000000
+      internalID: 1039679597923677736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_184
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 71
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375e99ee86a8adb20800000000000000
+      internalID: 3159990271838119283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_185
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 71
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ff02a314cd655a0800000000000000
+      internalID: -6532792036748099690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_186
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 71
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d98b1278a3eea20800000000000000
+      internalID: 3093474346110852355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_187
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 71
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407adaae99cada7b0800000000000000
+      internalID: -5211319416730573052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_188
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 71
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120d1ecc9433a7f50800000000000000
+      internalID: 6879867772824834081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_189
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 7
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35897c3208753e0d0800000000000000
+      internalID: -3394773486239508397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_190
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 7
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e818cc2adf9b5a880800000000000000
+      internalID: -8600263414384918130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_191
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 5
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d47846c78c23a680800000000000000
+      internalID: -8745097089764526887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_192
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 5
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d385e5f6b15c410800000000000000
+      internalID: 1496632616308718987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_193
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 20
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e2fd0690e065f60800000000000000
+      internalID: 8022615219649850948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_w_sash_female_194
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 7
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7983893fd8795a000800000000000000
+      internalID: 46610007090280599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

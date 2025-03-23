@@ -1,0 +1,4730 @@
+fileFormatVersion: 2
+guid: 2cdfa42411d147644a21413d7673f161
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2172053842627793047
+    second: white_sleeveless_0
+  - first:
+      213: 208828140091708793
+    second: white_sleeveless_1
+  - first:
+      213: 5019912676074358147
+    second: white_sleeveless_2
+  - first:
+      213: 2359130551089578814
+    second: white_sleeveless_3
+  - first:
+      213: 5484755623720228282
+    second: white_sleeveless_4
+  - first:
+      213: -2084420626848398427
+    second: white_sleeveless_5
+  - first:
+      213: 5090595786480330240
+    second: white_sleeveless_6
+  - first:
+      213: 3024620505287371218
+    second: white_sleeveless_7
+  - first:
+      213: -4174205400824198765
+    second: white_sleeveless_8
+  - first:
+      213: 7151289542250138684
+    second: white_sleeveless_9
+  - first:
+      213: 1610626382515871898
+    second: white_sleeveless_10
+  - first:
+      213: 5669186052005095414
+    second: white_sleeveless_11
+  - first:
+      213: 460651796602638340
+    second: white_sleeveless_12
+  - first:
+      213: -3787750679563485374
+    second: white_sleeveless_13
+  - first:
+      213: -1460981923421363133
+    second: white_sleeveless_14
+  - first:
+      213: 5249752960347999968
+    second: white_sleeveless_15
+  - first:
+      213: -9028781155219073032
+    second: white_sleeveless_16
+  - first:
+      213: 7907318941445302008
+    second: white_sleeveless_17
+  - first:
+      213: -3511275767223415496
+    second: white_sleeveless_18
+  - first:
+      213: 2819407082399315389
+    second: white_sleeveless_19
+  - first:
+      213: 4686424123102475534
+    second: white_sleeveless_20
+  - first:
+      213: 8319280288534516428
+    second: white_sleeveless_21
+  - first:
+      213: 6739740314026770871
+    second: white_sleeveless_22
+  - first:
+      213: 929538657591577643
+    second: white_sleeveless_23
+  - first:
+      213: 3613211412907232049
+    second: white_sleeveless_24
+  - first:
+      213: 697219385570793769
+    second: white_sleeveless_25
+  - first:
+      213: -5607034947044557431
+    second: white_sleeveless_26
+  - first:
+      213: 8644694645156777905
+    second: white_sleeveless_27
+  - first:
+      213: -8088847831404525943
+    second: white_sleeveless_28
+  - first:
+      213: 679491794327021379
+    second: white_sleeveless_29
+  - first:
+      213: -6396259027496946681
+    second: white_sleeveless_30
+  - first:
+      213: -1520107393552237947
+    second: white_sleeveless_31
+  - first:
+      213: 3326390937099388011
+    second: white_sleeveless_32
+  - first:
+      213: -3534108005407302824
+    second: white_sleeveless_33
+  - first:
+      213: 4901186512591012480
+    second: white_sleeveless_34
+  - first:
+      213: -6279176734847687779
+    second: white_sleeveless_35
+  - first:
+      213: -8299581089083882804
+    second: white_sleeveless_36
+  - first:
+      213: 174867737501990503
+    second: white_sleeveless_37
+  - first:
+      213: -5760160598318676305
+    second: white_sleeveless_38
+  - first:
+      213: 300184343878363667
+    second: white_sleeveless_39
+  - first:
+      213: 2326243823836458786
+    second: white_sleeveless_40
+  - first:
+      213: 5897929779921842267
+    second: white_sleeveless_41
+  - first:
+      213: 3922430860444377389
+    second: white_sleeveless_42
+  - first:
+      213: -7908027801820225160
+    second: white_sleeveless_43
+  - first:
+      213: 6627020869730760409
+    second: white_sleeveless_44
+  - first:
+      213: 3265217275317337462
+    second: white_sleeveless_45
+  - first:
+      213: -7539913121299865709
+    second: white_sleeveless_46
+  - first:
+      213: 6695283280326057424
+    second: white_sleeveless_47
+  - first:
+      213: 239956725246474138
+    second: white_sleeveless_48
+  - first:
+      213: -7651181900317672343
+    second: white_sleeveless_49
+  - first:
+      213: -2038284114129437815
+    second: white_sleeveless_50
+  - first:
+      213: 5612164516623500275
+    second: white_sleeveless_51
+  - first:
+      213: -6909067230803577038
+    second: white_sleeveless_52
+  - first:
+      213: 5930052619701784831
+    second: white_sleeveless_53
+  - first:
+      213: -7174645555384872788
+    second: white_sleeveless_54
+  - first:
+      213: 7497987842498616117
+    second: white_sleeveless_55
+  - first:
+      213: -2859223518937291408
+    second: white_sleeveless_56
+  - first:
+      213: 3721007830188204744
+    second: white_sleeveless_57
+  - first:
+      213: 3801145183325174919
+    second: white_sleeveless_58
+  - first:
+      213: 2945797923471708433
+    second: white_sleeveless_59
+  - first:
+      213: -8523070006825987587
+    second: white_sleeveless_60
+  - first:
+      213: 1679750396013868979
+    second: white_sleeveless_61
+  - first:
+      213: -5061106594099098316
+    second: white_sleeveless_62
+  - first:
+      213: -628230865368443452
+    second: white_sleeveless_63
+  - first:
+      213: 3721811684797706691
+    second: white_sleeveless_64
+  - first:
+      213: -7500339409432768826
+    second: white_sleeveless_65
+  - first:
+      213: -1249687510746548215
+    second: white_sleeveless_66
+  - first:
+      213: -431362274585611263
+    second: white_sleeveless_67
+  - first:
+      213: -2224398591633282009
+    second: white_sleeveless_68
+  - first:
+      213: 7106795311778541949
+    second: white_sleeveless_69
+  - first:
+      213: -7026805977510181038
+    second: white_sleeveless_70
+  - first:
+      213: -840579659757784610
+    second: white_sleeveless_71
+  - first:
+      213: -1500347748621447122
+    second: white_sleeveless_72
+  - first:
+      213: 3166697093800513549
+    second: white_sleeveless_73
+  - first:
+      213: 1022652510020761644
+    second: white_sleeveless_74
+  - first:
+      213: 4488662279007439781
+    second: white_sleeveless_75
+  - first:
+      213: -2328167371992418420
+    second: white_sleeveless_76
+  - first:
+      213: -658715383647639393
+    second: white_sleeveless_77
+  - first:
+      213: -8591018856131953708
+    second: white_sleeveless_78
+  - first:
+      213: 4987729466226761696
+    second: white_sleeveless_79
+  - first:
+      213: 6913977056886479978
+    second: white_sleeveless_80
+  - first:
+      213: -2289877503784932526
+    second: white_sleeveless_81
+  - first:
+      213: -2063833762241639847
+    second: white_sleeveless_82
+  - first:
+      213: -8746872589069233218
+    second: white_sleeveless_83
+  - first:
+      213: 6971709813027444372
+    second: white_sleeveless_84
+  - first:
+      213: 7109769116273013826
+    second: white_sleeveless_85
+  - first:
+      213: 8082950647110763550
+    second: white_sleeveless_86
+  - first:
+      213: 1728488895537719406
+    second: white_sleeveless_87
+  - first:
+      213: -4485924518794637342
+    second: white_sleeveless_88
+  - first:
+      213: 46283461769650939
+    second: white_sleeveless_89
+  - first:
+      213: -8786595532534914211
+    second: white_sleeveless_90
+  - first:
+      213: 7507860553038087361
+    second: white_sleeveless_91
+  - first:
+      213: 6394352486992654722
+    second: white_sleeveless_92
+  - first:
+      213: 908820503716253273
+    second: white_sleeveless_93
+  - first:
+      213: 5843071534841161133
+    second: white_sleeveless_94
+  - first:
+      213: 1887254128177333016
+    second: white_sleeveless_95
+  - first:
+      213: 7238004480583665873
+    second: white_sleeveless_96
+  - first:
+      213: 8596894209988799574
+    second: white_sleeveless_97
+  - first:
+      213: -426567661105509989
+    second: white_sleeveless_98
+  - first:
+      213: 55793258111544408
+    second: white_sleeveless_99
+  - first:
+      213: -8730747653025837598
+    second: white_sleeveless_100
+  - first:
+      213: -5678161566687651303
+    second: white_sleeveless_101
+  - first:
+      213: 9020101137916393513
+    second: white_sleeveless_102
+  - first:
+      213: 7953821055675957472
+    second: white_sleeveless_103
+  - first:
+      213: -6211158995266344303
+    second: white_sleeveless_104
+  - first:
+      213: 6548019244348112745
+    second: white_sleeveless_105
+  - first:
+      213: 6725714644969527248
+    second: white_sleeveless_106
+  - first:
+      213: -4233136923210324873
+    second: white_sleeveless_107
+  - first:
+      213: -4593614472786966852
+    second: white_sleeveless_108
+  - first:
+      213: 3320915647359408065
+    second: white_sleeveless_109
+  - first:
+      213: 5475294327417963140
+    second: white_sleeveless_110
+  - first:
+      213: 337270467196811845
+    second: white_sleeveless_111
+  - first:
+      213: -40018749598064387
+    second: white_sleeveless_112
+  - first:
+      213: 7024766861626131320
+    second: white_sleeveless_113
+  - first:
+      213: -8239421452561827295
+    second: white_sleeveless_114
+  - first:
+      213: 1437117935477383264
+    second: white_sleeveless_115
+  - first:
+      213: -321535645385853849
+    second: white_sleeveless_116
+  - first:
+      213: -1368551224875611755
+    second: white_sleeveless_117
+  - first:
+      213: 4066045940487876979
+    second: white_sleeveless_118
+  - first:
+      213: -3779591814734816023
+    second: white_sleeveless_119
+  - first:
+      213: 5401469063288993433
+    second: white_sleeveless_120
+  - first:
+      213: 7003997570358783264
+    second: white_sleeveless_121
+  - first:
+      213: 6455664461864638892
+    second: white_sleeveless_122
+  - first:
+      213: -402917774654044743
+    second: white_sleeveless_123
+  - first:
+      213: -2596441368577463300
+    second: white_sleeveless_124
+  - first:
+      213: 799525805261850809
+    second: white_sleeveless_125
+  - first:
+      213: 4319598065584231027
+    second: white_sleeveless_126
+  - first:
+      213: 94822137667561215
+    second: white_sleeveless_127
+  - first:
+      213: 2653198817336203673
+    second: white_sleeveless_128
+  - first:
+      213: -7431083228278693310
+    second: white_sleeveless_129
+  - first:
+      213: -2476759152905068588
+    second: white_sleeveless_130
+  - first:
+      213: 675151882630697063
+    second: white_sleeveless_131
+  - first:
+      213: 2736217997415419055
+    second: white_sleeveless_132
+  - first:
+      213: -3049516354237150928
+    second: white_sleeveless_133
+  - first:
+      213: 6866663890840264570
+    second: white_sleeveless_134
+  - first:
+      213: 3311578721932980433
+    second: white_sleeveless_135
+  - first:
+      213: 5642519746579028628
+    second: white_sleeveless_136
+  - first:
+      213: -1572527690850060755
+    second: white_sleeveless_137
+  - first:
+      213: 3086144668113006154
+    second: white_sleeveless_138
+  - first:
+      213: 2424173664049553992
+    second: white_sleeveless_139
+  - first:
+      213: -509366394273187587
+    second: white_sleeveless_140
+  - first:
+      213: 3831088268482401999
+    second: white_sleeveless_141
+  - first:
+      213: -4626784928233890482
+    second: white_sleeveless_142
+  - first:
+      213: 8078743268589260738
+    second: white_sleeveless_143
+  - first:
+      213: -4507448754881045238
+    second: white_sleeveless_144
+  - first:
+      213: 2555908842009595676
+    second: white_sleeveless_145
+  - first:
+      213: 6491546646333126279
+    second: white_sleeveless_146
+  - first:
+      213: 5649017999287730937
+    second: white_sleeveless_147
+  - first:
+      213: 7721430122550417181
+    second: white_sleeveless_148
+  - first:
+      213: 5686030864240181830
+    second: white_sleeveless_149
+  - first:
+      213: 1409220039472373271
+    second: white_sleeveless_150
+  - first:
+      213: -8250853700527434168
+    second: white_sleeveless_151
+  - first:
+      213: -2886450881737705007
+    second: white_sleeveless_152
+  - first:
+      213: 3681736638424377741
+    second: white_sleeveless_153
+  - first:
+      213: -2200838629922693634
+    second: white_sleeveless_154
+  - first:
+      213: -1398541767636885768
+    second: white_sleeveless_155
+  - first:
+      213: -8482744672450155485
+    second: white_sleeveless_156
+  - first:
+      213: 9005618701418897105
+    second: white_sleeveless_157
+  - first:
+      213: 180957392087630310
+    second: white_sleeveless_158
+  - first:
+      213: 2574350653506039885
+    second: white_sleeveless_159
+  - first:
+      213: -2463378562317308311
+    second: white_sleeveless_160
+  - first:
+      213: -5590987353187938770
+    second: white_sleeveless_161
+  - first:
+      213: -1077455949813811820
+    second: white_sleeveless_162
+  - first:
+      213: -4624294890581510560
+    second: white_sleeveless_163
+  - first:
+      213: -2254831529028624347
+    second: white_sleeveless_164
+  - first:
+      213: 3837028446143511144
+    second: white_sleeveless_165
+  - first:
+      213: 4960204350839941406
+    second: white_sleeveless_166
+  - first:
+      213: -3694203913399938341
+    second: white_sleeveless_167
+  - first:
+      213: 1316753223270331081
+    second: white_sleeveless_168
+  - first:
+      213: 1712432399285396254
+    second: white_sleeveless_169
+  - first:
+      213: -2540621699418989033
+    second: white_sleeveless_170
+  - first:
+      213: 2495209180992638044
+    second: white_sleeveless_171
+  - first:
+      213: 7954140202704701748
+    second: white_sleeveless_172
+  - first:
+      213: 6757267499419235643
+    second: white_sleeveless_173
+  - first:
+      213: 5879804565822320029
+    second: white_sleeveless_174
+  - first:
+      213: -5007851018958336008
+    second: white_sleeveless_175
+  - first:
+      213: 3362265213253163216
+    second: white_sleeveless_176
+  - first:
+      213: 5901420419377194319
+    second: white_sleeveless_177
+  - first:
+      213: 3861200757626528463
+    second: white_sleeveless_178
+  - first:
+      213: -7899762883055597808
+    second: white_sleeveless_179
+  - first:
+      213: 4614031224988094426
+    second: white_sleeveless_180
+  - first:
+      213: -8697489065140153594
+    second: white_sleeveless_181
+  - first:
+      213: 4289236903780181563
+    second: white_sleeveless_182
+  - first:
+      213: -5744430040156042646
+    second: white_sleeveless_183
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: white_sleeveless_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1295
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96fe525c9805bd1e0800000000000000
+      internalID: -2172053842627793047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1295
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97595454618e5e200800000000000000
+      internalID: 208828140091708793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1295
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38584e47bff4aa540800000000000000
+      internalID: 5019912676074358147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1295
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33477cacb05db020800000000000000
+      internalID: 2359130551089578814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1295
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab59ba72e24cd1c40800000000000000
+      internalID: 5484755623720228282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_5
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1295
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3443ecb76a213e0800000000000000
+      internalID: -2084420626848398427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_6
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1295
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006a24c85ed65a640800000000000000
+      internalID: 5090595786480330240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_7
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1232
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9240e035c99f920800000000000000
+      internalID: 3024620505287371218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_8
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1232
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3994b58cd4e3216c0800000000000000
+      internalID: -4174205400824198765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_9
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1233
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c09c313fb7e3360800000000000000
+      internalID: 7151289542250138684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_10
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1232
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a902bb359281a5610800000000000000
+      internalID: 1610626382515871898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_11
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1232
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7ec5b7daefcae40800000000000000
+      internalID: 5669186052005095414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_12
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1232
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40055ad4e50946600800000000000000
+      internalID: 460651796602638340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_13
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1232
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24fbfd643d43f6bc0800000000000000
+      internalID: -3787750679563485374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_14
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1168
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344e3376eac89bbe0800000000000000
+      internalID: -1460981923421363133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_15
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1168
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee0918c08edad840800000000000000
+      internalID: 5249752960347999968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_16
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1168
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f71d68306353b280800000000000000
+      internalID: -9028781155219073032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_17
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1168
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6a096bea07cbd60800000000000000
+      internalID: 7907318941445302008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_18
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1168
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d06321b41754fc0800000000000000
+      internalID: -3511275767223415496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_19
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1168
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5b1a7bdcb802720800000000000000
+      internalID: 2819407082399315389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_20
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1168
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05385409e5890140800000000000000
+      internalID: 4686424123102475534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_21
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1104
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc252015855047370800000000000000
+      internalID: 8319280288534516428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_22
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1104
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b102ff5b1e588d50800000000000000
+      internalID: 6739740314026770871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_23
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1104
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c4db2fb7266ec00800000000000000
+      internalID: 929538657591577643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_24
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1104
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b09bce2a4b42230800000000000000
+      internalID: 3613211412907232049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_25
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1104
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929967f46550da900800000000000000
+      internalID: 697219385570793769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_26
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1104
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d353a4c6fcf22b0800000000000000
+      internalID: -5607034947044557431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_27
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1104
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf8a4c6aff18f770800000000000000
+      internalID: 8644694645156777905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_28
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1038
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986c1fef0c3aebf80800000000000000
+      internalID: -8088847831404525943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_29
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1038
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347a7a4df2a0e6900800000000000000
+      internalID: 679491794327021379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_30
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1038
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704b8a6ad4ceb37a0800000000000000
+      internalID: -6396259027496946681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_31
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1039
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58abfd2216e77eae0800000000000000
+      internalID: -1520107393552237947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_32
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1038
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6443edeee6b92e20800000000000000
+      internalID: 3326390937099388011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_33
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1038
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b55db5e7354fec0800000000000000
+      internalID: -3534108005407302824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_34
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1039
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0824ce46a23840440800000000000000
+      internalID: 4901186512591012480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_35
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1039
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93a1853702ebd8a0800000000000000
+      internalID: -6279176734847687779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_36
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 976
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc20b98f8f6f1dc80800000000000000
+      internalID: -8299581089083882804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_37
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 976
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e7b70e7414d6200800000000000000
+      internalID: 174867737501990503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_38
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 976
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa68308547ccf00b0800000000000000
+      internalID: -5760160598318676305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_39
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 976
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ae00002187a2400800000000000000
+      internalID: 300184343878363667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_40
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 976
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22fe7bcce6a784020800000000000000
+      internalID: 2326243823836458786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_41
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 977
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b507072e2e7a9d150800000000000000
+      internalID: 5897929779921842267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_42
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 976
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2121dce5164f6630800000000000000
+      internalID: 3922430860444377389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_43
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 976
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871a79edc9a014290800000000000000
+      internalID: -7908027801820225160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_44
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 912
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6f66b9e58e7fb50800000000000000
+      internalID: 6627020869730760409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_45
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 912
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d32c1efc1605d20800000000000000
+      internalID: 3265217275317337462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_46
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 917
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f5d9fd6f8dc5790800000000000000
+      internalID: -7539913121299865709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_47
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 912
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd527a9bac6aec50800000000000000
+      internalID: 6695283280326057424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_48
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 919
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9738c9ce5f745300800000000000000
+      internalID: 239956725246474138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_49
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 916
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96cbaaf699a81d590800000000000000
+      internalID: -7651181900317672343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_50
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 911
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b3ef1c56f86b3e0800000000000000
+      internalID: -2038284114129437815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_51
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 911
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f34562b4e962ed40800000000000000
+      internalID: 5612164516623500275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_52
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 919
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23739aa95ff0e10a0800000000000000
+      internalID: -6909067230803577038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_53
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 912
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff013b85077cb4250800000000000000
+      internalID: 5930052619701784831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_54
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 912
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca013f951e98e6c90800000000000000
+      internalID: -7174645555384872788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_55
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 911
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53bd35a77343e0860800000000000000
+      internalID: 7497987842498616117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_56
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 847
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075ec4cbb5ff158d0800000000000000
+      internalID: -2859223518937291408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_57
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 847
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2a0d428eca3a330800000000000000
+      internalID: 3721007830188204744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_58
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 847
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78cb8c7a76160c430800000000000000
+      internalID: 3801145183325174919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_59
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 847
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1115d989a9391e820800000000000000
+      internalID: 2945797923471708433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_60
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 847
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1d9576cf8f7b980800000000000000
+      internalID: -8523070006825987587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_61
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 848
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b77ab1e51caf4710800000000000000
+      internalID: 1679750396013868979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_62
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 847
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d06581e5653c9b0800000000000000
+      internalID: -5061106594099098316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_63
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 847
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c517c04b531847f0800000000000000
+      internalID: -628230865368443452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_64
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 783
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1f341220886a330800000000000000
+      internalID: 3721811684797706691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_65
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 783
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce85edab0179e790800000000000000
+      internalID: -7500339409432768826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_66
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 783
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908b5b184d738aee0800000000000000
+      internalID: -1249687510746548215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_67
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 783
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104f1d5fb4e730af0800000000000000
+      internalID: -431362274585611263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_68
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 783
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ca1da24495121e0800000000000000
+      internalID: -2224398591633282009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_69
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 783
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71b8f1cea860a260800000000000000
+      internalID: 7106795311778541949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_70
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 783
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2570aec6135cb7e90800000000000000
+      internalID: -7026805977510181038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_71
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 783
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1f7b6c049a554f0800000000000000
+      internalID: -840579659757784610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_72
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 783
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e209cdbfba1bd2be0800000000000000
+      internalID: -1500347748621447122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_73
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 719
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00dd3b9a3e52fb20800000000000000
+      internalID: 3166697093800513549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_74
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 718
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28f2742a01313e00800000000000000
+      internalID: 1022652510020761644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_75
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 718
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab0fe09f8eea4e30800000000000000
+      internalID: 4488662279007439781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_76
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 719
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87bcbe3c10b0bfd0800000000000000
+      internalID: -2328167371992418420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_77
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 719
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98e89d39d5cbd6f0800000000000000
+      internalID: -658715383647639393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_78
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 718
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db72951ed196c880800000000000000
+      internalID: -8591018856131953708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_79
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 718
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0efd13ef589f73540800000000000000
+      internalID: 4987729466226761696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_80
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 719
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c5bec508163ff50800000000000000
+      internalID: 6913977056886479978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_81
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 719
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25badb7ea88b830e0800000000000000
+      internalID: -2289877503784932526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_82
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 656
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a012eb02acb53e0800000000000000
+      internalID: -2063833762241639847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_83
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 656
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb35de029bddc9680800000000000000
+      internalID: -8746872589069233218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_84
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 656
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4961b92232d70c060800000000000000
+      internalID: 6971709813027444372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_85
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 655
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244fe729759faa260800000000000000
+      internalID: 7109769116273013826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_86
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 656
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e140d0ac9c86c2070800000000000000
+      internalID: 8082950647110763550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_87
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 656
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68abb81e73dcf710800000000000000
+      internalID: 1728488895537719406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_88
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 656
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2efc708ea6bceb1c0800000000000000
+      internalID: -4485924518794637342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_89
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 655
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf261c1309e64a000800000000000000
+      internalID: 46283461769650939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_90
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 656
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53e832aaedbf0680800000000000000
+      internalID: -8786595532534914211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_91
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 591
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4c0070567413860800000000000000
+      internalID: 7507860553038087361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_92
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 590
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28135db45bd4db850800000000000000
+      internalID: 6394352486992654722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_93
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 590
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e4998de67cc9c00800000000000000
+      internalID: 908820503716253273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_94
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 591
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5676f5a92c61150800000000000000
+      internalID: 5843071534841161133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_95
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 591
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81346e661afd03a10800000000000000
+      internalID: 1887254128177333016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_96
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 590
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d800ebf9be827460800000000000000
+      internalID: 7238004480583665873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_97
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 590
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65caef55cbd4e4770800000000000000
+      internalID: 8596894209988799574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_98
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 591
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b990327e8f6841af0800000000000000
+      internalID: -426567661105509989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_99
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 591
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ca9923ca736c000800000000000000
+      internalID: 55793258111544408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_100
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 527
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2edc1dd544726d680800000000000000
+      internalID: -8730747653025837598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_101
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 527
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a9e48a32e1331b0800000000000000
+      internalID: -5678161566687651303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_102
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 527
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9287a93c136dd2d70800000000000000
+      internalID: 9020101137916393513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_103
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 528
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e08696eb16a16e60800000000000000
+      internalID: 7953821055675957472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_104
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 528
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a6dab4dc78dc9a0800000000000000
+      internalID: -6211158995266344303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_105
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 528
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f7ac15fcc3fda50800000000000000
+      internalID: 6548019244348112745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_106
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 464
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d71d02d5d9865d50800000000000000
+      internalID: 6725714644969527248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_107
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 462
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774657e7560e045c0800000000000000
+      internalID: -4233136923210324873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_108
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 463
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6807a99f33040c0800000000000000
+      internalID: -4593614472786966852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_109
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 464
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7d4e1bf23461e20800000000000000
+      internalID: 3320915647359408065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_110
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 464
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48285727e272cfb40800000000000000
+      internalID: 5475294327417963140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_111
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 464
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54afe76f3b93ea400800000000000000
+      internalID: 337270467196811845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_112
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 400
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df02ad5c823d17ff0800000000000000
+      internalID: -40018749598064387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_113
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 398
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8734929ed3cfc7160800000000000000
+      internalID: 7024766861626131320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_114
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 399
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ab15dd7d1b7ad80800000000000000
+      internalID: -8239421452561827295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_115
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 400
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060e87ce52ba1f310800000000000000
+      internalID: 1437117935477383264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_116
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 400
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764762ab80da98bf0800000000000000
+      internalID: -321535645385853849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_117
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 400
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5990d5079ede10de0800000000000000
+      internalID: -1368551224875611755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_118
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 335
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371f2337d3f7d6830800000000000000
+      internalID: 4066045940487876979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_119
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 333
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ecd1c605413c8bc0800000000000000
+      internalID: -3779591814734816023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_120
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 334
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9963a9eae7fd5fa40800000000000000
+      internalID: 5401469063288993433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_121
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 335
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d2fe47ea2333160800000000000000
+      internalID: 7003997570358783264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_122
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 335
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca91e8edf90279950800000000000000
+      internalID: 6455664461864638892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_123
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 335
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b50e003b6c886af0800000000000000
+      internalID: -402917774654044743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_124
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 271
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfbafc1f45697fbd0800000000000000
+      internalID: -2596441368577463300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_125
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 271
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8046bdb7c781b00800000000000000
+      internalID: 799525805261850809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_126
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 271
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372dc9fed8b42fb30800000000000000
+      internalID: 4319598065584231027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_127
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 270
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6a4885b30e05100800000000000000
+      internalID: 94822137667561215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_128
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 270
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9999fc1644e02d420800000000000000
+      internalID: 2653198817336203673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_129
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 270
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242e51aec2d7fd890800000000000000
+      internalID: -7431083228278693310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_130
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 270
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df55e04ca8c0add0800000000000000
+      internalID: -2476759152905068588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_131
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 270
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76093a56f0f9e5900800000000000000
+      internalID: 675151882630697063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_132
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 270
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac0af385cff8f520800000000000000
+      internalID: 2736217997415419055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_133
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 270
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03943f86801fda5d0800000000000000
+      internalID: -3049516354237150928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_134
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 270
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f19857d6a4b4f50800000000000000
+      internalID: 6866663890840264570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_135
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 270
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0be865d4715fd20800000000000000
+      internalID: 3311578721932980433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_136
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 270
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a58fc60d14e4e40800000000000000
+      internalID: 5642519746579028628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_137
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 208
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26ba6395624d2ae0800000000000000
+      internalID: -1572527690850060755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_138
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 208
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e675c793034da20800000000000000
+      internalID: 3086144668113006154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_139
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 208
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842e7878a1564a120800000000000000
+      internalID: 2424173664049553992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_140
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 206
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df833d096fd5ee8f0800000000000000
+      internalID: -509366394273187587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_141
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 208
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc65f027b72ca2530800000000000000
+      internalID: 3831088268482401999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_142
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 208
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ddc7c1f9b5acfb0800000000000000
+      internalID: -4626784928233890482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_143
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 208
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf47d323367d1070800000000000000
+      internalID: 8078743268589260738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_144
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 208
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0dd90a2d335271c0800000000000000
+      internalID: -4507448754881045238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_145
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 208
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f034ecc89687320800000000000000
+      internalID: 2555908842009595676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_146
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 208
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7867099f74b961a50800000000000000
+      internalID: 6491546646333126279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_147
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 208
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f24559c0f7556e40800000000000000
+      internalID: 5649017999287730937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_148
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 208
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d175e9c59c7082b60800000000000000
+      internalID: 7721430122550417181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_149
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 208
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64281f4f1f6d8ee40800000000000000
+      internalID: 5686030864240181830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_150
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 144
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71edc17d82e8e8310800000000000000
+      internalID: 1409220039472373271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_151
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 144
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846585636441f7d80800000000000000
+      internalID: -8250853700527434168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_152
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 144
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d93964573441f7d0800000000000000
+      internalID: -2886450881737705007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_153
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 144
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8963d947f7281330800000000000000
+      internalID: 3681736638424377741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_154
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 144
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd10873dec0571e0800000000000000
+      internalID: -2200838629922693634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_155
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 152
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fed4701ca1679ce0800000000000000
+      internalID: -1398541767636885768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_156
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 144
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c6546f9ac374a80800000000000000
+      internalID: -8482744672450155485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_157
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 151
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de10b0ce726afc70800000000000000
+      internalID: 9005618701418897105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_158
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 144
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e14dd21ac3e28200800000000000000
+      internalID: 180957392087630310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_159
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 144
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40b585a74ee9b320800000000000000
+      internalID: 2574350653506039885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_160
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 144
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ea3c5cf3250ddd0800000000000000
+      internalID: -2463378562317308311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_161
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 144
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e0885ef92d862b0800000000000000
+      internalID: -5590987353187938770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_162
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 144
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4957732b58b1c01f0800000000000000
+      internalID: -1077455949813811820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_163
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 144
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0663c3e2c4433dfb0800000000000000
+      internalID: -4624294890581510560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_164
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 144
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520e5e3cbaa35b0e0800000000000000
+      internalID: -2254831529028624347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_165
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 79
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86af375da0ddf3530800000000000000
+      internalID: 3837028446143511144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_166
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 79
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e196929a39f26d440800000000000000
+      internalID: 4960204350839941406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_167
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 79
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd250fd0d1d8bbcc0800000000000000
+      internalID: -3694203913399938341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_168
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 77
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2f0e1841c064210800000000000000
+      internalID: 1316753223270331081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_169
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 79
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13a64db138c3c710800000000000000
+      internalID: 1712432399285396254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_170
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 79
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e5b717606edbcd0800000000000000
+      internalID: -2540621699418989033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_171
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 79
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c0c59a783c0a220800000000000000
+      internalID: 2495209180992638044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_172
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 79
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4390edb1f58c26e60800000000000000
+      internalID: 7954140202704701748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_173
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 79
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35fc2b3df2a6cd50800000000000000
+      internalID: 6757267499419235643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_174
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 79
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d2f8e9913499150800000000000000
+      internalID: 5879804565822320029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_175
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 79
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff09eee70a808ab0800000000000000
+      internalID: -5007851018958336008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_176
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 79
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d89b9cb56a29ae20800000000000000
+      internalID: 3362265213253163216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_177
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 79
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45e637ba9e06e150800000000000000
+      internalID: 5901420419377194319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_178
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 15
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc26ccca1adb59530800000000000000
+      internalID: 3861200757626528463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_179
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 15
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017c7a933876e5290800000000000000
+      internalID: -7899762883055597808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_180
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 9
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adfc9f3f3f4580040800000000000000
+      internalID: 4614031224988094426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_181
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 8
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6031a7ac6cf4c4780800000000000000
+      internalID: -8697489065140153594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_182
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 18
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3660571d3e668b30800000000000000
+      internalID: 4289236903780181563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_sleeveless_183
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 6
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a8a63505fa740b0800000000000000
+      internalID: -5744430040156042646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2530 @@
+fileFormatVersion: 2
+guid: ba345326ba0419746824afaba5b3bb82
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -281414496324592583
+    second: light gray_0
+  - first:
+      213: -944634436781658753
+    second: light gray_1
+  - first:
+      213: 9133244262429162572
+    second: light gray_2
+  - first:
+      213: -1970782330821511235
+    second: light gray_3
+  - first:
+      213: 155904458212410473
+    second: light gray_4
+  - first:
+      213: -3654725610633389054
+    second: light gray_5
+  - first:
+      213: -7207867697937044755
+    second: light gray_6
+  - first:
+      213: -5219527152011053961
+    second: light gray_7
+  - first:
+      213: -4950416582958038030
+    second: light gray_8
+  - first:
+      213: -916646005912514809
+    second: light gray_9
+  - first:
+      213: 4925848147006386109
+    second: light gray_10
+  - first:
+      213: 1411479310576159473
+    second: light gray_11
+  - first:
+      213: -7844828835600248288
+    second: light gray_12
+  - first:
+      213: -4502939998521615932
+    second: light gray_13
+  - first:
+      213: 6978808336150975537
+    second: light gray_14
+  - first:
+      213: -3704083135438689124
+    second: light gray_15
+  - first:
+      213: -1960652286267761996
+    second: light gray_16
+  - first:
+      213: -4163772646238906275
+    second: light gray_17
+  - first:
+      213: 1854172587496910848
+    second: light gray_18
+  - first:
+      213: 4241780908178932917
+    second: light gray_19
+  - first:
+      213: -2846846007883305562
+    second: light gray_20
+  - first:
+      213: 8204375534695617086
+    second: light gray_21
+  - first:
+      213: 5250764157059495953
+    second: light gray_22
+  - first:
+      213: -1611924642652478408
+    second: light gray_23
+  - first:
+      213: 8918961479704585268
+    second: light gray_24
+  - first:
+      213: 3821895718192899044
+    second: light gray_25
+  - first:
+      213: -2446904410634465833
+    second: light gray_26
+  - first:
+      213: 3723508878439768367
+    second: light gray_27
+  - first:
+      213: -1466277496088959596
+    second: light gray_28
+  - first:
+      213: -4096005181984591215
+    second: light gray_29
+  - first:
+      213: -2774893311161576464
+    second: light gray_30
+  - first:
+      213: 7368835885553932519
+    second: light gray_31
+  - first:
+      213: -3146835731343345648
+    second: light gray_32
+  - first:
+      213: 7811461021172176658
+    second: light gray_33
+  - first:
+      213: 5115932609206612284
+    second: light gray_34
+  - first:
+      213: -3184786402162070759
+    second: light gray_35
+  - first:
+      213: -4954029906521333653
+    second: light gray_36
+  - first:
+      213: -8009281042185094384
+    second: light gray_37
+  - first:
+      213: 6899188774016072221
+    second: light gray_38
+  - first:
+      213: -1967124163574322876
+    second: light gray_39
+  - first:
+      213: 7331326659653065888
+    second: light gray_40
+  - first:
+      213: 298931995996776152
+    second: light gray_41
+  - first:
+      213: 4164703668718558529
+    second: light gray_42
+  - first:
+      213: -1609758875431175168
+    second: light gray_43
+  - first:
+      213: 8159622863952749629
+    second: light gray_44
+  - first:
+      213: 4232973036001462292
+    second: light gray_45
+  - first:
+      213: -7951918400178475327
+    second: light gray_46
+  - first:
+      213: -5142054117711406770
+    second: light gray_47
+  - first:
+      213: -8353621317258466826
+    second: light gray_48
+  - first:
+      213: 1452029972307012487
+    second: light gray_49
+  - first:
+      213: 2172584864598322652
+    second: light gray_50
+  - first:
+      213: -8125498648988103552
+    second: light gray_51
+  - first:
+      213: 3669065514501464698
+    second: light gray_52
+  - first:
+      213: -5859570076642915950
+    second: light gray_53
+  - first:
+      213: 4628971480566239152
+    second: light gray_54
+  - first:
+      213: 4485110781252541373
+    second: light gray_55
+  - first:
+      213: 8914517707746712106
+    second: light gray_56
+  - first:
+      213: -4414411589579318927
+    second: light gray_57
+  - first:
+      213: 6580239949144027274
+    second: light gray_58
+  - first:
+      213: -7229445180383181490
+    second: light gray_59
+  - first:
+      213: 1563578547478852066
+    second: light gray_60
+  - first:
+      213: -7143665257583779069
+    second: light gray_61
+  - first:
+      213: 5054020892408092884
+    second: light gray_62
+  - first:
+      213: 1874476114731883329
+    second: light gray_63
+  - first:
+      213: -5114868116213740387
+    second: light gray_64
+  - first:
+      213: 3368214700595436514
+    second: light gray_65
+  - first:
+      213: 8682212423659932181
+    second: light gray_66
+  - first:
+      213: -5721604108730012930
+    second: light gray_67
+  - first:
+      213: -4832719256106729599
+    second: light gray_68
+  - first:
+      213: 409799621676820374
+    second: light gray_69
+  - first:
+      213: -1199889942387041121
+    second: light gray_70
+  - first:
+      213: -4543898969904432642
+    second: light gray_71
+  - first:
+      213: 3133869704614109472
+    second: light gray_72
+  - first:
+      213: 1252751289228791068
+    second: light gray_73
+  - first:
+      213: -5696142296751646678
+    second: light gray_74
+  - first:
+      213: -7469148653000073920
+    second: light gray_75
+  - first:
+      213: 6204384604574298698
+    second: light gray_76
+  - first:
+      213: 587290393987717354
+    second: light gray_77
+  - first:
+      213: 1114406974634000257
+    second: light gray_78
+  - first:
+      213: 9127024455326107443
+    second: light gray_79
+  - first:
+      213: 7196451415930325920
+    second: light gray_80
+  - first:
+      213: -4688878575167767475
+    second: light gray_81
+  - first:
+      213: 1828548084256696561
+    second: light gray_82
+  - first:
+      213: -1374169308350703060
+    second: light gray_83
+  - first:
+      213: -1584642040085644028
+    second: light gray_84
+  - first:
+      213: -7877237934791429691
+    second: light gray_85
+  - first:
+      213: 7536624279496241293
+    second: light gray_86
+  - first:
+      213: 7045771020676137992
+    second: light gray_87
+  - first:
+      213: 7907887239050325648
+    second: light gray_88
+  - first:
+      213: 3624161700450065746
+    second: light gray_89
+  - first:
+      213: -2642158265437366553
+    second: light gray_90
+  - first:
+      213: -6229734857206770167
+    second: light gray_91
+  - first:
+      213: -8513446493139772452
+    second: light gray_92
+  - first:
+      213: -7613288649008971687
+    second: light gray_93
+  - first:
+      213: -103744105847878718
+    second: light gray_94
+  - first:
+      213: 3383183306166932273
+    second: light gray_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: light gray_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1285
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c5defa107381cf0800000000000000
+      internalID: -281414496324592583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1285
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d27011cfbf3e2f0800000000000000
+      internalID: -944634436781658753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1285
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4cf6f4444dcfbe70800000000000000
+      internalID: 9133244262429162572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1285
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db774c969ef56a4e0800000000000000
+      internalID: -1970782330821511235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1285
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96486aa5742e92200800000000000000
+      internalID: 155904458212410473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_5
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1285
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c9ca2bb6ec74dc0800000000000000
+      internalID: -3654725610633389054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1285
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea2374848288fb90800000000000000
+      internalID: -7207867697937044755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_7
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1222
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774ffd0a5b38097b0800000000000000
+      internalID: -5219527152011053961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_8
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1222
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f34592a8569c4bb0800000000000000
+      internalID: -4950416582958038030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_9
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1233
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70fcdc0705b6743f0800000000000000
+      internalID: -916646005912514809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_10
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1222
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbfe4db9ac02c5440800000000000000
+      internalID: 4925848147006386109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_11
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1222
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa84b264f4969310800000000000000
+      internalID: 1411479310576159473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_12
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1222
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0225e4adcb1912390800000000000000
+      internalID: -7844828835600248288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_13
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1222
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9983fcde75281c0800000000000000
+      internalID: -4502939998521615932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_14
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1222
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13450d7d435b9d060800000000000000
+      internalID: 6978808336150975537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_15
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1157
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c69ad6304789cc0800000000000000
+      internalID: -3704083135438689124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_16
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1157
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bad3f4322d5ac4e0800000000000000
+      internalID: -1960652286267761996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_17
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1157
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58117fb6de4736c0800000000000000
+      internalID: -4163772646238906275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_18
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1157
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000350ef4285bb910800000000000000
+      internalID: 1854172587496910848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_19
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1157
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b40a071345ddda30800000000000000
+      internalID: 4241780908178932917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_20
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1157
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad60e993a8fd78d0800000000000000
+      internalID: -2846846007883305562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_21
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1157
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e321075841ccbd170800000000000000
+      internalID: 8204375534695617086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_22
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1094
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11872ec5e267ed840800000000000000
+      internalID: 5250764157059495953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_23
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1094
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834200ee31b41a9e0800000000000000
+      internalID: -1611924642652478408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_24
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1094
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4342f2b063486cb70800000000000000
+      internalID: 8918961479704585268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_25
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1105
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3697b08e91a0530800000000000000
+      internalID: 3821895718192899044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_26
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1094
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddcbcc1769da0ed0800000000000000
+      internalID: -2446904410634465833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_27
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1094
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f216a61d89f8ca330800000000000000
+      internalID: 3723508878439768367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_28
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1094
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495e77fc26cb6abe0800000000000000
+      internalID: -1466277496088959596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_29
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1094
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19236a11df01827c0800000000000000
+      internalID: -4096005181984591215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_30
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 773
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f35b9a4c399d79d0800000000000000
+      internalID: -2774893311161576464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_31
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 773
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8d796323d534660800000000000000
+      internalID: 7368835885553932519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_32
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 773
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018f5c233913454d0800000000000000
+      internalID: -3146835731343345648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_33
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 772
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21717cf6962e76c60800000000000000
+      internalID: 7811461021172176658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_34
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 773
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31f89a4a917ff640800000000000000
+      internalID: 5115932609206612284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_35
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 773
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ba2a514ad5dc3d0800000000000000
+      internalID: -3184786402162070759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_36
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 773
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60622f2c00cf3bb0800000000000000
+      internalID: -4954029906521333653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_37
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 772
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b794eb35159d090800000000000000
+      internalID: -8009281042185094384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_38
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 773
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a3791f2a7debf50800000000000000
+      internalID: 6899188774016072221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_39
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 710
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449a019defe53b4e0800000000000000
+      internalID: -1967124163574322876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_40
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 709
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0acd8f001ca1eb560800000000000000
+      internalID: 7331326659653065888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_41
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 709
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6e2690115062400800000000000000
+      internalID: 298931995996776152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_42
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 710
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d5cb0dbeffbc930800000000000000
+      internalID: 4164703668718558529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_43
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 707
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c74e7e4dcf8a9e0800000000000000
+      internalID: -1609758875431175168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_44
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 707
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d342f0363cdcc3170800000000000000
+      internalID: 8159622863952749629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_45
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 708
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4188caa8c8a8eba30800000000000000
+      internalID: 4232973036001462292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_46
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 709
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce287a985c15a190800000000000000
+      internalID: -7951918400178475327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_47
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 708
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e491af11601c3a8b0800000000000000
+      internalID: -5142054117711406770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_48
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 645
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9adacdba9f11c80800000000000000
+      internalID: -8353621317258466826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_49
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 645
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b649e0195a62410800000000000000
+      internalID: 1452029972307012487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_50
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 645
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdde5ca6c62962e10800000000000000
+      internalID: 2172584864598322652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_51
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 644
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08cc52c870e6c3f80800000000000000
+      internalID: -8125498648988103552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_52
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 645
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72ee7955a32be230800000000000000
+      internalID: 3669065514501464698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_53
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 645
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299c0358f00aeaea0800000000000000
+      internalID: -5859570076642915950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_54
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 645
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf809649096d3040800000000000000
+      internalID: 4628971480566239152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_55
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 644
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb15de0e705e3e30800000000000000
+      internalID: 4485110781252541373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_56
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 645
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a1c22cf9ab6bb70800000000000000
+      internalID: 8914517707746712106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_57
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 582
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179d1ce3c0cdcb2c0800000000000000
+      internalID: -4414411589579318927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_58
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 581
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a807091ce55b15b50800000000000000
+      internalID: 6580239949144027274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_59
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 581
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45c91469e9dbab90800000000000000
+      internalID: -7229445180383181490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_60
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 582
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1f5ec9762f2b510800000000000000
+      internalID: 1563578547478852066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_61
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 579
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3036b670c4a9cdc90800000000000000
+      internalID: -7143665257583779069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_62
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 579
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8136b693d732640800000000000000
+      internalID: 5054020892408092884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_63
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 580
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b5c8e481a730a10800000000000000
+      internalID: 1874476114731883329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_64
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 581
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ccb1c4c865409b0800000000000000
+      internalID: -5114868116213740387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_65
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 580
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb5d34bc6d4ebe20800000000000000
+      internalID: 3368214700595436514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_66
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 517
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51acbb0f23a6d7870800000000000000
+      internalID: 8682212423659932181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_67
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 517
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa6bb1a067c890b0800000000000000
+      internalID: -5721604108730012930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_68
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 517
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f7190017bbeecb0800000000000000
+      internalID: -4832719256106729599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_69
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 518
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697e22fa596efa500800000000000000
+      internalID: 409799621676820374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_70
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 518
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9cd4766472295fe0800000000000000
+      internalID: -1199889942387041121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_71
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 518
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9359326f3d0f0c0800000000000000
+      internalID: -4543898969904432642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_72
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 454
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021e1e374edbd7b20800000000000000
+      internalID: 3133869704614109472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_73
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 453
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d056209aaa26110800000000000000
+      internalID: 1252751289228791068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_74
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 453
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a285a04b2cc33f0b0800000000000000
+      internalID: -5696142296751646678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_75
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 453
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04dd7539fd0485890800000000000000
+      internalID: -7469148653000073920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_76
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 453
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42bd85fce66a1650800000000000000
+      internalID: 6204384604574298698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_77
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 453
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae813a17089762800800000000000000
+      internalID: 587290393987717354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_78
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 389
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ff6423d3b277f00800000000000000
+      internalID: 1114406974634000257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_79
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 388
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33704049264b9ae70800000000000000
+      internalID: 9127024455326107443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_80
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 389
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab42e13f6eeed360800000000000000
+      internalID: 7196451415930325920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_81
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 389
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c7f2457c1cdeeb0800000000000000
+      internalID: -4688878575167767475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_82
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 389
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f867d86bce406910800000000000000
+      internalID: 1828548084256696561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_83
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 389
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a13827b48fdece0800000000000000
+      internalID: -1374169308350703060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_84
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 326
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d7b88d578320ae0800000000000000
+      internalID: -1584642040085644028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_85
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 325
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1768d65dd6ea290800000000000000
+      internalID: -7877237934791429691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_86
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 325
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8035f8f9d7779860800000000000000
+      internalID: 7536624279496241293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_87
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 325
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8048428c96b97c160800000000000000
+      internalID: 7045771020676137992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_88
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 325
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e607fcb857ebd60800000000000000
+      internalID: 7907887239050325648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_89
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 325
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25dd6eb6ddb9b4230800000000000000
+      internalID: 3624161700450065746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_90
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 4
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e65e3c6e0b255bd0800000000000000
+      internalID: -2642158265437366553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_91
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 5
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906525767298b89a0800000000000000
+      internalID: -6229734857206770167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_92
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 3
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbdb1a45892ad980800000000000000
+      internalID: -8513446493139772452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_93
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9508e478f4a285690800000000000000
+      internalID: -7613288649008971687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_94
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 5
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb856f094d6f8ef0800000000000000
+      internalID: -103744105847878718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light gray_95
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 7
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1339c16ca4b73fe20800000000000000
+      internalID: 3383183306166932273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

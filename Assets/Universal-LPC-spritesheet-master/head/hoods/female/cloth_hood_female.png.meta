@@ -1,0 +1,4680 @@
+fileFormatVersion: 2
+guid: b396c5f6a0a97c849a376aead06195f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6282326978008859477
+    second: cloth_hood_female_0
+  - first:
+      213: 1350838173502453169
+    second: cloth_hood_female_1
+  - first:
+      213: 882528330089123316
+    second: cloth_hood_female_2
+  - first:
+      213: 8380279397703293403
+    second: cloth_hood_female_3
+  - first:
+      213: -5845293170308333708
+    second: cloth_hood_female_4
+  - first:
+      213: 721974152898231770
+    second: cloth_hood_female_5
+  - first:
+      213: -2662440674099897225
+    second: cloth_hood_female_6
+  - first:
+      213: 843840523094649301
+    second: cloth_hood_female_7
+  - first:
+      213: -6125556583704972613
+    second: cloth_hood_female_8
+  - first:
+      213: 2231073525701489049
+    second: cloth_hood_female_9
+  - first:
+      213: 5833471545773367964
+    second: cloth_hood_female_10
+  - first:
+      213: -1708120784135456083
+    second: cloth_hood_female_11
+  - first:
+      213: 4964613185290121201
+    second: cloth_hood_female_12
+  - first:
+      213: 2350950430089541581
+    second: cloth_hood_female_13
+  - first:
+      213: -91200113824376352
+    second: cloth_hood_female_14
+  - first:
+      213: -106803895848988416
+    second: cloth_hood_female_15
+  - first:
+      213: -2365198342060830398
+    second: cloth_hood_female_16
+  - first:
+      213: -8144512090945466642
+    second: cloth_hood_female_17
+  - first:
+      213: 2803131687145110147
+    second: cloth_hood_female_18
+  - first:
+      213: -1563746918303442498
+    second: cloth_hood_female_19
+  - first:
+      213: -2600900128849759186
+    second: cloth_hood_female_20
+  - first:
+      213: 2706076130169887377
+    second: cloth_hood_female_21
+  - first:
+      213: -9206026136859054404
+    second: cloth_hood_female_22
+  - first:
+      213: 2401082761964290239
+    second: cloth_hood_female_23
+  - first:
+      213: -7697749935777294784
+    second: cloth_hood_female_24
+  - first:
+      213: 4067557995122116077
+    second: cloth_hood_female_25
+  - first:
+      213: 5165446408208084021
+    second: cloth_hood_female_26
+  - first:
+      213: 4062121803506360447
+    second: cloth_hood_female_27
+  - first:
+      213: -7592420475949063219
+    second: cloth_hood_female_28
+  - first:
+      213: 1499133173187472782
+    second: cloth_hood_female_29
+  - first:
+      213: -8104127391712895084
+    second: cloth_hood_female_30
+  - first:
+      213: 6457999556917501045
+    second: cloth_hood_female_31
+  - first:
+      213: -316132016951897678
+    second: cloth_hood_female_32
+  - first:
+      213: -2970853342954969205
+    second: cloth_hood_female_33
+  - first:
+      213: 7685912240214398974
+    second: cloth_hood_female_34
+  - first:
+      213: 1965142589184758913
+    second: cloth_hood_female_35
+  - first:
+      213: -6248059550527130337
+    second: cloth_hood_female_36
+  - first:
+      213: -1363547096193690760
+    second: cloth_hood_female_37
+  - first:
+      213: 1282068168573849175
+    second: cloth_hood_female_38
+  - first:
+      213: 128005541822806697
+    second: cloth_hood_female_39
+  - first:
+      213: -2369793681405107579
+    second: cloth_hood_female_40
+  - first:
+      213: -4453195487691234332
+    second: cloth_hood_female_41
+  - first:
+      213: 4520422760082778512
+    second: cloth_hood_female_42
+  - first:
+      213: -3556225119421840864
+    second: cloth_hood_female_43
+  - first:
+      213: 8383881595372577521
+    second: cloth_hood_female_44
+  - first:
+      213: 8317926855184612502
+    second: cloth_hood_female_45
+  - first:
+      213: -5736682613479938325
+    second: cloth_hood_female_46
+  - first:
+      213: -8898181775644699179
+    second: cloth_hood_female_47
+  - first:
+      213: 1789952046828331222
+    second: cloth_hood_female_48
+  - first:
+      213: -3092414819014310206
+    second: cloth_hood_female_49
+  - first:
+      213: 6929761254852911516
+    second: cloth_hood_female_50
+  - first:
+      213: -6378624117033007418
+    second: cloth_hood_female_51
+  - first:
+      213: -1114131096634289950
+    second: cloth_hood_female_52
+  - first:
+      213: -2416014358877630019
+    second: cloth_hood_female_53
+  - first:
+      213: -1595219565269617933
+    second: cloth_hood_female_54
+  - first:
+      213: 4764764123575402004
+    second: cloth_hood_female_55
+  - first:
+      213: 627228265244590486
+    second: cloth_hood_female_56
+  - first:
+      213: 8979150276966443468
+    second: cloth_hood_female_57
+  - first:
+      213: -1294439090541133089
+    second: cloth_hood_female_58
+  - first:
+      213: 6190553595833283659
+    second: cloth_hood_female_59
+  - first:
+      213: 1461284694478140829
+    second: cloth_hood_female_60
+  - first:
+      213: -3494204141768468332
+    second: cloth_hood_female_61
+  - first:
+      213: -5573799605563483255
+    second: cloth_hood_female_62
+  - first:
+      213: 8024696381717972241
+    second: cloth_hood_female_63
+  - first:
+      213: 4525076649170407096
+    second: cloth_hood_female_64
+  - first:
+      213: 6917646600826958375
+    second: cloth_hood_female_65
+  - first:
+      213: 7211056706879171698
+    second: cloth_hood_female_66
+  - first:
+      213: 7649372870817522577
+    second: cloth_hood_female_67
+  - first:
+      213: 6632974899620136362
+    second: cloth_hood_female_68
+  - first:
+      213: -8573777449924163708
+    second: cloth_hood_female_69
+  - first:
+      213: -921690523504949651
+    second: cloth_hood_female_70
+  - first:
+      213: -7942683163306803361
+    second: cloth_hood_female_71
+  - first:
+      213: 3249399812091709853
+    second: cloth_hood_female_72
+  - first:
+      213: -1158563291661136502
+    second: cloth_hood_female_73
+  - first:
+      213: 6270822863490465115
+    second: cloth_hood_female_74
+  - first:
+      213: -7260283051237054867
+    second: cloth_hood_female_75
+  - first:
+      213: -2742120523638287681
+    second: cloth_hood_female_76
+  - first:
+      213: -8513031149252843885
+    second: cloth_hood_female_77
+  - first:
+      213: -4869068915494149583
+    second: cloth_hood_female_78
+  - first:
+      213: -7340817200919304060
+    second: cloth_hood_female_79
+  - first:
+      213: -6665764389772817476
+    second: cloth_hood_female_80
+  - first:
+      213: -3748795065274873606
+    second: cloth_hood_female_81
+  - first:
+      213: -4857548085448703538
+    second: cloth_hood_female_82
+  - first:
+      213: -8650519573067948162
+    second: cloth_hood_female_83
+  - first:
+      213: 626775516776895556
+    second: cloth_hood_female_84
+  - first:
+      213: -4500907768568265973
+    second: cloth_hood_female_85
+  - first:
+      213: 5191118522876789523
+    second: cloth_hood_female_86
+  - first:
+      213: 8889908856743540265
+    second: cloth_hood_female_87
+  - first:
+      213: -6408759411397979254
+    second: cloth_hood_female_88
+  - first:
+      213: 237066870544306081
+    second: cloth_hood_female_89
+  - first:
+      213: 6145044393004825695
+    second: cloth_hood_female_90
+  - first:
+      213: -1181686018724598526
+    second: cloth_hood_female_91
+  - first:
+      213: -8060755300419269953
+    second: cloth_hood_female_92
+  - first:
+      213: 8323749449274198894
+    second: cloth_hood_female_93
+  - first:
+      213: -763932120849541759
+    second: cloth_hood_female_94
+  - first:
+      213: 5024616918216585630
+    second: cloth_hood_female_95
+  - first:
+      213: -5035808514173417492
+    second: cloth_hood_female_96
+  - first:
+      213: -1475317184433813269
+    second: cloth_hood_female_97
+  - first:
+      213: -2118700943804831023
+    second: cloth_hood_female_98
+  - first:
+      213: 1606381726593849845
+    second: cloth_hood_female_99
+  - first:
+      213: -8885111772693140967
+    second: cloth_hood_female_100
+  - first:
+      213: -635980791840805448
+    second: cloth_hood_female_101
+  - first:
+      213: 1352167198712447568
+    second: cloth_hood_female_102
+  - first:
+      213: -8261342278123255836
+    second: cloth_hood_female_103
+  - first:
+      213: 2212840656583575601
+    second: cloth_hood_female_104
+  - first:
+      213: -2209912265039475808
+    second: cloth_hood_female_105
+  - first:
+      213: -7200756347454097914
+    second: cloth_hood_female_106
+  - first:
+      213: -2190008383480703146
+    second: cloth_hood_female_107
+  - first:
+      213: 2599122869208362398
+    second: cloth_hood_female_108
+  - first:
+      213: 8076320390377458374
+    second: cloth_hood_female_109
+  - first:
+      213: 2105879211675886502
+    second: cloth_hood_female_110
+  - first:
+      213: 1453141929996964334
+    second: cloth_hood_female_111
+  - first:
+      213: 8779401660860827785
+    second: cloth_hood_female_112
+  - first:
+      213: 1824092464319511729
+    second: cloth_hood_female_113
+  - first:
+      213: 1179384662617682995
+    second: cloth_hood_female_114
+  - first:
+      213: -5156227493888641371
+    second: cloth_hood_female_115
+  - first:
+      213: -8511644609404000055
+    second: cloth_hood_female_116
+  - first:
+      213: -1303121265808415828
+    second: cloth_hood_female_117
+  - first:
+      213: -1083158187495765124
+    second: cloth_hood_female_118
+  - first:
+      213: -7855068796801573791
+    second: cloth_hood_female_119
+  - first:
+      213: 7061884856621398110
+    second: cloth_hood_female_120
+  - first:
+      213: -7177233591075604903
+    second: cloth_hood_female_121
+  - first:
+      213: 7091003836537975462
+    second: cloth_hood_female_122
+  - first:
+      213: -7484331800230230588
+    second: cloth_hood_female_123
+  - first:
+      213: 5051390355269798661
+    second: cloth_hood_female_124
+  - first:
+      213: 8067553230234716064
+    second: cloth_hood_female_125
+  - first:
+      213: -7919812949005262148
+    second: cloth_hood_female_126
+  - first:
+      213: 8606317692691720144
+    second: cloth_hood_female_127
+  - first:
+      213: -3447438776629619557
+    second: cloth_hood_female_128
+  - first:
+      213: -6133010676243324171
+    second: cloth_hood_female_129
+  - first:
+      213: -3958177116719900101
+    second: cloth_hood_female_130
+  - first:
+      213: -3311023147870441842
+    second: cloth_hood_female_131
+  - first:
+      213: -5651430655071663354
+    second: cloth_hood_female_132
+  - first:
+      213: -2072207542306242993
+    second: cloth_hood_female_133
+  - first:
+      213: -8483980845875046144
+    second: cloth_hood_female_134
+  - first:
+      213: -6766252337639029131
+    second: cloth_hood_female_135
+  - first:
+      213: -4493295927952942197
+    second: cloth_hood_female_136
+  - first:
+      213: -3310228729871179058
+    second: cloth_hood_female_137
+  - first:
+      213: -8249672676925441657
+    second: cloth_hood_female_138
+  - first:
+      213: -2626694609440959211
+    second: cloth_hood_female_139
+  - first:
+      213: -4553561799372142064
+    second: cloth_hood_female_140
+  - first:
+      213: 6734970780570458263
+    second: cloth_hood_female_141
+  - first:
+      213: 1916146036201924742
+    second: cloth_hood_female_142
+  - first:
+      213: -6645802299458390620
+    second: cloth_hood_female_143
+  - first:
+      213: 8094078909687324312
+    second: cloth_hood_female_144
+  - first:
+      213: 5378286166027227850
+    second: cloth_hood_female_145
+  - first:
+      213: -5615442928862428386
+    second: cloth_hood_female_146
+  - first:
+      213: -9079673295293462653
+    second: cloth_hood_female_147
+  - first:
+      213: -6864251906860992886
+    second: cloth_hood_female_148
+  - first:
+      213: 4914581388055962712
+    second: cloth_hood_female_149
+  - first:
+      213: -1044066372247417025
+    second: cloth_hood_female_150
+  - first:
+      213: 9058168380327741882
+    second: cloth_hood_female_151
+  - first:
+      213: 5982474340756863552
+    second: cloth_hood_female_152
+  - first:
+      213: -5294591708605142091
+    second: cloth_hood_female_153
+  - first:
+      213: -5208706466397839042
+    second: cloth_hood_female_154
+  - first:
+      213: 2893198339043493269
+    second: cloth_hood_female_155
+  - first:
+      213: 6975708214116854073
+    second: cloth_hood_female_156
+  - first:
+      213: 244853575778800366
+    second: cloth_hood_female_157
+  - first:
+      213: -7533155051639383367
+    second: cloth_hood_female_158
+  - first:
+      213: -5084891898626414985
+    second: cloth_hood_female_159
+  - first:
+      213: 6577008405635425031
+    second: cloth_hood_female_160
+  - first:
+      213: 986821516797634663
+    second: cloth_hood_female_161
+  - first:
+      213: 2340531576212555203
+    second: cloth_hood_female_162
+  - first:
+      213: -6705461510928478903
+    second: cloth_hood_female_163
+  - first:
+      213: -6285970429371385520
+    second: cloth_hood_female_164
+  - first:
+      213: -6466649851776186208
+    second: cloth_hood_female_165
+  - first:
+      213: -9214228457534589186
+    second: cloth_hood_female_166
+  - first:
+      213: 5850315769700209968
+    second: cloth_hood_female_167
+  - first:
+      213: -5208865497550957694
+    second: cloth_hood_female_168
+  - first:
+      213: 6896441462445525101
+    second: cloth_hood_female_169
+  - first:
+      213: 2470259224371355801
+    second: cloth_hood_female_170
+  - first:
+      213: -9186356909995504772
+    second: cloth_hood_female_171
+  - first:
+      213: 1216464679789835170
+    second: cloth_hood_female_172
+  - first:
+      213: 3322480662298540687
+    second: cloth_hood_female_173
+  - first:
+      213: -929521235459235192
+    second: cloth_hood_female_174
+  - first:
+      213: 4428184596033888028
+    second: cloth_hood_female_175
+  - first:
+      213: -3115805819888462076
+    second: cloth_hood_female_176
+  - first:
+      213: 2500777434235183855
+    second: cloth_hood_female_177
+  - first:
+      213: -6999491885659894581
+    second: cloth_hood_female_178
+  - first:
+      213: -4197022667028820342
+    second: cloth_hood_female_179
+  - first:
+      213: 5315987573796220574
+    second: cloth_hood_female_180
+  - first:
+      213: 888814399792670788
+    second: cloth_hood_female_181
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cloth_hood_female_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1300
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553421fe91f4f2750800000000000000
+      internalID: 6282326978008859477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1300
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5b6a869242fb210800000000000000
+      internalID: 1350838173502453169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1300
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd4e2327de5f3c00800000000000000
+      internalID: 882528330089123316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1300
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd911aa26bbbc4470800000000000000
+      internalID: 8380279397703293403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1300
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f31cfc4d851eea0800000000000000
+      internalID: -5845293170308333708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_5
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1300
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add3388baa7f40a00800000000000000
+      internalID: 721974152898231770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_6
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1300
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c59b8205c1d0bd0800000000000000
+      internalID: -2662440674099897225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1238
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9e2222c7ce5bb00800000000000000
+      internalID: 843840523094649301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_8
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1238
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2b5b0edb6adfaa0800000000000000
+      internalID: -6125556583704972613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_9
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1238
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99137370d8d56fe10800000000000000
+      internalID: 2231073525701489049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1238
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92ab2db677a4f050800000000000000
+      internalID: 5833471545773367964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_11
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1238
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daaf42462398b48e0800000000000000
+      internalID: -1708120784135456083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_12
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1238
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff207c6369d5e440800000000000000
+      internalID: 4964613185290121201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_13
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1238
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7f906d5f040a020800000000000000
+      internalID: 2350950430089541581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1173
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9d50ccafdfbbef0800000000000000
+      internalID: -91200113824376352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1173
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0011b4f2c6e848ef0800000000000000
+      internalID: -106803895848988416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1173
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2411f16a3a02d2fd0800000000000000
+      internalID: -2365198342060830398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_17
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1173
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee425e9761e8fe80800000000000000
+      internalID: -8144512090945466642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_18
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1173
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38afce6fa69b6e620800000000000000
+      internalID: 2803131687145110147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_19
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1173
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb959ef76747c4ae0800000000000000
+      internalID: -1563746918303442498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_20
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1173
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2474abec1fb7ebd0800000000000000
+      internalID: -2600900128849759186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_21
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1110
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a90f927e9ed8520800000000000000
+      internalID: 2706076130169887377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_22
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1110
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbeed8f0100ad3080800000000000000
+      internalID: -9206026136859054404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_23
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1110
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0023fec0c525120800000000000000
+      internalID: 2401082761964290239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_24
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1110
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0465534c7391c2590800000000000000
+      internalID: -7697749935777294784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_25
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1110
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5cd8a127ed27830800000000000000
+      internalID: 4067557995122116077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_26
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1110
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c6f8bf32a5fa740800000000000000
+      internalID: 5165446408208084021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_27
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1110
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70ad5c124e8f5830800000000000000
+      internalID: 4062121803506360447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1044
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc367a1bdcd42a690800000000000000
+      internalID: -7592420475949063219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_29
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1043
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8de7d2adadfdc410800000000000000
+      internalID: 1499133173187472782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_30
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1043
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f9072231b588f80800000000000000
+      internalID: -8104127391712895084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_31
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1043
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c92bd816c6f9950800000000000000
+      internalID: 6457999556917501045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_32
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1043
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b154730b9fdc9bf0800000000000000
+      internalID: -316132016951897678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_33
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1043
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b872365ff9865c6d0800000000000000
+      internalID: -2970853342954969205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_34
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1043
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef75ec4f578d9aa60800000000000000
+      internalID: 7685912240214398974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_35
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1043
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1845959e5c6954b10800000000000000
+      internalID: 1965142589184758913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_36
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 982
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15f75341fe6a49a0800000000000000
+      internalID: -6248059550527130337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_37
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 982
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8731cd0f325b31de0800000000000000
+      internalID: -1363547096193690760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_38
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 982
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e0ea5e432dac110800000000000000
+      internalID: 1282068168573849175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_39
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 982
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa31a1bc54c6c100800000000000000
+      internalID: 128005541822806697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_40
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 982
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58222e4d33dcc1fd0800000000000000
+      internalID: -2369793681405107579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_41
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 982
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3aac84c421332c0800000000000000
+      internalID: -4453195487691234332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_42
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 982
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0992351dc84cbbe30800000000000000
+      internalID: 4520422760082778512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_43
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 982
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0224a877810c5aec0800000000000000
+      internalID: -3556225119421840864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_44
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 917
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f22e1b24e7895470800000000000000
+      internalID: 8383881595372577521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_45
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 917
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69cf5fe87663f6370800000000000000
+      internalID: 8317926855184612502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_46
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 918
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be66e5aae853360b0800000000000000
+      internalID: -5736682613479938325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_47
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 920
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5d7d3d1de438480800000000000000
+      internalID: -8898181775644699179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_48
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 919
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0af2c27ef27d810800000000000000
+      internalID: 1789952046828331222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_49
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 919
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c68f7e3b198515d0800000000000000
+      internalID: -3092414819014310206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_50
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 919
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91e5c555257b2060800000000000000
+      internalID: 6929761254852911516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_51
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 920
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6028439239a77a0800000000000000
+      internalID: -6378624117033007418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_52
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 854
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e095e7abafc980f0800000000000000
+      internalID: -1114131096634289950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_53
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 854
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db11bdebdb7987ed0800000000000000
+      internalID: -2416014358877630019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_54
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 854
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2f959d144acd9e0800000000000000
+      internalID: -1595219565269617933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_55
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 854
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ebc30c9b7df1240800000000000000
+      internalID: 4764764123575402004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_56
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 854
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6910df6b8cc54b800800000000000000
+      internalID: 627228265244590486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_57
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 854
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc96f637a995c9c70800000000000000
+      internalID: 8979150276966443468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_58
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 854
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd28ae0618a390ee0800000000000000
+      internalID: -1294439090541133089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_59
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 854
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44f8aa42b349e550800000000000000
+      internalID: 6190553595833283659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_60
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 789
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95b51affa6874410800000000000000
+      internalID: 1461284694478140829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 789
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498113d98d7128fc0800000000000000
+      internalID: -3494204141768468332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_62
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 789
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b1d2d3ac2e5a2b0800000000000000
+      internalID: -5573799605563483255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_63
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 787
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11589aea7d27d5f60800000000000000
+      internalID: 8024696381717972241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_64
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 789
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be873fcc3d4cce30800000000000000
+      internalID: 4525076649170407096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_65
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 789
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722baf3aeea600060800000000000000
+      internalID: 6917646600826958375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_66
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 789
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c2bbc7ed1d21460800000000000000
+      internalID: 7211056706879171698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_67
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 788
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193a69f0918082a60800000000000000
+      internalID: 7649372870817522577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_68
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 789
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5c0f7378f0d0c50800000000000000
+      internalID: 6632974899620136362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_69
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 726
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487040ac5d2d30980800000000000000
+      internalID: -8573777449924163708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_70
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 725
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66c4a92a5f7533f0800000000000000
+      internalID: -921690523504949651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_71
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 725
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f3f9fbebbe5c190800000000000000
+      internalID: -7942683163306803361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_72
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 726
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9982fcb9ef281d20800000000000000
+      internalID: 3249399812091709853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_73
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 726
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d0bb613d4fbefe0800000000000000
+      internalID: -1158563291661136502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_74
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 725
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d3fbb8b20760750800000000000000
+      internalID: 6270822863490465115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_75
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 725
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66e932180b4e3b90800000000000000
+      internalID: -7260283051237054867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_76
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 726
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb25b3189e702f9d0800000000000000
+      internalID: -2742120523638287681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_77
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 726
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396e2f21643abd980800000000000000
+      internalID: -8513031149252843885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_78
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 661
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13223196e979d6cb0800000000000000
+      internalID: -4869068915494149583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_79
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 661
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488a02a26ad202a90800000000000000
+      internalID: -7340817200919304060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_80
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 661
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb842faa927e73a0800000000000000
+      internalID: -6665764389772817476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_81
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 660
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8cd8600ca99fbc0800000000000000
+      internalID: -3748795065274873606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_82
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 661
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1837fa0c5869cb0800000000000000
+      internalID: -4857548085448703538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_83
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 661
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f98bcd74e23f780800000000000000
+      internalID: -8650519573067948162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_84
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 661
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444166ff201c2b800800000000000000
+      internalID: 626775516776895556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_85
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 660
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0341b73b309981c0800000000000000
+      internalID: -4500907768568265973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_86
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 661
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3138507face8a0840800000000000000
+      internalID: 5191118522876789523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_87
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 598
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9263cc3210d4f5b70800000000000000
+      internalID: 8889908856743540265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_88
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 597
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a839ea835438f07a0800000000000000
+      internalID: -6408759411397979254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_89
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 597
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af8ece001b3a4300800000000000000
+      internalID: 237066870544306081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_90
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 598
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5cfe0e4155974550800000000000000
+      internalID: 6145044393004825695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_91
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 598
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20defd9a3dec99fe0800000000000000
+      internalID: -1181686018724598526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_92
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 597
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba892113c1722090800000000000000
+      internalID: -8060755300419269953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_93
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 597
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b8753e506e38370800000000000000
+      internalID: 8323749449274198894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_94
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 598
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185904898c7f565f0800000000000000
+      internalID: -763932120849541759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_95
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 598
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91b7be27760bb540800000000000000
+      internalID: 5024616918216585630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_96
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 532
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce74ec356d63d1ab0800000000000000
+      internalID: -5035808514173417492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_97
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 532
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be80bca56de968be0800000000000000
+      internalID: -1475317184433813269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_98
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 532
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da6a3b87bcd892e0800000000000000
+      internalID: -2118700943804831023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_99
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 533
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f91e4b5ba30b4610800000000000000
+      internalID: 1606381726593849845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_100
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 533
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91aebf60bedb1b480800000000000000
+      internalID: -8885111772693140967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_101
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 533
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd6b52e6da8c27f0800000000000000
+      internalID: -635980791840805448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_102
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 470
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052c03437ecd3c210800000000000000
+      internalID: 1352167198712447568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_103
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 468
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e70c80f7f0d95d80800000000000000
+      internalID: -8261342278123255836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_104
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 469
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138c4306ad695be10800000000000000
+      internalID: 2212840656583575601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_105
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 470
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab0b89e080d451e0800000000000000
+      internalID: -2209912265039475808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_106
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 470
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606fbd3d046c11c90800000000000000
+      internalID: -7200756347454097914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_107
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 470
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65751877af68b91e0800000000000000
+      internalID: -2190008383480703146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_108
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 405
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d22c29a70f11420800000000000000
+      internalID: 2599122869208362398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_109
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 403
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca41b8da9ad41070800000000000000
+      internalID: 8076320390377458374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_110
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 403
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a322df4cf5993d10800000000000000
+      internalID: 2105879211675886502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_111
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 405
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1d1b1e2e89a2410800000000000000
+      internalID: 1453141929996964334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_112
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 405
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98885189b43b6d970800000000000000
+      internalID: 8779401660860827785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_113
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 405
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc3b3d8e6a705910800000000000000
+      internalID: 1824092464319511729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_114
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 342
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334fedc1a140e5010800000000000000
+      internalID: 1179384662617682995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_115
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 340
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a63aa5c9666178b0800000000000000
+      internalID: -5156227493888641371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_116
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 341
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c82b1a035090e980800000000000000
+      internalID: -8511644609404000055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_117
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 342
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca36b3cec126aede0800000000000000
+      internalID: -1303121265808415828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_118
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 342
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b42c60e59d7f0f0800000000000000
+      internalID: -1083158187495765124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_119
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 342
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c13681c803df290800000000000000
+      internalID: -7855068796801573791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_120
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 276
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58f0a39cdad00260800000000000000
+      internalID: 7061884856621398110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_121
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 275
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956ffe55318556c90800000000000000
+      internalID: -7177233591075604903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_122
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 275
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a237c96b6e486260800000000000000
+      internalID: 7091003836537975462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_123
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 275
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c50e12a1ef422890800000000000000
+      internalID: -7484331800230230588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_124
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 275
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50bc0b3c3c42a1640800000000000000
+      internalID: 5051390355269798661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_125
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 275
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a702be4be4b5ff60800000000000000
+      internalID: 8067553230234716064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_126
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 275
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2a007751c271290800000000000000
+      internalID: -7919812949005262148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_127
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 275
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7ac01e758cf6770800000000000000
+      internalID: 8606317692691720144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_128
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 275
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94951ea2bc3820d0800000000000000
+      internalID: -3447438776629619557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_129
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 275
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2a6d6b84b23eaa0800000000000000
+      internalID: -6133010676243324171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_130
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 275
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a94d732eab119c0800000000000000
+      internalID: -3958177116719900101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_131
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 275
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e26145df1ec02d0800000000000000
+      internalID: -3311023147870441842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_132
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 275
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b43b303c51291b0800000000000000
+      internalID: -5651430655071663354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_133
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 214
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e73f3283a0e33e0800000000000000
+      internalID: -2072207542306242993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_134
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 214
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0095668ee58d24a80800000000000000
+      internalID: -8483980845875046144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_135
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 214
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5768e5a19517912a0800000000000000
+      internalID: -6766252337639029131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_136
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 214
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8bd7a7f82b94a1c0800000000000000
+      internalID: -4493295927952942197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_137
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 214
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec26cbe2284bf02d0800000000000000
+      internalID: -3310228729871179058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_138
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 218
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789fc92b866438d80800000000000000
+      internalID: -8249672676925441657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_139
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 214
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51596d66b2b1c8bd0800000000000000
+      internalID: -2626694609440959211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_140
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 223
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a82a55baf7ec0c0800000000000000
+      internalID: -4553561799372142064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_141
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 214
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7989984dd3c677d50800000000000000
+      internalID: 6734970780570458263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_142
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 214
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688a691faa4879a10800000000000000
+      internalID: 1916146036201924742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_143
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 214
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5fe45050e55c3a0800000000000000
+      internalID: -6645802299458390620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_144
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 214
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ed4e352e1f35070800000000000000
+      internalID: 8094078909687324312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_145
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 214
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2537ac5c283aa40800000000000000
+      internalID: 5378286166027227850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_146
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 214
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e130da87860f112b0800000000000000
+      internalID: -5615442928862428386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_147
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 214
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387ce6d7e358ef180800000000000000
+      internalID: -9079673295293462653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_148
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 149
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86b0c252474db0a0800000000000000
+      internalID: -6864251906860992886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_149
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 149
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85462dedbb9143440800000000000000
+      internalID: 4914581388055962712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_150
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 149
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f03488a2bb281f0800000000000000
+      internalID: -1044066372247417025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_151
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 149
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab94c11562415bd70800000000000000
+      internalID: 9058168380327741882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_152
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 150
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ab3b667b4060350800000000000000
+      internalID: 5982474340756863552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_153
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 151
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bbacd994e4d586b0800000000000000
+      internalID: -5294591708605142091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_154
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 151
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31a313d015f6b7b0800000000000000
+      internalID: -5208706466397839042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_155
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 150
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595007f7f84b62820800000000000000
+      internalID: 2893198339043493269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_156
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 150
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939a53f69a1bec060800000000000000
+      internalID: 6975708214116854073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_157
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 150
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee29746a705e56300800000000000000
+      internalID: 244853575778800366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_158
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 150
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba5815946bd47790800000000000000
+      internalID: -7533155051639383367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_159
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 150
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7766c1552c5de69b0800000000000000
+      internalID: -5084891898626414985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_160
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 150
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70368a66c4a364b50800000000000000
+      internalID: 6577008405635425031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_161
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 86
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7686f6de0f4e1bd00800000000000000
+      internalID: 986821516797634663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_162
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 86
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c50cb1611d3b7020800000000000000
+      internalID: 2340531576212555203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_163
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 86
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94dcd0a684a61f2a0800000000000000
+      internalID: -6705461510928478903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_164
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 86
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05975b0f23fb3c8a0800000000000000
+      internalID: -6285970429371385520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_165
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 86
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a84c0ab838d146a0800000000000000
+      internalID: -6466649851776186208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_166
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 90
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6fa55790c702080800000000000000
+      internalID: -9214228457534589186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_167
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 86
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035d8dc323f703150800000000000000
+      internalID: 5850315769700209968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_168
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 95
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283dfaf7d6466b7b0800000000000000
+      internalID: -5208865497550957694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_169
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 86
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68475f98f415bf50800000000000000
+      internalID: 6896441462445525101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_170
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 86
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99069c33daf184220800000000000000
+      internalID: 2470259224371355801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_171
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 86
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b43cfcf01838080800000000000000
+      internalID: -9186356909995504772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_172
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 86
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3bea06e20c1e010800000000000000
+      internalID: 1216464679789835170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_173
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 86
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ab8612f82db1e20800000000000000
+      internalID: 3322480662298540687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_174
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 86
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88225457c5da913f0800000000000000
+      internalID: -929521235459235192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_175
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 86
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1fd476bd62147d30800000000000000
+      internalID: 4428184596033888028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_176
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 21
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40714747d1f62c4d0800000000000000
+      internalID: -3115805819888462076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_177
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 20
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2a6e5a3db84b220800000000000000
+      internalID: 2500777434235183855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_178
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 13
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc4303073fccde90800000000000000
+      internalID: -6999491885659894581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_179
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 9
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e0c710f1e21c5c0800000000000000
+      internalID: -4197022667028820342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_180
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 9
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ea386788e26c940800000000000000
+      internalID: 5315987573796220574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_female_181
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 0
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448e4eaccf3b55c00800000000000000
+      internalID: 888814399792670788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

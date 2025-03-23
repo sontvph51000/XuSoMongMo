@@ -1,0 +1,1805 @@
+fileFormatVersion: 2
+guid: e0391e1822933dc4196f0bfdbd9ad091
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2699169678305779358
+    second: greatbow_0
+  - first:
+      213: 2220997478332026634
+    second: greatbow_1
+  - first:
+      213: 6322103960247132285
+    second: greatbow_2
+  - first:
+      213: -5944040488664275373
+    second: greatbow_3
+  - first:
+      213: 3049839797561839660
+    second: greatbow_4
+  - first:
+      213: -776074944604388682
+    second: greatbow_5
+  - first:
+      213: 147106472313456346
+    second: greatbow_6
+  - first:
+      213: -806738838242674270
+    second: greatbow_7
+  - first:
+      213: -5930866718214454291
+    second: greatbow_8
+  - first:
+      213: 8764149515304790199
+    second: greatbow_9
+  - first:
+      213: -158357841774537186
+    second: greatbow_10
+  - first:
+      213: -8779492981826976221
+    second: greatbow_11
+  - first:
+      213: -6617730740294570453
+    second: greatbow_12
+  - first:
+      213: 1071873100653124454
+    second: greatbow_13
+  - first:
+      213: 2018279602828822999
+    second: greatbow_14
+  - first:
+      213: 7343712039539728387
+    second: greatbow_15
+  - first:
+      213: 1128155021098029989
+    second: greatbow_16
+  - first:
+      213: 9106064959259964542
+    second: greatbow_17
+  - first:
+      213: -8163300876019656596
+    second: greatbow_18
+  - first:
+      213: 7335792922466281056
+    second: greatbow_19
+  - first:
+      213: -7630157344790748770
+    second: greatbow_20
+  - first:
+      213: -7579348518497962475
+    second: greatbow_21
+  - first:
+      213: 4805649800477788794
+    second: greatbow_22
+  - first:
+      213: 1640372941109680894
+    second: greatbow_23
+  - first:
+      213: -4919091958556883141
+    second: greatbow_24
+  - first:
+      213: -7899983536288309251
+    second: greatbow_25
+  - first:
+      213: 933042479147508161
+    second: greatbow_26
+  - first:
+      213: -5095549566810611512
+    second: greatbow_27
+  - first:
+      213: -6150946221348210927
+    second: greatbow_28
+  - first:
+      213: 8835190466161423603
+    second: greatbow_29
+  - first:
+      213: -272998547629844314
+    second: greatbow_30
+  - first:
+      213: -4453825139554327842
+    second: greatbow_31
+  - first:
+      213: 5141630627259708790
+    second: greatbow_32
+  - first:
+      213: 7066666988453414090
+    second: greatbow_33
+  - first:
+      213: -3702424157387524605
+    second: greatbow_34
+  - first:
+      213: -2463415468365964637
+    second: greatbow_35
+  - first:
+      213: -8199707869401881660
+    second: greatbow_36
+  - first:
+      213: 4353674876883457203
+    second: greatbow_37
+  - first:
+      213: -8275927687765665346
+    second: greatbow_38
+  - first:
+      213: -4615321265729825596
+    second: greatbow_39
+  - first:
+      213: -1191639364443442800
+    second: greatbow_40
+  - first:
+      213: -7395480228841935464
+    second: greatbow_41
+  - first:
+      213: -4335421295079578441
+    second: greatbow_42
+  - first:
+      213: 1288135835079052858
+    second: greatbow_43
+  - first:
+      213: 2065684081588154053
+    second: greatbow_44
+  - first:
+      213: 4912421672918750480
+    second: greatbow_45
+  - first:
+      213: 8123670569692686629
+    second: greatbow_46
+  - first:
+      213: 7265442510281861493
+    second: greatbow_47
+  - first:
+      213: 7020642208994085912
+    second: greatbow_48
+  - first:
+      213: 3109252154085558431
+    second: greatbow_49
+  - first:
+      213: 8245107417492254471
+    second: greatbow_50
+  - first:
+      213: -3222788849682514722
+    second: greatbow_51
+  - first:
+      213: 6575589355359197347
+    second: greatbow_52
+  - first:
+      213: -2746260474841754212
+    second: greatbow_53
+  - first:
+      213: -2729351784668169136
+    second: greatbow_54
+  - first:
+      213: 7010271287624365372
+    second: greatbow_55
+  - first:
+      213: -7050135262007752849
+    second: greatbow_56
+  - first:
+      213: 4937871924156788200
+    second: greatbow_57
+  - first:
+      213: -1410658873960511302
+    second: greatbow_58
+  - first:
+      213: -3626929611955954486
+    second: greatbow_59
+  - first:
+      213: 3667458750067586018
+    second: greatbow_60
+  - first:
+      213: 1556872555932082022
+    second: greatbow_61
+  - first:
+      213: -8629195403900109285
+    second: greatbow_62
+  - first:
+      213: 3619706466569194985
+    second: greatbow_63
+  - first:
+      213: -6369412316062273625
+    second: greatbow_64
+  - first:
+      213: 5154532012712649934
+    second: greatbow_65
+  - first:
+      213: -3540491073403004335
+    second: greatbow_66
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: greatbow_0
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 269
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26124187a7f9a8ad0800000000000000
+      internalID: -2699169678305779358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 282
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0fc40f607192de10800000000000000
+      internalID: 2220997478332026634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_2
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 303
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70ee9f4e00acb750800000000000000
+      internalID: 6322103960247132285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_3
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 302
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35660ae1ba6828da0800000000000000
+      internalID: -5944040488664275373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_4
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 302
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20d58b1325335a20800000000000000
+      internalID: 3049839797561839660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_5
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 302
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b246cf13f3da35f0800000000000000
+      internalID: -776074944604388682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_6
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 302
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad68762ae80aa0200800000000000000
+      internalID: 147106472313456346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_7
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 302
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9b8080d43edc4f0800000000000000
+      internalID: -806738838242674270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_8
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 302
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de304a2942451bda0800000000000000
+      internalID: -5930866718214454291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_9
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 302
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8672abc8380a970800000000000000
+      internalID: 8764149515304790199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_10
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 302
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1691a5c1666dcdf0800000000000000
+      internalID: -158357841774537186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_11
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 302
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3260b2616a9f82680800000000000000
+      internalID: -8779492981826976221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 269
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e2f8534f81924a0800000000000000
+      internalID: -6617730740294570453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_13
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 262
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66bd9b0f7ee00ee00800000000000000
+      internalID: 1071873100653124454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_14
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 267
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d947000b9e520c10800000000000000
+      internalID: 2018279602828822999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 205
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3006689f03b1ae560800000000000000
+      internalID: 7343712039539728387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_16
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 210
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a31f14b30308af00800000000000000
+      internalID: 1128155021098029989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_17
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 204
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74725e95dd3f5e70800000000000000
+      internalID: 9106064959259964542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_18
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 200
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c689632ba1126be80800000000000000
+      internalID: -8163300876019656596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_19
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 201
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0666d69dbc8fdc560800000000000000
+      internalID: 7335792922466281056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_20
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 194
+        width: 19
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91e86b325c3c1690800000000000000
+      internalID: -7630157344790748770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_21
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 196
+        width: 19
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516bb06fdaeb0d690800000000000000
+      internalID: -7579348518497962475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_22
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 224
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ac768380911b240800000000000000
+      internalID: 4805649800477788794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_23
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 198
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa5106bf76c3c610800000000000000
+      internalID: 1640372941109680894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_24
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 223
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b378cb81defdbbbb0800000000000000
+      internalID: -4919091958556883141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_25
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 199
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dffd91464de9d5290800000000000000
+      internalID: -7899983536288309251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_26
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 221
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1efe9f035d2fc00800000000000000
+      internalID: 933042479147508161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_27
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 194
+        width: 19
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0abd69aa8f849b0800000000000000
+      internalID: -5095549566810611512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_28
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 194
+        width: 19
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1173204300373aaa0800000000000000
+      internalID: -6150946221348210927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_29
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 194
+        width: 19
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4387a0be6ec9a70800000000000000
+      internalID: 8835190466161423603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_30
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 194
+        width: 19
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a85350744d163cf0800000000000000
+      internalID: -272998547629844314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_31
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 197
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2e82902a5d032c0800000000000000
+      internalID: -4453825139554327842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_32
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 197
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675751060ddba5740800000000000000
+      internalID: 5141630627259708790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_33
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 141
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4ceb86f28d11260800000000000000
+      internalID: 7066666988453414090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_34
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 134
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306771b58d85e9cc0800000000000000
+      internalID: -3702424157387524605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_35
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 133
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa18d9eea030ddd0800000000000000
+      internalID: -2463415468365964637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_36
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 127
+        width: 13
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3635ef229c43e80800000000000000
+      internalID: -8199707869401881660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_37
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 127
+        width: 12
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b45e28db3c5b6c30800000000000000
+      internalID: 4353674876883457203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_38
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 128
+        width: 12
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb958ef9d9ff52d80800000000000000
+      internalID: -8275927687765665346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_39
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 128
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c41ed703c513ffb0800000000000000
+      internalID: -4615321265729825596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_40
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 150
+        width: 11
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091f9f5cf42767fe0800000000000000
+      internalID: -1191639364443442800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_41
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 130
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89da3703ae9fd5990800000000000000
+      internalID: -7395480228841935464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_42
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 151
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b42e1b5d4d75d3c0800000000000000
+      internalID: -4335421295079578441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_43
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 129
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e865897b060e110800000000000000
+      internalID: 1288135835079052858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_44
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 148
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cead3d4ab8caac10800000000000000
+      internalID: 2065684081588154053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_45
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 127
+        width: 12
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01590410c7d6c2440800000000000000
+      internalID: 4912421672918750480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_46
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 127
+        width: 12
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529e3d297531db070800000000000000
+      internalID: 8123670569692686629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_47
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 127
+        width: 12
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5796f59187904d460800000000000000
+      internalID: 7265442510281861493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_48
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 127
+        width: 12
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81cc43264e45e6160800000000000000
+      internalID: 7020642208994085912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_49
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 82
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9843615c58462b20800000000000000
+      internalID: 3109252154085558431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_50
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 77
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f609203818c6270800000000000000
+      internalID: 8245107417492254471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_51
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 76
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc7594cd9a5643d0800000000000000
+      internalID: -3222788849682514722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_52
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 72
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a856030eaf214b50800000000000000
+      internalID: 6575589355359197347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_53
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 73
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c959c5006a253e9d0800000000000000
+      internalID: -2746260474841754212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_54
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 66
+        width: 19
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c76c733056f1ad0800000000000000
+      internalID: -2729351784668169136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_55
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 68
+        width: 19
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3578f5189c794160800000000000000
+      internalID: 7010271287624365372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_56
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 96
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6782991553e82e90800000000000000
+      internalID: -7050135262007752849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_57
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 70
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed6db16a58d68440800000000000000
+      internalID: 4937871924156788200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_58
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 95
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8c4566a355c6ce0800000000000000
+      internalID: -1410658873960511302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_59
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 71
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc1506fbbe8aadc0800000000000000
+      internalID: -3626929611955954486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_60
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 93
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e33d2a5d4e65e230800000000000000
+      internalID: 3667458750067586018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_61
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 66
+        width: 19
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66fd2e8475f1b9510800000000000000
+      internalID: 1556872555932082022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_62
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 66
+        width: 19
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1eb915ef70fe3880800000000000000
+      internalID: -8629195403900109285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_63
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 66
+        width: 19
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed8a037ad7cb3230800000000000000
+      internalID: 3619706466569194985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_64
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 66
+        width: 19
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af2c11ce3d4b97a0800000000000000
+      internalID: -6369412316062273625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_65
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 69
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4ed114e83988740800000000000000
+      internalID: 5154532012712649934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatbow_66
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 69
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a5f578026addec0800000000000000
+      internalID: -3540491073403004335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

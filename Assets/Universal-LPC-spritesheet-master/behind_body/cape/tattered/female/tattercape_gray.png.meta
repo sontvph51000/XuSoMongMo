@@ -1,0 +1,3430 @@
+fileFormatVersion: 2
+guid: 9c61536bab6784945b9461d5ef7e84aa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3637046712646486248
+    second: tattercape_gray_0
+  - first:
+      213: -5510405094035138804
+    second: tattercape_gray_1
+  - first:
+      213: -4963886455068004753
+    second: tattercape_gray_2
+  - first:
+      213: 2701542135095284905
+    second: tattercape_gray_3
+  - first:
+      213: -6342240395007312179
+    second: tattercape_gray_4
+  - first:
+      213: -2061146399557169730
+    second: tattercape_gray_5
+  - first:
+      213: -3474509261298406880
+    second: tattercape_gray_6
+  - first:
+      213: 4273535685798995640
+    second: tattercape_gray_7
+  - first:
+      213: -7908415215953539768
+    second: tattercape_gray_8
+  - first:
+      213: 1922929039205547735
+    second: tattercape_gray_9
+  - first:
+      213: -2981223260403963531
+    second: tattercape_gray_10
+  - first:
+      213: -9108991047398520484
+    second: tattercape_gray_11
+  - first:
+      213: -6970409593877131393
+    second: tattercape_gray_12
+  - first:
+      213: -2555192304327517089
+    second: tattercape_gray_13
+  - first:
+      213: -2059540438954032194
+    second: tattercape_gray_14
+  - first:
+      213: -4421089321332140256
+    second: tattercape_gray_15
+  - first:
+      213: -6694487975385110900
+    second: tattercape_gray_16
+  - first:
+      213: -1766801739470637971
+    second: tattercape_gray_17
+  - first:
+      213: -3298400848445585678
+    second: tattercape_gray_18
+  - first:
+      213: -2858777213860144010
+    second: tattercape_gray_19
+  - first:
+      213: -5218991562453326221
+    second: tattercape_gray_20
+  - first:
+      213: 607117770899274681
+    second: tattercape_gray_21
+  - first:
+      213: 5876331192501094490
+    second: tattercape_gray_22
+  - first:
+      213: -4103174033659873790
+    second: tattercape_gray_23
+  - first:
+      213: 996457246215911321
+    second: tattercape_gray_24
+  - first:
+      213: -587984106748063150
+    second: tattercape_gray_25
+  - first:
+      213: 7752307810399538466
+    second: tattercape_gray_26
+  - first:
+      213: 3218788259729529242
+    second: tattercape_gray_27
+  - first:
+      213: -1505717223986158592
+    second: tattercape_gray_28
+  - first:
+      213: -5231076436297181417
+    second: tattercape_gray_29
+  - first:
+      213: -5288297786424931555
+    second: tattercape_gray_30
+  - first:
+      213: 790930529708860948
+    second: tattercape_gray_31
+  - first:
+      213: 6713668019224251622
+    second: tattercape_gray_32
+  - first:
+      213: -4707707358868764428
+    second: tattercape_gray_33
+  - first:
+      213: 5532561715847003850
+    second: tattercape_gray_34
+  - first:
+      213: -3937032808666778732
+    second: tattercape_gray_35
+  - first:
+      213: -6165340069746498646
+    second: tattercape_gray_36
+  - first:
+      213: -8868350667124991515
+    second: tattercape_gray_37
+  - first:
+      213: 6974099730088334135
+    second: tattercape_gray_38
+  - first:
+      213: -106524231268015847
+    second: tattercape_gray_39
+  - first:
+      213: 939639374161853257
+    second: tattercape_gray_40
+  - first:
+      213: 7259410075372186246
+    second: tattercape_gray_41
+  - first:
+      213: -600470685220886295
+    second: tattercape_gray_42
+  - first:
+      213: -7054374417140709857
+    second: tattercape_gray_43
+  - first:
+      213: 940971331518896975
+    second: tattercape_gray_44
+  - first:
+      213: -4819888012014619462
+    second: tattercape_gray_45
+  - first:
+      213: -1080663403522121919
+    second: tattercape_gray_46
+  - first:
+      213: -8762410134342502167
+    second: tattercape_gray_47
+  - first:
+      213: -3961847633914112861
+    second: tattercape_gray_48
+  - first:
+      213: 6235855428857942448
+    second: tattercape_gray_49
+  - first:
+      213: -5341335770417655438
+    second: tattercape_gray_50
+  - first:
+      213: 3464180896362116590
+    second: tattercape_gray_51
+  - first:
+      213: 5697996021570848858
+    second: tattercape_gray_52
+  - first:
+      213: -8088421155269026228
+    second: tattercape_gray_53
+  - first:
+      213: -5554788971857419899
+    second: tattercape_gray_54
+  - first:
+      213: -2671230193934482974
+    second: tattercape_gray_55
+  - first:
+      213: 8252108751254203575
+    second: tattercape_gray_56
+  - first:
+      213: 4743479440360913199
+    second: tattercape_gray_57
+  - first:
+      213: -729400243614018132
+    second: tattercape_gray_58
+  - first:
+      213: 2385966486114062277
+    second: tattercape_gray_59
+  - first:
+      213: -6642701238533879340
+    second: tattercape_gray_60
+  - first:
+      213: -6423728341231133547
+    second: tattercape_gray_61
+  - first:
+      213: 7775720320686182083
+    second: tattercape_gray_62
+  - first:
+      213: 1931523837887919473
+    second: tattercape_gray_63
+  - first:
+      213: 200491502907048468
+    second: tattercape_gray_64
+  - first:
+      213: 2660131017113369012
+    second: tattercape_gray_65
+  - first:
+      213: -4921802268421571772
+    second: tattercape_gray_66
+  - first:
+      213: -4308405119234173733
+    second: tattercape_gray_67
+  - first:
+      213: 5144896121423175954
+    second: tattercape_gray_68
+  - first:
+      213: 9035748288949032286
+    second: tattercape_gray_69
+  - first:
+      213: 703064949772506584
+    second: tattercape_gray_70
+  - first:
+      213: 6480599182290767725
+    second: tattercape_gray_71
+  - first:
+      213: 1023709939955177741
+    second: tattercape_gray_72
+  - first:
+      213: -7753041588974389614
+    second: tattercape_gray_73
+  - first:
+      213: -5399059794986570583
+    second: tattercape_gray_74
+  - first:
+      213: 3730328851401945233
+    second: tattercape_gray_75
+  - first:
+      213: -306498280957222414
+    second: tattercape_gray_76
+  - first:
+      213: -5853085885873487954
+    second: tattercape_gray_77
+  - first:
+      213: -6550836464370412770
+    second: tattercape_gray_78
+  - first:
+      213: -5766215466264678674
+    second: tattercape_gray_79
+  - first:
+      213: -5498394243295339545
+    second: tattercape_gray_80
+  - first:
+      213: -5046849631622979907
+    second: tattercape_gray_81
+  - first:
+      213: 1796682733361035457
+    second: tattercape_gray_82
+  - first:
+      213: -4737035625548233683
+    second: tattercape_gray_83
+  - first:
+      213: -1968583895039160085
+    second: tattercape_gray_84
+  - first:
+      213: -1109555607637426992
+    second: tattercape_gray_85
+  - first:
+      213: -3880767148712842462
+    second: tattercape_gray_86
+  - first:
+      213: 1498986632209578278
+    second: tattercape_gray_87
+  - first:
+      213: 5715566627059022564
+    second: tattercape_gray_88
+  - first:
+      213: -7582979780056921658
+    second: tattercape_gray_89
+  - first:
+      213: 1232993049042621595
+    second: tattercape_gray_90
+  - first:
+      213: -8947767815916573970
+    second: tattercape_gray_91
+  - first:
+      213: -607548725957776978
+    second: tattercape_gray_92
+  - first:
+      213: -4241189691531530721
+    second: tattercape_gray_93
+  - first:
+      213: 242356366131125656
+    second: tattercape_gray_94
+  - first:
+      213: 5271247769134334368
+    second: tattercape_gray_95
+  - first:
+      213: -109503821436240593
+    second: tattercape_gray_96
+  - first:
+      213: -3045195982975055868
+    second: tattercape_gray_97
+  - first:
+      213: -8845142420102464809
+    second: tattercape_gray_98
+  - first:
+      213: 9151521211706523025
+    second: tattercape_gray_99
+  - first:
+      213: -3156159640600990516
+    second: tattercape_gray_100
+  - first:
+      213: -4574251528526207546
+    second: tattercape_gray_101
+  - first:
+      213: 1327712204988276423
+    second: tattercape_gray_102
+  - first:
+      213: 8354961807532695245
+    second: tattercape_gray_103
+  - first:
+      213: 2420563811213731008
+    second: tattercape_gray_104
+  - first:
+      213: -5366400515487837592
+    second: tattercape_gray_105
+  - first:
+      213: 1155044222209739873
+    second: tattercape_gray_106
+  - first:
+      213: 5134533281992704683
+    second: tattercape_gray_107
+  - first:
+      213: -3310022298731606876
+    second: tattercape_gray_108
+  - first:
+      213: 3103025737955275399
+    second: tattercape_gray_109
+  - first:
+      213: 6773416170543352146
+    second: tattercape_gray_110
+  - first:
+      213: 2286760144575118674
+    second: tattercape_gray_111
+  - first:
+      213: -7157648070667366777
+    second: tattercape_gray_112
+  - first:
+      213: 2146517391115367700
+    second: tattercape_gray_113
+  - first:
+      213: -3387376279442236501
+    second: tattercape_gray_114
+  - first:
+      213: -1632023243608139950
+    second: tattercape_gray_115
+  - first:
+      213: 3795274241087399550
+    second: tattercape_gray_116
+  - first:
+      213: -7632818769542121781
+    second: tattercape_gray_117
+  - first:
+      213: 3161558151851659257
+    second: tattercape_gray_118
+  - first:
+      213: -5265949151920864825
+    second: tattercape_gray_119
+  - first:
+      213: -2555311956286691798
+    second: tattercape_gray_120
+  - first:
+      213: -5974283070454976308
+    second: tattercape_gray_121
+  - first:
+      213: 8233777740004493828
+    second: tattercape_gray_122
+  - first:
+      213: -7286604386252004108
+    second: tattercape_gray_123
+  - first:
+      213: -365671876610271438
+    second: tattercape_gray_124
+  - first:
+      213: 6119326263369900370
+    second: tattercape_gray_125
+  - first:
+      213: -5383264533318720661
+    second: tattercape_gray_126
+  - first:
+      213: -4401302493841907757
+    second: tattercape_gray_127
+  - first:
+      213: -2067689077609626623
+    second: tattercape_gray_128
+  - first:
+      213: 2845219324358316303
+    second: tattercape_gray_129
+  - first:
+      213: -9158677750820453242
+    second: tattercape_gray_130
+  - first:
+      213: 5750814313720147914
+    second: tattercape_gray_131
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tattercape_gray_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1221
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8173435e84d968dc0800000000000000
+      internalID: -3637046712646486248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1221
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07588923cb1783b0800000000000000
+      internalID: -5510405094035138804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1221
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e6c44a19bbc1bb0800000000000000
+      internalID: -4963886455068004753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1221
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4da1c224ecd7520800000000000000
+      internalID: 2701542135095284905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1221
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dceb47f96f5dbf7a0800000000000000
+      internalID: -6342240395007312179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_5
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1221
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebdc15025465563e0800000000000000
+      internalID: -2061146399557169730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_6
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1221
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ae08f4c3018cfc0800000000000000
+      internalID: -3474509261298406880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_7
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1157
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b621076016ae4b30800000000000000
+      internalID: 4273535685798995640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_8
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1157
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d8bccf24aaf3290800000000000000
+      internalID: -7908415215953539768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_9
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1157
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de3126e5cd9faa10800000000000000
+      internalID: 1922929039205547735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_10
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1157
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5796d776d3190a6d0800000000000000
+      internalID: -2981223260403963531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_11
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1157
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59099567ec569180800000000000000
+      internalID: -9108991047398520484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_12
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1157
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f8af9b761244f90800000000000000
+      internalID: -6970409593877131393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1157
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c1fbf13222a8cd0800000000000000
+      internalID: -2555192304327517089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_14
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1093
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3c797f1ea0b63e0800000000000000
+      internalID: -2059540438954032194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_15
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1093
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02799b9afa225a2c0800000000000000
+      internalID: -4421089321332140256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_16
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1093
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86eb02c7a66813a0800000000000000
+      internalID: -6694487975385110900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_17
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1093
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d647f4acd2f0b77e0800000000000000
+      internalID: -1766801739470637971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_18
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1093
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6cd8d67e9b932d0800000000000000
+      internalID: -3298400848445585678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_19
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1093
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c92eb35459358d0800000000000000
+      internalID: -2858777213860144010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_20
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1093
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376653a43da6297b0800000000000000
+      internalID: -5218991562453326221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_21
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 965
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb374f556aec6800800000000000000
+      internalID: 607117770899274681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_22
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 965
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58439fd51cec8150800000000000000
+      internalID: 5876331192501094490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_23
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 965
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206b818b4f89e07c0800000000000000
+      internalID: -4103174033659873790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_24
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 965
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9973092069024dd00800000000000000
+      internalID: 996457246215911321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_25
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 965
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252d4b7f19f07d7f0800000000000000
+      internalID: -587984106748063150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_26
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 965
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22dc95c41eab59b60800000000000000
+      internalID: 7752307810399538466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_27
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 965
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99506c4ede6bac20800000000000000
+      internalID: 3218788259729529242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_28
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 965
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0042e14992e9a1be0800000000000000
+      internalID: -1505717223986158592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_29
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 901
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717179552bb7767b0800000000000000
+      internalID: -5231076436297181417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_30
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 903
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b48ad8e213c96b0800000000000000
+      internalID: -5288297786424931555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_31
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 902
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416ee415023f9fa00800000000000000
+      internalID: 790930529708860948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_32
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 902
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec03c13e7dbb2d50800000000000000
+      internalID: 6713668019224251622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_33
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 901
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f88220891ddaaeb0800000000000000
+      internalID: -4707707358868764428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_34
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 901
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace7cfa519b97cc40800000000000000
+      internalID: 5532561715847003850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_35
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 901
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493bb521589dc59c0800000000000000
+      internalID: -3937032808666778732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_36
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 902
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa327473fdf407aa0800000000000000
+      internalID: -6165340069746498646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_37
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 837
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e99a660e0a4de480800000000000000
+      internalID: -8868350667124991515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_38
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 837
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733101011caf8c060800000000000000
+      internalID: 6974099730088334135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_39
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 837
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9116c4ba6cc858ef0800000000000000
+      internalID: -106524231268015847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_40
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 837
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b33e948054a0d00800000000000000
+      internalID: 939639374161853257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_41
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 837
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a6375600b9eb460800000000000000
+      internalID: 7259410075372186246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_42
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 837
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8af5dd713baa7f0800000000000000
+      internalID: -600470685220886295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_43
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 837
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1689b1e7d3d91e90800000000000000
+      internalID: -7054374417140709857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_44
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 837
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b9207c0700f0d00800000000000000
+      internalID: 940971331518896975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_45
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 709
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab474b2d3615c1db0800000000000000
+      internalID: -4819888012014619462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_46
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 708
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f9c4f2c56b001f0800000000000000
+      internalID: -1080663403522121919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_47
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 708
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e87b36786aa56680800000000000000
+      internalID: -8762410134342502167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_48
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 709
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4d3565190b409c0800000000000000
+      internalID: -3961847633914112861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_49
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 709
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1d4cb39753a8650800000000000000
+      internalID: 6235855428857942448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_50
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 708
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2711b2a9a63cfd5b0800000000000000
+      internalID: -5341335770417655438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_51
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 708
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5bb55db2e331030800000000000000
+      internalID: 3464180896362116590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_52
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 709
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58c15d3139531f40800000000000000
+      internalID: 5697996021570848858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_53
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 709
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e5f6640d720cf80800000000000000
+      internalID: -8088421155269026228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_54
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 645
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5816e225cdc69e2b0800000000000000
+      internalID: -5554788971857419899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_55
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 647
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1cc399a42edead0800000000000000
+      internalID: -2671230193934482974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_56
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 647
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc266e0031658270800000000000000
+      internalID: 8252108751254203575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_57
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 646
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29b4124b6934d140800000000000000
+      internalID: 4743479440360913199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_58
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 645
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca59d4cc756a0e5f0800000000000000
+      internalID: -729400243614018132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_59
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 647
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cfc0d2b0e7ac1120800000000000000
+      internalID: 2385966486114062277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_60
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 647
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d904280b6260d3a0800000000000000
+      internalID: -6642701238533879340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_61
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 646
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c1f47ab155ad6a0800000000000000
+      internalID: -6423728341231133547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_62
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 645
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce49432f68e8eb60800000000000000
+      internalID: 7775720320686182083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_63
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 581
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175328862b62eca10800000000000000
+      internalID: 1931523837887919473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_64
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 580
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412424ba5f948c200800000000000000
+      internalID: 200491502907048468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_65
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 580
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b97a0be01faae420800000000000000
+      internalID: 2660131017113369012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_66
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 581
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b3508e9ee32bbb0800000000000000
+      internalID: -4921802268421571772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_67
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 581
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd49297fe587534c0800000000000000
+      internalID: -4308405119234173733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_68
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 580
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211a6bb73c7566740800000000000000
+      internalID: 5144896121423175954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_69
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 580
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5596a2023d656d70800000000000000
+      internalID: 9035748288949032286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_70
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 581
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5d739c8d9c1c900800000000000000
+      internalID: 703064949772506584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_71
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 581
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6fc020ee96bfe950800000000000000
+      internalID: 6480599182290767725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_72
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 453
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09901c34c2f43e00800000000000000
+      internalID: 1023709939955177741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_73
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 451
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296f95090c9a76490800000000000000
+      internalID: -7753041588974389614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_74
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 452
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac6bbec8bfa215b0800000000000000
+      internalID: -5399059794986570583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_75
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 453
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1903433835ac4c330800000000000000
+      internalID: 3730328851401945233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_76
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 454
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1e647ff691fbbf0800000000000000
+      internalID: -306498280957222414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_77
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 454
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf78a4d569a5cea0800000000000000
+      internalID: -5853085885873487954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_78
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 389
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13968781f0c615a0800000000000000
+      internalID: -6550836464370412770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_79
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 389
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee2eea85994affa0800000000000000
+      internalID: -5766215466264678674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_80
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 390
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb14554197c1b3b0800000000000000
+      internalID: -5498394243295339545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_81
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 391
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe1d48dffcf5f9b0800000000000000
+      internalID: -5046849631622979907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_82
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 391
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8ff004d691fe810800000000000000
+      internalID: 1796682733361035457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_83
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 391
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24c3da423ba24eb0800000000000000
+      internalID: -4737035625548233683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_84
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 325
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0d2a1a06f2ea4e0800000000000000
+      internalID: -1968583895039160085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_85
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 323
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc7a34bd011a90f0800000000000000
+      internalID: -1109555607637426992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_86
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 324
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b27f4e6deb42ac0800000000000000
+      internalID: -3880767148712842462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_87
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 325
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62939e766687dc410800000000000000
+      internalID: 1498986632209578278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_88
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 326
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea3eef9095c15f40800000000000000
+      internalID: 5715566627059022564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_89
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 326
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9ccbef018d3c690800000000000000
+      internalID: -7582979780056921658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_90
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 197
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9416ba35a87c1110800000000000000
+      internalID: 1232993049042621595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_91
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 197
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeaae97249423d380800000000000000
+      internalID: -8947767815916573970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_92
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 197
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9ab8517ad8197f0800000000000000
+      internalID: -607548725957776978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_93
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 195
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ee63342744425c0800000000000000
+      internalID: -4241189691531530721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_94
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 197
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ddc48b4d50d5300800000000000000
+      internalID: 242356366131125656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_95
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 197
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a18252faeb372940800000000000000
+      internalID: 5271247769134334368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_96
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 197
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2dbeb5cad6fa7ef0800000000000000
+      internalID: -109503821436240593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_97
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 197
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408435b336a4db5d0800000000000000
+      internalID: -3045195982975055868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_98
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 197
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dabd0e15ddbf3580800000000000000
+      internalID: -8845142420102464809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_99
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 197
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d38322e0cb00f70800000000000000
+      internalID: 9151521211706523025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_100
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 197
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cccad8767811334d0800000000000000
+      internalID: -3156159640600990516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_101
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 197
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c568e0687ef480c0800000000000000
+      internalID: -4574251528526207546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_102
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 197
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ced646473bfc6210800000000000000
+      internalID: 1327712204988276423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_103
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 133
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce11f95f79c2f370800000000000000
+      internalID: 8354961807532695245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_104
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 135
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c46f8b26f1979120800000000000000
+      internalID: 2420563811213731008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_105
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 134
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862dfdfd927b685b0800000000000000
+      internalID: -5366400515487837592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_106
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 133
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ccda4b99a870010800000000000000
+      internalID: 1155044222209739873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_107
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 133
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba28898e0d6814740800000000000000
+      internalID: 5134533281992704683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_108
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 133
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac0b7da1407012d0800000000000000
+      internalID: -3310022298731606876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_109
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 133
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782f7b7d779201b20800000000000000
+      internalID: 3103025737955275399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_110
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 132
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2598f19be12000e50800000000000000
+      internalID: 6773416170543352146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_111
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 133
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25dbbe75c343cbf10800000000000000
+      internalID: 2286760144575118674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_112
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 133
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e8c98a00deaac90800000000000000
+      internalID: -7157648070667366777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_113
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 133
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41531a9c136f9cd10800000000000000
+      internalID: 2146517391115367700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_114
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 133
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: babd24f883f9df0d0800000000000000
+      internalID: -3387376279442236501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_115
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 133
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2575e8bb183e959e0800000000000000
+      internalID: -1632023243608139950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_116
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 69
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76643560d58ba430800000000000000
+      internalID: 3795274241087399550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_117
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 69
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6f18ef4c7c21690800000000000000
+      internalID: -7632818769542121781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_118
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 69
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ffcbd1736c10eb20800000000000000
+      internalID: 3161558151851659257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_119
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 67
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1cc7285279be6b0800000000000000
+      internalID: -5265949151920864825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_120
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 69
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26293b7055b98cd0800000000000000
+      internalID: -2555311956286691798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_121
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 69
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0b6e55335171da0800000000000000
+      internalID: -5974283070454976308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_122
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 69
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a8c78ea31444270800000000000000
+      internalID: 8233777740004493828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_123
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 69
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f465a2bae7c0ea90800000000000000
+      internalID: -7286604386252004108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_124
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 69
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2375b4a9d5fdceaf0800000000000000
+      internalID: -365671876610271438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_125
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 69
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251a1e0a0d63ce450800000000000000
+      internalID: 6119326263369900370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_126
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 69
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63249fbd6dca45b0800000000000000
+      internalID: -5383264533318720661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_127
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 69
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df138173be6be2c0800000000000000
+      internalID: -4401302493841907757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_128
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 69
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1048f1f2db71e43e0800000000000000
+      internalID: -2067689077609626623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_129
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 4
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f015470a6ef3c7720800000000000000
+      internalID: 2845219324358316303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_130
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 7
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684c2124c17d5e080800000000000000
+      internalID: -9158677750820453242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattercape_gray_131
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 4
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf6582362ffecf40800000000000000
+      internalID: 5750814313720147914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

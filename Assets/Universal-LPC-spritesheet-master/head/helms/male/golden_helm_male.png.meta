@@ -1,0 +1,4430 @@
+fileFormatVersion: 2
+guid: 87daf030bccabae4c9564c7f0f941ff9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5821679844792680029
+    second: golden_helm_male_0
+  - first:
+      213: 2494702645828098797
+    second: golden_helm_male_1
+  - first:
+      213: 1450396401566244166
+    second: golden_helm_male_2
+  - first:
+      213: 5738686484165764099
+    second: golden_helm_male_3
+  - first:
+      213: 3784499542562365957
+    second: golden_helm_male_4
+  - first:
+      213: -8575915672862710403
+    second: golden_helm_male_5
+  - first:
+      213: -1424255996848807822
+    second: golden_helm_male_6
+  - first:
+      213: -757942794208770137
+    second: golden_helm_male_7
+  - first:
+      213: 8926354697434470839
+    second: golden_helm_male_8
+  - first:
+      213: -6728798315293414091
+    second: golden_helm_male_9
+  - first:
+      213: 6841680847305039537
+    second: golden_helm_male_10
+  - first:
+      213: -8257859951580501002
+    second: golden_helm_male_11
+  - first:
+      213: 5242065822514419403
+    second: golden_helm_male_12
+  - first:
+      213: -883994529147530935
+    second: golden_helm_male_13
+  - first:
+      213: 3962273395171502950
+    second: golden_helm_male_14
+  - first:
+      213: -2578039744212359900
+    second: golden_helm_male_15
+  - first:
+      213: 6368590582415725923
+    second: golden_helm_male_16
+  - first:
+      213: -1319121813028410469
+    second: golden_helm_male_17
+  - first:
+      213: 7363066524448264427
+    second: golden_helm_male_18
+  - first:
+      213: 1481358874725417870
+    second: golden_helm_male_19
+  - first:
+      213: -3350431268088405449
+    second: golden_helm_male_20
+  - first:
+      213: 8060639057905186352
+    second: golden_helm_male_21
+  - first:
+      213: 405892420670583716
+    second: golden_helm_male_22
+  - first:
+      213: -2125428122297491904
+    second: golden_helm_male_23
+  - first:
+      213: 5097738139258681873
+    second: golden_helm_male_24
+  - first:
+      213: -5159883582256112483
+    second: golden_helm_male_25
+  - first:
+      213: 2767738356760521060
+    second: golden_helm_male_26
+  - first:
+      213: -4994567472914666068
+    second: golden_helm_male_27
+  - first:
+      213: -2928418154200808499
+    second: golden_helm_male_28
+  - first:
+      213: -8900948959827351481
+    second: golden_helm_male_29
+  - first:
+      213: 5290433086288039343
+    second: golden_helm_male_30
+  - first:
+      213: -6979387423431554355
+    second: golden_helm_male_31
+  - first:
+      213: -3394607147556234405
+    second: golden_helm_male_32
+  - first:
+      213: 8139474908236767774
+    second: golden_helm_male_33
+  - first:
+      213: -5026187381675704424
+    second: golden_helm_male_34
+  - first:
+      213: -4208859124492042757
+    second: golden_helm_male_35
+  - first:
+      213: 4327407349526652460
+    second: golden_helm_male_36
+  - first:
+      213: -1242184443704607167
+    second: golden_helm_male_37
+  - first:
+      213: 6234919234592923652
+    second: golden_helm_male_38
+  - first:
+      213: 1503165546368116065
+    second: golden_helm_male_39
+  - first:
+      213: 424248724711529633
+    second: golden_helm_male_40
+  - first:
+      213: 7292949017903530180
+    second: golden_helm_male_41
+  - first:
+      213: -4912676214573438463
+    second: golden_helm_male_42
+  - first:
+      213: -1337290742218521835
+    second: golden_helm_male_43
+  - first:
+      213: -1488481325202700762
+    second: golden_helm_male_44
+  - first:
+      213: -7805551684341978966
+    second: golden_helm_male_45
+  - first:
+      213: 6669029706799568325
+    second: golden_helm_male_46
+  - first:
+      213: 7604645423798547908
+    second: golden_helm_male_47
+  - first:
+      213: -1344632403320163025
+    second: golden_helm_male_48
+  - first:
+      213: 9177690162149706753
+    second: golden_helm_male_49
+  - first:
+      213: -5638850568286574936
+    second: golden_helm_male_50
+  - first:
+      213: -4075701810653508794
+    second: golden_helm_male_51
+  - first:
+      213: 5247646362873662263
+    second: golden_helm_male_52
+  - first:
+      213: 3043270582159008532
+    second: golden_helm_male_53
+  - first:
+      213: -8559097012356867979
+    second: golden_helm_male_54
+  - first:
+      213: -2282678363945194284
+    second: golden_helm_male_55
+  - first:
+      213: 2948078571228158508
+    second: golden_helm_male_56
+  - first:
+      213: -1021615538283800205
+    second: golden_helm_male_57
+  - first:
+      213: -8408574678634549099
+    second: golden_helm_male_58
+  - first:
+      213: -8648152934710292496
+    second: golden_helm_male_59
+  - first:
+      213: -1547946027205524406
+    second: golden_helm_male_60
+  - first:
+      213: -5058900877842147235
+    second: golden_helm_male_61
+  - first:
+      213: 2448214742665864808
+    second: golden_helm_male_62
+  - first:
+      213: -2641744381904483281
+    second: golden_helm_male_63
+  - first:
+      213: -3182751552033892068
+    second: golden_helm_male_64
+  - first:
+      213: -2158933605655421736
+    second: golden_helm_male_65
+  - first:
+      213: 6091050079298973869
+    second: golden_helm_male_66
+  - first:
+      213: 3969033864671483318
+    second: golden_helm_male_67
+  - first:
+      213: -2777484892169313513
+    second: golden_helm_male_68
+  - first:
+      213: 887060728556268955
+    second: golden_helm_male_69
+  - first:
+      213: -3172381232111586273
+    second: golden_helm_male_70
+  - first:
+      213: -4218112267577211324
+    second: golden_helm_male_71
+  - first:
+      213: -8274927887320856442
+    second: golden_helm_male_72
+  - first:
+      213: -1853850361167825361
+    second: golden_helm_male_73
+  - first:
+      213: 5113465385567638552
+    second: golden_helm_male_74
+  - first:
+      213: 1825144686161074691
+    second: golden_helm_male_75
+  - first:
+      213: -4082551679648812505
+    second: golden_helm_male_76
+  - first:
+      213: 5822451541291630905
+    second: golden_helm_male_77
+  - first:
+      213: -8199609980892154921
+    second: golden_helm_male_78
+  - first:
+      213: 750813649395212356
+    second: golden_helm_male_79
+  - first:
+      213: -1422900762996020231
+    second: golden_helm_male_80
+  - first:
+      213: -1381068850421063778
+    second: golden_helm_male_81
+  - first:
+      213: -4717312329791145786
+    second: golden_helm_male_82
+  - first:
+      213: 917706015391809475
+    second: golden_helm_male_83
+  - first:
+      213: -5819676793021338778
+    second: golden_helm_male_84
+  - first:
+      213: 7628575999418025256
+    second: golden_helm_male_85
+  - first:
+      213: 4998298995215960816
+    second: golden_helm_male_86
+  - first:
+      213: 6753242690337259657
+    second: golden_helm_male_87
+  - first:
+      213: 8685858236298719580
+    second: golden_helm_male_88
+  - first:
+      213: 1619220007537795897
+    second: golden_helm_male_89
+  - first:
+      213: -4328552959626149909
+    second: golden_helm_male_90
+  - first:
+      213: 4398939962318615878
+    second: golden_helm_male_91
+  - first:
+      213: 3386326620141098625
+    second: golden_helm_male_92
+  - first:
+      213: 2850713124580134060
+    second: golden_helm_male_93
+  - first:
+      213: 2416081241675910774
+    second: golden_helm_male_94
+  - first:
+      213: 7102168403984426976
+    second: golden_helm_male_95
+  - first:
+      213: 2067626185175662062
+    second: golden_helm_male_96
+  - first:
+      213: -7161217919330919084
+    second: golden_helm_male_97
+  - first:
+      213: -8446019782215099214
+    second: golden_helm_male_98
+  - first:
+      213: 2977695315326221789
+    second: golden_helm_male_99
+  - first:
+      213: -1594757546310777297
+    second: golden_helm_male_100
+  - first:
+      213: 1275637576596260153
+    second: golden_helm_male_101
+  - first:
+      213: 2001076178330926193
+    second: golden_helm_male_102
+  - first:
+      213: -6564231483764086117
+    second: golden_helm_male_103
+  - first:
+      213: 3656880818936944824
+    second: golden_helm_male_104
+  - first:
+      213: 2765081118753417413
+    second: golden_helm_male_105
+  - first:
+      213: 1530011730277977435
+    second: golden_helm_male_106
+  - first:
+      213: 8850087011649303554
+    second: golden_helm_male_107
+  - first:
+      213: -2480080379391755790
+    second: golden_helm_male_108
+  - first:
+      213: 7737642275192003791
+    second: golden_helm_male_109
+  - first:
+      213: -523238736857895407
+    second: golden_helm_male_110
+  - first:
+      213: -6972532279600066169
+    second: golden_helm_male_111
+  - first:
+      213: -4053219119278885304
+    second: golden_helm_male_112
+  - first:
+      213: 5000513768867722233
+    second: golden_helm_male_113
+  - first:
+      213: -9054386537918957668
+    second: golden_helm_male_114
+  - first:
+      213: -8943596413932879226
+    second: golden_helm_male_115
+  - first:
+      213: 6960750243318186189
+    second: golden_helm_male_116
+  - first:
+      213: -2054827975093490847
+    second: golden_helm_male_117
+  - first:
+      213: -5707794406736984136
+    second: golden_helm_male_118
+  - first:
+      213: -811172292005614736
+    second: golden_helm_male_119
+  - first:
+      213: 2038363329466449202
+    second: golden_helm_male_120
+  - first:
+      213: 428162230876120425
+    second: golden_helm_male_121
+  - first:
+      213: 4415537766746584928
+    second: golden_helm_male_122
+  - first:
+      213: -5968300276836641003
+    second: golden_helm_male_123
+  - first:
+      213: -3031261782393396839
+    second: golden_helm_male_124
+  - first:
+      213: -5795909691408749958
+    second: golden_helm_male_125
+  - first:
+      213: 2028307342883893291
+    second: golden_helm_male_126
+  - first:
+      213: 2322414068562179922
+    second: golden_helm_male_127
+  - first:
+      213: 5551237248975605515
+    second: golden_helm_male_128
+  - first:
+      213: -9022510894257333925
+    second: golden_helm_male_129
+  - first:
+      213: -6043220784252635901
+    second: golden_helm_male_130
+  - first:
+      213: -8321724743205384061
+    second: golden_helm_male_131
+  - first:
+      213: 6870430856894527862
+    second: golden_helm_male_132
+  - first:
+      213: 8583265299488519029
+    second: golden_helm_male_133
+  - first:
+      213: 3836276741250102923
+    second: golden_helm_male_134
+  - first:
+      213: -2445683226761338487
+    second: golden_helm_male_135
+  - first:
+      213: 691848556613386656
+    second: golden_helm_male_136
+  - first:
+      213: -6935722922962825779
+    second: golden_helm_male_137
+  - first:
+      213: 5878922950943894766
+    second: golden_helm_male_138
+  - first:
+      213: 4723885984702744368
+    second: golden_helm_male_139
+  - first:
+      213: -1114362968135407475
+    second: golden_helm_male_140
+  - first:
+      213: 5971023698025745933
+    second: golden_helm_male_141
+  - first:
+      213: -2913109805173558558
+    second: golden_helm_male_142
+  - first:
+      213: 836832620477264443
+    second: golden_helm_male_143
+  - first:
+      213: 3129990576109413672
+    second: golden_helm_male_144
+  - first:
+      213: -1955744870693305773
+    second: golden_helm_male_145
+  - first:
+      213: 3241083021347394452
+    second: golden_helm_male_146
+  - first:
+      213: 6560753095362699043
+    second: golden_helm_male_147
+  - first:
+      213: 8957881546916835949
+    second: golden_helm_male_148
+  - first:
+      213: 7798161504319557981
+    second: golden_helm_male_149
+  - first:
+      213: -4158021181127732368
+    second: golden_helm_male_150
+  - first:
+      213: -7537473694553323963
+    second: golden_helm_male_151
+  - first:
+      213: 1516642735455773096
+    second: golden_helm_male_152
+  - first:
+      213: -2587167820598410100
+    second: golden_helm_male_153
+  - first:
+      213: -1911002500737815962
+    second: golden_helm_male_154
+  - first:
+      213: -5893528075123549268
+    second: golden_helm_male_155
+  - first:
+      213: -5095637942385022074
+    second: golden_helm_male_156
+  - first:
+      213: -7653901148025680715
+    second: golden_helm_male_157
+  - first:
+      213: 3385409342566954265
+    second: golden_helm_male_158
+  - first:
+      213: -1929941241016505439
+    second: golden_helm_male_159
+  - first:
+      213: 9041137084868404388
+    second: golden_helm_male_160
+  - first:
+      213: -5462384497601760113
+    second: golden_helm_male_161
+  - first:
+      213: -8866193229595552332
+    second: golden_helm_male_162
+  - first:
+      213: -926925927671995886
+    second: golden_helm_male_163
+  - first:
+      213: -2297026854495840295
+    second: golden_helm_male_164
+  - first:
+      213: -162022448360621176
+    second: golden_helm_male_165
+  - first:
+      213: -3495040458372235211
+    second: golden_helm_male_166
+  - first:
+      213: -8846766541744387750
+    second: golden_helm_male_167
+  - first:
+      213: 8328134128414878086
+    second: golden_helm_male_168
+  - first:
+      213: 4157031709218687493
+    second: golden_helm_male_169
+  - first:
+      213: -7976426893389533053
+    second: golden_helm_male_170
+  - first:
+      213: -8055685614959903689
+    second: golden_helm_male_171
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: golden_helm_male_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1305
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e3be869f2cac050800000000000000
+      internalID: 5821679844792680029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1305
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea9fc0c6d6fe9220800000000000000
+      internalID: 2494702645828098797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1305
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d5cdab7d7d02410800000000000000
+      internalID: 1450396401566244166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1305
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3042906d3f8e3af40800000000000000
+      internalID: 5738686484165764099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_4
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1305
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502ee07684e358430800000000000000
+      internalID: 3784499542562365957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_5
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1305
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d752057f12a3cf880800000000000000
+      internalID: -8575915672862710403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_6
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1305
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2706b9687b60c3ce0800000000000000
+      internalID: -1424255996848807822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1243
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a78e1f5b0f3b75f0800000000000000
+      internalID: -757942794208770137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_8
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1243
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b998bfad48c0eb70800000000000000
+      internalID: 8926354697434470839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_9
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1243
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d60bb35918e92a0800000000000000
+      internalID: -6728798315293414091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1243
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bed53a5b7882fe50800000000000000
+      internalID: 6841680847305039537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_11
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1243
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fbae154020366d80800000000000000
+      internalID: -8257859951580501002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_12
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1243
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc61038871f8fb840800000000000000
+      internalID: 5242065822514419403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_13
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1243
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941d5cac8ab6bb3f0800000000000000
+      internalID: -883994529147530935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_14
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1178
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66bad2ee8a2dcf630800000000000000
+      internalID: 3962273395171502950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_15
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1178
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425226df286f83cd0800000000000000
+      internalID: -2578039744212359900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_16
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1178
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36599c87467c16850800000000000000
+      internalID: 6368590582415725923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_17
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1178
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9be8f633b981bde0800000000000000
+      internalID: -1319121813028410469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_18
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1178
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be01f472efdde2660800000000000000
+      internalID: 7363066524448264427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_19
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1178
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8381e84c08de8410800000000000000
+      internalID: 1481358874725417870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_20
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1178
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732aa355380e081d0800000000000000
+      internalID: -3350431268088405449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_21
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1115
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036f31d14842ddf60800000000000000
+      internalID: 8060639057905186352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_22
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1115
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3f71f810502a500800000000000000
+      internalID: 405892420670583716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_23
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1115
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e15de3266f082e0800000000000000
+      internalID: -2125428122297491904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_24
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1115
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a797424ddceb640800000000000000
+      internalID: 5097738139258681873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_25
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1115
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c114d58396468b0800000000000000
+      internalID: -5159883582256112483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_26
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1115
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4692fe11f5bf86620800000000000000
+      internalID: 2767738356760521060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_27
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1115
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad6332885bbfaab0800000000000000
+      internalID: -4994567472914666068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_28
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1049
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc34e05443b2c57d0800000000000000
+      internalID: -2928418154200808499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_29
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1048
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748ab9d841a797480800000000000000
+      internalID: -8900948959827351481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_30
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1049
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad0c20bcd46b6940800000000000000
+      internalID: 5290433086288039343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_31
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1049
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca8884ed1c342f90800000000000000
+      internalID: -6979387423431554355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_32
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1048
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b98e1e8cee3e0d0800000000000000
+      internalID: -3394607147556234405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_33
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1048
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1268a3ed4935f070800000000000000
+      internalID: 8139474908236767774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_34
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1048
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f3bacc4356f3ab0800000000000000
+      internalID: -5026187381675704424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_35
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1049
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd7dfefce02795c0800000000000000
+      internalID: -4208859124492042757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_36
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 987
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2663fa8e0a0e0c30800000000000000
+      internalID: 4327407349526652460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_37
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 987
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e787f64dfd2cee0800000000000000
+      internalID: -1242184443704607167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_38
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 987
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40069258202e68650800000000000000
+      internalID: 6234919234592923652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_39
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 987
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165a0eda9115cd410800000000000000
+      internalID: 1503165546368116065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_40
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 987
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1acd7d4a7fb33e500800000000000000
+      internalID: 424248724711529633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_41
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 987
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c08c29fd72c53560800000000000000
+      internalID: 7292949017903530180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_42
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 987
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ae6d5e20ba2dbb0800000000000000
+      internalID: -4912676214573438463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_43
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 987
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51385acb72df07de0800000000000000
+      internalID: -1337290742218521835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_44
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 922
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6268d7cfe1ad75be0800000000000000
+      internalID: -1488481325202700762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_45
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 922
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa828d2491c1da390800000000000000
+      internalID: -7805551684341978966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_46
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 922
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5d05e2f272d8c50800000000000000
+      internalID: 6669029706799568325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_47
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 922
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5ff48c8b0298960800000000000000
+      internalID: 7604645423798547908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_48
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 921
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f253f9e04f7e65de0800000000000000
+      internalID: -1344632403320163025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_49
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 921
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10cc785b394bd5f70800000000000000
+      internalID: 9177690162149706753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_50
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 921
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6e4c7b847ceb1b0800000000000000
+      internalID: -5638850568286574936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_51
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 922
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64bc4951cc23077c0800000000000000
+      internalID: -4075701810653508794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_52
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 859
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b84f5509263d840800000000000000
+      internalID: 5247646362873662263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_53
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 859
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413ebf4787edb3a20800000000000000
+      internalID: 3043270582159008532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_54
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 859
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5789c548d9af73980800000000000000
+      internalID: -8559097012356867979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_55
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 859
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dca3944f1c4250e0800000000000000
+      internalID: -2282678363945194284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_56
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 859
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2adef747dda9e820800000000000000
+      internalID: 2948078571228158508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_57
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 859
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3791397a41e72d1f0800000000000000
+      internalID: -1021615538283800205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_58
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 859
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590b4ac51edbe4b80800000000000000
+      internalID: -8408574678634549099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_59
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 859
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff475bc9b69bf780800000000000000
+      internalID: -8648152934710292496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_60
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 794
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4400f42a47948ae0800000000000000
+      internalID: -1547946027205524406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_61
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 794
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d589e4e647c2bc9b0800000000000000
+      internalID: -5058900877842147235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_62
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 794
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8662976565ec9f120800000000000000
+      internalID: 2448214742665864808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_63
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 793
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c03313b73a65bd0800000000000000
+      internalID: -2641744381904483281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_64
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 794
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1952bc835894d3d0800000000000000
+      internalID: -3182751552033892068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_65
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 794
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc514df25de902e0800000000000000
+      internalID: -2158933605655421736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_66
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 794
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0fabd76c1c78450800000000000000
+      internalID: 6091050079298973869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_67
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 793
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b55d356547d41730800000000000000
+      internalID: 3969033864671483318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_68
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 794
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713eb31d4346479d0800000000000000
+      internalID: -2777484892169313513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_69
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 731
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9dabc368097f4c00800000000000000
+      internalID: 887060728556268955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_70
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 730
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f147fdfc31079f3d0800000000000000
+      internalID: -3172381232111586273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_71
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 731
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446c75cbd314675c0800000000000000
+      internalID: -4218112267577211324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_72
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 731
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688444ecdec892d80800000000000000
+      internalID: -8274927887320856442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_73
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 731
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26bcdb2becc546e0800000000000000
+      internalID: -1853850361167825361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_74
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 730
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814d3060dada6f640800000000000000
+      internalID: 5113465385567638552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_75
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 731
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a925a0c67345910800000000000000
+      internalID: 1825144686161074691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_76
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 731
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722bb5da0ecd757c0800000000000000
+      internalID: -4082551679648812505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_77
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 731
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9310d9004d08dc050800000000000000
+      internalID: 5822451541291630905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_78
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 666
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3fc207a22253e80800000000000000
+      internalID: -8199609980892154921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_79
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 666
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44067b0490d6b6a00800000000000000
+      internalID: 750813649395212356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_80
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 666
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb6dfe7b47d04ce0800000000000000
+      internalID: -1422900762996020231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_81
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 665
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f9b40a23575dce0800000000000000
+      internalID: -1381068850421063778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_82
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 666
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c87a30fd6db88eb0800000000000000
+      internalID: -4717312329791145786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_83
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 666
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cffaaf32c85cbc00800000000000000
+      internalID: 917706015391809475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_84
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 666
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66be06c6aca5c3fa0800000000000000
+      internalID: -5819676793021338778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_85
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 665
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825c16b14752ed960800000000000000
+      internalID: 7628575999418025256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_86
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 666
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa0a0b34768d5540800000000000000
+      internalID: 4998298995215960816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_87
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 603
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9804e87527658bd50800000000000000
+      internalID: 6753242690337259657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_88
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 602
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c517cf7db0e5a8870800000000000000
+      internalID: 8685858236298719580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_89
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 603
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933ee729400a87610800000000000000
+      internalID: 1619220007537795897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_90
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 603
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef74025404ede3c0800000000000000
+      internalID: -4328552959626149909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_91
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 603
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6457542d69c2c0d30800000000000000
+      internalID: 4398939962318615878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_92
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 602
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18695f69e16aefe20800000000000000
+      internalID: 3386326620141098625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_93
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 603
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac842bab74cf8720800000000000000
+      internalID: 2850713124580134060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_94
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 603
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ec39e9615a78120800000000000000
+      internalID: 2416081241675910774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_95
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 603
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7ae76d888ff8260800000000000000
+      internalID: 7102168403984426976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_96
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 537
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eedf0b78f0fa1bc10800000000000000
+      internalID: 2067626185175662062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_97
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 536
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d5e1f7e3e3e9c90800000000000000
+      internalID: -7161217919330919084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_98
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 536
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc952bc1c5b9ca80800000000000000
+      internalID: -8446019782215099214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_99
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 537
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd3d5fdc16e25920800000000000000
+      internalID: 2977695315326221789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_100
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 537
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26c54506784ed9e0800000000000000
+      internalID: -1594757546310777297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_101
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 537
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93509270e99f3b110800000000000000
+      internalID: 1275637576596260153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_102
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 475
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c39e99e2045cb10800000000000000
+      internalID: 2001076178330926193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_103
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 473
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a6eca8e3a27e4a0800000000000000
+      internalID: -6564231483764086117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_104
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 475
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b81da6dab9dfb230800000000000000
+      internalID: 3656880818936944824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_105
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 475
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8ef62a0aa8f5620800000000000000
+      internalID: 2765081118753417413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_106
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 475
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d4665ff81bb3510800000000000000
+      internalID: 1530011730277977435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_107
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 475
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204b7a05f33d1da70800000000000000
+      internalID: 8850087011649303554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_108
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 410
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f930f3f80cf49dd0800000000000000
+      internalID: -2480080379391755790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_109
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 410
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc5ddb47a0a16b60800000000000000
+      internalID: 7737642275192003791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_110
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 408
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e6cdc14251db8f0800000000000000
+      internalID: -523238736857895407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_111
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 409
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7815e7175d69c3f90800000000000000
+      internalID: -6972532279600066169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_112
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 410
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8467f869fa210c7c0800000000000000
+      internalID: -4053219119278885304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_113
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 410
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f37fc767c4656540800000000000000
+      internalID: 5000513768867722233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_114
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 347
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97f24c7a6b585280800000000000000
+      internalID: -9054386537918957668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_115
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 345
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682c21d5276f1e380800000000000000
+      internalID: -8943596413932879226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_116
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 347
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0c137777d899060800000000000000
+      internalID: 6960750243318186189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_117
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 347
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b6406f7d8cb73e0800000000000000
+      internalID: -2054827975093490847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_118
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 347
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b70b7f6a37d9c0b0800000000000000
+      internalID: -5707794406736984136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_119
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 347
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07bad5329132eb4f0800000000000000
+      internalID: -811172292005614736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_120
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 281
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23db70006a8b94c10800000000000000
+      internalID: 2038363329466449202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_121
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 280
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9652c9dc74321f500800000000000000
+      internalID: 428162230876120425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_122
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 281
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067704f4434274d30800000000000000
+      internalID: 4415537766746584928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_123
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 281
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517594605865c2da0800000000000000
+      internalID: -5968300276836641003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_124
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 281
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991693f187bcee5d0800000000000000
+      internalID: -3031261782393396839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_125
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 281
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a665df7dac09fa0800000000000000
+      internalID: -5795909691408749958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_126
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 281
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2039eb28cef52c10800000000000000
+      internalID: 2028307342883893291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_127
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 281
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257b40a6a4fda3020800000000000000
+      internalID: 2322414068562179922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_128
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 281
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f8b11cdd4f90d40800000000000000
+      internalID: 5551237248975605515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_129
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 281
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5913bd152a99c280800000000000000
+      internalID: -9022510894257333925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_130
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 281
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3053d5f07ba222ca0800000000000000
+      internalID: -6043220784252635901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_131
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 281
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3801aaabf6b438c80800000000000000
+      internalID: -8321724743205384061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_132
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 281
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679b417967ca85f50800000000000000
+      internalID: 6870430856894527862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_133
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 219
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57333f45052ed1770800000000000000
+      internalID: 8583265299488519029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_134
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 219
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b863e46ee513d3530800000000000000
+      internalID: 3836276741250102923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_135
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 219
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98162c320103f0ed0800000000000000
+      internalID: -2445683226761338487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_136
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 219
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1ce4fb890f99900800000000000000
+      internalID: 691848556613386656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_137
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 219
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd4444afbc5fbf90800000000000000
+      internalID: -6935722922962825779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_138
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 219
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eece6e8a641269150800000000000000
+      internalID: 5878922950943894766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_139
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 219
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03747ad564d9e8140800000000000000
+      internalID: 4723885984702744368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_140
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 219
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88607dd8ccf880f0800000000000000
+      internalID: -1114362968135407475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_141
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 219
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e8342ea665dd250800000000000000
+      internalID: 5971023698025745933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_142
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 219
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e23ce6011e8297d0800000000000000
+      internalID: -2913109805173558558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_143
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 219
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32b108a5d60d9b00800000000000000
+      internalID: 836832620477264443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_144
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 219
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825625778d5ff6b20800000000000000
+      internalID: 3129990576109413672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_145
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 219
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352880fe66ccbd4e0800000000000000
+      internalID: -1955744870693305773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_146
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 154
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49316fef5d3aafc20800000000000000
+      internalID: 3241083021347394452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_147
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 154
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f532c0e2a7c0b50800000000000000
+      internalID: 6560753095362699043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_148
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 154
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6231085ec9c05c70800000000000000
+      internalID: 8957881546916835949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_149
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 154
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51d71e5292a83c60800000000000000
+      internalID: 7798161504319557981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_150
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 154
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073d45214cdbb46c0800000000000000
+      internalID: -4158021181127732368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_151
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 154
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5464c4c2c93856790800000000000000
+      internalID: -7537473694553323963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_152
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 154
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1a40a48823c0510800000000000000
+      internalID: 1516642735455773096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_153
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 154
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8409e61398881cd0800000000000000
+      internalID: -2587167820598410100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_154
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 154
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66aa3aab951ca75e0800000000000000
+      internalID: -1911002500737815962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_155
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 154
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab1870e07bf53ea0800000000000000
+      internalID: -5893528075123549268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_156
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 154
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b632c0a48a849b0800000000000000
+      internalID: -5095637942385022074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_157
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 154
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc89fd3571e7c590800000000000000
+      internalID: -7653901148025680715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_158
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 154
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915fdf24cd36bfe20800000000000000
+      internalID: 3385409342566954265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_159
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 91
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aba5d3aaa87735e0800000000000000
+      internalID: -1929941241016505439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_160
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 91
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a42135d642987d70800000000000000
+      internalID: 9041137084868404388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_161
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 91
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84b8d98d36b134b0800000000000000
+      internalID: -5462384497601760113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_162
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 91
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5dbf79b34f4f480800000000000000
+      internalID: -8866193229595552332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_163
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 91
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212e204a7c5e223f0800000000000000
+      internalID: -926925927671995886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_164
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 91
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d71e3afe325f10e0800000000000000
+      internalID: -2297026854495840295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_165
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 91
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b73df017160cdf0800000000000000
+      internalID: -162022448360621176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_166
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 91
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530ca1b783f1f7fc0800000000000000
+      internalID: -3495040458372235211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_167
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 91
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59c384d3b8f93580800000000000000
+      internalID: -8846766541744387750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_168
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 91
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689e9fd8dd9739370800000000000000
+      internalID: 8328134128414878086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_169
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 91
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ac30c805eb0b930800000000000000
+      internalID: 4157031709218687493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_170
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 91
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380f4aa500a0e4190800000000000000
+      internalID: -7976426893389533053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_helm_male_171
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 91
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c37123d94743090800000000000000
+      internalID: -8055685614959903689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

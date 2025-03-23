@@ -1,0 +1,4680 @@
+fileFormatVersion: 2
+guid: 30362a1823962424d9fcf90059f950c9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6152843551827531736
+    second: cloth_hood_male_0
+  - first:
+      213: -1206882039513620634
+    second: cloth_hood_male_1
+  - first:
+      213: 7426904179750222147
+    second: cloth_hood_male_2
+  - first:
+      213: -2139493861991468930
+    second: cloth_hood_male_3
+  - first:
+      213: -2383547316016572766
+    second: cloth_hood_male_4
+  - first:
+      213: 4143334496638127133
+    second: cloth_hood_male_5
+  - first:
+      213: 4950042878640536914
+    second: cloth_hood_male_6
+  - first:
+      213: -6020669489026670353
+    second: cloth_hood_male_7
+  - first:
+      213: -4194406915441444043
+    second: cloth_hood_male_8
+  - first:
+      213: 4498662850697877161
+    second: cloth_hood_male_9
+  - first:
+      213: -4486219863502578759
+    second: cloth_hood_male_10
+  - first:
+      213: -4665401973919932146
+    second: cloth_hood_male_11
+  - first:
+      213: -1464761914630352586
+    second: cloth_hood_male_12
+  - first:
+      213: -545317784779955014
+    second: cloth_hood_male_13
+  - first:
+      213: -5647890351974007887
+    second: cloth_hood_male_14
+  - first:
+      213: -6379722801627658662
+    second: cloth_hood_male_15
+  - first:
+      213: -1602820034877121861
+    second: cloth_hood_male_16
+  - first:
+      213: -1746128614650687010
+    second: cloth_hood_male_17
+  - first:
+      213: 543752611728123985
+    second: cloth_hood_male_18
+  - first:
+      213: -3659965489556298600
+    second: cloth_hood_male_19
+  - first:
+      213: -3612868067053304400
+    second: cloth_hood_male_20
+  - first:
+      213: -9132578704739160729
+    second: cloth_hood_male_21
+  - first:
+      213: -2305858870844638373
+    second: cloth_hood_male_22
+  - first:
+      213: -6414933168531004788
+    second: cloth_hood_male_23
+  - first:
+      213: -4038956601763857806
+    second: cloth_hood_male_24
+  - first:
+      213: 7529718187475249385
+    second: cloth_hood_male_25
+  - first:
+      213: 1580764834331676875
+    second: cloth_hood_male_26
+  - first:
+      213: 7917948486296721257
+    second: cloth_hood_male_27
+  - first:
+      213: 392449001140565978
+    second: cloth_hood_male_28
+  - first:
+      213: 4233058583067883010
+    second: cloth_hood_male_29
+  - first:
+      213: -7337916990772155893
+    second: cloth_hood_male_30
+  - first:
+      213: -8944203774273396254
+    second: cloth_hood_male_31
+  - first:
+      213: -1504978955655934753
+    second: cloth_hood_male_32
+  - first:
+      213: 3578405115174407928
+    second: cloth_hood_male_33
+  - first:
+      213: -8545377767940871441
+    second: cloth_hood_male_34
+  - first:
+      213: -4183057955060522393
+    second: cloth_hood_male_35
+  - first:
+      213: 3744178902967683794
+    second: cloth_hood_male_36
+  - first:
+      213: -4304685401821339686
+    second: cloth_hood_male_37
+  - first:
+      213: -7204733932322404151
+    second: cloth_hood_male_38
+  - first:
+      213: -2794007777707563405
+    second: cloth_hood_male_39
+  - first:
+      213: -4641637051065437831
+    second: cloth_hood_male_40
+  - first:
+      213: -8769683724079353466
+    second: cloth_hood_male_41
+  - first:
+      213: 5653538372648290673
+    second: cloth_hood_male_42
+  - first:
+      213: -7466052737828148827
+    second: cloth_hood_male_43
+  - first:
+      213: 3352140222032371341
+    second: cloth_hood_male_44
+  - first:
+      213: 7575027801738162938
+    second: cloth_hood_male_45
+  - first:
+      213: 881852051607242024
+    second: cloth_hood_male_46
+  - first:
+      213: -7184699037657284563
+    second: cloth_hood_male_47
+  - first:
+      213: 5625952577023216126
+    second: cloth_hood_male_48
+  - first:
+      213: -2250427693428542470
+    second: cloth_hood_male_49
+  - first:
+      213: -1418827294056180433
+    second: cloth_hood_male_50
+  - first:
+      213: 8129067049881578305
+    second: cloth_hood_male_51
+  - first:
+      213: -5333129319993684403
+    second: cloth_hood_male_52
+  - first:
+      213: -7283537310165227063
+    second: cloth_hood_male_53
+  - first:
+      213: -8757189250493205423
+    second: cloth_hood_male_54
+  - first:
+      213: 7927076461748830467
+    second: cloth_hood_male_55
+  - first:
+      213: 1351095113728023733
+    second: cloth_hood_male_56
+  - first:
+      213: -7220264555948035818
+    second: cloth_hood_male_57
+  - first:
+      213: 4522104179195204904
+    second: cloth_hood_male_58
+  - first:
+      213: -8465796074469937953
+    second: cloth_hood_male_59
+  - first:
+      213: 6734138123558373702
+    second: cloth_hood_male_60
+  - first:
+      213: 4782582344113507518
+    second: cloth_hood_male_61
+  - first:
+      213: 6278030861729988737
+    second: cloth_hood_male_62
+  - first:
+      213: 6217579734651300417
+    second: cloth_hood_male_63
+  - first:
+      213: 3128004434359011691
+    second: cloth_hood_male_64
+  - first:
+      213: -8567721369972664038
+    second: cloth_hood_male_65
+  - first:
+      213: 4888392496817586780
+    second: cloth_hood_male_66
+  - first:
+      213: 8565939285941213653
+    second: cloth_hood_male_67
+  - first:
+      213: -3111671810350525894
+    second: cloth_hood_male_68
+  - first:
+      213: 8990069249462545456
+    second: cloth_hood_male_69
+  - first:
+      213: -6424143525596105731
+    second: cloth_hood_male_70
+  - first:
+      213: -6235198057631520085
+    second: cloth_hood_male_71
+  - first:
+      213: 3924497290389869839
+    second: cloth_hood_male_72
+  - first:
+      213: -5446030635899525869
+    second: cloth_hood_male_73
+  - first:
+      213: -5618223926656798986
+    second: cloth_hood_male_74
+  - first:
+      213: -7050347997955881583
+    second: cloth_hood_male_75
+  - first:
+      213: 1762152214105866336
+    second: cloth_hood_male_76
+  - first:
+      213: 6504661620543831365
+    second: cloth_hood_male_77
+  - first:
+      213: 3869058939075620113
+    second: cloth_hood_male_78
+  - first:
+      213: -4745275992235632647
+    second: cloth_hood_male_79
+  - first:
+      213: -2262877141774957259
+    second: cloth_hood_male_80
+  - first:
+      213: -477887891378160762
+    second: cloth_hood_male_81
+  - first:
+      213: -6376520158911196810
+    second: cloth_hood_male_82
+  - first:
+      213: 6009694714627800821
+    second: cloth_hood_male_83
+  - first:
+      213: -7929256956132427550
+    second: cloth_hood_male_84
+  - first:
+      213: -395590081900247251
+    second: cloth_hood_male_85
+  - first:
+      213: -8532625506479798919
+    second: cloth_hood_male_86
+  - first:
+      213: 7755373284463783100
+    second: cloth_hood_male_87
+  - first:
+      213: 7479718860796044988
+    second: cloth_hood_male_88
+  - first:
+      213: 9071883713301518603
+    second: cloth_hood_male_89
+  - first:
+      213: -2227023269196555495
+    second: cloth_hood_male_90
+  - first:
+      213: 3793807478756749747
+    second: cloth_hood_male_91
+  - first:
+      213: -6736143403423776863
+    second: cloth_hood_male_92
+  - first:
+      213: -6367738783126937363
+    second: cloth_hood_male_93
+  - first:
+      213: -162530458675847323
+    second: cloth_hood_male_94
+  - first:
+      213: -41410609842032385
+    second: cloth_hood_male_95
+  - first:
+      213: -5512760776268907596
+    second: cloth_hood_male_96
+  - first:
+      213: 7604034793863647231
+    second: cloth_hood_male_97
+  - first:
+      213: -3320224544696306366
+    second: cloth_hood_male_98
+  - first:
+      213: -3002086199787816739
+    second: cloth_hood_male_99
+  - first:
+      213: -3932683748873527217
+    second: cloth_hood_male_100
+  - first:
+      213: 4850120169816223827
+    second: cloth_hood_male_101
+  - first:
+      213: 5446091502391187688
+    second: cloth_hood_male_102
+  - first:
+      213: 3407580943797863562
+    second: cloth_hood_male_103
+  - first:
+      213: -1284807482627584810
+    second: cloth_hood_male_104
+  - first:
+      213: -3201895666587560296
+    second: cloth_hood_male_105
+  - first:
+      213: -3544993327117724604
+    second: cloth_hood_male_106
+  - first:
+      213: -4493503964579229033
+    second: cloth_hood_male_107
+  - first:
+      213: -7621115886681502261
+    second: cloth_hood_male_108
+  - first:
+      213: -6951779667389874254
+    second: cloth_hood_male_109
+  - first:
+      213: 2256218325132065183
+    second: cloth_hood_male_110
+  - first:
+      213: -8861236042454852501
+    second: cloth_hood_male_111
+  - first:
+      213: -3805213036980018372
+    second: cloth_hood_male_112
+  - first:
+      213: -5929293635894786849
+    second: cloth_hood_male_113
+  - first:
+      213: -5983800443475643252
+    second: cloth_hood_male_114
+  - first:
+      213: -8012624485529914852
+    second: cloth_hood_male_115
+  - first:
+      213: -7446186489383389654
+    second: cloth_hood_male_116
+  - first:
+      213: -1500674334431807503
+    second: cloth_hood_male_117
+  - first:
+      213: 7282077302296903650
+    second: cloth_hood_male_118
+  - first:
+      213: 7703249284416614824
+    second: cloth_hood_male_119
+  - first:
+      213: 3619017538546941871
+    second: cloth_hood_male_120
+  - first:
+      213: -4918129499072084391
+    second: cloth_hood_male_121
+  - first:
+      213: -992098026351566142
+    second: cloth_hood_male_122
+  - first:
+      213: 2876881704930430124
+    second: cloth_hood_male_123
+  - first:
+      213: 6399807432073364615
+    second: cloth_hood_male_124
+  - first:
+      213: -8120807196702253347
+    second: cloth_hood_male_125
+  - first:
+      213: 4750501342612353727
+    second: cloth_hood_male_126
+  - first:
+      213: 757542314225816534
+    second: cloth_hood_male_127
+  - first:
+      213: 3971111747048264455
+    second: cloth_hood_male_128
+  - first:
+      213: 982735200803224863
+    second: cloth_hood_male_129
+  - first:
+      213: 8705018410426229902
+    second: cloth_hood_male_130
+  - first:
+      213: -6862712122002612942
+    second: cloth_hood_male_131
+  - first:
+      213: -6547431454519846369
+    second: cloth_hood_male_132
+  - first:
+      213: 2357373081430489475
+    second: cloth_hood_male_133
+  - first:
+      213: 5255472093832667539
+    second: cloth_hood_male_134
+  - first:
+      213: -5356577287813776731
+    second: cloth_hood_male_135
+  - first:
+      213: -5864798908114637755
+    second: cloth_hood_male_136
+  - first:
+      213: 4426150031232317753
+    second: cloth_hood_male_137
+  - first:
+      213: -8771121687775858361
+    second: cloth_hood_male_138
+  - first:
+      213: 1221888889380517448
+    second: cloth_hood_male_139
+  - first:
+      213: -3057973484415392168
+    second: cloth_hood_male_140
+  - first:
+      213: 7585305024699445979
+    second: cloth_hood_male_141
+  - first:
+      213: -5328532072677063471
+    second: cloth_hood_male_142
+  - first:
+      213: -4608966479735085621
+    second: cloth_hood_male_143
+  - first:
+      213: 8173107611342226968
+    second: cloth_hood_male_144
+  - first:
+      213: 8674121993553186767
+    second: cloth_hood_male_145
+  - first:
+      213: -8117766002742866351
+    second: cloth_hood_male_146
+  - first:
+      213: 7363885202451969995
+    second: cloth_hood_male_147
+  - first:
+      213: -5874796237763488853
+    second: cloth_hood_male_148
+  - first:
+      213: -4396423556615620318
+    second: cloth_hood_male_149
+  - first:
+      213: 5979551345974591154
+    second: cloth_hood_male_150
+  - first:
+      213: -2330625503027097080
+    second: cloth_hood_male_151
+  - first:
+      213: -8819391470058661362
+    second: cloth_hood_male_152
+  - first:
+      213: 1855564592360367146
+    second: cloth_hood_male_153
+  - first:
+      213: -8736254774263687930
+    second: cloth_hood_male_154
+  - first:
+      213: 855478569703092249
+    second: cloth_hood_male_155
+  - first:
+      213: -2649007571645216898
+    second: cloth_hood_male_156
+  - first:
+      213: 5467751776845171325
+    second: cloth_hood_male_157
+  - first:
+      213: -4112888431618223978
+    second: cloth_hood_male_158
+  - first:
+      213: 8497547296992703047
+    second: cloth_hood_male_159
+  - first:
+      213: 6382847074569262743
+    second: cloth_hood_male_160
+  - first:
+      213: 188100553972187868
+    second: cloth_hood_male_161
+  - first:
+      213: 2924886390548219406
+    second: cloth_hood_male_162
+  - first:
+      213: -4420891902573692065
+    second: cloth_hood_male_163
+  - first:
+      213: -6492416067302910411
+    second: cloth_hood_male_164
+  - first:
+      213: 3468967550579950434
+    second: cloth_hood_male_165
+  - first:
+      213: -6043608892262401719
+    second: cloth_hood_male_166
+  - first:
+      213: 1651876370006631426
+    second: cloth_hood_male_167
+  - first:
+      213: 9107805994131177527
+    second: cloth_hood_male_168
+  - first:
+      213: -7607088120527639570
+    second: cloth_hood_male_169
+  - first:
+      213: -2803085439498184035
+    second: cloth_hood_male_170
+  - first:
+      213: 3973234403735220439
+    second: cloth_hood_male_171
+  - first:
+      213: 6938764450802668664
+    second: cloth_hood_male_172
+  - first:
+      213: -5117031223187906400
+    second: cloth_hood_male_173
+  - first:
+      213: 9201663070282985473
+    second: cloth_hood_male_174
+  - first:
+      213: 262863862906928038
+    second: cloth_hood_male_175
+  - first:
+      213: 1702203370197208667
+    second: cloth_hood_male_176
+  - first:
+      213: -1750946204973203561
+    second: cloth_hood_male_177
+  - first:
+      213: -7472897335819064367
+    second: cloth_hood_male_178
+  - first:
+      213: 3483103149477526739
+    second: cloth_hood_male_179
+  - first:
+      213: 4428148749654616326
+    second: cloth_hood_male_180
+  - first:
+      213: -1495145258867010989
+    second: cloth_hood_male_181
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cloth_hood_male_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1300
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82864c68365bc9aa0800000000000000
+      internalID: -6152843551827531736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1300
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66fddfced2b404fe0800000000000000
+      internalID: -1206882039513620634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1300
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34930e6800aa11760800000000000000
+      internalID: 7426904179750222147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1300
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70bed40badfe42e0800000000000000
+      internalID: -2139493861991468930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1300
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a61f7b3850fbeed0800000000000000
+      internalID: -2383547316016572766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_5
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1300
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1cccb9b5c4108930800000000000000
+      internalID: 4143334496638127133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_6
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1300
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d325c85c512b440800000000000000
+      internalID: 4950042878640536914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1238
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe06884aff8427ca0800000000000000
+      internalID: -6020669489026670353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_8
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1238
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53bbba122297ac5c0800000000000000
+      internalID: -4194406915441444043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_9
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1238
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6d71c17067e6e30800000000000000
+      internalID: 4498662850697877161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1238
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb90ab9dcebdb1c0800000000000000
+      internalID: -4486219863502578759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_11
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1238
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01a8128f99214fb0800000000000000
+      internalID: -4665401973919932146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_12
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1238
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631dfed9cce1cabe0800000000000000
+      internalID: -1464761914630352586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_13
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1238
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4ec7c2d54ae68f0800000000000000
+      internalID: -545317784779955014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1173
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bbbb3016a9ae91b0800000000000000
+      internalID: -5647890351974007887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1173
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a560683c9eba677a0800000000000000
+      internalID: -6379722801627658662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1173
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba154e9ba3a1c9e0800000000000000
+      internalID: -1602820034877121861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_17
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1173
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1d99fb64184c7e0800000000000000
+      internalID: -1746128614650687010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_18
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1173
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158eeb39e1ccb8700800000000000000
+      internalID: 543752611728123985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_19
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1173
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894eec057c0353dc0800000000000000
+      internalID: -3659965489556298600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_20
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1173
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b58fe282a38cddc0800000000000000
+      internalID: -3612868067053304400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_21
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1110
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76da9b4fd00924180800000000000000
+      internalID: -9132578704739160729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_22
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1110
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b3f1de291ffffd0800000000000000
+      internalID: -2305858870844638373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_23
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1110
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82a6df554499f6a0800000000000000
+      internalID: -6414933168531004788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_24
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1110
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a75a8be5eb2f7c0800000000000000
+      internalID: -4038956601763857806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_25
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1110
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8a24f1cceee7860800000000000000
+      internalID: 7529718187475249385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_26
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1110
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0d4c7dd3100f510800000000000000
+      internalID: 1580764834331676875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_27
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1110
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967de8b723432ed60800000000000000
+      internalID: 7917948486296721257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1044
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7b0798942427500800000000000000
+      internalID: 392449001140565978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_29
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1043
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206fd258a58deba30800000000000000
+      internalID: 4233058583067883010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_30
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1043
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ae8b5ff5b7a2a90800000000000000
+      internalID: -7337916990772155893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_31
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1043
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1e9b34e0ecfd380800000000000000
+      internalID: -8944203774273396254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_32
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1043
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc80b11d9d3d1be0800000000000000
+      internalID: -1504978955655934753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_33
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1043
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe49683e7c09a130800000000000000
+      internalID: 3578405115174407928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_34
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1043
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea2d560238b86980800000000000000
+      internalID: -8545377767940871441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_35
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1043
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762eeb1e3fac2f5c0800000000000000
+      internalID: -4183057955060522393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_36
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 982
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da86eeefdef5f330800000000000000
+      internalID: 3744178902967683794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_37
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 982
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf11aa2f6fa244c0800000000000000
+      internalID: -4304685401821339686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_38
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 982
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c848be29a4a30c90800000000000000
+      internalID: -7204733932322404151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_39
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 982
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376ef0ebab0b939d0800000000000000
+      internalID: -2794007777707563405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_40
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 982
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971f3fac1b7959fb0800000000000000
+      internalID: -4641637051065437831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_41
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 982
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681b9b1ed13db4680800000000000000
+      internalID: -8769683724079353466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_42
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 982
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179cdb93237657e40800000000000000
+      internalID: 5653538372648290673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_43
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 982
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9ab6f7790436890800000000000000
+      internalID: -7466052737828148827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_44
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 917
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ed98385c1358e20800000000000000
+      internalID: 3352140222032371341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_45
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 917
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2bf46c6a7ef1960800000000000000
+      internalID: 7575027801738162938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_46
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 918
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825cf78c4c7fc3c00800000000000000
+      internalID: 881852051607242024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_47
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 920
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20c85a9a42da4c90800000000000000
+      internalID: -7184699037657284563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_48
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 919
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef989acaf06631e40800000000000000
+      internalID: 5625952577023216126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_49
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 919
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af37d74afefd4c0e0800000000000000
+      internalID: -2250427693428542470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_50
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 919
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f251724e7105f4ce0800000000000000
+      internalID: -1418827294056180433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_51
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 920
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b2687896f30d070800000000000000
+      internalID: 8129067049881578305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_52
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 854
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e4e8cb32becf5b0800000000000000
+      internalID: -5333129319993684403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_53
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 854
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c92c4ff76dabea90800000000000000
+      internalID: -7283537310165227063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_54
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 854
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154bb7536c6387680800000000000000
+      internalID: -8757189250493205423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_55
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 854
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30146e1ea02a20e60800000000000000
+      internalID: 7927076461748830467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_56
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 854
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc5687f8dd00c210800000000000000
+      internalID: 1351095113728023733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_57
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 854
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611bf5614a77ccb90800000000000000
+      internalID: -7220264555948035818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_58
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 854
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8255d36bacdb1ce30800000000000000
+      internalID: 4522104179195204904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_59
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 854
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdca250f253738a80800000000000000
+      internalID: -8465796074469937953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_60
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 789
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649cc13c1f6747d50800000000000000
+      internalID: 6734138123558373702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 789
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebcc0f18d452f5240800000000000000
+      internalID: 4782582344113507518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_62
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 789
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1800b5a6ecb002750800000000000000
+      internalID: 6278030861729988737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_63
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 787
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14aee8693d7494650800000000000000
+      internalID: 6217579734651300417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_64
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 789
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69c0ddc577e86b20800000000000000
+      internalID: 3128004434359011691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_65
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 789
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a199148cec6591980800000000000000
+      internalID: -8567721369972664038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_66
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 789
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c524f77731f07d340800000000000000
+      internalID: 4888392496817586780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_67
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 788
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9d612756450e670800000000000000
+      internalID: 8565939285941213653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_68
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 789
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32d57e89fe11d4d0800000000000000
+      internalID: -3111671810350525894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_69
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 726
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ca068d95423cc70800000000000000
+      internalID: 8990069249462545456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_70
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 725
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3f7b2008bd8d6a0800000000000000
+      internalID: -6424143525596105731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_71
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 726
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baaeaaee6602879a0800000000000000
+      internalID: -6235198057631520085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_72
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 726
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05dba32e7d967630800000000000000
+      internalID: 3924497290389869839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_73
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 726
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315605fadffcb64b0800000000000000
+      internalID: -5446030635899525869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_74
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 725
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe6507fa1f0802b0800000000000000
+      internalID: -5618223926656798986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_75
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 726
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19504f6a9d1282e90800000000000000
+      internalID: -7050347997955881583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_76
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 726
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060c2f93a1c647810800000000000000
+      internalID: 1762152214105866336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_77
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 726
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54db1acd743354a50800000000000000
+      internalID: 6504661620543831365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_78
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 661
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11de6ae1b98a1b530800000000000000
+      internalID: 3869058939075620113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_79
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 661
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f71b9960a4652eb0800000000000000
+      internalID: -4745275992235632647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_80
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 661
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53507229a35a890e0800000000000000
+      internalID: -2262877141774957259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_81
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 660
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68bb1f7ae733e59f0800000000000000
+      internalID: -477887891378160762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_82
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 661
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6711bf023bc0287a0800000000000000
+      internalID: -6376520158911196810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_83
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 661
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5febee19089b66350800000000000000
+      internalID: 6009694714627800821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_84
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 661
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e87ee43fce95f190800000000000000
+      internalID: -7929256956132427550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_85
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 660
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d270bab9ae4928af0800000000000000
+      internalID: -395590081900247251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_86
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 661
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97585d44f46069980800000000000000
+      internalID: -8532625506479798919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_87
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 598
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbca40999ee90ab60800000000000000
+      internalID: 7755373284463783100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_88
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 597
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6a985bcac4dc760800000000000000
+      internalID: 7479718860796044988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_89
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 598
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b091dfe1c2ec5ed70800000000000000
+      internalID: 9071883713301518603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_90
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 598
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b920dc2260811e0800000000000000
+      internalID: -2227023269196555495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_91
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 598
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1348d2dcf46a430800000000000000
+      internalID: 3793807478756749747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_92
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 597
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1afb5d2a3496482a0800000000000000
+      internalID: -6736143403423776863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_93
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 598
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0ad31805f31a7a0800000000000000
+      internalID: -6367738783126937363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_94
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 598
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56fd171b8639ebdf0800000000000000
+      internalID: -162530458675847323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_95
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 598
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0fe6e0541ec6ff0800000000000000
+      internalID: -41410609842032385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_96
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 532
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bbf8c6284dbe73b0800000000000000
+      internalID: -5512760776268907596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_97
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 531
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff04fb6b55f68960800000000000000
+      internalID: 7604034793863647231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_98
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 531
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245f7de2e513ce1d0800000000000000
+      internalID: -3320224544696306366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_99
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 532
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd87b8cc1827656d0800000000000000
+      internalID: -3002086199787816739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_100
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 532
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40217677fc4c69c0800000000000000
+      internalID: -3932683748873527217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_101
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 532
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3507adfe8961f4340800000000000000
+      internalID: 4850120169816223827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_102
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 470
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8dc46ed57649b40800000000000000
+      internalID: 5446091502391187688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_103
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 468
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84467270d82a4f20800000000000000
+      internalID: 3407580943797863562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_104
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 470
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc0839d6627b2ee0800000000000000
+      internalID: -1284807482627584810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_105
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 470
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8969f290bd49093d0800000000000000
+      internalID: -3201895666587560296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_106
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 470
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4449406e957adcec0800000000000000
+      internalID: -3544993327117724604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_107
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 470
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792127aa3fdd3a1c0800000000000000
+      internalID: -4493503964579229033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_108
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 405
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd434eba7b5c3690800000000000000
+      internalID: -7621115886681502261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_109
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 405
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf71708931568f90800000000000000
+      internalID: -6951779667389874254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_110
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 402
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99393ddc92bf4f10800000000000000
+      internalID: 2256218325132065183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_111
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 404
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c179aa4c0960580800000000000000
+      internalID: -8861236042454852501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_112
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 405
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33ee1c57ea213bc0800000000000000
+      internalID: -3805213036980018372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_113
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 405
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4c1875adae6bda0800000000000000
+      internalID: -5929293635894786849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_114
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 342
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c843fcf333545fca0800000000000000
+      internalID: -5983800443475643252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_115
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 340
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12746dab707dc090800000000000000
+      internalID: -8012624485529914852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_116
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 342
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a267df8e6d4d9a890800000000000000
+      internalID: -7446186489383389654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_117
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 342
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f775acc4a88c2be0800000000000000
+      internalID: -1500674334431807503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_118
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 342
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef775e69b22f0560800000000000000
+      internalID: 7282077302296903650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_119
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 342
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a13fed196077ea60800000000000000
+      internalID: 7703249284416614824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_120
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 276
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fafbff4e645593230800000000000000
+      internalID: 3619017538546941871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_121
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 274
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9564078274b4fbbb0800000000000000
+      internalID: -4918129499072084391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_122
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 275
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2e2f4f91c5b32f0800000000000000
+      internalID: -992098026351566142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_123
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 275
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cacc2331bacbce720800000000000000
+      internalID: 2876881704930430124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_124
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 275
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78443aba3fea0d850800000000000000
+      internalID: 6399807432073364615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_125
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 275
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde502761e81d4f80800000000000000
+      internalID: -8120807196702253347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_126
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 275
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2fc674dcb2de140800000000000000
+      internalID: 4750501342612353727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_127
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 275
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3d1cd98b4538a00800000000000000
+      internalID: 757542314225816534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_128
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 275
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703513618193c1730800000000000000
+      internalID: 3971111747048264455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_129
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 275
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1df528557063ad00800000000000000
+      internalID: 982735200803224863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_130
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 275
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84e0b48f107ec870800000000000000
+      internalID: 8705018410426229902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_131
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 275
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d544c6fafb2c0a0800000000000000
+      internalID: -6862712122002612942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_132
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 275
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a102a28c9d225a0800000000000000
+      internalID: -6547431454519846369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_133
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 214
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3897bb1e35217b020800000000000000
+      internalID: 2357373081430489475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_134
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 214
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391efdf46003fe840800000000000000
+      internalID: 5255472093832667539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_135
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 214
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa3feb465d99a5b0800000000000000
+      internalID: -5356577287813776731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_136
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 214
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c6ab2577c0c9ea0800000000000000
+      internalID: -5864798908114637755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_137
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 214
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939bf2ea008dc6d30800000000000000
+      internalID: 4426150031232317753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_138
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 218
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741356edb47b64680800000000000000
+      internalID: -8771121687775858361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_139
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 214
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846b586987505f010800000000000000
+      internalID: 1221888889380517448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_140
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 223
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8566bd85155ef85d0800000000000000
+      internalID: -3057973484415392168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_141
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 214
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd232363bba644960800000000000000
+      internalID: 7585305024699445979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_142
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 214
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4cec9cf404d06b0800000000000000
+      internalID: -5328532072677063471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_143
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 214
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc525b1f769a900c0800000000000000
+      internalID: -4608966479735085621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_144
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 214
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816481dc116bc6170800000000000000
+      internalID: 8173107611342226968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_145
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 214
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf0424eefba06870800000000000000
+      internalID: 8674121993553186767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_146
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 214
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ec4cc84d6e75f80800000000000000
+      internalID: -8117766002742866351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_147
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 214
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7b7ea7396c13660800000000000000
+      internalID: 7363885202451969995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_148
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 149
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba35e40a2f7887ea0800000000000000
+      internalID: -5874796237763488853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_149
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 149
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22934c98114ccf2c0800000000000000
+      internalID: -4396423556615620318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_150
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 149
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be3605a442abf250800000000000000
+      internalID: 5979551345974591154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_151
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 149
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8029a930474f7afd0800000000000000
+      internalID: -2330625503027097080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_152
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 150
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a1b046f2a3b9580800000000000000
+      internalID: -8819391470058661362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_153
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 151
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24ae616a2a40c910800000000000000
+      internalID: 1855564592360367146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_154
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 151
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605d3b8c19692c680800000000000000
+      internalID: -8736254774263687930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_155
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 150
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910bc140a354fdb00800000000000000
+      internalID: 855478569703092249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_156
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 150
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7744cc06a5dc3bd0800000000000000
+      internalID: -2649007571645216898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_157
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 150
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a0eda854b51eb40800000000000000
+      internalID: 5467751776845171325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_158
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 150
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690159033c51ce6c0800000000000000
+      internalID: -4112888431618223978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_159
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 150
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742b453ae3a5de570800000000000000
+      internalID: 8497547296992703047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_160
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 150
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7969757b89d649850800000000000000
+      internalID: 6382847074569262743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_161
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 86
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2019d05744c9200800000000000000
+      internalID: 188100553972187868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_162
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 86
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06400deca8479820800000000000000
+      internalID: 2924886390548219406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_163
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 86
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5bb1bccc36d5a2c0800000000000000
+      internalID: -4420891902573692065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_164
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 86
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5361f5e2cfd46e5a0800000000000000
+      internalID: -6492416067302910411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_165
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 86
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263ccad9b9f342030800000000000000
+      internalID: 3468967550579950434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_166
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 90
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949be4f9bb9c02ca0800000000000000
+      internalID: -6043608892262401719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_167
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 86
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2046b177ec4ace610800000000000000
+      internalID: 1651876370006631426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_168
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 95
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730cc53eb4d656e70800000000000000
+      internalID: 9107805994131177527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_169
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 86
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb2bd098a13e6690800000000000000
+      internalID: -7607088120527639570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_170
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 86
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a14a7e4a07919d0800000000000000
+      internalID: -2803085439498184035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_171
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 86
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0bffb93a3c32730800000000000000
+      internalID: 3973234403735220439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_172
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 86
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874933e31817b4060800000000000000
+      internalID: 6938764450802668664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_173
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 86
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a06d45b637acf8b0800000000000000
+      internalID: -5117031223187906400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_174
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 86
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1003c075fcfd2bf70800000000000000
+      internalID: 9201663070282985473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_175
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 86
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abbad46a41e5a300800000000000000
+      internalID: 262863862906928038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_176
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 21
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ec31052f07f9710800000000000000
+      internalID: 1702203370197208667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_177
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 20
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ff0c714b363b7e0800000000000000
+      internalID: -1750946204973203561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_178
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 13
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbaa87577fea4890800000000000000
+      internalID: -7472897335819064367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_179
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 9
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dcf6a43cd7765030800000000000000
+      internalID: 3483103149477526739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_180
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 9
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609e0c393d1f37d30800000000000000
+      internalID: 4428148749654616326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_hood_male_181
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 0
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3525f950f4d204be0800000000000000
+      internalID: -1495145258867010989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

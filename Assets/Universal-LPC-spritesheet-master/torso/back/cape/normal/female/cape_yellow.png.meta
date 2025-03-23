@@ -1,0 +1,4930 @@
+fileFormatVersion: 2
+guid: 4000636715d8e824ba022b293004d75f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8629251857327888362
+    second: cape_yellow_0
+  - first:
+      213: -8906773334086275648
+    second: cape_yellow_1
+  - first:
+      213: -2027709068521517429
+    second: cape_yellow_2
+  - first:
+      213: -9149941292222028170
+    second: cape_yellow_3
+  - first:
+      213: -7598890665679430961
+    second: cape_yellow_4
+  - first:
+      213: 543799933197757382
+    second: cape_yellow_5
+  - first:
+      213: 5700110815779178458
+    second: cape_yellow_6
+  - first:
+      213: -9017298682232814044
+    second: cape_yellow_7
+  - first:
+      213: -7409318282657808258
+    second: cape_yellow_8
+  - first:
+      213: 8495798795480668125
+    second: cape_yellow_9
+  - first:
+      213: -364351538967684530
+    second: cape_yellow_10
+  - first:
+      213: 1210448541553016753
+    second: cape_yellow_11
+  - first:
+      213: 578342957577678651
+    second: cape_yellow_12
+  - first:
+      213: 7257280905580774809
+    second: cape_yellow_13
+  - first:
+      213: -7084356002052672491
+    second: cape_yellow_14
+  - first:
+      213: 6852462235565699381
+    second: cape_yellow_15
+  - first:
+      213: -7006441199417091045
+    second: cape_yellow_16
+  - first:
+      213: 87354749311649583
+    second: cape_yellow_17
+  - first:
+      213: 2555399889702763982
+    second: cape_yellow_18
+  - first:
+      213: -8716374798813836040
+    second: cape_yellow_19
+  - first:
+      213: 8087089898236473153
+    second: cape_yellow_20
+  - first:
+      213: -6178007581375216963
+    second: cape_yellow_21
+  - first:
+      213: 325210222869695477
+    second: cape_yellow_22
+  - first:
+      213: -9108272747073806350
+    second: cape_yellow_23
+  - first:
+      213: -7586509647800447969
+    second: cape_yellow_24
+  - first:
+      213: -3309393544834961104
+    second: cape_yellow_25
+  - first:
+      213: 2386534069264027991
+    second: cape_yellow_26
+  - first:
+      213: 5951820686913353460
+    second: cape_yellow_27
+  - first:
+      213: -2466689677141107675
+    second: cape_yellow_28
+  - first:
+      213: 8880122051996332039
+    second: cape_yellow_29
+  - first:
+      213: -4471652879642261128
+    second: cape_yellow_30
+  - first:
+      213: 6940971389835358143
+    second: cape_yellow_31
+  - first:
+      213: -5044705278118267007
+    second: cape_yellow_32
+  - first:
+      213: 2188566242013207485
+    second: cape_yellow_33
+  - first:
+      213: -1136822277258188662
+    second: cape_yellow_34
+  - first:
+      213: 1168501033732396439
+    second: cape_yellow_35
+  - first:
+      213: -1966217598030920582
+    second: cape_yellow_36
+  - first:
+      213: -3287279390910747583
+    second: cape_yellow_37
+  - first:
+      213: 3015650735282218825
+    second: cape_yellow_38
+  - first:
+      213: -5440392226226675641
+    second: cape_yellow_39
+  - first:
+      213: -8447919750787918208
+    second: cape_yellow_40
+  - first:
+      213: -4610307624287236930
+    second: cape_yellow_41
+  - first:
+      213: 6573246822958431739
+    second: cape_yellow_42
+  - first:
+      213: 497299163143147811
+    second: cape_yellow_43
+  - first:
+      213: -3531566287078249667
+    second: cape_yellow_44
+  - first:
+      213: -4335031748796643226
+    second: cape_yellow_45
+  - first:
+      213: -4121627957293350283
+    second: cape_yellow_46
+  - first:
+      213: 7750108378795804568
+    second: cape_yellow_47
+  - first:
+      213: -3273212918739305618
+    second: cape_yellow_48
+  - first:
+      213: 9180870258167939270
+    second: cape_yellow_49
+  - first:
+      213: 1380878020340338316
+    second: cape_yellow_50
+  - first:
+      213: 8858476537440650284
+    second: cape_yellow_51
+  - first:
+      213: 1987385199596690794
+    second: cape_yellow_52
+  - first:
+      213: -755101383057239652
+    second: cape_yellow_53
+  - first:
+      213: 3692439402189411122
+    second: cape_yellow_54
+  - first:
+      213: 1089291177722020301
+    second: cape_yellow_55
+  - first:
+      213: -8189379597555179364
+    second: cape_yellow_56
+  - first:
+      213: -7945149135205524253
+    second: cape_yellow_57
+  - first:
+      213: -2512391956809894094
+    second: cape_yellow_58
+  - first:
+      213: -4053165741406093389
+    second: cape_yellow_59
+  - first:
+      213: -6142430107842600063
+    second: cape_yellow_60
+  - first:
+      213: -487058684540792177
+    second: cape_yellow_61
+  - first:
+      213: -831355825965227878
+    second: cape_yellow_62
+  - first:
+      213: 4515546323495041236
+    second: cape_yellow_63
+  - first:
+      213: 7119064884350813334
+    second: cape_yellow_64
+  - first:
+      213: 585715571889557738
+    second: cape_yellow_65
+  - first:
+      213: -3712201067584899252
+    second: cape_yellow_66
+  - first:
+      213: 5776098780085360785
+    second: cape_yellow_67
+  - first:
+      213: -7428484160593743524
+    second: cape_yellow_68
+  - first:
+      213: -8626340698816635751
+    second: cape_yellow_69
+  - first:
+      213: 7535953243519639493
+    second: cape_yellow_70
+  - first:
+      213: 8164564553638745149
+    second: cape_yellow_71
+  - first:
+      213: 8909542376172233345
+    second: cape_yellow_72
+  - first:
+      213: 5774734851201882519
+    second: cape_yellow_73
+  - first:
+      213: 2259806334457961639
+    second: cape_yellow_74
+  - first:
+      213: 1408007162997019653
+    second: cape_yellow_75
+  - first:
+      213: -5295351538434309876
+    second: cape_yellow_76
+  - first:
+      213: -9066258498265966871
+    second: cape_yellow_77
+  - first:
+      213: 1689470748476516301
+    second: cape_yellow_78
+  - first:
+      213: -2067416271704050736
+    second: cape_yellow_79
+  - first:
+      213: -2417192097552460139
+    second: cape_yellow_80
+  - first:
+      213: -5627163668142879278
+    second: cape_yellow_81
+  - first:
+      213: -8435177985688884082
+    second: cape_yellow_82
+  - first:
+      213: 8857298951224611316
+    second: cape_yellow_83
+  - first:
+      213: -792018986530027001
+    second: cape_yellow_84
+  - first:
+      213: -3201874897046359799
+    second: cape_yellow_85
+  - first:
+      213: 6483532939592802797
+    second: cape_yellow_86
+  - first:
+      213: -4339847346036095778
+    second: cape_yellow_87
+  - first:
+      213: 7295679615325749605
+    second: cape_yellow_88
+  - first:
+      213: -2369822253070028433
+    second: cape_yellow_89
+  - first:
+      213: 4174926235718408163
+    second: cape_yellow_90
+  - first:
+      213: -4192535101831514242
+    second: cape_yellow_91
+  - first:
+      213: -7181674625856418120
+    second: cape_yellow_92
+  - first:
+      213: -5678519265714562499
+    second: cape_yellow_93
+  - first:
+      213: -9091949980460774228
+    second: cape_yellow_94
+  - first:
+      213: -1946548289445191887
+    second: cape_yellow_95
+  - first:
+      213: 2455654892724524912
+    second: cape_yellow_96
+  - first:
+      213: -2149598524744504273
+    second: cape_yellow_97
+  - first:
+      213: 2256540570878311324
+    second: cape_yellow_98
+  - first:
+      213: 8379509120902853924
+    second: cape_yellow_99
+  - first:
+      213: 6985477580520978270
+    second: cape_yellow_100
+  - first:
+      213: 2922415767235881740
+    second: cape_yellow_101
+  - first:
+      213: -3231979002484082049
+    second: cape_yellow_102
+  - first:
+      213: 7047146625465864271
+    second: cape_yellow_103
+  - first:
+      213: 2083652834765607307
+    second: cape_yellow_104
+  - first:
+      213: 5015136012679733408
+    second: cape_yellow_105
+  - first:
+      213: -3736272369917860092
+    second: cape_yellow_106
+  - first:
+      213: -4152324172895774168
+    second: cape_yellow_107
+  - first:
+      213: 7602372224972852011
+    second: cape_yellow_108
+  - first:
+      213: -4417909930295685107
+    second: cape_yellow_109
+  - first:
+      213: -381071503618967586
+    second: cape_yellow_110
+  - first:
+      213: -4769845254740690826
+    second: cape_yellow_111
+  - first:
+      213: -6186245586206141609
+    second: cape_yellow_112
+  - first:
+      213: 4718957473523242483
+    second: cape_yellow_113
+  - first:
+      213: 4789216974476003039
+    second: cape_yellow_114
+  - first:
+      213: 9201941353809428267
+    second: cape_yellow_115
+  - first:
+      213: 5301692831621722260
+    second: cape_yellow_116
+  - first:
+      213: 4631488231700277776
+    second: cape_yellow_117
+  - first:
+      213: 4583516481897916769
+    second: cape_yellow_118
+  - first:
+      213: -4115483742613131912
+    second: cape_yellow_119
+  - first:
+      213: -9127498873781648918
+    second: cape_yellow_120
+  - first:
+      213: -8265692113501946857
+    second: cape_yellow_121
+  - first:
+      213: -8717587225696926084
+    second: cape_yellow_122
+  - first:
+      213: -3133129620422423394
+    second: cape_yellow_123
+  - first:
+      213: 1110501325882708412
+    second: cape_yellow_124
+  - first:
+      213: 6987686364497533515
+    second: cape_yellow_125
+  - first:
+      213: -1234950387721842994
+    second: cape_yellow_126
+  - first:
+      213: 3284656764361255195
+    second: cape_yellow_127
+  - first:
+      213: -8241763422772516383
+    second: cape_yellow_128
+  - first:
+      213: -9199233744970988110
+    second: cape_yellow_129
+  - first:
+      213: 6388992954397768461
+    second: cape_yellow_130
+  - first:
+      213: -2064552062032903507
+    second: cape_yellow_131
+  - first:
+      213: -5941599676281857815
+    second: cape_yellow_132
+  - first:
+      213: 7024143176549725303
+    second: cape_yellow_133
+  - first:
+      213: -3477870901052221981
+    second: cape_yellow_134
+  - first:
+      213: -6626336104385356328
+    second: cape_yellow_135
+  - first:
+      213: -6775189005548399869
+    second: cape_yellow_136
+  - first:
+      213: -2773542002112727373
+    second: cape_yellow_137
+  - first:
+      213: 6705524932488421946
+    second: cape_yellow_138
+  - first:
+      213: 7472379937463875376
+    second: cape_yellow_139
+  - first:
+      213: -5622831530314655451
+    second: cape_yellow_140
+  - first:
+      213: 4195005410006468038
+    second: cape_yellow_141
+  - first:
+      213: 473149544623949596
+    second: cape_yellow_142
+  - first:
+      213: -7859638961130362842
+    second: cape_yellow_143
+  - first:
+      213: 6323636654617996327
+    second: cape_yellow_144
+  - first:
+      213: 9173444307041350729
+    second: cape_yellow_145
+  - first:
+      213: -7763652223676466644
+    second: cape_yellow_146
+  - first:
+      213: 8793363735675317396
+    second: cape_yellow_147
+  - first:
+      213: 429247584832775491
+    second: cape_yellow_148
+  - first:
+      213: -58176546063477048
+    second: cape_yellow_149
+  - first:
+      213: 180729381383481100
+    second: cape_yellow_150
+  - first:
+      213: -3642471507828212607
+    second: cape_yellow_151
+  - first:
+      213: -7441817957786629151
+    second: cape_yellow_152
+  - first:
+      213: -2137853634933978568
+    second: cape_yellow_153
+  - first:
+      213: 4415273775767667058
+    second: cape_yellow_154
+  - first:
+      213: -3968710727101682915
+    second: cape_yellow_155
+  - first:
+      213: 4103630664607855603
+    second: cape_yellow_156
+  - first:
+      213: 7313249359835798621
+    second: cape_yellow_157
+  - first:
+      213: 3656101579491797959
+    second: cape_yellow_158
+  - first:
+      213: -5793671491251284316
+    second: cape_yellow_159
+  - first:
+      213: -8054237349709550515
+    second: cape_yellow_160
+  - first:
+      213: 2243135729331527313
+    second: cape_yellow_161
+  - first:
+      213: 1528747821843711621
+    second: cape_yellow_162
+  - first:
+      213: 7439448808334230605
+    second: cape_yellow_163
+  - first:
+      213: -8542107971848872979
+    second: cape_yellow_164
+  - first:
+      213: 6165865151140181762
+    second: cape_yellow_165
+  - first:
+      213: -4856601279342879111
+    second: cape_yellow_166
+  - first:
+      213: -2674381222511822843
+    second: cape_yellow_167
+  - first:
+      213: 5947559222889774525
+    second: cape_yellow_168
+  - first:
+      213: 8124754454556054548
+    second: cape_yellow_169
+  - first:
+      213: 5633265786029966432
+    second: cape_yellow_170
+  - first:
+      213: 6929064316673085503
+    second: cape_yellow_171
+  - first:
+      213: -5501781867705717053
+    second: cape_yellow_172
+  - first:
+      213: -5687855907437336584
+    second: cape_yellow_173
+  - first:
+      213: -3231646040340292993
+    second: cape_yellow_174
+  - first:
+      213: 3594831590239742073
+    second: cape_yellow_175
+  - first:
+      213: 4661309431909743365
+    second: cape_yellow_176
+  - first:
+      213: -8896358745683881120
+    second: cape_yellow_177
+  - first:
+      213: -7621513829797695844
+    second: cape_yellow_178
+  - first:
+      213: 8583511498532297736
+    second: cape_yellow_179
+  - first:
+      213: 1392492526782172295
+    second: cape_yellow_180
+  - first:
+      213: -2749443776680541697
+    second: cape_yellow_181
+  - first:
+      213: 4291808389522415786
+    second: cape_yellow_182
+  - first:
+      213: 212804205182607599
+    second: cape_yellow_183
+  - first:
+      213: -8994039582159704556
+    second: cape_yellow_184
+  - first:
+      213: -2993534088265029520
+    second: cape_yellow_185
+  - first:
+      213: -303153617700863421
+    second: cape_yellow_186
+  - first:
+      213: -2791092281482894669
+    second: cape_yellow_187
+  - first:
+      213: -596044553701108594
+    second: cape_yellow_188
+  - first:
+      213: 1973381626735457375
+    second: cape_yellow_189
+  - first:
+      213: -4765989164752447387
+    second: cape_yellow_190
+  - first:
+      213: -6401846879399948464
+    second: cape_yellow_191
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cape_yellow_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1282
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7986138d241c770800000000000000
+      internalID: 8629251857327888362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1282
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cdaddeb7d8c46480800000000000000
+      internalID: -8906773334086275648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1282
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ecfee68512cd3e0800000000000000
+      internalID: -2027709068521517429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1282
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6766d698fd0e40180800000000000000
+      internalID: -9149941292222028170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1282
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca552143315b8690800000000000000
+      internalID: -7598890665679430961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_5
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1282
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb22277827fb8700800000000000000
+      internalID: 543799933197757382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_6
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1282
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad741e2269cda1f40800000000000000
+      internalID: 5700110815779178458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_7
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1221
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4264aebcf9e1cd280800000000000000
+      internalID: -9017298682232814044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_8
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1221
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70cf563740dc2990800000000000000
+      internalID: -7409318282657808258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_9
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1221
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd711d7edf327e570800000000000000
+      internalID: 8495798795480668125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_10
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1221
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ad67aa43091faf0800000000000000
+      internalID: -364351538967684530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_11
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1222
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf382a09806cc010800000000000000
+      internalID: 1210448541553016753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_12
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1221
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f24c01bdfa60800800000000000000
+      internalID: 578342957577678651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_13
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1221
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9950e5c688a07b460800000000000000
+      internalID: 7257280905580774809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_14
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1156
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5147e3b20cf4fad90800000000000000
+      internalID: -7084356002052672491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_15
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1156
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5313cabe816d81f50800000000000000
+      internalID: 6852462235565699381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_16
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1157
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c1511d9de14ce90800000000000000
+      internalID: -7006441199417091045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_17
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1157
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f270a228ea8563100800000000000000
+      internalID: 87354749311649583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_18
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1157
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd3ecc19aa967320800000000000000
+      internalID: 2555399889702763982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_19
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1157
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fcc8834d47390780800000000000000
+      internalID: -8716374798813836040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_20
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1157
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14fe80b4a6d1b3070800000000000000
+      internalID: 8087089898236473153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_21
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1157
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2c57456de434aa0800000000000000
+      internalID: -6178007581375216963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_22
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1157
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb497389f0638400800000000000000
+      internalID: 325210222869695477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_23
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1157
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff5b49b13ae89180800000000000000
+      internalID: -9108272747073806350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_24
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1157
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1cc7cd9bad47b690800000000000000
+      internalID: -7586509647800447969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_25
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1157
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031342ada1ca212d0800000000000000
+      internalID: -3309393544834961104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_26
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1157
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75199d2771cae1120800000000000000
+      internalID: 2386534069264027991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_27
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1157
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6ba42716d199250800000000000000
+      internalID: 5951820686913353460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_28
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1093
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c91e6cece84cdd0800000000000000
+      internalID: -2466689677141107675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_29
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1093
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700ba5715f78c3b70800000000000000
+      internalID: 8880122051996332039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_30
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1093
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8790216d56f71f1c0800000000000000
+      internalID: -4471652879642261128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_31
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1093
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf294744b8435060800000000000000
+      internalID: 6940971389835358143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_32
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1093
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187f83d074b9df9b0800000000000000
+      internalID: -5044705278118267007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_33
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1093
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbbdb9ec6695f5e10800000000000000
+      internalID: 2188566242013207485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_34
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1093
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88664779223930f0800000000000000
+      internalID: -1136822277258188662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_35
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1025
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795db4bcf79573010800000000000000
+      internalID: 1168501033732396439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_36
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 965
+        width: 54
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74ce36138796b4e0800000000000000
+      internalID: -1966217598030920582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_37
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1024
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c6d4b8fcc3162d0800000000000000
+      internalID: -3287279390910747583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_38
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 966
+        width: 21
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947642bbd5eb9d920800000000000000
+      internalID: 3015650735282218825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_39
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 966
+        width: 19
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74066fc3818df74b0800000000000000
+      internalID: -5440392226226675641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_40
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1025
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0869743eeb5f2ca80800000000000000
+      internalID: -8447919750787918208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_41
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 966
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc851564a5e400c0800000000000000
+      internalID: -4610307624287236930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_42
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 966
+        width: 20
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfdf66fa82dd83b50800000000000000
+      internalID: 6573246822958431739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_43
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1025
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3211f3e34f2c6e600800000000000000
+      internalID: 497299163143147811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_44
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 965
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ba4f54c2b5dfec0800000000000000
+      internalID: -3531566287078249667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_45
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 966
+        width: 23
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6688feaa79fd6d3c0800000000000000
+      internalID: -4335031748796643226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_46
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 900
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572063dc5390dc6c0800000000000000
+      internalID: -4121627957293350283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_47
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 900
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89707e8328aed8b60800000000000000
+      internalID: 7750108378795804568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_48
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 903
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6bf25051363392d0800000000000000
+      internalID: -3273212918739305618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_49
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 903
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c08c038bd0096f70800000000000000
+      internalID: 9180870258167939270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_50
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 906
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ec7884e3dd92310800000000000000
+      internalID: 1380878020340338316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_51
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 902
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2448410a71afea70800000000000000
+      internalID: 8858476537440650284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_52
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 906
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d54d53f4c949b10800000000000000
+      internalID: 1987385199596690794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_53
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 902
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c919775fa475585f0800000000000000
+      internalID: -755101383057239652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_54
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 905
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233d72aa21e2e3330800000000000000
+      internalID: 3692439402189411122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_55
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 901
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc186190e80fd1f00800000000000000
+      internalID: 1089291177722020301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_56
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 905
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9064ec25aa795e80800000000000000
+      internalID: -8189379597555179364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_57
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 901
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec929ce4f82db190800000000000000
+      internalID: -7945149135205524253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_58
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 905
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2373cc593d0322dd0800000000000000
+      internalID: -2512391956809894094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_59
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 901
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bff4b79b3340c7c0800000000000000
+      internalID: -4053165741406093389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_60
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 906
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183a0646c54b1caa0800000000000000
+      internalID: -6142430107842600063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_61
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 902
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f825d2bf4be9d39f0800000000000000
+      internalID: -487058684540792177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_62
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 837
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90246fe74e6674f0800000000000000
+      internalID: -831355825965227878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_63
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 770
+        width: 26
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d83eb2f4717aae30800000000000000
+      internalID: 4515546323495041236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_64
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 709
+        width: 26
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69400bc3bcffbc260800000000000000
+      internalID: 7119064884350813334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_65
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 769
+        width: 26
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae054e99531e02800800000000000000
+      internalID: 585715571889557738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_66
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 838
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47b6cf0ccc9b7cc0800000000000000
+      internalID: -3712201067584899252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_67
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 708
+        width: 26
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1981e86cc33d82050800000000000000
+      internalID: 5776098780085360785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_68
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 837
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51b1348309b8e890800000000000000
+      internalID: -7428484160593743524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_69
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 769
+        width: 26
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c1a87b6d4194880800000000000000
+      internalID: -8626340698816635751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_70
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 770
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cfd0fb3c85159860800000000000000
+      internalID: 7535953243519639493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_71
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 769
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34126d243c5e4170800000000000000
+      internalID: 8164564553638745149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_72
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 769
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182290b169d05ab70800000000000000
+      internalID: 8909542376172233345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_73
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 709
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799d4f550caf32050800000000000000
+      internalID: 5774734851201882519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_74
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 709
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac5b8263e17c5f10800000000000000
+      internalID: 2259806334457961639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_75
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 709
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50494a70e0f3a8310800000000000000
+      internalID: 1408007162997019653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_76
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 709
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c010ecee4d12386b0800000000000000
+      internalID: -5295351538434309876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_77
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 708
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e69df05eed2e2280800000000000000
+      internalID: -9066258498265966871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_78
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 644
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc72b5dc1b4327710800000000000000
+      internalID: 1689470748476516301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_79
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 644
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3b732cadf0f43e0800000000000000
+      internalID: -2067416271704050736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_80
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 647
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59611871898647ed0800000000000000
+      internalID: -2417192097552460139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_81
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 647
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd0c53357c48e1b0800000000000000
+      internalID: -5627163668142879278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_82
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 645
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ca1d1405a30fa80800000000000000
+      internalID: -8435177985688884082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_83
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 646
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1de29d7727bea70800000000000000
+      internalID: 8857298951224611316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_84
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 646
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a43849dee2205f0800000000000000
+      internalID: -792018986530027001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_85
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 644
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901bf42deb7a093d0800000000000000
+      internalID: -3201874897046359799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_86
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 644
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de129f97bd22af950800000000000000
+      internalID: 6483532939592802797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_87
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 647
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4c81015d3c5c3c0800000000000000
+      internalID: -4339847346036095778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_88
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 647
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561cc8ab4f57f3560800000000000000
+      internalID: 7295679615325749605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_89
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 645
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61f1f87733bc1fd0800000000000000
+      internalID: -2369822253070028433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_90
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 581
+        width: 7
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7547baa4150f930800000000000000
+      internalID: 4174926235718408163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_91
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 646
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77f9f2b98f11d5c0800000000000000
+      internalID: -4192535101831514242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_92
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 582
+        width: 7
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be44695af0955c90800000000000000
+      internalID: -7181674625856418120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_93
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 645
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a1fdc50d8d131b0800000000000000
+      internalID: -5678519265714562499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_94
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 581
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac040bf9a7e2d180800000000000000
+      internalID: -9091949980460774228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_95
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 515
+        width: 26
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f997dd4a87cf4e0800000000000000
+      internalID: -1946548289445191887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_96
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 581
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0779bc34d1d341220800000000000000
+      internalID: 2455654892724524912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_97
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 581
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c66e2e7871b22e0800000000000000
+      internalID: -2149598524744504273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_98
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 515
+        width: 27
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b757c81b7d05f10800000000000000
+      internalID: 2256540570878311324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_99
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 580
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4257f8f162ff94470800000000000000
+      internalID: 8379509120902853924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_100
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 514
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57786d49d661f060800000000000000
+      internalID: 6985477580520978270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_101
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 513
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b681c18a18e8820800000000000000
+      internalID: 2922415767235881740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_102
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 514
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a3a639834b523d0800000000000000
+      internalID: -3231979002484082049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_103
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 515
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f405cfab48e7cc160800000000000000
+      internalID: 7047146625465864271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_104
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 453
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81907ba63f9aec10800000000000000
+      internalID: 2083652834765607307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_105
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 453
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a06b08d1a7599540800000000000000
+      internalID: 5015136012679733408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_106
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 454
+        width: 69
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40760fe3318162cc0800000000000000
+      internalID: -3736272369917860092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_107
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 454
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a974a2a2bff56c0800000000000000
+      internalID: -4152324172895774168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_108
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 388
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b8dcf624d018960800000000000000
+      internalID: 7602372224972852011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_109
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 388
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d001e03535e60b2c0800000000000000
+      internalID: -4417909930295685107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_110
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 389
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed774c88c7926baf0800000000000000
+      internalID: -381071503618967586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_111
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 389
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6783995330b1ecdb0800000000000000
+      internalID: -4769845254740690826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_112
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 388
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753dadc5a6a062aa0800000000000000
+      internalID: -6186245586206141609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_113
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 393
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5178fe1da1d7140800000000000000
+      internalID: 4718957473523242483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_114
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 391
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6c9e3c677b67240800000000000000
+      internalID: 4789216974476003039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_115
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 391
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2fb9c548ecd3bf70800000000000000
+      internalID: 9201941353809428267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_116
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 391
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4903c017a85639940800000000000000
+      internalID: 5301692831621722260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_117
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 391
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01aa5ef020a564040800000000000000
+      internalID: 4631488231700277776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_118
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 389
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1696cada4fbeb9f30800000000000000
+      internalID: 4583516481897916769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_119
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 325
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d26a2475dd2e6c0800000000000000
+      internalID: -4115483742613131912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_120
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 257
+        width: 25
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae18774422c945180800000000000000
+      internalID: -9127498873781648918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_121
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 325
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71cf7f7f0dc5a4d80800000000000000
+      internalID: -8265692113501946857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_122
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 258
+        width: 24
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c760ad12b98e40780800000000000000
+      internalID: -8717587225696926084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_123
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 325
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c8773d533e484d0800000000000000
+      internalID: -3133129620422423394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_124
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 325
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1d6db721b496f00800000000000000
+      internalID: 1110501325882708412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_125
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 258
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a57b5e9bf39f060800000000000000
+      internalID: 6987686364497533515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_126
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 258
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ececb985a239cdee0800000000000000
+      internalID: -1234950387721842994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_127
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 258
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1926d0ace1759d20800000000000000
+      internalID: 3284656764361255195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_128
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 258
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e926de65df5f9d80800000000000000
+      internalID: -8241763422772516383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_129
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 258
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5c73906a1c55080800000000000000
+      internalID: -9199233744970988110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_130
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 258
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b3a5fdd334aa850800000000000000
+      internalID: 6388992954397768461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_131
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 258
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da28a3a86dc3953e0800000000000000
+      internalID: -2064552062032903507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_132
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 258
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8d4a903923b8da0800000000000000
+      internalID: -5941599676281857815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_133
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 258
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774fab9e005ca7160800000000000000
+      internalID: 7024143176549725303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_134
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 258
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e55d1097de1cbfc0800000000000000
+      internalID: -3477870901052221981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_135
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 258
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ddd3cfbb668a04a0800000000000000
+      internalID: -6626336104385356328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_136
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 197
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303d726fe71b9f1a0800000000000000
+      internalID: -6775189005548399869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_137
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 198
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6f1727e366289d0800000000000000
+      internalID: -2773542002112727373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_138
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 197
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a326f71166fce0d50800000000000000
+      internalID: 6705524932488421946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_139
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 195
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0373a4776f933b760800000000000000
+      internalID: 7472379937463875376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_140
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 197
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5299ab3a380b7f1b0800000000000000
+      internalID: -5622831530314655451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_141
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 197
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5074eb137a73a30800000000000000
+      internalID: 4195005410006468038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_142
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 197
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17c2f40107f09600800000000000000
+      internalID: 473149544623949596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_143
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 197
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628210bc104fce290800000000000000
+      internalID: -7859638961130362842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_144
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 197
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c2527880212c750800000000000000
+      internalID: 6323636654617996327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_145
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 197
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94477088efe9e4f70800000000000000
+      internalID: 9173444307041350729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_146
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 197
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ab718af67f14490800000000000000
+      internalID: -7763652223676466644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_147
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 197
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49caab57abd480a70800000000000000
+      internalID: 8793363735675317396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_148
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 197
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345e6a6776ef4f500800000000000000
+      internalID: 429247584832775491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_149
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 132
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c690a55db0513ff0800000000000000
+      internalID: -58176546063477048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_150
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 132
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07a6d13a64128200800000000000000
+      internalID: 180729381383481100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_151
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 135
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18cfa675677537dc0800000000000000
+      internalID: -3642471507828212607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_152
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 135
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb410feef959b890800000000000000
+      internalID: -7441817957786629151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_153
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 138
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a8bf32271d452e0800000000000000
+      internalID: -2137853634933978568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_154
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 134
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271cabe1b14364d30800000000000000
+      internalID: 4415273775767667058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_155
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 137
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b62deee9e4ce8c0800000000000000
+      internalID: -3968710727101682915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_156
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 133
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3f955f85603f830800000000000000
+      internalID: 4103630664607855603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_157
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 137
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c9dd6ab81ed7560800000000000000
+      internalID: 7313249359835798621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_158
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 133
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb6a5404051db230800000000000000
+      internalID: 3656101579491797959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_159
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 137
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6d8a2997eb89fa0800000000000000
+      internalID: -5793671491251284316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_160
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 133
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ce0e9bdc9993090800000000000000
+      internalID: -8054237349709550515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_161
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 137
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19edac9af08312f10800000000000000
+      internalID: 2243135729331527313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_162
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 133
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58685285b04373510800000000000000
+      internalID: 1528747821843711621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_163
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 136
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d440779764b3e3760800000000000000
+      internalID: 7439448808334230605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_164
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 132
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb5ae0ce06547980800000000000000
+      internalID: -8542107971848872979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_165
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 137
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207bba2dfad819550800000000000000
+      internalID: 6165865151140181762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_166
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 133
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e5f092ed2e99cb0800000000000000
+      internalID: -4856601279342879111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_167
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 137
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50835369270b2ead0800000000000000
+      internalID: -2674381222511822843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_168
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 133
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd71f80a99f98250800000000000000
+      internalID: 5947559222889774525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_169
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 137
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414161f212de0c070800000000000000
+      internalID: 8124754454556054548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_170
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 133
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0648da5d2616d2e40800000000000000
+      internalID: 5633265786029966432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_171
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 137
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f305225c84bf82060800000000000000
+      internalID: 6929064316673085503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_172
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 133
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce27bf7a8eb5a3b0800000000000000
+      internalID: -5501781867705717053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_173
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 137
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7279f003da011b0800000000000000
+      internalID: -5687855907437336584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_174
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 133
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a18bd5c03e623d0800000000000000
+      internalID: -3231646040340292993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_175
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 69
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978a79bf84863e130800000000000000
+      internalID: 3594831590239742073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_176
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 70
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b782d4b3c40b040800000000000000
+      internalID: 4661309431909743365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_177
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 69
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06392111bd8c98480800000000000000
+      internalID: -8896358745683881120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_178
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 67
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e6e246d81fa3690800000000000000
+      internalID: -7621513829797695844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_179
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 69
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c9f730b32ce1770800000000000000
+      internalID: 8583511498532297736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_180
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 69
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ccc3b4390235310800000000000000
+      internalID: 1392492526782172295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_181
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 69
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff14c09c37308d9d0800000000000000
+      internalID: -2749443776680541697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_182
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 69
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa06685cdf09f8b30800000000000000
+      internalID: 4291808389522415786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_183
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 69
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe06e901c4804f200800000000000000
+      internalID: 212804205182607599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_184
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 69
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e619907a0ce2380800000000000000
+      internalID: -8994039582159704556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_185
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 69
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078a0fd6b94d476d0800000000000000
+      internalID: -2993534088265029520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_186
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 69
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342c090146bfacbf0800000000000000
+      internalID: -303153617700863421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_187
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 69
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2a0ea9b5c0449d0800000000000000
+      internalID: -2791092281482894669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_188
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 14
+        width: 91
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84d65ae2ac6ab7f0800000000000000
+      internalID: -596044553701108594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_189
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 3
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5479d3522cd26b10800000000000000
+      internalID: 1973381626735457375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_190
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 3
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568d19f1b1ecbddb0800000000000000
+      internalID: -4765989164752447387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_yellow_191
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 5
+        width: 72
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f4cee7e221827a0800000000000000
+      internalID: -6401846879399948464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

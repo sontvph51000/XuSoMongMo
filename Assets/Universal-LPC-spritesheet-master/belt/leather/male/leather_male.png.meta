@@ -1,0 +1,4480 @@
+fileFormatVersion: 2
+guid: e51651ccd72de784e945cb8831281daf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1456533283932957625
+    second: leather_male_0
+  - first:
+      213: 7511011941706082753
+    second: leather_male_1
+  - first:
+      213: 920144234000230789
+    second: leather_male_2
+  - first:
+      213: -8640543388461984755
+    second: leather_male_3
+  - first:
+      213: -8982714846561742360
+    second: leather_male_4
+  - first:
+      213: 379184509679244294
+    second: leather_male_5
+  - first:
+      213: 1276168075410359174
+    second: leather_male_6
+  - first:
+      213: 9168059549986333996
+    second: leather_male_7
+  - first:
+      213: -8995496355569645028
+    second: leather_male_8
+  - first:
+      213: -2961133422753335971
+    second: leather_male_9
+  - first:
+      213: -5628656101883238038
+    second: leather_male_10
+  - first:
+      213: -5118016256254161486
+    second: leather_male_11
+  - first:
+      213: -2688638363058386641
+    second: leather_male_12
+  - first:
+      213: 1068526770662021786
+    second: leather_male_13
+  - first:
+      213: -2408001883532786595
+    second: leather_male_14
+  - first:
+      213: -8116784469603555560
+    second: leather_male_15
+  - first:
+      213: -5332430034191466038
+    second: leather_male_16
+  - first:
+      213: -7222040531686597433
+    second: leather_male_17
+  - first:
+      213: 5937485272228371544
+    second: leather_male_18
+  - first:
+      213: -2415964500593576255
+    second: leather_male_19
+  - first:
+      213: 168642024098023665
+    second: leather_male_20
+  - first:
+      213: -2017299525216513393
+    second: leather_male_21
+  - first:
+      213: 1868385326391983088
+    second: leather_male_22
+  - first:
+      213: 5922086307655960953
+    second: leather_male_23
+  - first:
+      213: 4321578326140212167
+    second: leather_male_24
+  - first:
+      213: -7702812347119567097
+    second: leather_male_25
+  - first:
+      213: -7224639238139091093
+    second: leather_male_26
+  - first:
+      213: -9018990948462272520
+    second: leather_male_27
+  - first:
+      213: 928526506773303261
+    second: leather_male_28
+  - first:
+      213: -6473946911588740158
+    second: leather_male_29
+  - first:
+      213: 8549606130777243599
+    second: leather_male_30
+  - first:
+      213: -70767637038577022
+    second: leather_male_31
+  - first:
+      213: 879482127840549981
+    second: leather_male_32
+  - first:
+      213: 1842251387323059839
+    second: leather_male_33
+  - first:
+      213: 2650574517179184171
+    second: leather_male_34
+  - first:
+      213: -7395458971692925800
+    second: leather_male_35
+  - first:
+      213: 7263113388954594685
+    second: leather_male_36
+  - first:
+      213: 3137347549061839184
+    second: leather_male_37
+  - first:
+      213: -8891788398034922372
+    second: leather_male_38
+  - first:
+      213: -6429017771677850523
+    second: leather_male_39
+  - first:
+      213: -1180699965618256022
+    second: leather_male_40
+  - first:
+      213: -7944536572530291959
+    second: leather_male_41
+  - first:
+      213: -3770469836697650818
+    second: leather_male_42
+  - first:
+      213: -8179572926478980363
+    second: leather_male_43
+  - first:
+      213: -7563620902628747342
+    second: leather_male_44
+  - first:
+      213: 2403621380838112566
+    second: leather_male_45
+  - first:
+      213: 127039910024839678
+    second: leather_male_46
+  - first:
+      213: -412095408716120195
+    second: leather_male_47
+  - first:
+      213: 1786068323047727236
+    second: leather_male_48
+  - first:
+      213: 5224629911664794935
+    second: leather_male_49
+  - first:
+      213: 4641309179410488671
+    second: leather_male_50
+  - first:
+      213: 6051574202247672953
+    second: leather_male_51
+  - first:
+      213: 4928456703286309003
+    second: leather_male_52
+  - first:
+      213: 8700219270431100092
+    second: leather_male_53
+  - first:
+      213: -7532702384485686428
+    second: leather_male_54
+  - first:
+      213: 7337943027250057634
+    second: leather_male_55
+  - first:
+      213: -5682026857485618354
+    second: leather_male_56
+  - first:
+      213: -5942819059443231149
+    second: leather_male_57
+  - first:
+      213: 1230803908808738492
+    second: leather_male_58
+  - first:
+      213: -1369723918176850437
+    second: leather_male_59
+  - first:
+      213: -5802959451398418990
+    second: leather_male_60
+  - first:
+      213: 4406450473053684556
+    second: leather_male_61
+  - first:
+      213: -7095830330300267766
+    second: leather_male_62
+  - first:
+      213: 5817236697286145799
+    second: leather_male_63
+  - first:
+      213: 7176175719145043278
+    second: leather_male_64
+  - first:
+      213: 8421015516170843838
+    second: leather_male_65
+  - first:
+      213: -164389059028680965
+    second: leather_male_66
+  - first:
+      213: -674343129071199258
+    second: leather_male_67
+  - first:
+      213: 1310852765947989050
+    second: leather_male_68
+  - first:
+      213: -4018002578299021130
+    second: leather_male_69
+  - first:
+      213: 2722723590731042231
+    second: leather_male_70
+  - first:
+      213: -1318998701520681379
+    second: leather_male_71
+  - first:
+      213: -6117808781256007499
+    second: leather_male_72
+  - first:
+      213: 4047635358358600285
+    second: leather_male_73
+  - first:
+      213: 7880130337487350108
+    second: leather_male_74
+  - first:
+      213: 782205937238781460
+    second: leather_male_75
+  - first:
+      213: -3310010647688499181
+    second: leather_male_76
+  - first:
+      213: 7940001985703518091
+    second: leather_male_77
+  - first:
+      213: -8537587958504495345
+    second: leather_male_78
+  - first:
+      213: 68933520061636939
+    second: leather_male_79
+  - first:
+      213: 8443509846636969317
+    second: leather_male_80
+  - first:
+      213: 6155651119214412888
+    second: leather_male_81
+  - first:
+      213: -4685798972540537369
+    second: leather_male_82
+  - first:
+      213: 4885185392336384250
+    second: leather_male_83
+  - first:
+      213: 2298306217059433411
+    second: leather_male_84
+  - first:
+      213: -4179866414205323245
+    second: leather_male_85
+  - first:
+      213: 3969586518516386682
+    second: leather_male_86
+  - first:
+      213: -874914335315848852
+    second: leather_male_87
+  - first:
+      213: -7963284361102211720
+    second: leather_male_88
+  - first:
+      213: 1547631802652547481
+    second: leather_male_89
+  - first:
+      213: -7843376309190853818
+    second: leather_male_90
+  - first:
+      213: 392411652287811564
+    second: leather_male_91
+  - first:
+      213: -5705062411786768389
+    second: leather_male_92
+  - first:
+      213: 3146675876755578461
+    second: leather_male_93
+  - first:
+      213: 4416862400623212528
+    second: leather_male_94
+  - first:
+      213: 3850012108253894839
+    second: leather_male_95
+  - first:
+      213: 5750672989619854135
+    second: leather_male_96
+  - first:
+      213: -7220096282622714036
+    second: leather_male_97
+  - first:
+      213: 90178943286133085
+    second: leather_male_98
+  - first:
+      213: -7932764748904217694
+    second: leather_male_99
+  - first:
+      213: -5854309691158071477
+    second: leather_male_100
+  - first:
+      213: -1298872547014913911
+    second: leather_male_101
+  - first:
+      213: -6823731614297565788
+    second: leather_male_102
+  - first:
+      213: -4600130423703963807
+    second: leather_male_103
+  - first:
+      213: -7510295926967614194
+    second: leather_male_104
+  - first:
+      213: 7741305523030675411
+    second: leather_male_105
+  - first:
+      213: 7498336405881398541
+    second: leather_male_106
+  - first:
+      213: 1032126920996369618
+    second: leather_male_107
+  - first:
+      213: 898179201716469017
+    second: leather_male_108
+  - first:
+      213: 6952325600537351678
+    second: leather_male_109
+  - first:
+      213: -5192477709997357180
+    second: leather_male_110
+  - first:
+      213: -9203075839294965043
+    second: leather_male_111
+  - first:
+      213: 6510740387167261033
+    second: leather_male_112
+  - first:
+      213: -8680123357902641258
+    second: leather_male_113
+  - first:
+      213: -280777366673737460
+    second: leather_male_114
+  - first:
+      213: -5451273216735514089
+    second: leather_male_115
+  - first:
+      213: 6282239667740754485
+    second: leather_male_116
+  - first:
+      213: -5616480302151909871
+    second: leather_male_117
+  - first:
+      213: -5503282592549494946
+    second: leather_male_118
+  - first:
+      213: -7554054417046393643
+    second: leather_male_119
+  - first:
+      213: 4562342641426327948
+    second: leather_male_120
+  - first:
+      213: -147486769338721311
+    second: leather_male_121
+  - first:
+      213: -6007764310499152495
+    second: leather_male_122
+  - first:
+      213: -8229281760504072973
+    second: leather_male_123
+  - first:
+      213: -2610084805436600649
+    second: leather_male_124
+  - first:
+      213: 3710599750267767051
+    second: leather_male_125
+  - first:
+      213: -1275886884628876367
+    second: leather_male_126
+  - first:
+      213: 5295077542585576107
+    second: leather_male_127
+  - first:
+      213: -609107241268980111
+    second: leather_male_128
+  - first:
+      213: 961456519603184526
+    second: leather_male_129
+  - first:
+      213: -4967106482456610559
+    second: leather_male_130
+  - first:
+      213: -4330987553152792843
+    second: leather_male_131
+  - first:
+      213: -7134167149891791413
+    second: leather_male_132
+  - first:
+      213: 8472745330239499997
+    second: leather_male_133
+  - first:
+      213: -6742290175743191461
+    second: leather_male_134
+  - first:
+      213: -8601580576793271996
+    second: leather_male_135
+  - first:
+      213: -5309281005427410720
+    second: leather_male_136
+  - first:
+      213: 6839138214086848954
+    second: leather_male_137
+  - first:
+      213: -6425250025073113342
+    second: leather_male_138
+  - first:
+      213: -4184368791523343296
+    second: leather_male_139
+  - first:
+      213: 4713117513276291681
+    second: leather_male_140
+  - first:
+      213: 7790572841365818777
+    second: leather_male_141
+  - first:
+      213: 3279397556792944406
+    second: leather_male_142
+  - first:
+      213: -7375562114348359438
+    second: leather_male_143
+  - first:
+      213: -2517151372289102454
+    second: leather_male_144
+  - first:
+      213: -8790472631420728267
+    second: leather_male_145
+  - first:
+      213: 6066915623971467594
+    second: leather_male_146
+  - first:
+      213: -4358818755093420759
+    second: leather_male_147
+  - first:
+      213: 5896827971748374840
+    second: leather_male_148
+  - first:
+      213: 4970333948328398445
+    second: leather_male_149
+  - first:
+      213: -3022222871294311983
+    second: leather_male_150
+  - first:
+      213: 4479431511966960906
+    second: leather_male_151
+  - first:
+      213: -6869707526703156130
+    second: leather_male_152
+  - first:
+      213: -2293713394267883625
+    second: leather_male_153
+  - first:
+      213: 3049526516098315264
+    second: leather_male_154
+  - first:
+      213: 4453189964641062116
+    second: leather_male_155
+  - first:
+      213: 4954672873321260784
+    second: leather_male_156
+  - first:
+      213: -3463073995239444692
+    second: leather_male_157
+  - first:
+      213: 8059838516188632215
+    second: leather_male_158
+  - first:
+      213: 5348644770585379330
+    second: leather_male_159
+  - first:
+      213: 3620081899810777970
+    second: leather_male_160
+  - first:
+      213: 4391750768990355674
+    second: leather_male_161
+  - first:
+      213: 1123756521417510256
+    second: leather_male_162
+  - first:
+      213: -787021362666519689
+    second: leather_male_163
+  - first:
+      213: -4781678745792460605
+    second: leather_male_164
+  - first:
+      213: 8413714101012896586
+    second: leather_male_165
+  - first:
+      213: -507806164666361825
+    second: leather_male_166
+  - first:
+      213: -939398946076371992
+    second: leather_male_167
+  - first:
+      213: -3209988029590488779
+    second: leather_male_168
+  - first:
+      213: -1527446719949019680
+    second: leather_male_169
+  - first:
+      213: -2750629443888700417
+    second: leather_male_170
+  - first:
+      213: -6031709393530664882
+    second: leather_male_171
+  - first:
+      213: 1133117268813109795
+    second: leather_male_172
+  - first:
+      213: -6193960926929228710
+    second: leather_male_173
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: leather_male_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1293
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb6b500e45a63410800000000000000
+      internalID: 1456533283932957625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1293
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9ab11e0997c3860800000000000000
+      internalID: 7511011941706082753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1293
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58925b14e4205cc00800000000000000
+      internalID: 920144234000230789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1293
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d049f58519f961880800000000000000
+      internalID: -8640543388461984755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_4
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1293
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e15f04807cf65380800000000000000
+      internalID: -8982714846561742360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_5
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1293
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60413c37d42234500800000000000000
+      internalID: 379184509679244294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_6
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1293
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68347886a1cd5b110800000000000000
+      internalID: 1276168075410359174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_7
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1230
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c252094169d7b3f70800000000000000
+      internalID: 9168059549986333996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_8
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1230
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a43fb89b3992380800000000000000
+      internalID: -8995496355569645028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1230
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55304c37d0f7e6d0800000000000000
+      internalID: -2961133422753335971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_10
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1230
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a692a64e81ff2e1b0800000000000000
+      internalID: -5628656101883238038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_11
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1230
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bdcb43d45729f8b0800000000000000
+      internalID: -5118016256254161486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_12
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1230
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29ca6067a900bad0800000000000000
+      internalID: -2688638363058386641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_13
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1166
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a1e46cf6b24de00800000000000000
+      internalID: 1068526770662021786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_14
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1166
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d548e898b0f059ed0800000000000000
+      internalID: -2408001883532786595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_15
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1166
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8176fda87836b5f80800000000000000
+      internalID: -8116784469603555560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_16
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1166
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1c466e2276ff5b0800000000000000
+      internalID: -5332430034191466038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_17
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1166
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ccd853866826cb90800000000000000
+      internalID: -7222040531686597433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_18
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1166
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c194e956f266250800000000000000
+      internalID: 5937485272228371544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_19
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1166
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c67a284615c87ed0800000000000000
+      internalID: -2415964500593576255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_20
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1102
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8c0940703275200800000000000000
+      internalID: 168642024098023665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_21
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1102
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82d7e915cc1104e0800000000000000
+      internalID: -2017299525216513393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_22
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1102
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb75232e86dde910800000000000000
+      internalID: 1868385326391983088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_23
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1102
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979c909ce1a7f2250800000000000000
+      internalID: 5922086307655960953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_24
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1102
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c35d96479459fb30800000000000000
+      internalID: 4321578326140212167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_25
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1102
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ff1764bfc1a1590800000000000000
+      internalID: -7702812347119567097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_26
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1037
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67ee5404ececbb90800000000000000
+      internalID: -7224639238139091093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_27
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1036
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff517c548b16d280800000000000000
+      internalID: -9018990948462272520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_28
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1036
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfc1c830f9c2ec00800000000000000
+      internalID: 928526506773303261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_29
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1036
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c31408959be726a0800000000000000
+      internalID: -6473946911588740158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_30
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1036
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfba7a6a7d46a670800000000000000
+      internalID: 8549606130777243599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_31
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1036
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ac8b48535940ff0800000000000000
+      internalID: -70767637038577022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_32
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1036
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c9d38e55c843c00800000000000000
+      internalID: 879482127840549981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_33
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1036
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e8c5840edf09910800000000000000
+      internalID: 1842251387323059839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_34
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 974
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24fa23ea7bb8c420800000000000000
+      internalID: 2650574517179184171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_35
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 974
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c74418f3d0e5990800000000000000
+      internalID: -7395458971692925800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_36
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 974
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7da5084523cbc460800000000000000
+      internalID: 7263113388954594685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_37
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 974
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059f5c639f81a8b20800000000000000
+      internalID: 3137347549061839184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_38
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 974
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74503d00950a9480800000000000000
+      internalID: -8891788398034922372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_39
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 974
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564e778266a87c6a0800000000000000
+      internalID: -6429017771677850523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_40
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 974
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67020b03af4d9fe0800000000000000
+      internalID: -1180699965618256022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_41
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 974
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b8b3944165fb190800000000000000
+      internalID: -7944536572530291959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_42
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 974
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79bf4b09a99cabc0800000000000000
+      internalID: -3770469836697650818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_43
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 910
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa61d6b2c15c7e80800000000000000
+      internalID: -8179572926478980363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_44
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 910
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b71813ecde980790800000000000000
+      internalID: -7563620902628747342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_45
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 910
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63db36339e06b5120800000000000000
+      internalID: 2403621380838112566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_46
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 910
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef10455002653c100800000000000000
+      internalID: 127039910024839678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_47
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 909
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ff7edb861f74af0800000000000000
+      internalID: -412095408716120195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_48
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 909
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48066d34da369c810800000000000000
+      internalID: 1786068323047727236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_49
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 909
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d19af293d918840800000000000000
+      internalID: 5224629911664794935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_50
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 910
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d9583ab1e396040800000000000000
+      internalID: 4641309179410488671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_51
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 846
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974f3e0aca28bf350800000000000000
+      internalID: 6051574202247672953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_52
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 846
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80f5427245656440800000000000000
+      internalID: 4928456703286309003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_53
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 846
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbccd0aa4536db870800000000000000
+      internalID: 8700219270431100092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_54
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 846
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4632efd5717767790800000000000000
+      internalID: -7532702384485686428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_55
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 846
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a15b412e4c95d560800000000000000
+      internalID: 7337943027250057634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_56
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 846
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4337538da26521b0800000000000000
+      internalID: -5682026857485618354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_57
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 846
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35617754d8dd68da0800000000000000
+      internalID: -5942819059443231149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_58
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 846
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb605bc42a1b41110800000000000000
+      internalID: 1230803908808738492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_59
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 846
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd66b08a53cdfce0800000000000000
+      internalID: -1369723918176850437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_60
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 782
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ddc665df1fb77fa0800000000000000
+      internalID: -5802959451398418990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_61
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 782
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4387bedb5bd62d30800000000000000
+      internalID: 4406450473053684556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_62
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 782
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a038200f8eb868d90800000000000000
+      internalID: -7095830330300267766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_63
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 781
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7077b1484f9fab050800000000000000
+      internalID: 5817236697286145799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_64
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 782
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e457c69abc5e69360800000000000000
+      internalID: 7176175719145043278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_65
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 782
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb67a69def47dd470800000000000000
+      internalID: 8421015516170843838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_66
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 782
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe72a39509f7bdf0800000000000000
+      internalID: -164389059028680965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_67
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 781
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb5cf63f7044a6f0800000000000000
+      internalID: -674343129071199258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_68
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 782
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c0b2b35a5113210800000000000000
+      internalID: 1310852765947989050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_69
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 718
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b812ed71ff2d38c0800000000000000
+      internalID: -4018002578299021130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_70
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 718
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd891f1eae09c520800000000000000
+      internalID: 2722723590731042231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_71
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 718
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5688a85ba9f1bde0800000000000000
+      internalID: -1318998701520681379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_72
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 718
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b06875b35d291ba0800000000000000
+      internalID: -6117808781256007499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_73
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 718
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a7643c9e61c2830800000000000000
+      internalID: 4047635358358600285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_74
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 717
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5966bd8ac8db5d60800000000000000
+      internalID: 7880130337487350108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_75
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 718
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ea156d724fada00800000000000000
+      internalID: 782205937238781460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_76
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 718
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31034c56ada7012d0800000000000000
+      internalID: -3310010647688499181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_77
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 718
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f11c1fcbd803e60800000000000000
+      internalID: 7940001985703518091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_78
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 654
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07efae5cf4648980800000000000000
+      internalID: -8537587958504495345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_79
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 654
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b412468dba6e4f000800000000000000
+      internalID: 68933520061636939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_80
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 654
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d3f4a487f5d2570800000000000000
+      internalID: 8443509846636969317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_81
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 653
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854c20234144d6550800000000000000
+      internalID: 6155651119214412888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_82
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 654
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5b4d039a2b8feb0800000000000000
+      internalID: -4685798972540537369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_83
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 654
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af033244b3aabc340800000000000000
+      internalID: 4885185392336384250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_84
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 654
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb36e4d35935ef10800000000000000
+      internalID: 2298306217059433411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_85
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 653
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318b4b464a12ef5c0800000000000000
+      internalID: -4179866414205323245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_86
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 654
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b495528edc61730800000000000000
+      internalID: 3969586518516386682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_87
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 590
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c611a9a2c0eabd3f0800000000000000
+      internalID: -874914335315848852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_88
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 590
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875441b901bbc7190800000000000000
+      internalID: -7963284361102211720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_89
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 590
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999d330ccea4a7510800000000000000
+      internalID: 1547631802652547481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_90
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 590
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64bf6f28dcab62390800000000000000
+      internalID: -7843376309190853818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_91
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 590
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cefc6549150227500800000000000000
+      internalID: 392411652287811564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_92
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 589
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff240496fb83d0b0800000000000000
+      internalID: -5705062411786768389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_93
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 590
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e9e41c90d3bab20800000000000000
+      internalID: 3146675876755578461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_94
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 590
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7fceaa3f8db4d30800000000000000
+      internalID: 4416862400623212528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_95
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 590
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b81d6d3d9dfd6530800000000000000
+      internalID: 3850012108253894839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_96
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 525
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b99bd9d9e7ecf40800000000000000
+      internalID: 5750672989619854135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_97
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 524
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f97264fa01dcb90800000000000000
+      internalID: -7220096282622714036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_98
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 524
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d514ac86541604100800000000000000
+      internalID: 90178943286133085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_99
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 525
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3c2de8d7829e190800000000000000
+      internalID: -7932764748904217694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_100
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 525
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4775657a5051cea0800000000000000
+      internalID: -5854309691158071477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_101
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 525
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9805baadc4a79fde0800000000000000
+      internalID: -1298872547014913911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_102
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 462
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5d03f104c3d41a0800000000000000
+      internalID: -6823731614297565788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_103
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 461
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16778ae80cd0920c0800000000000000
+      internalID: -4600130423703963807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_104
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 462
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05480b45a116c790800000000000000
+      internalID: -7510295926967614194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_105
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 462
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df4306ab54ae6b60800000000000000
+      internalID: 7741305523030675411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_106
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 462
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05a0f6bb317f0860800000000000000
+      internalID: 7498336405881398541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_107
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 462
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d43b1957f9d25e00800000000000000
+      internalID: 1032126920996369618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_108
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 398
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d34f6a939f67c00800000000000000
+      internalID: 898179201716469017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_109
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 398
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef512e67c4f9b7060800000000000000
+      internalID: 6952325600537351678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_110
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 396
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487497f980d90f7b0800000000000000
+      internalID: -5192477709997357180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_111
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 396
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcaf7ddb84b184080800000000000000
+      internalID: -9203075839294965043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_112
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 397
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961d4e103ebca5a50800000000000000
+      internalID: 6510740387167261033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_113
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 398
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69764a59bc10a8780800000000000000
+      internalID: -8680123357902641258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_114
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 398
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09317ef87a7a1cf0800000000000000
+      internalID: -280777366673737460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_115
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 334
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712f0e634ef2954b0800000000000000
+      internalID: -5451273216735514089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_116
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 333
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5324e8d61bffe2750800000000000000
+      internalID: 6282239667740754485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_117
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 334
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11eb14e2ce04e02b0800000000000000
+      internalID: -5616480302151909871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_118
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 334
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f1f74c3a960a3b0800000000000000
+      internalID: -5503282592549494946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_119
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 334
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dcaaf1e78b9a2790800000000000000
+      internalID: -7554054417046393643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_120
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 334
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8965d5c572b05f30800000000000000
+      internalID: 4562342641426327948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_121
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 269
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ebde70909504fdf0800000000000000
+      internalID: -147486769338721311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_122
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 268
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19dad6aa03220aca0800000000000000
+      internalID: -6007764310499152495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_123
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 268
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4bd84e6d7bbcd80800000000000000
+      internalID: -8229281760504072973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_124
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 269
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be8e42c2bd17cbd0800000000000000
+      internalID: -2610084805436600649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_125
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 269
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b090d5230d2be7330800000000000000
+      internalID: 3710599750267767051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_126
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 269
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3bd1c63a32b4ee0800000000000000
+      internalID: -1275886884628876367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_127
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 269
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa26ff68f4eb7940800000000000000
+      internalID: 5295077542585576107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_128
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 269
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1765b06f0340c87f0800000000000000
+      internalID: -609107241268980111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_129
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 269
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e836eed4c97c75d00800000000000000
+      internalID: 961456519603184526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_130
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 269
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10932a798fa411bb0800000000000000
+      internalID: -4967106482456610559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_131
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 269
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f680b754cd35e3c0800000000000000
+      internalID: -4330987553152792843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_132
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 269
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5507e86c85efc90800000000000000
+      internalID: -7134167149891791413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_133
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 269
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde6641ccfc359570800000000000000
+      internalID: 8472745330239499997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_134
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 206
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56983eaec29e62a0800000000000000
+      internalID: -6742290175743191461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_135
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 206
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441665dd90c01a880800000000000000
+      internalID: -8601580576793271996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_136
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 206
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e835ca2e05a156b0800000000000000
+      internalID: -5309281005427410720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_137
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 206
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1327c68ff79ee50800000000000000
+      internalID: 6839138214086848954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_138
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 206
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2078276052de4d6a0800000000000000
+      internalID: -6425250025073113342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_139
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 206
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044450cf0c22ee5c0800000000000000
+      internalID: -4184368791523343296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_140
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 206
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a718b386b586140800000000000000
+      internalID: 4713117513276291681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_141
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 206
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d4a6619bcad1c60800000000000000
+      internalID: 7790572841365818777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_142
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 206
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6176de1f3b2c28d20800000000000000
+      internalID: 3279397556792944406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_143
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 206
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0ef6b955db4a990800000000000000
+      internalID: -7375562114348359438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_144
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 206
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d22d0d928411dd0800000000000000
+      internalID: -2517151372289102454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_145
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 206
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ccf5437b7f10680800000000000000
+      internalID: -8790472631420728267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_146
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 142
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a413619bd93023450800000000000000
+      internalID: 6066915623971467594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_147
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 142
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925a85eaf6d5283c0800000000000000
+      internalID: -4358818755093420759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_148
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 141
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83926ad2ccdb5d150800000000000000
+      internalID: 5896827971748374840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_149
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 141
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ecd2d546c2af440800000000000000
+      internalID: 4970333948328398445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_150
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 141
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1017c9f48ee06d0800000000000000
+      internalID: -3022222871294311983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_151
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 141
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d4b722a332a2e30800000000000000
+      internalID: 4479431511966960906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_152
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 141
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54f708d665e9a0a0800000000000000
+      internalID: -6869707526703156130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_153
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 141
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7977b1e02d71b20e0800000000000000
+      internalID: -2293713394267883625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_154
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 141
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004bc259538125a20800000000000000
+      internalID: 3049526516098315264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_155
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 141
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecc3c7cda8eccd30800000000000000
+      internalID: 4453189964641062116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_156
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 141
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6e3903ab882c440800000000000000
+      internalID: 4954672873321260784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_157
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 141
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f2cdaac80b0ffc0800000000000000
+      internalID: -3463073995239444692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_158
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 141
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7945f687d6c4adf60800000000000000
+      internalID: 8059838516188632215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_159
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 78
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2020e7c94143a3a40800000000000000
+      internalID: 5348644770585379330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_160
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 78
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27bea00de4d1d3230800000000000000
+      internalID: 3620081899810777970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_161
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 78
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad008bf4e02a2fc30800000000000000
+      internalID: 4391750768990355674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_162
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 78
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d8e113a92689f00800000000000000
+      internalID: 1123756521417510256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_163
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 78
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7734e9f8d30f315f0800000000000000
+      internalID: -787021362666519689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_164
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 78
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8410fd38014adb0800000000000000
+      internalID: -4781678745792460605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_165
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 78
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b9198a56483c470800000000000000
+      internalID: 8413714101012896586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_166
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 78
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18de44dbf8e3f8f0800000000000000
+      internalID: -507806164666361825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_167
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 78
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3ddbcb2a596f2f0800000000000000
+      internalID: -939398946076371992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_168
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 78
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539b003f4e4d373d0800000000000000
+      internalID: -3209988029590488779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_169
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 78
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e56a1c0d4b6dcae0800000000000000
+      internalID: -1527446719949019680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_170
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 78
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3a840281dc3d9d0800000000000000
+      internalID: -2750629443888700417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_171
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 14
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48c73293401b4ca0800000000000000
+      internalID: -6031709393530664882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_172
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 13
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a57780724a9bf00800000000000000
+      internalID: 1133117268813109795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_male_173
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 8
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5cebbd9a51aa0aa0800000000000000
+      internalID: -6193960926929228710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4580 @@
+fileFormatVersion: 2
+guid: 5b53e698ebc0be74ba094ff160c84e90
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7593268218712598500
+    second: metal_helm_female_0
+  - first:
+      213: -5996477945568532155
+    second: metal_helm_female_1
+  - first:
+      213: -1110490183884971251
+    second: metal_helm_female_2
+  - first:
+      213: -9134548845952195669
+    second: metal_helm_female_3
+  - first:
+      213: 1300872217551887608
+    second: metal_helm_female_4
+  - first:
+      213: -7213971182001712633
+    second: metal_helm_female_5
+  - first:
+      213: 8319901730359232528
+    second: metal_helm_female_6
+  - first:
+      213: -6067080647498164907
+    second: metal_helm_female_7
+  - first:
+      213: 6442323095972234817
+    second: metal_helm_female_8
+  - first:
+      213: 4302781752366185768
+    second: metal_helm_female_9
+  - first:
+      213: -98105590368806420
+    second: metal_helm_female_10
+  - first:
+      213: -2461327376160187059
+    second: metal_helm_female_11
+  - first:
+      213: 7364710849406481900
+    second: metal_helm_female_12
+  - first:
+      213: 2764996950096552279
+    second: metal_helm_female_13
+  - first:
+      213: 4862305829828011065
+    second: metal_helm_female_14
+  - first:
+      213: -5054767252433310462
+    second: metal_helm_female_15
+  - first:
+      213: 8957521688784101348
+    second: metal_helm_female_16
+  - first:
+      213: 2263470808300998474
+    second: metal_helm_female_17
+  - first:
+      213: -8000803652732122905
+    second: metal_helm_female_18
+  - first:
+      213: 960484294049634554
+    second: metal_helm_female_19
+  - first:
+      213: -2151792982355920192
+    second: metal_helm_female_20
+  - first:
+      213: 3361099222681564908
+    second: metal_helm_female_21
+  - first:
+      213: -7711486797807708078
+    second: metal_helm_female_22
+  - first:
+      213: -3140712364803786308
+    second: metal_helm_female_23
+  - first:
+      213: -9211445815988304906
+    second: metal_helm_female_24
+  - first:
+      213: 5170253873190282342
+    second: metal_helm_female_25
+  - first:
+      213: -7052654858821811978
+    second: metal_helm_female_26
+  - first:
+      213: 635485705515270222
+    second: metal_helm_female_27
+  - first:
+      213: -8371374906939673973
+    second: metal_helm_female_28
+  - first:
+      213: 7463352030307273078
+    second: metal_helm_female_29
+  - first:
+      213: -4164251013392814261
+    second: metal_helm_female_30
+  - first:
+      213: -5079711141145523250
+    second: metal_helm_female_31
+  - first:
+      213: -910262931280913522
+    second: metal_helm_female_32
+  - first:
+      213: -8092937644169670254
+    second: metal_helm_female_33
+  - first:
+      213: 3339200970857681327
+    second: metal_helm_female_34
+  - first:
+      213: 5036117956218915079
+    second: metal_helm_female_35
+  - first:
+      213: -2943972710361479684
+    second: metal_helm_female_36
+  - first:
+      213: 5755904040007308906
+    second: metal_helm_female_37
+  - first:
+      213: 6885151670757722992
+    second: metal_helm_female_38
+  - first:
+      213: 7216428135903394723
+    second: metal_helm_female_39
+  - first:
+      213: -6885642519493489936
+    second: metal_helm_female_40
+  - first:
+      213: -6940719919636802292
+    second: metal_helm_female_41
+  - first:
+      213: -239953847012797444
+    second: metal_helm_female_42
+  - first:
+      213: -3262572897034714176
+    second: metal_helm_female_43
+  - first:
+      213: 1678480423887868202
+    second: metal_helm_female_44
+  - first:
+      213: -5885396524606644600
+    second: metal_helm_female_45
+  - first:
+      213: 6121114289981040540
+    second: metal_helm_female_46
+  - first:
+      213: 7265518826658777609
+    second: metal_helm_female_47
+  - first:
+      213: -5572343722794415291
+    second: metal_helm_female_48
+  - first:
+      213: -3638747912759083805
+    second: metal_helm_female_49
+  - first:
+      213: 7871887729406716327
+    second: metal_helm_female_50
+  - first:
+      213: 785517315495412792
+    second: metal_helm_female_51
+  - first:
+      213: -7169873466319086447
+    second: metal_helm_female_52
+  - first:
+      213: -2305873111560297904
+    second: metal_helm_female_53
+  - first:
+      213: 5395085019143795763
+    second: metal_helm_female_54
+  - first:
+      213: 6072276064688972246
+    second: metal_helm_female_55
+  - first:
+      213: 4937249164207359293
+    second: metal_helm_female_56
+  - first:
+      213: -1102510228212474659
+    second: metal_helm_female_57
+  - first:
+      213: 7538254630010906059
+    second: metal_helm_female_58
+  - first:
+      213: -312620929064254273
+    second: metal_helm_female_59
+  - first:
+      213: -9137753633830596236
+    second: metal_helm_female_60
+  - first:
+      213: 1453044022246835273
+    second: metal_helm_female_61
+  - first:
+      213: -1324101399584238280
+    second: metal_helm_female_62
+  - first:
+      213: -8330962373780039037
+    second: metal_helm_female_63
+  - first:
+      213: -604413566376481161
+    second: metal_helm_female_64
+  - first:
+      213: -148928216169492580
+    second: metal_helm_female_65
+  - first:
+      213: -8584917349535328030
+    second: metal_helm_female_66
+  - first:
+      213: -6539227575201487658
+    second: metal_helm_female_67
+  - first:
+      213: 6469038056873004067
+    second: metal_helm_female_68
+  - first:
+      213: 7891728678252217858
+    second: metal_helm_female_69
+  - first:
+      213: 8178271186743016574
+    second: metal_helm_female_70
+  - first:
+      213: -5808303190005289247
+    second: metal_helm_female_71
+  - first:
+      213: 1005000042642314159
+    second: metal_helm_female_72
+  - first:
+      213: 6014435030279564293
+    second: metal_helm_female_73
+  - first:
+      213: 3867549022966301824
+    second: metal_helm_female_74
+  - first:
+      213: -6750445873121348068
+    second: metal_helm_female_75
+  - first:
+      213: 2010193586288793145
+    second: metal_helm_female_76
+  - first:
+      213: 7071412580583355347
+    second: metal_helm_female_77
+  - first:
+      213: 7114865540237909997
+    second: metal_helm_female_78
+  - first:
+      213: 1607493871088960927
+    second: metal_helm_female_79
+  - first:
+      213: 1180123257483706851
+    second: metal_helm_female_80
+  - first:
+      213: -6395933343925227734
+    second: metal_helm_female_81
+  - first:
+      213: -6843576483797419984
+    second: metal_helm_female_82
+  - first:
+      213: 168357161930873915
+    second: metal_helm_female_83
+  - first:
+      213: 7244145956249488724
+    second: metal_helm_female_84
+  - first:
+      213: 2845091160021500994
+    second: metal_helm_female_85
+  - first:
+      213: -6356373174184490920
+    second: metal_helm_female_86
+  - first:
+      213: -936449159955526129
+    second: metal_helm_female_87
+  - first:
+      213: 5391288905417479214
+    second: metal_helm_female_88
+  - first:
+      213: 2859124679740165867
+    second: metal_helm_female_89
+  - first:
+      213: -269063059585621088
+    second: metal_helm_female_90
+  - first:
+      213: 8643483964577176267
+    second: metal_helm_female_91
+  - first:
+      213: -2751633971308705426
+    second: metal_helm_female_92
+  - first:
+      213: -737440612350673805
+    second: metal_helm_female_93
+  - first:
+      213: -5098431592415975127
+    second: metal_helm_female_94
+  - first:
+      213: -6535797207301355303
+    second: metal_helm_female_95
+  - first:
+      213: 5555444237362146720
+    second: metal_helm_female_96
+  - first:
+      213: -8490695714491874809
+    second: metal_helm_female_97
+  - first:
+      213: -458514902418565026
+    second: metal_helm_female_98
+  - first:
+      213: 7594058091394231327
+    second: metal_helm_female_99
+  - first:
+      213: 8469969776324506722
+    second: metal_helm_female_100
+  - first:
+      213: -4512641700693039778
+    second: metal_helm_female_101
+  - first:
+      213: 8247042574223855565
+    second: metal_helm_female_102
+  - first:
+      213: -2257587612679696699
+    second: metal_helm_female_103
+  - first:
+      213: -276881347140208658
+    second: metal_helm_female_104
+  - first:
+      213: 7686523976603865634
+    second: metal_helm_female_105
+  - first:
+      213: 8097299661660354690
+    second: metal_helm_female_106
+  - first:
+      213: -2046697860068252273
+    second: metal_helm_female_107
+  - first:
+      213: -3174788897465221967
+    second: metal_helm_female_108
+  - first:
+      213: 7469267630899604242
+    second: metal_helm_female_109
+  - first:
+      213: 408876813135740010
+    second: metal_helm_female_110
+  - first:
+      213: 4743109436695633114
+    second: metal_helm_female_111
+  - first:
+      213: 3435968515954786514
+    second: metal_helm_female_112
+  - first:
+      213: 7223379936657825276
+    second: metal_helm_female_113
+  - first:
+      213: 1360035588065983341
+    second: metal_helm_female_114
+  - first:
+      213: 521913000844546990
+    second: metal_helm_female_115
+  - first:
+      213: -1029510021933288946
+    second: metal_helm_female_116
+  - first:
+      213: -9172642763308852825
+    second: metal_helm_female_117
+  - first:
+      213: -4343757684397165305
+    second: metal_helm_female_118
+  - first:
+      213: 3479394841779066074
+    second: metal_helm_female_119
+  - first:
+      213: 6962823642269777056
+    second: metal_helm_female_120
+  - first:
+      213: 3851030152078834187
+    second: metal_helm_female_121
+  - first:
+      213: -8516094700219338747
+    second: metal_helm_female_122
+  - first:
+      213: -6132492551670623619
+    second: metal_helm_female_123
+  - first:
+      213: -225302807610556418
+    second: metal_helm_female_124
+  - first:
+      213: 6862755177455898146
+    second: metal_helm_female_125
+  - first:
+      213: 8778451831278124662
+    second: metal_helm_female_126
+  - first:
+      213: 1875284415511318599
+    second: metal_helm_female_127
+  - first:
+      213: -160228972948228331
+    second: metal_helm_female_128
+  - first:
+      213: 8201844321260293351
+    second: metal_helm_female_129
+  - first:
+      213: -7612656265955405694
+    second: metal_helm_female_130
+  - first:
+      213: -3138669821680673481
+    second: metal_helm_female_131
+  - first:
+      213: 1413906910190175893
+    second: metal_helm_female_132
+  - first:
+      213: -6841913569885176956
+    second: metal_helm_female_133
+  - first:
+      213: 5872929311887538205
+    second: metal_helm_female_134
+  - first:
+      213: 3039404220563841778
+    second: metal_helm_female_135
+  - first:
+      213: -7333035109237172023
+    second: metal_helm_female_136
+  - first:
+      213: -3179815419385667202
+    second: metal_helm_female_137
+  - first:
+      213: -1258760190393413151
+    second: metal_helm_female_138
+  - first:
+      213: -6591788947815440845
+    second: metal_helm_female_139
+  - first:
+      213: 1929156593266208984
+    second: metal_helm_female_140
+  - first:
+      213: -2123323012411402154
+    second: metal_helm_female_141
+  - first:
+      213: -4863627327709639518
+    second: metal_helm_female_142
+  - first:
+      213: -6771614176890821470
+    second: metal_helm_female_143
+  - first:
+      213: 1619525584476854392
+    second: metal_helm_female_144
+  - first:
+      213: 3124610350785382225
+    second: metal_helm_female_145
+  - first:
+      213: 3124044410616154825
+    second: metal_helm_female_146
+  - first:
+      213: -8614374939841640063
+    second: metal_helm_female_147
+  - first:
+      213: -3248833616558380942
+    second: metal_helm_female_148
+  - first:
+      213: -5273245851159104604
+    second: metal_helm_female_149
+  - first:
+      213: -7359790256939367855
+    second: metal_helm_female_150
+  - first:
+      213: -4999988851283520713
+    second: metal_helm_female_151
+  - first:
+      213: 3415055099391121578
+    second: metal_helm_female_152
+  - first:
+      213: 1616589151137256365
+    second: metal_helm_female_153
+  - first:
+      213: -6889011926132694985
+    second: metal_helm_female_154
+  - first:
+      213: 3564892935400403680
+    second: metal_helm_female_155
+  - first:
+      213: -8561010514604142336
+    second: metal_helm_female_156
+  - first:
+      213: 6127906142777588270
+    second: metal_helm_female_157
+  - first:
+      213: -4075864547243450954
+    second: metal_helm_female_158
+  - first:
+      213: -6217145132156931308
+    second: metal_helm_female_159
+  - first:
+      213: -8518895822644653002
+    second: metal_helm_female_160
+  - first:
+      213: 6500600848358810774
+    second: metal_helm_female_161
+  - first:
+      213: 5982483332831570432
+    second: metal_helm_female_162
+  - first:
+      213: 6025662316839891443
+    second: metal_helm_female_163
+  - first:
+      213: -1708174219761945613
+    second: metal_helm_female_164
+  - first:
+      213: 8248490002429625352
+    second: metal_helm_female_165
+  - first:
+      213: -7366660008877299041
+    second: metal_helm_female_166
+  - first:
+      213: 6111571812532436287
+    second: metal_helm_female_167
+  - first:
+      213: -2891634585291637553
+    second: metal_helm_female_168
+  - first:
+      213: 7945791610578777066
+    second: metal_helm_female_169
+  - first:
+      213: 2893932230316757908
+    second: metal_helm_female_170
+  - first:
+      213: -9076382448880845434
+    second: metal_helm_female_171
+  - first:
+      213: 8074060326742759545
+    second: metal_helm_female_172
+  - first:
+      213: -5020364445938500413
+    second: metal_helm_female_173
+  - first:
+      213: 561171601825488678
+    second: metal_helm_female_174
+  - first:
+      213: -5145710324143141909
+    second: metal_helm_female_175
+  - first:
+      213: -3583529884507592228
+    second: metal_helm_female_176
+  - first:
+      213: -1655445087366457329
+    second: metal_helm_female_177
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: metal_helm_female_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1305
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7a0acc635b06960800000000000000
+      internalID: 7593268218712598500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1305
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5496ce6441b38cca0800000000000000
+      internalID: -5996477945568532155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1305
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d036af6bf0fb690f0800000000000000
+      internalID: -1110490183884971251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_3
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1305
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3a095b8309b3180800000000000000
+      internalID: -9134548845952195669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1305
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fcda59b360ad0210800000000000000
+      internalID: 1300872217551887608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_5
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1305
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70212e46e63d2eb90800000000000000
+      internalID: -7213971182001712633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_6
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1305
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01848340b8a367370800000000000000
+      internalID: 8319901730359232528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1243
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555993ebb466dcba0800000000000000
+      internalID: -6067080647498164907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_8
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1243
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14648bf09bab76950800000000000000
+      internalID: 6442323095972234817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_9
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1243
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82db1d7e43d86bb30800000000000000
+      internalID: 4302781752366185768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1243
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9569f3c7573aef0800000000000000
+      internalID: -98105590368806420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_11
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1243
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d1704cacb97ddd0800000000000000
+      internalID: -2461327376160187059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_12
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1243
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5b6546f75b43660800000000000000
+      internalID: 7364710849406481900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_13
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1243
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7512b87931e3f5620800000000000000
+      internalID: 2764996950096552279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_14
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1178
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934a53004616a7340800000000000000
+      internalID: 4862305829828011065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_15
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1178
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d6f6817fbd9d9b0800000000000000
+      internalID: -5054767252433310462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_16
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1178
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef55d754828f4c70800000000000000
+      internalID: 8957521688784101348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_17
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1178
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f4f3035b6796f10800000000000000
+      internalID: 2263470808300998474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_18
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1178
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e80149c77f67f090800000000000000
+      internalID: -8000803652732122905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_19
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1178
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af89b276063545d00800000000000000
+      internalID: 960484294049634554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_20
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1178
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca3f78eeab4322e0800000000000000
+      internalID: -2151792982355920192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_21
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1115
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6b6c66fe505ae20800000000000000
+      internalID: 3361099222681564908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_22
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1115
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2589e865d9b4bf490800000000000000
+      internalID: -7711486797807708078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_23
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1115
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb971329eb2f964d0800000000000000
+      internalID: -3140712364803786308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_24
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1115
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3424ea5de5a2080800000000000000
+      internalID: -9211445815988304906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_25
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1115
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6642816218e60c740800000000000000
+      internalID: 5170253873190282342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_26
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1115
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f04e70c5cfef1e90800000000000000
+      internalID: -7052654858821811978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_27
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1115
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e408319d1e2b1d800800000000000000
+      internalID: 635485705515270222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_28
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1049
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82fd3620e6e2db80800000000000000
+      internalID: -8371374906939673973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_29
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1048
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679c7280127239760800000000000000
+      internalID: 7463352030307273078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_30
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1049
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f292734cb9536c0800000000000000
+      internalID: -4164251013392814261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_31
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1049
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb4d6e61ad3189b0800000000000000
+      internalID: -5079711141145523250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_32
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1048
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b9bc0dfa81e53f0800000000000000
+      internalID: -910262931280913522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_33
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1048
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29151e1471c10bf80800000000000000
+      internalID: -8092937644169670254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_34
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1048
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa19c955799375e20800000000000000
+      internalID: 3339200970857681327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_35
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1049
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70905634992e3e540800000000000000
+      internalID: 5036117956218915079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_36
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 987
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5c572fa68e427d0800000000000000
+      internalID: -2943972710361479684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_37
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 987
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a661fd17a3411ef40800000000000000
+      internalID: 5755904040007308906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_38
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 987
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b833827f8fc8f50800000000000000
+      internalID: 6885151670757722992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_39
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 987
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3abf7a3c727e52460800000000000000
+      internalID: 7216428135903394723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_40
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 987
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fac3473c984170a0800000000000000
+      internalID: -6885642519493489936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_41
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 987
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c051290b10c9daf90800000000000000
+      internalID: -6940719919636802292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_42
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 987
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3505a5f338bacf0800000000000000
+      internalID: -239953847012797444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_43
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 987
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3cd6a6c3309b2d0800000000000000
+      internalID: -3262572897034714176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_44
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 922
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2198447d092b4710800000000000000
+      internalID: 1678480423887868202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_45
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 922
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e90840b0fd25ea0800000000000000
+      internalID: -5885396524606644600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_46
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 922
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9723e3040192f450800000000000000
+      internalID: 6121114289981040540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_47
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 922
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ac8e3e0ee44d460800000000000000
+      internalID: 7265518826658777609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_48
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 921
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b067c58ee0ba2b0800000000000000
+      internalID: -5572343722794415291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_49
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 921
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ecfcc06d02908dc0800000000000000
+      internalID: -3638747912759083805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_50
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 921
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a92b0fce209e3d60800000000000000
+      internalID: 7871887729406716327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_51
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 922
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834c50b26d7b6ea00800000000000000
+      internalID: 785517315495412792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_52
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 859
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c5d8be11e7f7c90800000000000000
+      internalID: -7169873466319086447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_53
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 859
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052e2504f94efffd0800000000000000
+      internalID: -2305873111560297904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_54
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 859
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334f8139d313fda40800000000000000
+      internalID: 5395085019143795763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_55
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 859
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1a4e598ee054450800000000000000
+      internalID: 6072276064688972246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_56
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 859
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d358c28c4f1a48440800000000000000
+      internalID: 4937249164207359293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_57
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 859
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc192ee9c813b0f0800000000000000
+      internalID: -1102510228212474659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_58
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 859
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc56e3885a24d9860800000000000000
+      internalID: 7538254630010906059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_59
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 859
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4c5cddbe859abf0800000000000000
+      internalID: -312620929064254273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_60
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 793
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4711e72eb7d203180800000000000000
+      internalID: -9137753633830596236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_61
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 793
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9440705f6df3a2410800000000000000
+      internalID: 1453044022246835273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_62
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 793
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8351f2fdac8df9de0800000000000000
+      internalID: -1324101399584238280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_63
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 792
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a12b14cd9726c80800000000000000
+      internalID: -8330962373780039037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_64
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 793
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ee3be4011bc97f0800000000000000
+      internalID: -604413566376481161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_65
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 793
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f4f229396eeedf0800000000000000
+      internalID: -148928216169492580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_66
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 793
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8dbdac72f3cd880800000000000000
+      internalID: -8584917349535328030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_67
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 792
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d42daaaa2fff35a0800000000000000
+      internalID: -6539227575201487658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_68
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 793
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c066a96d3a6c950800000000000000
+      internalID: 6469038056873004067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_69
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 731
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2068cf2bb6d058d60800000000000000
+      internalID: 7891728678252217858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_70
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 730
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c31a2605e0f7170800000000000000
+      internalID: 8178271186743016574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_71
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 730
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee67fbb503c46fa0800000000000000
+      internalID: -5808303190005289247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_72
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 731
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa392fcc63a72fd00800000000000000
+      internalID: 1005000042642314159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_73
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 731
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50caa705bc0977350800000000000000
+      internalID: 6014435030279564293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_74
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 730
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084c051685b4ca530800000000000000
+      internalID: 3867549022966301824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_75
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 730
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16b9196e399152a0800000000000000
+      internalID: -6750445873121348068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_76
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 731
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93613809a64a5eb10800000000000000
+      internalID: 2010193586288793145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_77
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 731
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d336eda644b22260800000000000000
+      internalID: 7071412580583355347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_78
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 666
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def5c8e33841db260800000000000000
+      internalID: 7114865540237909997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_79
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 666
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9500eca827fe4610800000000000000
+      internalID: 1607493871088960927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_80
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 666
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e14e71a9d3a06010800000000000000
+      internalID: 1180123257483706851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_81
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 665
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2fa244c2841d37a0800000000000000
+      internalID: -6395933343925227734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_82
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 666
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038b902627bb601a0800000000000000
+      internalID: -6843576483797419984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_83
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 666
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c584062ff165200800000000000000
+      internalID: 168357161930873915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_84
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 666
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d4557bd50688460800000000000000
+      internalID: 7244145956249488724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_85
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 665
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2448faa065bcb7720800000000000000
+      internalID: 2845091160021500994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_86
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 666
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85849ec8640a9c7a0800000000000000
+      internalID: -6356373174184490920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_87
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 603
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e43a653701103f0800000000000000
+      internalID: -936449159955526129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_88
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 602
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e24d9e8f1b4b1da40800000000000000
+      internalID: 5391288905417479214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_89
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 602
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee07787fb6ada720800000000000000
+      internalID: 2859124679740165867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_90
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 603
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a32837a298144cf0800000000000000
+      internalID: -269063059585621088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_91
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 603
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca5862eed2d3f770800000000000000
+      internalID: 8643483964577176267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_92
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 602
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e694f3c5b7b30d9d0800000000000000
+      internalID: -2751633971308705426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_93
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 602
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c34e19ba514c5f0800000000000000
+      internalID: -737440612350673805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_94
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 603
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929aa66ba7bbe39b0800000000000000
+      internalID: -5098431592415975127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_95
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 603
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d800de611f2c45a0800000000000000
+      internalID: -6535797207301355303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_96
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 537
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad26719917e81d40800000000000000
+      internalID: 5555444237362146720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_97
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 537
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702c7c9bb3dfa2a80800000000000000
+      internalID: -8490695714491874809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_98
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 537
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e585e15202703a9f0800000000000000
+      internalID: -458514902418565026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_99
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 538
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ceb3d5993836960800000000000000
+      internalID: 7594058091394231327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_100
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 538
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264fd10c2a06b8570800000000000000
+      internalID: 8469969776324506722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_101
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 538
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55a39f3840ef51c0800000000000000
+      internalID: -4512641700693039778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_102
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 475
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfc22cc681637270800000000000000
+      internalID: 8247042574223855565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_103
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 473
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce87e807007ba0e0800000000000000
+      internalID: -2257587612679696699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_104
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 474
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7b6cab1e1582cf0800000000000000
+      internalID: -276881347140208658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_105
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 475
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2221ffee4d40caa60800000000000000
+      internalID: 7686523976603865634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_106
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 475
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288f72514236f5070800000000000000
+      internalID: 8097299661660354690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_107
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 475
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f856410e32ba893e0800000000000000
+      internalID: -2046697860068252273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_108
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 410
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc3bb98152e0f3d0800000000000000
+      internalID: -3174788897465221967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_109
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 408
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b2810265b28a760800000000000000
+      internalID: 7469267630899604242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_110
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 409
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c79d39b4f9ca500800000000000000
+      internalID: 408876813135740010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_111
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 410
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adcdb0117e8e2d140800000000000000
+      internalID: 4743109436695633114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_112
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 410
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d049e429230faf20800000000000000
+      internalID: 3435968515954786514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_113
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 410
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd5c2208c99e3460800000000000000
+      internalID: 7223379936657825276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_114
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 347
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6bff8c5921dfd210800000000000000
+      internalID: 1360035588065983341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_115
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 345
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea35ffaeb153e3700800000000000000
+      internalID: 521913000844546990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_116
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 346
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0236f1f61276b1f0800000000000000
+      internalID: -1029510021933288946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_117
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 347
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a91b69610a34b080800000000000000
+      internalID: -9172642763308852825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_118
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 347
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7053227766fd7b3c0800000000000000
+      internalID: -4343757684397165305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_119
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 347
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad451998c2b494030800000000000000
+      internalID: 3479394841779066074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_120
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 281
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac7e27463be0a060800000000000000
+      internalID: 6962823642269777056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_121
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 281
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a3af9058b917530800000000000000
+      internalID: 3851030152078834187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_122
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 281
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500f6d78df0c0d980800000000000000
+      internalID: -8516094700219338747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_123
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 281
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7291fdf38205eaa0800000000000000
+      internalID: -6132492551670623619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_124
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 281
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff79794a409fdcf0800000000000000
+      internalID: -225302807610556418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_125
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 281
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e4bb439776d3f50800000000000000
+      internalID: 6862755177455898146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_126
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 281
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67eb5392e6353d970800000000000000
+      internalID: 8778451831278124662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_127
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 281
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740d06f7d39560a10800000000000000
+      internalID: 1875284415511318599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_128
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 281
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517f1b81990c6cdf0800000000000000
+      internalID: -160228972948228331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_129
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 281
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec46c774fdc2d170800000000000000
+      internalID: 8201844321260293351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_130
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 281
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280939ea5796a5690800000000000000
+      internalID: -7612656265955405694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_131
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 281
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d1c733d643174d0800000000000000
+      internalID: -3138669821680673481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_132
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 281
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5960b57f7d43f9310800000000000000
+      internalID: 1413906910190175893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_133
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 219
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48bb113bbd3ac01a0800000000000000
+      internalID: -6841913569885176956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_134
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 219
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d183902d716d08150800000000000000
+      internalID: 5872929311887538205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_135
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 219
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2e78ff8022e2a20800000000000000
+      internalID: 3039404220563841778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_136
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 217
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c853749b63db3a90800000000000000
+      internalID: -7333035109237172023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_137
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 219
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71253439b60fd3d0800000000000000
+      internalID: -3179815419385667202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_138
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 219
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1923aa64cf78ee0800000000000000
+      internalID: -1258760190393413151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_139
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 219
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e5d1370e24584a0800000000000000
+      internalID: -6591788947815440845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_140
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 219
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d03cb153bdb5ca10800000000000000
+      internalID: 1929156593266208984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_141
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 219
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6585ec558f07882e0800000000000000
+      internalID: -2123323012411402154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_142
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 219
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac0cfbc6bce08cb0800000000000000
+      internalID: -4863627327709639518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_143
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 219
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a46c6e98c46602a0800000000000000
+      internalID: -6771614176890821470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_144
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 219
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878566f30f5b97610800000000000000
+      internalID: 1619525584476854392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_145
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 219
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15742142f88dc5b20800000000000000
+      internalID: 3124610350785382225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_146
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 154
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca025de6d5da5b20800000000000000
+      internalID: 3124044410616154825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_147
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 154
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18946b412a7937880800000000000000
+      internalID: -8614374939841640063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_148
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 154
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278a0bee903d9e2d0800000000000000
+      internalID: -3248833616558380942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_149
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 154
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3fb5456daa1d6b0800000000000000
+      internalID: -5273245851159104604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_150
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 154
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1528fb151c5ccd990800000000000000
+      internalID: -7359790256939367855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_151
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 154
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733155e71a87c9ab0800000000000000
+      internalID: -4999988851283520713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_152
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 154
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa81897e486b46f20800000000000000
+      internalID: 3415055099391121578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_153
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 154
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3594594474f6610800000000000000
+      internalID: 1616589151137256365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_154
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 154
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7306e6917205560a0800000000000000
+      internalID: -6889011926132694985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_155
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 154
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e237d4bc3b097130800000000000000
+      internalID: 3564892935400403680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_156
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 154
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001d2ae8b4e213980800000000000000
+      internalID: -8561010514604142336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_157
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 154
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a31397b22ba0550800000000000000
+      internalID: 6127906142777588270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_158
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 154
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd12f40ace9f67c0800000000000000
+      internalID: -4075864547243450954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_159
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 91
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413bcb0317348b9a0800000000000000
+      internalID: -6217145132156931308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_160
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 91
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634d4b4626dc6c980800000000000000
+      internalID: -8518895822644653002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_161
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 91
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694a709a706c63a50800000000000000
+      internalID: 6500600848358810774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_162
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 89
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00aee1805ec060350800000000000000
+      internalID: 5982483332831570432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_163
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 91
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1f2bba3f37f9350800000000000000
+      internalID: 6025662316839891443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_164
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 91
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3fb90f8985b48e0800000000000000
+      internalID: -1708174219761945613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_165
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 91
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804cd2074f5887270800000000000000
+      internalID: 8248490002429625352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_166
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 91
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9aeacd80cd54c990800000000000000
+      internalID: -7366660008877299041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_167
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 91
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d3949de2aa0d450800000000000000
+      internalID: 6111571812532436287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_168
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 91
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc357b4aa9ded7d0800000000000000
+      internalID: -2891634585291637553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_169
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 91
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3b3d70f5f154e60800000000000000
+      internalID: 7945791610578777066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_170
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 91
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4939510e700592820800000000000000
+      internalID: 2893932230316757908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_171
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 91
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68dfdd060463a0280800000000000000
+      internalID: -9076382448880845434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_172
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 26
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9789396c613dc0070800000000000000
+      internalID: 8074060326742759545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_173
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 25
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ccb5dca225145ab0800000000000000
+      internalID: -5020364445938500413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_174
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 17
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f58d0499ea9c700800000000000000
+      internalID: 561171601825488678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_175
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 14
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb436c29b3c698b0800000000000000
+      internalID: -5145710324143141909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_176
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 9
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9adef6e8eb44ec0800000000000000
+      internalID: -3583529884507592228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_helm_female_177
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f085b56c67da609e0800000000000000
+      internalID: -1655445087366457329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

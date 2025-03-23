@@ -1,0 +1,4580 @@
+fileFormatVersion: 2
+guid: a977d73694459344d8c8306b6e8a38c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9092726601387119902
+    second: leather_female_0
+  - first:
+      213: 8647189617534258429
+    second: leather_female_1
+  - first:
+      213: -4301020595020098372
+    second: leather_female_2
+  - first:
+      213: -4445546637806766658
+    second: leather_female_3
+  - first:
+      213: -8950742529312710765
+    second: leather_female_4
+  - first:
+      213: 6571997385493928135
+    second: leather_female_5
+  - first:
+      213: 3227147578472762138
+    second: leather_female_6
+  - first:
+      213: -1414928391558317102
+    second: leather_female_7
+  - first:
+      213: 3442358694059694989
+    second: leather_female_8
+  - first:
+      213: -1272471724170559875
+    second: leather_female_9
+  - first:
+      213: 5203891712065372334
+    second: leather_female_10
+  - first:
+      213: -2864857903668315620
+    second: leather_female_11
+  - first:
+      213: -8917160464178432589
+    second: leather_female_12
+  - first:
+      213: 2462230662236892750
+    second: leather_female_13
+  - first:
+      213: -1795694906313054833
+    second: leather_female_14
+  - first:
+      213: -120019540287912461
+    second: leather_female_15
+  - first:
+      213: 7440906585826467323
+    second: leather_female_16
+  - first:
+      213: -5855648522311362776
+    second: leather_female_17
+  - first:
+      213: -8777132001364923496
+    second: leather_female_18
+  - first:
+      213: -7976735159588990509
+    second: leather_female_19
+  - first:
+      213: 301016923593802445
+    second: leather_female_20
+  - first:
+      213: -6329937906532478933
+    second: leather_female_21
+  - first:
+      213: 1809025790084134735
+    second: leather_female_22
+  - first:
+      213: -5576511694447780442
+    second: leather_female_23
+  - first:
+      213: -8163096595087691272
+    second: leather_female_24
+  - first:
+      213: -3969288616553825013
+    second: leather_female_25
+  - first:
+      213: -362946534133298058
+    second: leather_female_26
+  - first:
+      213: 8026193566067521435
+    second: leather_female_27
+  - first:
+      213: -8019061279425698418
+    second: leather_female_28
+  - first:
+      213: 4021237197294042968
+    second: leather_female_29
+  - first:
+      213: 8312806588490190908
+    second: leather_female_30
+  - first:
+      213: 1930896766943664689
+    second: leather_female_31
+  - first:
+      213: -1410167200866791879
+    second: leather_female_32
+  - first:
+      213: 3818233362545257491
+    second: leather_female_33
+  - first:
+      213: 5193295994442977788
+    second: leather_female_34
+  - first:
+      213: 259710092210400407
+    second: leather_female_35
+  - first:
+      213: -2699813031901309933
+    second: leather_female_36
+  - first:
+      213: -7857697726039350450
+    second: leather_female_37
+  - first:
+      213: 1842442586324377273
+    second: leather_female_38
+  - first:
+      213: -556005618391983002
+    second: leather_female_39
+  - first:
+      213: -647980057407314095
+    second: leather_female_40
+  - first:
+      213: -3404292231606638693
+    second: leather_female_41
+  - first:
+      213: -6180381178305865499
+    second: leather_female_42
+  - first:
+      213: 7056700906311063447
+    second: leather_female_43
+  - first:
+      213: -3574492031606450606
+    second: leather_female_44
+  - first:
+      213: -5055974997980695549
+    second: leather_female_45
+  - first:
+      213: 3708373456522222675
+    second: leather_female_46
+  - first:
+      213: -3945262636570002294
+    second: leather_female_47
+  - first:
+      213: -7062596915485778793
+    second: leather_female_48
+  - first:
+      213: 8442309584531074244
+    second: leather_female_49
+  - first:
+      213: -3994546843177637102
+    second: leather_female_50
+  - first:
+      213: -6326052485996010750
+    second: leather_female_51
+  - first:
+      213: -425943698477399309
+    second: leather_female_52
+  - first:
+      213: -6784778232407502178
+    second: leather_female_53
+  - first:
+      213: 1932058187188676258
+    second: leather_female_54
+  - first:
+      213: 8502973210960208082
+    second: leather_female_55
+  - first:
+      213: -7113236239754023660
+    second: leather_female_56
+  - first:
+      213: -6947567063045340371
+    second: leather_female_57
+  - first:
+      213: 6400550897016648696
+    second: leather_female_58
+  - first:
+      213: -8497848922243517152
+    second: leather_female_59
+  - first:
+      213: 7879677240819271664
+    second: leather_female_60
+  - first:
+      213: -3907809986873881767
+    second: leather_female_61
+  - first:
+      213: 1293744591856631162
+    second: leather_female_62
+  - first:
+      213: -7758309699626632291
+    second: leather_female_63
+  - first:
+      213: -1708005358034777919
+    second: leather_female_64
+  - first:
+      213: -7131287495398224396
+    second: leather_female_65
+  - first:
+      213: -8721439541374828950
+    second: leather_female_66
+  - first:
+      213: 8953150686115161590
+    second: leather_female_67
+  - first:
+      213: -8051535742447812255
+    second: leather_female_68
+  - first:
+      213: -5114639517396894830
+    second: leather_female_69
+  - first:
+      213: -1446670580539392951
+    second: leather_female_70
+  - first:
+      213: 207408082264826428
+    second: leather_female_71
+  - first:
+      213: -7250715287119696866
+    second: leather_female_72
+  - first:
+      213: -687952265010061804
+    second: leather_female_73
+  - first:
+      213: -1185350572589312188
+    second: leather_female_74
+  - first:
+      213: -4084867459737402482
+    second: leather_female_75
+  - first:
+      213: -42303540656246910
+    second: leather_female_76
+  - first:
+      213: -6032946958568327831
+    second: leather_female_77
+  - first:
+      213: 8770881429087841862
+    second: leather_female_78
+  - first:
+      213: -7059370010101872342
+    second: leather_female_79
+  - first:
+      213: -1602985052748239909
+    second: leather_female_80
+  - first:
+      213: 4901494957692278226
+    second: leather_female_81
+  - first:
+      213: -5002306851450984240
+    second: leather_female_82
+  - first:
+      213: -3608219353611262000
+    second: leather_female_83
+  - first:
+      213: -7029739775022475352
+    second: leather_female_84
+  - first:
+      213: -8007523372462829835
+    second: leather_female_85
+  - first:
+      213: -121100651234538772
+    second: leather_female_86
+  - first:
+      213: -929394951424296762
+    second: leather_female_87
+  - first:
+      213: 2283468634917562372
+    second: leather_female_88
+  - first:
+      213: 4318737911344125825
+    second: leather_female_89
+  - first:
+      213: -5592171391078333739
+    second: leather_female_90
+  - first:
+      213: 5734573561322515936
+    second: leather_female_91
+  - first:
+      213: -4459368313694790521
+    second: leather_female_92
+  - first:
+      213: 3580696642443859454
+    second: leather_female_93
+  - first:
+      213: 7932089778559156098
+    second: leather_female_94
+  - first:
+      213: 1780885153493444486
+    second: leather_female_95
+  - first:
+      213: -4402164090332917305
+    second: leather_female_96
+  - first:
+      213: 2266638515773863135
+    second: leather_female_97
+  - first:
+      213: 1021507141371434344
+    second: leather_female_98
+  - first:
+      213: -5462323019407190646
+    second: leather_female_99
+  - first:
+      213: -8876920259085383509
+    second: leather_female_100
+  - first:
+      213: -2702816601508085961
+    second: leather_female_101
+  - first:
+      213: 1654088962860957932
+    second: leather_female_102
+  - first:
+      213: 3692656315972941039
+    second: leather_female_103
+  - first:
+      213: 7257933423974840594
+    second: leather_female_104
+  - first:
+      213: -3980776870337779825
+    second: leather_female_105
+  - first:
+      213: -5630814574925009779
+    second: leather_female_106
+  - first:
+      213: -8910461567612375509
+    second: leather_female_107
+  - first:
+      213: 6837331741764668889
+    second: leather_female_108
+  - first:
+      213: -8860082630647647954
+    second: leather_female_109
+  - first:
+      213: 3321103171668427301
+    second: leather_female_110
+  - first:
+      213: -4758711602625216094
+    second: leather_female_111
+  - first:
+      213: -1994661204330287179
+    second: leather_female_112
+  - first:
+      213: -3678882533879634827
+    second: leather_female_113
+  - first:
+      213: 4692900867765538999
+    second: leather_female_114
+  - first:
+      213: -5194990295909330461
+    second: leather_female_115
+  - first:
+      213: 3313942449211818345
+    second: leather_female_116
+  - first:
+      213: -7250335162322934711
+    second: leather_female_117
+  - first:
+      213: 7219934462796531533
+    second: leather_female_118
+  - first:
+      213: -1459255385295790831
+    second: leather_female_119
+  - first:
+      213: 1211777250337920677
+    second: leather_female_120
+  - first:
+      213: 4167392072316498711
+    second: leather_female_121
+  - first:
+      213: 8111899567485239113
+    second: leather_female_122
+  - first:
+      213: -1008767118314157169
+    second: leather_female_123
+  - first:
+      213: -5483678798944271099
+    second: leather_female_124
+  - first:
+      213: 3960562099182671400
+    second: leather_female_125
+  - first:
+      213: 5591029288878971829
+    second: leather_female_126
+  - first:
+      213: -3988097719340139103
+    second: leather_female_127
+  - first:
+      213: 4409658669069663577
+    second: leather_female_128
+  - first:
+      213: -8835601840886364062
+    second: leather_female_129
+  - first:
+      213: -548617874676473335
+    second: leather_female_130
+  - first:
+      213: 8662945512902999303
+    second: leather_female_131
+  - first:
+      213: -4677384463107275057
+    second: leather_female_132
+  - first:
+      213: 5118527013854282569
+    second: leather_female_133
+  - first:
+      213: -9067849764506962669
+    second: leather_female_134
+  - first:
+      213: -6665134788733726266
+    second: leather_female_135
+  - first:
+      213: -1601076923977217389
+    second: leather_female_136
+  - first:
+      213: 949031812117536008
+    second: leather_female_137
+  - first:
+      213: -559005879027527734
+    second: leather_female_138
+  - first:
+      213: 2811052485738154609
+    second: leather_female_139
+  - first:
+      213: -7437580801334226461
+    second: leather_female_140
+  - first:
+      213: 2476044630179977971
+    second: leather_female_141
+  - first:
+      213: 5912338490674762560
+    second: leather_female_142
+  - first:
+      213: 3918757595265970651
+    second: leather_female_143
+  - first:
+      213: -2654493585062600054
+    second: leather_female_144
+  - first:
+      213: 3146629247570720965
+    second: leather_female_145
+  - first:
+      213: 6005191860048730821
+    second: leather_female_146
+  - first:
+      213: -1397543935671731996
+    second: leather_female_147
+  - first:
+      213: -7862992864460343903
+    second: leather_female_148
+  - first:
+      213: 1824395868443281561
+    second: leather_female_149
+  - first:
+      213: 2714700441359980369
+    second: leather_female_150
+  - first:
+      213: 4612184708285383898
+    second: leather_female_151
+  - first:
+      213: 4205255909931146129
+    second: leather_female_152
+  - first:
+      213: -4892732496420746047
+    second: leather_female_153
+  - first:
+      213: -6713331994171210064
+    second: leather_female_154
+  - first:
+      213: -5662299289278771555
+    second: leather_female_155
+  - first:
+      213: -4585364675474152078
+    second: leather_female_156
+  - first:
+      213: 2968097546449893603
+    second: leather_female_157
+  - first:
+      213: 9094152255037748340
+    second: leather_female_158
+  - first:
+      213: 926088864051409611
+    second: leather_female_159
+  - first:
+      213: 7079067121440431308
+    second: leather_female_160
+  - first:
+      213: 2228325808451437160
+    second: leather_female_161
+  - first:
+      213: -7787372710479260784
+    second: leather_female_162
+  - first:
+      213: 8725892926984248779
+    second: leather_female_163
+  - first:
+      213: -3711309237786294687
+    second: leather_female_164
+  - first:
+      213: -2416656980223216796
+    second: leather_female_165
+  - first:
+      213: 6880050394213306165
+    second: leather_female_166
+  - first:
+      213: -2054035594329688870
+    second: leather_female_167
+  - first:
+      213: 1087125884430679994
+    second: leather_female_168
+  - first:
+      213: 1030356262125760125
+    second: leather_female_169
+  - first:
+      213: 7055717416223635723
+    second: leather_female_170
+  - first:
+      213: -5322374905441359721
+    second: leather_female_171
+  - first:
+      213: -6657205169716730019
+    second: leather_female_172
+  - first:
+      213: -6577020549138740626
+    second: leather_female_173
+  - first:
+      213: -6042651701121423104
+    second: leather_female_174
+  - first:
+      213: 2306198031329096705
+    second: leather_female_175
+  - first:
+      213: -4374461111201668047
+    second: leather_female_176
+  - first:
+      213: 3202884185263924942
+    second: leather_female_177
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: leather_female_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1293
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea6394d45520d180800000000000000
+      internalID: -9092726601387119902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1293
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc4392742df00870800000000000000
+      internalID: 8647189617534258429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1293
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4103e7e84bf44c0800000000000000
+      internalID: -4301020595020098372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1293
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5781de2ee3e42c0800000000000000
+      internalID: -4445546637806766658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1293
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f9558b71398c380800000000000000
+      internalID: -8950742529312710765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_5
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1293
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8592b5dcc643b50800000000000000
+      internalID: 6571997385493928135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_6
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1293
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b81acdf9129cc20800000000000000
+      internalID: 3227147578472762138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_7
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1228
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db3d8edf1a2d5ce0800000000000000
+      internalID: -1414928391558317102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_8
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1228
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8bd7ec6ef6b5cf20800000000000000
+      internalID: 3442358694059694989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_9
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1229
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7eb51e65b5475ee0800000000000000
+      internalID: -1272471724170559875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_10
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1229
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea08143d0ffe73840800000000000000
+      internalID: 5203891712065372334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_11
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1229
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a31ef4aeafd38d0800000000000000
+      internalID: -2864857903668315620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_12
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1229
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5bc7f8dc1ef3480800000000000000
+      internalID: -8917160464178432589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_13
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1229
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e64b9edb99b2220800000000000000
+      internalID: 2462230662236892750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_14
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1165
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f856b382ff86417e0800000000000000
+      internalID: -1795694906313054833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_15
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1164
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5880f2dda955ef0800000000000000
+      internalID: -120019540287912461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_16
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1165
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd1d0fbd19634760800000000000000
+      internalID: 7440906585826467323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_17
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1165
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827171a81be8cbea0800000000000000
+      internalID: -5855648522311362776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_18
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1165
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b2eefa2fc513680800000000000000
+      internalID: -8777132001364923496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_19
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1165
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1545982a1fc4190800000000000000
+      internalID: -7976735159588990509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_20
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1165
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc280321c4d6d2400800000000000000
+      internalID: 301016923593802445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_21
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1101
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b201adee20b8728a0800000000000000
+      internalID: -6329937906532478933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_22
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1101
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f473c771f53fa1910800000000000000
+      internalID: 1809025790084134735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_23
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1101
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6add0a6d8204c92b0800000000000000
+      internalID: -5576511694447780442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_24
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1101
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1f89e85ead6be80800000000000000
+      internalID: -8163096595087691272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_25
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1101
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0dbe4f88014ae8c0800000000000000
+      internalID: -3969288616553825013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_26
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1101
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c8688dc0e86faf0800000000000000
+      internalID: -362946534133298058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_27
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1101
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97faf31684c26f60800000000000000
+      internalID: 8026193566067521435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_28
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1037
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85edbfc04296b090800000000000000
+      internalID: -8019061279425698418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_29
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1036
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f7c4eeced4ec730800000000000000
+      internalID: 4021237197294042968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_30
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1036
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c301c719c850d5370800000000000000
+      internalID: 8312806588490190908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_31
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1036
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a90a3116cebca10800000000000000
+      internalID: 1930896766943664689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_32
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1036
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e8d66f6641e6ce0800000000000000
+      internalID: -1410167200866791879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_33
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1036
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c2e0c63071df430800000000000000
+      internalID: 3818233362545257491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_34
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1036
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf19b32113b421840800000000000000
+      internalID: 5193295994442977788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_35
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1036
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ce8cee3fcaa9300800000000000000
+      internalID: 259710092210400407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_36
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 974
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3145d890a56588ad0800000000000000
+      internalID: -2699813031901309933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_37
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 974
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43a70fcc89d3f290800000000000000
+      internalID: -7857697726039350450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_38
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 974
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be9ae445cba19910800000000000000
+      internalID: 1842442586324377273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_39
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 974
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66cdf9ef5dba848f0800000000000000
+      internalID: -556005618391983002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_40
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 974
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15723b82299e107f0800000000000000
+      internalID: -647980057407314095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_41
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 974
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97e677804681c0d0800000000000000
+      internalID: -3404292231606638693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_42
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 974
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8919a3010ea3aa0800000000000000
+      internalID: -6180381178305865499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_43
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 974
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79719d616107ee160800000000000000
+      internalID: 7056700906311063447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_44
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 974
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25612ab8f6ad46ec0800000000000000
+      internalID: -3574492031606450606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_45
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 910
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304ba1ce68195d9b0800000000000000
+      internalID: -5055974997980695549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_46
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 910
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c9e7ac20ac67330800000000000000
+      internalID: 3708373456522222675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_47
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 910
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8cbf91f88c9f39c0800000000000000
+      internalID: -3945262636570002294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_48
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 910
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c53bc468d9cfd90800000000000000
+      internalID: -7062596915485778793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_49
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 909
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cca9dd76db192570800000000000000
+      internalID: 8442309584531074244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_50
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 909
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b2db56fc48098c0800000000000000
+      internalID: -3994546843177637102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_51
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 909
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2032bb5e7c85538a0800000000000000
+      internalID: -6326052485996010750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_52
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 910
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f240f5867eb61af0800000000000000
+      internalID: -425943698477399309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_53
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 846
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e925c891520a7d1a0800000000000000
+      internalID: -6784778232407502178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_54
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 846
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a624cc4fac00da10800000000000000
+      internalID: 1932058187188676258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_55
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 846
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d022fda511a00670800000000000000
+      internalID: 8502973210960208082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_56
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 846
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41da606d355b84d90800000000000000
+      internalID: -7113236239754023660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_57
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 846
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d238af1e098459f90800000000000000
+      internalID: -6947567063045340371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_58
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 846
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f33c77112353d850800000000000000
+      internalID: 6400550897016648696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_59
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 846
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0253db2cd63911a80800000000000000
+      internalID: -8497848922243517152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_60
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 846
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f743c3c3bc3a5d60800000000000000
+      internalID: 7879677240819271664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_61
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 846
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b88aa758ba4c9c0800000000000000
+      internalID: -3907809986873881767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_62
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 781
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d72bb0add44f110800000000000000
+      internalID: 1293744591856631162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_63
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 781
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b7948fe62f45490800000000000000
+      internalID: -7758309699626632291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_64
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 781
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c88fdf1d22fb48e0800000000000000
+      internalID: -1708005358034777919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_65
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 780
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd8a9d5ec3980d90800000000000000
+      internalID: -7131287495398224396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_66
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 781
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ebe4ef1f837f680800000000000000
+      internalID: -8721439541374828950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_67
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 781
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5607afc1bff3c70800000000000000
+      internalID: 8953150686115161590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_68
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 781
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161890fa6e2334090800000000000000
+      internalID: -8051535742447812255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_69
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 780
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29bf16b15762509b0800000000000000
+      internalID: -5114639517396894830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_70
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 781
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94cf0f395c46cebe0800000000000000
+      internalID: -1446670580539392951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_71
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 717
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32a0fa4d8cd0e200800000000000000
+      internalID: 207408082264826428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_72
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 718
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c6cbfbcd8406b90800000000000000
+      internalID: -7250715287119696866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_73
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 716
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e56a55f07e376f0800000000000000
+      internalID: -687952265010061804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_74
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 718
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447128a3fe9cc8fe0800000000000000
+      internalID: -1185350572589312188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_75
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 718
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83cccb10b2af47c0800000000000000
+      internalID: -4084867459737402482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_76
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 717
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f61766725b96ff0800000000000000
+      internalID: -42303540656246910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_77
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 717
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965f2c184baa64ca0800000000000000
+      internalID: -6032946958568327831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_78
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 718
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ee9db803e68b970800000000000000
+      internalID: 8770881429087841862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_79
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 718
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2905d1c064180e90800000000000000
+      internalID: -7059370010101872342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_80
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 654
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb2ea6669d01c9e0800000000000000
+      internalID: -1602985052748239909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_81
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 654
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5dd9dd1bb950440800000000000000
+      internalID: 4901494957692278226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_82
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 654
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8e2c50c6c349ab0800000000000000
+      internalID: -5002306851450984240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_83
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 653
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7af447d970dedc0800000000000000
+      internalID: -3608219353611262000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_84
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 654
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7d9567be8517e90800000000000000
+      internalID: -7029739775022475352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_85
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 654
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe07bd1bef8fd090800000000000000
+      internalID: -8007523372462829835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_86
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 654
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceac81d6993c15ef0800000000000000
+      internalID: -121100651234538772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_87
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 653
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8305047302a13f0800000000000000
+      internalID: -929394951424296762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_88
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 654
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408e10800a280bf10800000000000000
+      internalID: 2283468634917562372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_89
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 589
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187ddabaf3d3feb30800000000000000
+      internalID: 4318737911344125825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_90
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 590
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d28ca79fbd9462b0800000000000000
+      internalID: -5592171391078333739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_91
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 588
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eda9fc554c459f40800000000000000
+      internalID: 5734573561322515936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_92
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 590
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78cd69b35242d12c0800000000000000
+      internalID: -4459368313694790521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_93
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 590
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5dc4dff9031b130800000000000000
+      internalID: 3580696642443859454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_94
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 589
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f7689a0a1741e60800000000000000
+      internalID: 7932089778559156098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_95
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 589
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6876ebf8c99f6b810800000000000000
+      internalID: 1780885153493444486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_96
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 590
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1d9b0651f58e2c0800000000000000
+      internalID: -4402164090332917305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_97
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 590
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd47bee88b7b47f10800000000000000
+      internalID: 2266638515773863135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_98
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 526
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86518f8355f1d2e00800000000000000
+      internalID: 1021507141371434344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_99
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 525
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a859bcb872ee134b0800000000000000
+      internalID: -5462323019407190646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_100
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 526
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba84fb96e08dec480800000000000000
+      internalID: -8876920259085383509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_101
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 528
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ff41efe9aad7ad0800000000000000
+      internalID: -2702816601508085961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_102
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 527
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0c832e52184f610800000000000000
+      internalID: 1654088962860957932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_103
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 527
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe47b27da53fe3330800000000000000
+      internalID: 3692656315972941039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_104
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 460
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2197473befb59b460800000000000000
+      internalID: 7257933423974840594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_105
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 458
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87ec69078071c8c0800000000000000
+      internalID: -3980776870337779825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_106
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 461
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ca0893af35bd1b0800000000000000
+      internalID: -5630814574925009779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_107
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 463
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ea1b5f96ea75480800000000000000
+      internalID: -8910461567612375509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_108
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 462
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ddc26f4ef413ee50800000000000000
+      internalID: 6837331741764668889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_109
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 462
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2173a74ac9aa0580800000000000000
+      internalID: -8860082630647647954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_110
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 397
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52248b91dbde61e20800000000000000
+      internalID: 3321103171668427301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_111
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 394
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a18ef89209a5fdb0800000000000000
+      internalID: -4758711602625216094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_112
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 397
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfe3ace33a8154e0800000000000000
+      internalID: -1994661204330287179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_113
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 397
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57427b5b3dbf1fcc0800000000000000
+      internalID: -3678882533879634827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_114
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 397
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b09945a978802140800000000000000
+      internalID: 4692900867765538999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_115
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 397
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e119b0a9dfa7e7b0800000000000000
+      internalID: -5194990295909330461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_116
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 397
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961cb5b791d7dfd20800000000000000
+      internalID: 3313942449211818345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_117
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 332
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944a7337592a16b90800000000000000
+      internalID: -7250335162322934711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_118
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 329
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47869c142c523460800000000000000
+      internalID: 7219934462796531533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_119
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 332
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d5ed265feafbbe0800000000000000
+      internalID: -1459255385295790831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_120
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 334
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a69a492df811d010800000000000000
+      internalID: 1211777250337920677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_121
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 333
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713343e820d85d930800000000000000
+      internalID: 4167392072316498711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_122
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 333
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f3a9d8da1439070800000000000000
+      internalID: 8111899567485239113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_123
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 270
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b4acb86a32002f0800000000000000
+      internalID: -1008767118314157169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_124
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 269
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5050696af2f06e3b0800000000000000
+      internalID: -5483678798944271099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_125
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 268
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82698a8ce3eb6f630800000000000000
+      internalID: 3960562099182671400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_126
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 269
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb9f640483579d40800000000000000
+      internalID: 5591029288878971829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_127
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 269
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad7f2d014e67a8c0800000000000000
+      internalID: -3988097719340139103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_128
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 269
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d7e963231423d30800000000000000
+      internalID: 4409658669069663577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_129
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 269
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2684e2150f2a16580800000000000000
+      internalID: -8835601840886364062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_130
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 269
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902aa7e13fae268f0800000000000000
+      internalID: -548617874676473335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_131
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 269
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70db525bb07f83870800000000000000
+      internalID: 8662945512902999303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_132
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 269
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc64f86dc97961fb0800000000000000
+      internalID: -4677384463107275057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_133
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 269
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94386023339a80740800000000000000
+      internalID: 5118527013854282569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_134
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 269
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315f3f5cea6882280800000000000000
+      internalID: -9067849764506962669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_135
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 269
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c19d69193fa083a0800000000000000
+      internalID: -6665134788733726266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_136
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 205
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a43404505d7c9e0800000000000000
+      internalID: -1601076923977217389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_137
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 204
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d9fc9a763ab2d00800000000000000
+      internalID: 949031812117536008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_138
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 205
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf85316d130e38f0800000000000000
+      internalID: -559005879027527734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_139
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 204
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ac669975dd20720800000000000000
+      internalID: 2811052485738154609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_140
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 206
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1553ccaa768c890800000000000000
+      internalID: -7437580801334226461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_141
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 206
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa14e5f87dac5220800000000000000
+      internalID: 2476044630179977971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_142
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 206
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043d9884888dc0250800000000000000
+      internalID: 5912338490674762560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_143
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 206
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd131ba3549326630800000000000000
+      internalID: 3918757595265970651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_144
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 206
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a826ac30628592bd0800000000000000
+      internalID: -2654493585062600054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_145
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 206
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8be4d01a21bab20800000000000000
+      internalID: 3146629247570720965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_146
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 206
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca954a0e2ab65350800000000000000
+      internalID: 6005191860048730821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_147
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 206
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8f84ce13dea9ce0800000000000000
+      internalID: -1397543935671731996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_148
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 206
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5f86256a901e290800000000000000
+      internalID: -7862992864460343903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_149
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 142
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9988044506e815910800000000000000
+      internalID: 1824395868443281561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_150
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 142
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1579bd61bad8ca520800000000000000
+      internalID: 2714700441359980369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_151
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 141
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4c6d74e85c10040800000000000000
+      internalID: 4612184708285383898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_152
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 141
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19bde0d38f11c5a30800000000000000
+      internalID: 4205255909931146129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_153
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 141
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ccc4d1a7b5891cb0800000000000000
+      internalID: -4892732496420746047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_154
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 141
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6092cbe1475d2a0800000000000000
+      internalID: -6713331994171210064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_155
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 141
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e879aebc87b61b0800000000000000
+      internalID: -5662299289278771555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_156
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 141
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2752db83f138d50c0800000000000000
+      internalID: -4585364675474152078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_157
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 141
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8bada2efcc03920800000000000000
+      internalID: 2968097546449893603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_158
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 141
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474b7d60b4be43e70800000000000000
+      internalID: 9094152255037748340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_159
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 141
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2ba3c4ae02adc00800000000000000
+      internalID: 926088864051409611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_160
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 141
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc9a9a5a06ed3260800000000000000
+      internalID: 7079067121440431308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_161
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 141
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8624590448a9cee10800000000000000
+      internalID: 2228325808451437160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_162
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 77
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093105277c1bde390800000000000000
+      internalID: -7787372710479260784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_163
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 76
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd5df4a269981970800000000000000
+      internalID: 8725892926984248779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_164
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 78
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1664f1e59e7ce7cc0800000000000000
+      internalID: -3711309237786294687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_165
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 76
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463b3ddc74f467ed0800000000000000
+      internalID: -2416656980223216796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_166
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 78
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53fced7a169da7f50800000000000000
+      internalID: 6880050394213306165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_167
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 78
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad478fb72899e73e0800000000000000
+      internalID: -2054035594329688870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_168
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 78
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf7f976b3f361f00800000000000000
+      internalID: 1087125884430679994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_169
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 78
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7eea14bf8f8c4e00800000000000000
+      internalID: 1030356262125760125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_170
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 78
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09fb857b91fae160800000000000000
+      internalID: 7055717416223635723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_171
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 78
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798e6bff8302326b0800000000000000
+      internalID: -5322374905441359721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_172
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 78
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57e3266b2bdc93a0800000000000000
+      internalID: -6657205169716730019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_173
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 78
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a042838aab9b4a0800000000000000
+      internalID: -6577020549138740626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_174
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 78
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0096f3d0b40342ca0800000000000000
+      internalID: -6042651701121423104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_175
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 12
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104731704e2410020800000000000000
+      internalID: 2306198031329096705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_176
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 12
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1346017dbcaca43c0800000000000000
+      internalID: -4374461111201668047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_female_177
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 8
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec66f57623ee27c20800000000000000
+      internalID: 3202884185263924942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

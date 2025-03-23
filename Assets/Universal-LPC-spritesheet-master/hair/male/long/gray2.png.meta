@@ -1,0 +1,4705 @@
+fileFormatVersion: 2
+guid: 54b4ea8d01352b14ba49ce8bc641770c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5257562705762523512
+    second: gray2_0
+  - first:
+      213: -6517589325889971502
+    second: gray2_1
+  - first:
+      213: 7866965627145065098
+    second: gray2_2
+  - first:
+      213: -4595760587432747369
+    second: gray2_3
+  - first:
+      213: 19569958446958896
+    second: gray2_4
+  - first:
+      213: -8718374178720106611
+    second: gray2_5
+  - first:
+      213: 2229504035592262044
+    second: gray2_6
+  - first:
+      213: 8840168924915208900
+    second: gray2_7
+  - first:
+      213: 363117778264334179
+    second: gray2_8
+  - first:
+      213: -3921670235728563114
+    second: gray2_9
+  - first:
+      213: 1138576045132467645
+    second: gray2_10
+  - first:
+      213: -1646790788907507018
+    second: gray2_11
+  - first:
+      213: 3595300431206411663
+    second: gray2_12
+  - first:
+      213: 736701925245771981
+    second: gray2_13
+  - first:
+      213: 6810459100627777049
+    second: gray2_14
+  - first:
+      213: -5393906792298617729
+    second: gray2_15
+  - first:
+      213: -1769596687433190619
+    second: gray2_16
+  - first:
+      213: -274708760540156614
+    second: gray2_17
+  - first:
+      213: 9011284841286968859
+    second: gray2_18
+  - first:
+      213: -7407591342072623346
+    second: gray2_19
+  - first:
+      213: 3672293820234699363
+    second: gray2_20
+  - first:
+      213: 5979507006392180041
+    second: gray2_21
+  - first:
+      213: 988952026203835938
+    second: gray2_22
+  - first:
+      213: -7368787456677840871
+    second: gray2_23
+  - first:
+      213: 2303090983467040474
+    second: gray2_24
+  - first:
+      213: 8029134598670716907
+    second: gray2_25
+  - first:
+      213: -3921824379935440049
+    second: gray2_26
+  - first:
+      213: -4805509965403524276
+    second: gray2_27
+  - first:
+      213: -4864364868150364937
+    second: gray2_28
+  - first:
+      213: 4000715254963231470
+    second: gray2_29
+  - first:
+      213: -296783995337262698
+    second: gray2_30
+  - first:
+      213: 4375641343257701497
+    second: gray2_31
+  - first:
+      213: 8512371095094279827
+    second: gray2_32
+  - first:
+      213: 5881193096627882983
+    second: gray2_33
+  - first:
+      213: 3877378191470226316
+    second: gray2_34
+  - first:
+      213: -8672985973580540775
+    second: gray2_35
+  - first:
+      213: 5247198593837810476
+    second: gray2_36
+  - first:
+      213: 6125382305378855899
+    second: gray2_37
+  - first:
+      213: 4313704545648127315
+    second: gray2_38
+  - first:
+      213: -5956446619205480830
+    second: gray2_39
+  - first:
+      213: -4058454787058440268
+    second: gray2_40
+  - first:
+      213: -6489939663873800351
+    second: gray2_41
+  - first:
+      213: 3836285601741176482
+    second: gray2_42
+  - first:
+      213: -2104053683773686415
+    second: gray2_43
+  - first:
+      213: -6372290159486217748
+    second: gray2_44
+  - first:
+      213: 4840793576861804055
+    second: gray2_45
+  - first:
+      213: -7752109410266671354
+    second: gray2_46
+  - first:
+      213: -6394929738648431975
+    second: gray2_47
+  - first:
+      213: 1694248903975014178
+    second: gray2_48
+  - first:
+      213: 3107227214200773512
+    second: gray2_49
+  - first:
+      213: 6672467436491379026
+    second: gray2_50
+  - first:
+      213: -5154416551789274771
+    second: gray2_51
+  - first:
+      213: 5535697793101779356
+    second: gray2_52
+  - first:
+      213: 3309717850666423563
+    second: gray2_53
+  - first:
+      213: 935811208291639872
+    second: gray2_54
+  - first:
+      213: 7425694493571951193
+    second: gray2_55
+  - first:
+      213: 4628570148973709618
+    second: gray2_56
+  - first:
+      213: -9163884528097682834
+    second: gray2_57
+  - first:
+      213: 454524521307152739
+    second: gray2_58
+  - first:
+      213: -5245492515400120728
+    second: gray2_59
+  - first:
+      213: -4475321565324244215
+    second: gray2_60
+  - first:
+      213: 4739343369445162564
+    second: gray2_61
+  - first:
+      213: 8196905108816053281
+    second: gray2_62
+  - first:
+      213: -704220421775209710
+    second: gray2_63
+  - first:
+      213: -8977728132307868450
+    second: gray2_64
+  - first:
+      213: 2988033185073236209
+    second: gray2_65
+  - first:
+      213: 1058581149556828847
+    second: gray2_66
+  - first:
+      213: -3164006680037700062
+    second: gray2_67
+  - first:
+      213: 2069520371178115565
+    second: gray2_68
+  - first:
+      213: -8710942114193118147
+    second: gray2_69
+  - first:
+      213: -7679874954706834797
+    second: gray2_70
+  - first:
+      213: 6273554093341660914
+    second: gray2_71
+  - first:
+      213: -6027568640710639958
+    second: gray2_72
+  - first:
+      213: -1754735102258849454
+    second: gray2_73
+  - first:
+      213: -2585834864106016103
+    second: gray2_74
+  - first:
+      213: 6694416970272430789
+    second: gray2_75
+  - first:
+      213: 7406273750270162898
+    second: gray2_76
+  - first:
+      213: -1148760590045114002
+    second: gray2_77
+  - first:
+      213: -2645599267748729394
+    second: gray2_78
+  - first:
+      213: -9030696501506915039
+    second: gray2_79
+  - first:
+      213: 5681084779896184475
+    second: gray2_80
+  - first:
+      213: 2925115274085028531
+    second: gray2_81
+  - first:
+      213: -1519104720553837490
+    second: gray2_82
+  - first:
+      213: 6653467629598993535
+    second: gray2_83
+  - first:
+      213: -5805713408345716593
+    second: gray2_84
+  - first:
+      213: -7918986807913635272
+    second: gray2_85
+  - first:
+      213: 7758985286364959852
+    second: gray2_86
+  - first:
+      213: 5253559848034198780
+    second: gray2_87
+  - first:
+      213: 2923351749333162844
+    second: gray2_88
+  - first:
+      213: -1460013464024707293
+    second: gray2_89
+  - first:
+      213: -8895252526564552455
+    second: gray2_90
+  - first:
+      213: 2945990772155936027
+    second: gray2_91
+  - first:
+      213: -2067450710154858125
+    second: gray2_92
+  - first:
+      213: -5748102527545907886
+    second: gray2_93
+  - first:
+      213: 8310223177953503647
+    second: gray2_94
+  - first:
+      213: 6870711148264878170
+    second: gray2_95
+  - first:
+      213: -2585637436544941736
+    second: gray2_96
+  - first:
+      213: -5705957050725015210
+    second: gray2_97
+  - first:
+      213: 8357559117899283399
+    second: gray2_98
+  - first:
+      213: -5570694573721413165
+    second: gray2_99
+  - first:
+      213: 7509990136015125120
+    second: gray2_100
+  - first:
+      213: -7744059640998921800
+    second: gray2_101
+  - first:
+      213: 4564597349744738303
+    second: gray2_102
+  - first:
+      213: -7917618658731090070
+    second: gray2_103
+  - first:
+      213: -3961923345700074607
+    second: gray2_104
+  - first:
+      213: -7966413930449792935
+    second: gray2_105
+  - first:
+      213: 5406693866370288626
+    second: gray2_106
+  - first:
+      213: 2253612845564378424
+    second: gray2_107
+  - first:
+      213: 7060466143769328091
+    second: gray2_108
+  - first:
+      213: -6583430178167633034
+    second: gray2_109
+  - first:
+      213: -1877149570287439052
+    second: gray2_110
+  - first:
+      213: 589585819122096479
+    second: gray2_111
+  - first:
+      213: -5042673414591627160
+    second: gray2_112
+  - first:
+      213: -7178840990315082854
+    second: gray2_113
+  - first:
+      213: -4503838580751096189
+    second: gray2_114
+  - first:
+      213: 4202173205592148423
+    second: gray2_115
+  - first:
+      213: -1048827868017072261
+    second: gray2_116
+  - first:
+      213: 388921459056622789
+    second: gray2_117
+  - first:
+      213: -2384453351420259039
+    second: gray2_118
+  - first:
+      213: 2951651539469368762
+    second: gray2_119
+  - first:
+      213: -6382043062366872682
+    second: gray2_120
+  - first:
+      213: -3028403159813498803
+    second: gray2_121
+  - first:
+      213: -6108957141588097976
+    second: gray2_122
+  - first:
+      213: 6806039106033365221
+    second: gray2_123
+  - first:
+      213: -5567053098533120236
+    second: gray2_124
+  - first:
+      213: 1311261048969337866
+    second: gray2_125
+  - first:
+      213: -8754258749423646576
+    second: gray2_126
+  - first:
+      213: 25450695806399237
+    second: gray2_127
+  - first:
+      213: -4733488471129052950
+    second: gray2_128
+  - first:
+      213: -5956104464295878742
+    second: gray2_129
+  - first:
+      213: 4554263048575174419
+    second: gray2_130
+  - first:
+      213: -7642409540020062332
+    second: gray2_131
+  - first:
+      213: -8681533627002206516
+    second: gray2_132
+  - first:
+      213: 3722351535285010141
+    second: gray2_133
+  - first:
+      213: -5388721158486155626
+    second: gray2_134
+  - first:
+      213: -8442479112781117970
+    second: gray2_135
+  - first:
+      213: -1171101611087262935
+    second: gray2_136
+  - first:
+      213: -522195842048940076
+    second: gray2_137
+  - first:
+      213: -473218615439605247
+    second: gray2_138
+  - first:
+      213: -3379678489421588007
+    second: gray2_139
+  - first:
+      213: 4397057858716047994
+    second: gray2_140
+  - first:
+      213: -8098947388139190924
+    second: gray2_141
+  - first:
+      213: 782528116999632782
+    second: gray2_142
+  - first:
+      213: -6895527632628702959
+    second: gray2_143
+  - first:
+      213: -4343755458966811886
+    second: gray2_144
+  - first:
+      213: -5235471204865851222
+    second: gray2_145
+  - first:
+      213: 8820882959354359185
+    second: gray2_146
+  - first:
+      213: -3410862059971157576
+    second: gray2_147
+  - first:
+      213: 8379466062265985673
+    second: gray2_148
+  - first:
+      213: 7878388474137449344
+    second: gray2_149
+  - first:
+      213: -8691496631612839563
+    second: gray2_150
+  - first:
+      213: 2036929066341308141
+    second: gray2_151
+  - first:
+      213: 7661543126668523408
+    second: gray2_152
+  - first:
+      213: -1927532098454571217
+    second: gray2_153
+  - first:
+      213: 2401843621549657486
+    second: gray2_154
+  - first:
+      213: 6471051904087600543
+    second: gray2_155
+  - first:
+      213: -3222978631280187135
+    second: gray2_156
+  - first:
+      213: 5222752181201703043
+    second: gray2_157
+  - first:
+      213: -7660830870316268971
+    second: gray2_158
+  - first:
+      213: 1259776591253024923
+    second: gray2_159
+  - first:
+      213: -4414365965602155209
+    second: gray2_160
+  - first:
+      213: 2680885899989250288
+    second: gray2_161
+  - first:
+      213: 6726154005665040649
+    second: gray2_162
+  - first:
+      213: -7258110004925664193
+    second: gray2_163
+  - first:
+      213: 5485714636085519431
+    second: gray2_164
+  - first:
+      213: 8062849009641338832
+    second: gray2_165
+  - first:
+      213: 7259726038989428944
+    second: gray2_166
+  - first:
+      213: 9050675592536227732
+    second: gray2_167
+  - first:
+      213: 6886025766795971384
+    second: gray2_168
+  - first:
+      213: -5285745729359981696
+    second: gray2_169
+  - first:
+      213: -8957634288021744505
+    second: gray2_170
+  - first:
+      213: 5914072689364111026
+    second: gray2_171
+  - first:
+      213: 3733790187008596617
+    second: gray2_172
+  - first:
+      213: 7097187839027197774
+    second: gray2_173
+  - first:
+      213: -4077383401741225241
+    second: gray2_174
+  - first:
+      213: 4348566698528511087
+    second: gray2_175
+  - first:
+      213: 6513018907791810428
+    second: gray2_176
+  - first:
+      213: 6603826444863487645
+    second: gray2_177
+  - first:
+      213: 8644724828039864941
+    second: gray2_178
+  - first:
+      213: -388857342505915140
+    second: gray2_179
+  - first:
+      213: 5424313479271827312
+    second: gray2_180
+  - first:
+      213: -5050910719557644134
+    second: gray2_181
+  - first:
+      213: 6337777192533445695
+    second: gray2_182
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gray2_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1302
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886eeaa23926907b0800000000000000
+      internalID: -5257562705762523512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1302
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da537e2a0fdc85a0800000000000000
+      internalID: -6517589325889971502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1302
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8290329e831d2d60800000000000000
+      internalID: 7866965627145065098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1302
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e945958149830c0800000000000000
+      internalID: -4595760587432747369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1302
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039008506c6854000800000000000000
+      internalID: 19569958446958896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_5
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1302
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87337a50ec120780800000000000000
+      internalID: -8718374178720106611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_6
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1302
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91d6c2ab1ac0fe10800000000000000
+      internalID: 2229504035592262044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_7
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1239
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2940cccc69eaa70800000000000000
+      internalID: 8840168924915208900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_8
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1239
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f131902bd0a0500800000000000000
+      internalID: 363117778264334179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1239
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6543d21d2bd6399c0800000000000000
+      internalID: -3921670235728563114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_10
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1239
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbdc3ef61e80dcf00800000000000000
+      internalID: 1138576045132467645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_11
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1239
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b268c7a08c6529e0800000000000000
+      internalID: -1646790788907507018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_12
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1239
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8dedd681b215e130800000000000000
+      internalID: 3595300431206411663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_13
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1239
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0ee9f6f7a493a00800000000000000
+      internalID: 736701925245771981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_14
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1178
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916be3af77c938e50800000000000000
+      internalID: 6810459100627777049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_15
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1178
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74697db95ef425b0800000000000000
+      internalID: -5393906792298617729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_16
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1178
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52336d140312177e0800000000000000
+      internalID: -1769596687433190619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_17
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1178
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3de05776d9003cf0800000000000000
+      internalID: -274708760540156614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_18
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1178
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16a5ceb1d38e0d70800000000000000
+      internalID: 9011284841286968859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_19
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1178
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f8086ebe2f23990800000000000000
+      internalID: -7407591342072623346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_20
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1178
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36293f9d5cb96f230800000000000000
+      internalID: 3672293820234699363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_21
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1111
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d17f701f97bf250800000000000000
+      internalID: 5979507006392180041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_22
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1111
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e48cdc0a679bd00800000000000000
+      internalID: 988952026203835938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_23
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1111
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918fc5389deccb990800000000000000
+      internalID: -7368787456677840871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_24
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1111
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade35f21c0936ff10800000000000000
+      internalID: 2303090983467040474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_25
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1111
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef019790673d6f60800000000000000
+      internalID: 8029134598670716907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_26
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1111
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f434b725181e299c0800000000000000
+      internalID: -3921824379935440049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_27
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1111
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43f58ba5266f4db0800000000000000
+      internalID: -4805509965403524276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_28
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1046
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4f108cced4e7cb0800000000000000
+      internalID: -4864364868150364937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_29
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1045
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eead193e355658730800000000000000
+      internalID: 4000715254963231470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_30
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1046
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699b6e6578c91ebf0800000000000000
+      internalID: -296783995337262698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_31
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1046
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c63695e9669bc30800000000000000
+      internalID: 4375641343257701497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_32
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1045
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39eb5671964022670800000000000000
+      internalID: 8512371095094279827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_33
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1045
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb0cf326f13e9150800000000000000
+      internalID: 5881193096627882983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_34
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1045
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8bed620ce63fc530800000000000000
+      internalID: 3877378191470226316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_35
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1046
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99459ce553d53a780800000000000000
+      internalID: -8672985973580540775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_36
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 983
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23c1abf15bc1d840800000000000000
+      internalID: 5247198593837810476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_37
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 983
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbe199c0cab10550800000000000000
+      internalID: 6125382305378855899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_38
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 983
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d2855ed6b5ddb30800000000000000
+      internalID: 4313704545648127315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_39
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 983
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e4ea2cb53765da0800000000000000
+      internalID: -5956446619205480830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_40
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 983
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7e560bfd87da7c0800000000000000
+      internalID: -4058454787058440268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_41
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 983
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1678519c24a1fe5a0800000000000000
+      internalID: -6489939663873800351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_42
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 983
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae7ab4ed693d3530800000000000000
+      internalID: 3836285601741176482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_43
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 983
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d31568256ecc2e0800000000000000
+      internalID: -2104053683773686415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_44
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 922
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce15b1e9cd31197a0800000000000000
+      internalID: -6372290159486217748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_45
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 922
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71627db4c14fd2340800000000000000
+      internalID: 4840793576861804055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_46
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 922
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60797155099fa6490800000000000000
+      internalID: -7752109410266671354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_47
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 922
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9925744d845a047a0800000000000000
+      internalID: -6394929738648431975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_48
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 921
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f8682d66e238710800000000000000
+      internalID: 1694248903975014178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_49
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 921
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b1dd240b61f1b20800000000000000
+      internalID: 3107227214200773512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_50
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 921
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2511e6ff7cd599c50800000000000000
+      internalID: 6672467436491379026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_51
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 922
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69d4369475d778b0800000000000000
+      internalID: -5154416551789274771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_52
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 855
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91debd30dfb2dc40800000000000000
+      internalID: 5535697793101779356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_53
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 855
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05ddbb79da7eed20800000000000000
+      internalID: 3309717850666423563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_54
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 855
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0426d07f55bacfc00800000000000000
+      internalID: 935811208291639872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_55
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 855
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a2ee38ccd5d0760800000000000000
+      internalID: 7425694493571951193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_56
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 855
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2390e8bf60cfb3040800000000000000
+      internalID: 4628570148973709618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_57
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 855
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a1a04f29753d080800000000000000
+      internalID: -9163884528097682834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_58
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 855
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361a73ad4abce4600800000000000000
+      internalID: 454524521307152739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_59
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 855
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8660b9b59544437b0800000000000000
+      internalID: -5245492515400120728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_60
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 791
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b04336fb674e1c0800000000000000
+      internalID: -4475321565324244215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_61
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 791
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44eb1643fa785c140800000000000000
+      internalID: 4739343369445162564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_62
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 791
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124c09474c141c170800000000000000
+      internalID: 8196905108816053281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_63
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 790
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b438ce14b1a36f0800000000000000
+      internalID: -704220421775209710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_64
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 791
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed422c764d3b86380800000000000000
+      internalID: -8977728132307868450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_65
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 791
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f88e5db950a77920800000000000000
+      internalID: 2988033185073236209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_66
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 791
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa624962f5d0be00800000000000000
+      internalID: 1058581149556828847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_67
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 790
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ec36920b03714d0800000000000000
+      internalID: -3164006680037700062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_68
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 791
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1918310d968bc10800000000000000
+      internalID: 2069520371178115565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_69
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 727
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c6788bc448c1780800000000000000
+      internalID: -8710942114193118147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_70
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 726
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39aa74d1b6a9b6590800000000000000
+      internalID: -7679874954706834797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_71
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 727
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6d3dc8534201750800000000000000
+      internalID: 6273554093341660914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_72
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 727
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae7827b146c95ca0800000000000000
+      internalID: -6027568640710639958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_73
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 727
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259d3f2b8bde5a7e0800000000000000
+      internalID: -1754735102258849454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_74
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 726
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992f32534e44d1cd0800000000000000
+      internalID: -2585834864106016103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_75
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 727
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca5f6314c857ec50800000000000000
+      internalID: 6694416970272430789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_76
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 727
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7372a5cbe58c660800000000000000
+      internalID: 7406273750270162898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_77
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 727
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61946a6458ce00f0800000000000000
+      internalID: -1148760590045114002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_78
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 666
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecdadc3ab71f84bd0800000000000000
+      internalID: -2645599267748729394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_79
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 666
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1254159e0658ca280800000000000000
+      internalID: -9030696501506915039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_80
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 666
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e1794f18447de40800000000000000
+      internalID: 5681084779896184475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_81
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 665
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b258e608d8189820800000000000000
+      internalID: 2925115274085028531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_82
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 666
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4cf4c22e4e0beae0800000000000000
+      internalID: -1519104720553837490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_83
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 666
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ceecabe8dd55c50800000000000000
+      internalID: 6653467629598993535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_84
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 666
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88c4d34a66fd6fa0800000000000000
+      internalID: -5805713408345716593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_85
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 665
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832ad4d647b1a1290800000000000000
+      internalID: -7918986807913635272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_86
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 666
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64144352047dab60800000000000000
+      internalID: 7758985286364959852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_87
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 599
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf46554e8d468e840800000000000000
+      internalID: 5253559848034198780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_88
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 598
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b158c6de4d19820800000000000000
+      internalID: 2923351749333162844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_89
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 599
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f058d6d7dfcbbe0800000000000000
+      internalID: -1460013464024707293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_90
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 599
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f059b6c4f6bd8480800000000000000
+      internalID: -8895252526564552455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_91
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 599
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1deeedaff242e820800000000000000
+      internalID: 2945990772155936027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_92
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 598
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371379e6880fe43e0800000000000000
+      internalID: -2067450710154858125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_93
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 599
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255e919b433aa30b0800000000000000
+      internalID: -5748102527545907886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_94
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 599
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99e22e63f7d35370800000000000000
+      internalID: 8310223177953503647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_95
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 599
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50f4a2036ba95f50800000000000000
+      internalID: 6870711148264878170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_96
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 534
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85189c46378fd1cd0800000000000000
+      internalID: -2585637436544941736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_97
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 533
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65166e73b4e50d0b0800000000000000
+      internalID: -5705957050725015210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_98
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 533
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cbb6bbccb30cf370800000000000000
+      internalID: 8357559117899283399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_99
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 534
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9932dcccae0b2b0800000000000000
+      internalID: -5570694573721413165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_100
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 534
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a7ed33d38d83860800000000000000
+      internalID: 7509990136015125120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_101
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 534
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9f1da49c2978490800000000000000
+      internalID: -7744059640998921800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_102
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 471
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff7936fa15b85f30800000000000000
+      internalID: 4564597349744738303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_103
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 469
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f145b77c7fe1290800000000000000
+      internalID: -7917618658731090070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_104
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 471
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b483055bb6409c0800000000000000
+      internalID: -3961923345700074607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_105
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 471
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95011d5fcbc917190800000000000000
+      internalID: -7966413930449792935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_106
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 471
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbc842fc6f680b40800000000000000
+      internalID: 5406693866370288626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_107
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 471
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d3f1161f0764f10800000000000000
+      internalID: 2253612845564378424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_108
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 410
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9fa00cc80dbf160800000000000000
+      internalID: 7060466143769328091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_109
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 410
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b4bba2225f2a4a0800000000000000
+      internalID: -6583430178167633034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_110
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 408
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4337db0596603f5e0800000000000000
+      internalID: -1877149570287439052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_111
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 409
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f595161cd21ae2800800000000000000
+      internalID: 589585819122096479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_112
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 410
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860c5f42f33d40ab0800000000000000
+      internalID: -5042673414591627160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_113
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 410
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b81498722af5c90800000000000000
+      internalID: -7178840990315082854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_114
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 343
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386a1a45ca62f71c0800000000000000
+      internalID: -4503838580751096189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_115
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 341
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c90cf3344e115a30800000000000000
+      internalID: 4202173205592148423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_116
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 343
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77ef486c90d171f0800000000000000
+      internalID: -1048827868017072261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_117
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 343
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ccb894a10ab56500800000000000000
+      internalID: 388921459056622789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_118
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 343
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1251b1d6f48b8eed0800000000000000
+      internalID: -2384453351420259039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_119
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 343
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd7ec6cf6f56f820800000000000000
+      internalID: 2951651539469368762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_120
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 278
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b5066f5ad6e67a0800000000000000
+      internalID: -6382043062366872682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_121
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 277
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4855ae0f53f8f5d0800000000000000
+      internalID: -3028403159813498803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_122
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 278
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8444e8ba8df983ba0800000000000000
+      internalID: -6108957141588097976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_123
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 278
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0398ac188e37e50800000000000000
+      internalID: 6806039106033365221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_124
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 278
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4171230d3baddb2b0800000000000000
+      internalID: -5567053098533120236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_125
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 278
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c9f970af8823210800000000000000
+      internalID: 1311261048969337866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_126
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 278
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0988fb8ac00a28680800000000000000
+      internalID: -8754258749423646576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_127
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 278
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503b3d2e54b6a5000800000000000000
+      internalID: 25450695806399237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_128
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 278
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae822f980554f4eb0800000000000000
+      internalID: -4733488471129052950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_129
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 278
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf9688eb8aa75da0800000000000000
+      internalID: -5956104464295878742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_130
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 278
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317c208fc1ef33f30800000000000000
+      internalID: 4554263048575174419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_131
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 278
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4873c0bb305b0f590800000000000000
+      internalID: -7642409540020062332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_132
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 278
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6cce8b92ff48780800000000000000
+      internalID: -8681533627002206516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_133
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 215
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddefacddff278a330800000000000000
+      internalID: 3722351535285010141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_134
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 215
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e1dc238aa6735b0800000000000000
+      internalID: -5388721158486155626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_135
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 215
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5c6032af946da80800000000000000
+      internalID: -8442479112781117970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_136
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 215
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b814b1a496fbfe0800000000000000
+      internalID: -1171101611087262935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_137
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 215
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7ac7bf5a9c0c8f0800000000000000
+      internalID: -522195842048940076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_138
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 215
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102ce9d2d2ace69f0800000000000000
+      internalID: -473218615439605247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_139
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 215
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d95ff6f158f811d0800000000000000
+      internalID: -3379678489421588007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_140
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 216
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a1c9d63dc750d30800000000000000
+      internalID: 4397057858716047994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_141
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 215
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475c263b242ca9f80800000000000000
+      internalID: -8098947388139190924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_142
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 216
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87b4882d291cda00800000000000000
+      internalID: 782528116999632782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_143
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 215
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111a646f62a2e40a0800000000000000
+      internalID: -6895527632628702959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_144
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 215
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b8e1d9c61e7b3c0800000000000000
+      internalID: -4343755458966811886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_145
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 215
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa04f2a8daed757b0800000000000000
+      internalID: -5235471204865851222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_146
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 215
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19dec9501521a6a70800000000000000
+      internalID: 8820882959354359185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_147
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 215
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1ef89270f2aa0d0800000000000000
+      internalID: -3410862059971157576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_148
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 154
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a2ec0ccf7d94470800000000000000
+      internalID: 8379466062265985673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_149
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 154
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0839e736398a55d60800000000000000
+      internalID: 7878388474137449344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_150
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 154
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5796632fcd9916780800000000000000
+      internalID: -8691496631612839563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_151
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 154
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de611f79130a44c10800000000000000
+      internalID: 2036929066341308141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_152
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 154
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097b96091e4435a60800000000000000
+      internalID: 7661543126668523408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_153
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 154
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27b37ad4c70045e0800000000000000
+      internalID: -1927532098454571217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_154
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 154
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d418c5c00155120800000000000000
+      internalID: 2401843621549657486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_155
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 154
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9da142fb6bcdc950800000000000000
+      internalID: 6471051904087600543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_156
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 154
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109aedbc20ea543d0800000000000000
+      internalID: -3222978631280187135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_157
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 154
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3809c6eff61fa7840800000000000000
+      internalID: 5222752181201703043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_158
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 154
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552c37a89e24fa590800000000000000
+      internalID: -7660830870316268971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_159
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 154
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b903df99220ab7110800000000000000
+      internalID: 1259776591253024923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_160
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 154
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73595b7ea850db2c0800000000000000
+      internalID: -4414365965602155209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_161
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 87
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f07638a58b643520800000000000000
+      internalID: 2680885899989250288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_162
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 87
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9094c347e69185d50800000000000000
+      internalID: 6726154005665040649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_163
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 87
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3472b7d763064b90800000000000000
+      internalID: -7258110004925664193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_164
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 87
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744e90f956c212c40800000000000000
+      internalID: 5485714636085519431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_165
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 87
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d73849947ef4ef60800000000000000
+      internalID: 8062849009641338832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_166
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 87
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d85e986e5abfb460800000000000000
+      internalID: 7259726038989428944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_167
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 87
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f7b66bf757a9d70800000000000000
+      internalID: 9050675592536227732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_168
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 88
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b8f0083f3109f50800000000000000
+      internalID: 6886025766795971384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_169
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 87
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083d574a34245a6b0800000000000000
+      internalID: -5285745729359981696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_170
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 88
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784da9a131710b380800000000000000
+      internalID: -8957634288021744505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_171
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 87
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be0361e6c1031250800000000000000
+      internalID: 5914072689364111026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_172
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 87
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a9c72846611d330800000000000000
+      internalID: 3733790187008596617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_173
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 87
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e473071bcb64e7260800000000000000
+      internalID: 7097187839027197774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_174
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 87
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2f32626693a67c0800000000000000
+      internalID: -4077383401741225241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_175
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 87
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6492e36f56395c30800000000000000
+      internalID: 4348566698528511087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_176
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 26
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f555e6034e26a50800000000000000
+      internalID: 6513018907791810428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_177
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 25
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e3b6cb92185ab50800000000000000
+      internalID: 6603826444863487645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_178
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 20
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62e05ced6b38f770800000000000000
+      internalID: 8644724828039864941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_179
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 19
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfce1a7ae408a9af0800000000000000
+      internalID: -388857342505915140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_180
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 16
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0774c52ce58074b40800000000000000
+      internalID: 5424313479271827312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_181
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 7
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90dd80267f87e9b0800000000000000
+      internalID: -5050910719557644134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray2_182
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c478217ce44f750800000000000000
+      internalID: 6337777192533445695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

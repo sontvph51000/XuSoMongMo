@@ -1,0 +1,4942 @@
+fileFormatVersion: 2
+guid: fe2917ac6b952984cb8c65e05bfc3b92
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 904518522243492950
+    second: lpcmalegoldenboots_0
+  - first:
+      213: 2509249096051906736
+    second: lpcmalegoldenboots_1
+  - first:
+      213: -4694712910617707307
+    second: lpcmalegoldenboots_2
+  - first:
+      213: -6842956069088244574
+    second: lpcmalegoldenboots_3
+  - first:
+      213: -5758853638411042729
+    second: lpcmalegoldenboots_4
+  - first:
+      213: 1461996080495918899
+    second: lpcmalegoldenboots_5
+  - first:
+      213: -5040427056884430472
+    second: lpcmalegoldenboots_6
+  - first:
+      213: -3283721053156308257
+    second: lpcmalegoldenboots_7
+  - first:
+      213: -1195722172327932747
+    second: lpcmalegoldenboots_8
+  - first:
+      213: -132753525113772527
+    second: lpcmalegoldenboots_9
+  - first:
+      213: 4149408384399158823
+    second: lpcmalegoldenboots_10
+  - first:
+      213: 1090494118408192413
+    second: lpcmalegoldenboots_11
+  - first:
+      213: -217436641653244122
+    second: lpcmalegoldenboots_12
+  - first:
+      213: 4103372115907889268
+    second: lpcmalegoldenboots_13
+  - first:
+      213: -8932446804159628119
+    second: lpcmalegoldenboots_14
+  - first:
+      213: 6677734573090633749
+    second: lpcmalegoldenboots_15
+  - first:
+      213: 2574274422023198011
+    second: lpcmalegoldenboots_16
+  - first:
+      213: 5203717858553272289
+    second: lpcmalegoldenboots_17
+  - first:
+      213: 4967472535823359544
+    second: lpcmalegoldenboots_18
+  - first:
+      213: -787002779513670779
+    second: lpcmalegoldenboots_19
+  - first:
+      213: -1157252640740282651
+    second: lpcmalegoldenboots_20
+  - first:
+      213: 6597670674200964582
+    second: lpcmalegoldenboots_21
+  - first:
+      213: -3853077881070212908
+    second: lpcmalegoldenboots_22
+  - first:
+      213: 8793246929644826803
+    second: lpcmalegoldenboots_23
+  - first:
+      213: -8056720189831141000
+    second: lpcmalegoldenboots_24
+  - first:
+      213: -2390504929609755499
+    second: lpcmalegoldenboots_25
+  - first:
+      213: 4855398879532250952
+    second: lpcmalegoldenboots_26
+  - first:
+      213: -2907117641526215769
+    second: lpcmalegoldenboots_27
+  - first:
+      213: -3810844031497122185
+    second: lpcmalegoldenboots_28
+  - first:
+      213: -7660348021558738240
+    second: lpcmalegoldenboots_29
+  - first:
+      213: -3926755326932225191
+    second: lpcmalegoldenboots_30
+  - first:
+      213: 5140088461314954450
+    second: lpcmalegoldenboots_31
+  - first:
+      213: -2617120022267180501
+    second: lpcmalegoldenboots_32
+  - first:
+      213: 8864564550818103040
+    second: lpcmalegoldenboots_33
+  - first:
+      213: -5409893032512692717
+    second: lpcmalegoldenboots_34
+  - first:
+      213: 3645920814201025402
+    second: lpcmalegoldenboots_35
+  - first:
+      213: 4384710252657169433
+    second: lpcmalegoldenboots_36
+  - first:
+      213: 8230326827467035626
+    second: lpcmalegoldenboots_37
+  - first:
+      213: 471694857587126773
+    second: lpcmalegoldenboots_38
+  - first:
+      213: 1938561108569826956
+    second: lpcmalegoldenboots_39
+  - first:
+      213: 6575499147215555537
+    second: lpcmalegoldenboots_40
+  - first:
+      213: 5340774889724067175
+    second: lpcmalegoldenboots_41
+  - first:
+      213: -6833423776649412057
+    second: lpcmalegoldenboots_42
+  - first:
+      213: -1328972378709912140
+    second: lpcmalegoldenboots_43
+  - first:
+      213: 3772186933063865074
+    second: lpcmalegoldenboots_44
+  - first:
+      213: 344113360938589356
+    second: lpcmalegoldenboots_45
+  - first:
+      213: 3091449317964647171
+    second: lpcmalegoldenboots_46
+  - first:
+      213: -2302125414736329867
+    second: lpcmalegoldenboots_47
+  - first:
+      213: 8564255183693698755
+    second: lpcmalegoldenboots_48
+  - first:
+      213: 7359333955690250985
+    second: lpcmalegoldenboots_49
+  - first:
+      213: -3457536467634265606
+    second: lpcmalegoldenboots_50
+  - first:
+      213: 6068267911336445086
+    second: lpcmalegoldenboots_51
+  - first:
+      213: 2345868980912510402
+    second: lpcmalegoldenboots_52
+  - first:
+      213: -284554439224960396
+    second: lpcmalegoldenboots_53
+  - first:
+      213: -3008024891692841625
+    second: lpcmalegoldenboots_54
+  - first:
+      213: 4707201289207102863
+    second: lpcmalegoldenboots_55
+  - first:
+      213: -6777448848230912817
+    second: lpcmalegoldenboots_56
+  - first:
+      213: 8794816848150436101
+    second: lpcmalegoldenboots_57
+  - first:
+      213: 643289992170011132
+    second: lpcmalegoldenboots_58
+  - first:
+      213: -7947198946455673246
+    second: lpcmalegoldenboots_59
+  - first:
+      213: -7356805853877312540
+    second: lpcmalegoldenboots_60
+  - first:
+      213: 976484235060846522
+    second: lpcmalegoldenboots_61
+  - first:
+      213: -3309191055763437492
+    second: lpcmalegoldenboots_62
+  - first:
+      213: 5902376728732306553
+    second: lpcmalegoldenboots_63
+  - first:
+      213: 7752011613762160477
+    second: lpcmalegoldenboots_64
+  - first:
+      213: -6044714684516968106
+    second: lpcmalegoldenboots_65
+  - first:
+      213: -229734133703287487
+    second: lpcmalegoldenboots_66
+  - first:
+      213: -4216107585659827365
+    second: lpcmalegoldenboots_67
+  - first:
+      213: -4158963523878454186
+    second: lpcmalegoldenboots_68
+  - first:
+      213: -7976055771193658405
+    second: lpcmalegoldenboots_69
+  - first:
+      213: 3345141433801941923
+    second: lpcmalegoldenboots_70
+  - first:
+      213: 3163539251787259536
+    second: lpcmalegoldenboots_71
+  - first:
+      213: 4367183772256626950
+    second: lpcmalegoldenboots_72
+  - first:
+      213: 6901362230486103869
+    second: lpcmalegoldenboots_73
+  - first:
+      213: 8533128470302059357
+    second: lpcmalegoldenboots_74
+  - first:
+      213: 6979349543578002996
+    second: lpcmalegoldenboots_75
+  - first:
+      213: -503377750898686721
+    second: lpcmalegoldenboots_76
+  - first:
+      213: -437645634272311621
+    second: lpcmalegoldenboots_77
+  - first:
+      213: 6611311496544332281
+    second: lpcmalegoldenboots_78
+  - first:
+      213: -310364210300940550
+    second: lpcmalegoldenboots_79
+  - first:
+      213: 6226138454935545330
+    second: lpcmalegoldenboots_80
+  - first:
+      213: -8575431548095228736
+    second: lpcmalegoldenboots_81
+  - first:
+      213: 7145911285182771692
+    second: lpcmalegoldenboots_82
+  - first:
+      213: 855116496470246612
+    second: lpcmalegoldenboots_83
+  - first:
+      213: 1360471541671731473
+    second: lpcmalegoldenboots_84
+  - first:
+      213: 5767351648540499049
+    second: lpcmalegoldenboots_85
+  - first:
+      213: 3992870753473587511
+    second: lpcmalegoldenboots_86
+  - first:
+      213: 336470127295066775
+    second: lpcmalegoldenboots_87
+  - first:
+      213: -3347302123328875748
+    second: lpcmalegoldenboots_88
+  - first:
+      213: -7902866634952153946
+    second: lpcmalegoldenboots_89
+  - first:
+      213: 8240245707250927801
+    second: lpcmalegoldenboots_90
+  - first:
+      213: 4747705489001726859
+    second: lpcmalegoldenboots_91
+  - first:
+      213: 2343074786594072420
+    second: lpcmalegoldenboots_92
+  - first:
+      213: -2626071800077674156
+    second: lpcmalegoldenboots_93
+  - first:
+      213: -7953523929495687913
+    second: lpcmalegoldenboots_94
+  - first:
+      213: -5820146798781386599
+    second: lpcmalegoldenboots_95
+  - first:
+      213: 228331456173134927
+    second: lpcmalegoldenboots_96
+  - first:
+      213: 4704863281931739185
+    second: lpcmalegoldenboots_97
+  - first:
+      213: 4658218161042165921
+    second: lpcmalegoldenboots_98
+  - first:
+      213: 6779980800747803362
+    second: lpcmalegoldenboots_99
+  - first:
+      213: -7292391144377037173
+    second: lpcmalegoldenboots_100
+  - first:
+      213: 7857607256692876311
+    second: lpcmalegoldenboots_101
+  - first:
+      213: 4401949313813635971
+    second: lpcmalegoldenboots_102
+  - first:
+      213: -2554142647184035297
+    second: lpcmalegoldenboots_103
+  - first:
+      213: -4789369645892830859
+    second: lpcmalegoldenboots_104
+  - first:
+      213: 463234115692859976
+    second: lpcmalegoldenboots_105
+  - first:
+      213: -649825068801886437
+    second: lpcmalegoldenboots_106
+  - first:
+      213: 7096761675750712853
+    second: lpcmalegoldenboots_107
+  - first:
+      213: -8618677001132115525
+    second: lpcmalegoldenboots_108
+  - first:
+      213: -1379383477155798461
+    second: lpcmalegoldenboots_109
+  - first:
+      213: 1053765743730114486
+    second: lpcmalegoldenboots_110
+  - first:
+      213: 3903505186131473988
+    second: lpcmalegoldenboots_111
+  - first:
+      213: -3988450728067014094
+    second: lpcmalegoldenboots_112
+  - first:
+      213: -1185718956631538770
+    second: lpcmalegoldenboots_113
+  - first:
+      213: 4933297858972101656
+    second: lpcmalegoldenboots_114
+  - first:
+      213: 820515652912463226
+    second: lpcmalegoldenboots_115
+  - first:
+      213: -5389541956966098602
+    second: lpcmalegoldenboots_116
+  - first:
+      213: -572205131949296060
+    second: lpcmalegoldenboots_117
+  - first:
+      213: -8931358254058533908
+    second: lpcmalegoldenboots_118
+  - first:
+      213: 3545969190330394199
+    second: lpcmalegoldenboots_119
+  - first:
+      213: 7819087706694783319
+    second: lpcmalegoldenboots_120
+  - first:
+      213: 8207333991910637680
+    second: lpcmalegoldenboots_121
+  - first:
+      213: -6479529942060001534
+    second: lpcmalegoldenboots_122
+  - first:
+      213: -782453597023670165
+    second: lpcmalegoldenboots_123
+  - first:
+      213: 740096493760655798
+    second: lpcmalegoldenboots_124
+  - first:
+      213: 5198492508770677908
+    second: lpcmalegoldenboots_125
+  - first:
+      213: -258425942355507977
+    second: lpcmalegoldenboots_126
+  - first:
+      213: 5041486597473572938
+    second: lpcmalegoldenboots_127
+  - first:
+      213: 4921643109664465293
+    second: lpcmalegoldenboots_128
+  - first:
+      213: 3986972612069675196
+    second: lpcmalegoldenboots_129
+  - first:
+      213: 541826234874013932
+    second: lpcmalegoldenboots_130
+  - first:
+      213: 4313502186231014226
+    second: lpcmalegoldenboots_131
+  - first:
+      213: -1291716677517771229
+    second: lpcmalegoldenboots_132
+  - first:
+      213: 4084605391301121964
+    second: lpcmalegoldenboots_133
+  - first:
+      213: -4133631918736594116
+    second: lpcmalegoldenboots_134
+  - first:
+      213: 8416752830121775799
+    second: lpcmalegoldenboots_135
+  - first:
+      213: -2219279562100916406
+    second: lpcmalegoldenboots_136
+  - first:
+      213: -3129273269636895978
+    second: lpcmalegoldenboots_137
+  - first:
+      213: -9080001732031941567
+    second: lpcmalegoldenboots_138
+  - first:
+      213: 1439269586976098854
+    second: lpcmalegoldenboots_139
+  - first:
+      213: 1031546623092239298
+    second: lpcmalegoldenboots_140
+  - first:
+      213: -6644297637295445059
+    second: lpcmalegoldenboots_141
+  - first:
+      213: -5238520512121987780
+    second: lpcmalegoldenboots_142
+  - first:
+      213: -8062207440849175154
+    second: lpcmalegoldenboots_143
+  - first:
+      213: 5139409825865165037
+    second: lpcmalegoldenboots_144
+  - first:
+      213: 4065786001021528581
+    second: lpcmalegoldenboots_145
+  - first:
+      213: -5368221941216157838
+    second: lpcmalegoldenboots_146
+  - first:
+      213: 2369736365567416474
+    second: lpcmalegoldenboots_147
+  - first:
+      213: 7236416993554155822
+    second: lpcmalegoldenboots_148
+  - first:
+      213: -3559630483355769561
+    second: lpcmalegoldenboots_149
+  - first:
+      213: -8976751318652024561
+    second: lpcmalegoldenboots_150
+  - first:
+      213: 3681789404292791259
+    second: lpcmalegoldenboots_151
+  - first:
+      213: 1148700146925680139
+    second: lpcmalegoldenboots_152
+  - first:
+      213: 2128773361004130358
+    second: lpcmalegoldenboots_153
+  - first:
+      213: 5400399579662542964
+    second: lpcmalegoldenboots_154
+  - first:
+      213: -3738500882441309136
+    second: lpcmalegoldenboots_155
+  - first:
+      213: -3472092121963759509
+    second: lpcmalegoldenboots_156
+  - first:
+      213: -2092936769626376490
+    second: lpcmalegoldenboots_157
+  - first:
+      213: -7272936139182515684
+    second: lpcmalegoldenboots_158
+  - first:
+      213: -3152309502158744099
+    second: lpcmalegoldenboots_159
+  - first:
+      213: -4390350155696348344
+    second: lpcmalegoldenboots_160
+  - first:
+      213: -5538544538803249303
+    second: lpcmalegoldenboots_161
+  - first:
+      213: 4086597824337336834
+    second: lpcmalegoldenboots_162
+  - first:
+      213: -2315716191679377790
+    second: lpcmalegoldenboots_163
+  - first:
+      213: 5730154004467593967
+    second: lpcmalegoldenboots_164
+  - first:
+      213: 2977237082904141803
+    second: lpcmalegoldenboots_165
+  - first:
+      213: -736296753303924370
+    second: lpcmalegoldenboots_166
+  - first:
+      213: -1142699998612213473
+    second: lpcmalegoldenboots_167
+  - first:
+      213: 7423936385795276040
+    second: lpcmalegoldenboots_168
+  - first:
+      213: 682561896940984610
+    second: lpcmalegoldenboots_169
+  - first:
+      213: -3913560471251022579
+    second: lpcmalegoldenboots_170
+  - first:
+      213: 1555775283103902617
+    second: lpcmalegoldenboots_171
+  - first:
+      213: -8566349977051330405
+    second: lpcmalegoldenboots_172
+  - first:
+      213: -458702297343700585
+    second: lpcmalegoldenboots_173
+  - first:
+      213: -3528309388661893010
+    second: lpcmalegoldenboots_174
+  - first:
+      213: 3597356587543657277
+    second: lpcmalegoldenboots_175
+  - first:
+      213: -8108319571531350019
+    second: lpcmalegoldenboots_176
+  - first:
+      213: 3685378948143587827
+    second: lpcmalegoldenboots_177
+  - first:
+      213: 2032664674903377682
+    second: lpcmalegoldenboots_178
+  - first:
+      213: 2577127733131131402
+    second: lpcmalegoldenboots_179
+  - first:
+      213: -7694068520715117145
+    second: lpcmalegoldenboots_180
+  - first:
+      213: -5077110086015071274
+    second: lpcmalegoldenboots_181
+  - first:
+      213: -5681574113994851481
+    second: lpcmalegoldenboots_182
+  - first:
+      213: -7486317136425001680
+    second: lpcmalegoldenboots_183
+  - first:
+      213: -4988346068528343658
+    second: lpcmalegoldenboots_184
+  - first:
+      213: 7868665192959019850
+    second: lpcmalegoldenboots_185
+  - first:
+      213: -9016922001051911600
+    second: lpcmalegoldenboots_186
+  - first:
+      213: 5582025952053956514
+    second: lpcmalegoldenboots_187
+  - first:
+      213: 6240683674762429587
+    second: lpcmalegoldenboots_188
+  - first:
+      213: 898324421667908541
+    second: lpcmalegoldenboots_189
+  - first:
+      213: -4489714274940312227
+    second: lpcmalegoldenboots_190
+  - first:
+      213: 8380797069273416536
+    second: lpcmalegoldenboots_191
+  - first:
+      213: 3657457328728986095
+    second: lpcmalegoldenboots_192
+  - first:
+      213: 7916085156268719614
+    second: lpcmalegoldenboots_193
+  - first:
+      213: -1421764759376022809
+    second: lpcmalegoldenboots_194
+  - first:
+      213: -7165501310503246119
+    second: lpcmalegoldenboots_195
+  - first:
+      213: 4930712470774182028
+    second: lpcmalegoldenboots_196
+  - first:
+      213: 4442000770587304812
+    second: lpcmalegoldenboots_197
+  - first:
+      213: -6779737746839597693
+    second: lpcmalegoldenboots_198
+  - first:
+      213: -131483231619402352
+    second: lpcmalegoldenboots_199
+  - first:
+      213: -1910359077511301143
+    second: lpcmalegoldenboots_200
+  - first:
+      213: 8433631528814666365
+    second: lpcmalegoldenboots_201
+  - first:
+      213: -3158320503853796128
+    second: lpcmalegoldenboots_202
+  - first:
+      213: -6809796656640319856
+    second: lpcmalegoldenboots_203
+  - first:
+      213: -6459108509400282058
+    second: lpcmalegoldenboots_204
+  - first:
+      213: -1982704378804733510
+    second: lpcmalegoldenboots_205
+  - first:
+      213: -8153700432815005214
+    second: lpcmalegoldenboots_206
+  - first:
+      213: -7125901666628364500
+    second: lpcmalegoldenboots_207
+  - first:
+      213: -2646182948154359084
+    second: lpcmalegoldenboots_208
+  - first:
+      213: -4684155559631674728
+    second: lpcmalegoldenboots_209
+  - first:
+      213: 1258879092117569774
+    second: lpcmalegoldenboots_210
+  - first:
+      213: 3127884483454640296
+    second: lpcmalegoldenboots_211
+  - first:
+      213: 2266269681484590065
+    second: lpcmalegoldenboots_212
+  - first:
+      213: 5665998457456687201
+    second: lpcmalegoldenboots_213
+  - first:
+      213: 4680519579822288514
+    second: lpcmalegoldenboots_214
+  - first:
+      213: -4886740198147143101
+    second: lpcmalegoldenboots_215
+  - first:
+      213: -6760373080637279041
+    second: lpcmalegoldenboots_216
+  - first:
+      213: 4938976478882907744
+    second: lpcmalegoldenboots_217
+  - first:
+      213: -5569734436177774407
+    second: lpcmalegoldenboots_218
+  - first:
+      213: -6375923155048519403
+    second: lpcmalegoldenboots_219
+  - first:
+      213: 8595711223152818164
+    second: lpcmalegoldenboots_220
+  - first:
+      213: 2026774017002661343
+    second: lpcmalegoldenboots_221
+  - first:
+      213: 3996554920150823705
+    second: lpcmalegoldenboots_222
+  - first:
+      213: -5471547443864964643
+    second: lpcmalegoldenboots_223
+  - first:
+      213: 2194048907502998665
+    second: lpcmalegoldenboots_224
+  - first:
+      213: 3009630885345337627
+    second: lpcmalegoldenboots_225
+  - first:
+      213: -5784713686498832378
+    second: lpcmalegoldenboots_226
+  - first:
+      213: -913372591202880393
+    second: lpcmalegoldenboots_227
+  - first:
+      213: 3309285490472570925
+    second: lpcmalegoldenboots_228
+  - first:
+      213: -3774078708486721458
+    second: lpcmalegoldenboots_229
+  - first:
+      213: -3195731065854522782
+    second: lpcmalegoldenboots_230
+  - first:
+      213: -3825873799178605817
+    second: lpcmalegoldenboots_231
+  - first:
+      213: 7584393922659647679
+    second: lpcmalegoldenboots_232
+  - first:
+      213: -8101165095185586299
+    second: lpcmalegoldenboots_233
+  - first:
+      213: 5880732603275845135
+    second: lpcmalegoldenboots_234
+  - first:
+      213: 5480439922908036718
+    second: lpcmalegoldenboots_235
+  - first:
+      213: 3314168817178167003
+    second: lpcmalegoldenboots_236
+  - first:
+      213: -8266409801049102141
+    second: lpcmalegoldenboots_237
+  - first:
+      213: -6909955767276348563
+    second: lpcmalegoldenboots_238
+  - first:
+      213: -3265034058622694684
+    second: lpcmalegoldenboots_239
+  - first:
+      213: 7327808774618799589
+    second: lpcmalegoldenboots_240
+  - first:
+      213: -1858006550958705323
+    second: lpcmalegoldenboots_241
+  - first:
+      213: 1085577558270249429
+    second: lpcmalegoldenboots_242
+  - first:
+      213: -1065028776302663693
+    second: lpcmalegoldenboots_243
+  - first:
+      213: 5964830292318645323
+    second: lpcmalegoldenboots_244
+  - first:
+      213: -4851726341101152996
+    second: lpcmalegoldenboots_245
+  - first:
+      213: -1447356685439485292
+    second: lpcmalegoldenboots_246
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GiayVang_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b2bbe47c29a8641b1f50e98aa8cf6d
+      internalID: 1711935447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7bb292b33afe9346a4a3130ffa00f3d
+      internalID: -103482834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb1f69ff4240aa4a9506d2c50058f2f
+      internalID: 531494139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0adeb278ac95d64b873788c15a6f365
+      internalID: 1986652613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9861d6b9b4b7f3e4ca79358c3236a817
+      internalID: 159142689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09e9a1fe43de884ba44b1fb2bed96eb
+      internalID: 1961599653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02602ca030b909d4082c33090ca0c690
+      internalID: -236088613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a94d77d3d219442999433718d8f47b
+      internalID: 2119316622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0adeb68703fd9ef4095a1193c0370249
+      internalID: 606425420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9e37b0d29b79a478c6ab8dd4f23d64
+      internalID: -1271380014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d73288604e0d64f91e1839997f6e07
+      internalID: -1695065678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f635150e47e8c4ea03c8f85164575e
+      internalID: -575832085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0961ada6fcad74aaf8e2f09a4671d2
+      internalID: 1906595479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82655dd4d0477064799d76928fad55c2
+      internalID: 1601993126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2941fd41da315f488989a7550067a3c
+      internalID: 351122568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787d6b6b88edf0b4192c53e1b3c004ae
+      internalID: 2010948693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262835f3646379c4a90e7456f6cefaef
+      internalID: 57361521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ff779cecc70e04aabace9a66b5befd
+      internalID: -1423712746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1bdec41ff6eb54c90d0f7d6ff6f1c9
+      internalID: -1267364557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da784d7c8de578a468aca12008532307
+      internalID: 631793055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf3511e7d402fa4e8f673819860642d
+      internalID: 1619309028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be34e752c6d51148bc6fd2ece1c9f7b
+      internalID: 1765232975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7bfb0942c1c2b044a86a10022fe6a30
+      internalID: 1252225554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa6b210c2dd82544b7f2d393ef1bf86
+      internalID: -1210381454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfc6b927c491d144a4a721c8daafbb2
+      internalID: -847580728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4119f5f16afb6ea41a08c67a30ecfaa7
+      internalID: 1413882972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8115fee3df667c54c83e03c9e7c2679e
+      internalID: -1168740777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058e7227cada62f41bf58d1cd47d3b90
+      internalID: 668995284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43524ed06aa147640886a25efda660a7
+      internalID: 1283910157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de066ef4530819246a541b102aefe77e
+      internalID: -701680000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c448ceffc176e084bbda3723184e565e
+      internalID: 1378298942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede9c62f8d313614085e8fb76c497a1b
+      internalID: 961305096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5c69d6d1b99644f9ae8a645c29e21b
+      internalID: -1576715909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759d952c6c6bd1548991929b17d63f47
+      internalID: 945092076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cde4bfde0c34a9449cc908cedb8eb3f
+      internalID: 539674788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_35
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60cd7061501186d4aadeff34b5cc050d
+      internalID: -1412134790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa7fbd7a3de37d429ba86afa6ca4bbc
+      internalID: -2040659772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 960
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2552df891ef5de40b657fffefaab970
+      internalID: 1088495593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 960
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0c23b4812115340ac340a07d4f7f1c
+      internalID: -853167207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268c59b4e64d8a4489528d9a356486f7
+      internalID: 372944447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 960
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec3d3a0949b8c14faa0ad1cbdc4fb88
+      internalID: -172998378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380e19f4622a0894aa16b7e78f4ed520
+      internalID: -1885338749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2ffa9358a3bc944960a80f07621fce
+      internalID: -582244906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_43
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 960
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c936ee9a1b25864e848e45e568051df
+      internalID: 634291165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67535426c1dab74081deb146c0b3772
+      internalID: 1569242262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 896
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054a3f6fb35320641a50f3777655727e
+      internalID: -444852527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ccc797cfac3cba4f921bc853734b237
+      internalID: 2556773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d1c9884ff88c94c8a5960c93f5b705
+      internalID: 190557065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfec651e527dd640a2ceeefe354093d
+      internalID: -980966242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 896
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e468ef7987bda3948a4b7c8fb18b34a6
+      internalID: 2123061789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6c7936a388b3849aa797e7c179e1d5
+      internalID: -868379192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_51
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 896
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b3eacf9e9b11d4c844fc4ef225438b
+      internalID: -547685772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b8d9a7a60ea48429911588b0f2765e
+      internalID: -1446886893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_53
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0339c75a6d3ecb4b98918a276e51019
+      internalID: 529683605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7822e81c85b1a88468b1be034fae9f9c
+      internalID: 655121625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_55
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac49a1bc46d57724ab3c1f99d4ae97f2
+      internalID: 34893065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 832
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c953cd0ec151640a483eb5a4cde8f2
+      internalID: 1893313476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_57
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 832
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1d675907b0d434b8fd77d1a97c32db
+      internalID: -1281570498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_58
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 832
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b782cc6b7c44e64faee22fda7b0ae7a
+      internalID: -1668415310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_59
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 832
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64512c6e3e4fbd240b4728d71fbdcfa3
+      internalID: -2068980972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464a86558faddab4880aa32e867131b0
+      internalID: -437530996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871cb824e5028aa4c8ebd3947d3de585
+      internalID: 1889459149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05f9da1917ccbc458116ed8e03128ec
+      internalID: 1694541221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5f44f788bfedb4a9b9d1899ebc90db
+      internalID: 1097139451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6055bcbd3d52a4aaffd33718a3339e
+      internalID: 1066840203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_65
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 768
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf9328115f73ee40ae924011882c3ac
+      internalID: -1469692177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_66
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f61c02af023494b877776a79f1d185
+      internalID: -1758250331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_67
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 768
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24188b4dcab8b04c89d5de1b78f443a
+      internalID: -112864436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_68
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3207f4ae600f2646860a3c6c33b6e22
+      internalID: 1819083925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68104f6f09a4d584bb5837a544acbeb0
+      internalID: -1459607139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_70
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3360bf28bc32bd045b473e0025b40203
+      internalID: 1360526103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_71
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7425446bbc57e48af5d996a6bafc89
+      internalID: 589148588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fd7620f26674447850eca4c3b9fa3e
+      internalID: -916022373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_73
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 704
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9e5302d57cdb146af3a317ff3f2a14
+      internalID: -677744223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4591c456854c349b0a03b21b8eace0
+      internalID: -2146890416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_75
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 704
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e085e221194b43d4f8a9d0a307f7e5d6
+      internalID: -1812363756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_76
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 704
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c1d03a4befbae4c94fd946a6be2181
+      internalID: -590175072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_77
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 704
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d2182f3d7c61b4180ec3bfc8eef338
+      internalID: -1802601964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a32e7f381702b94c9ff1665decf519e
+      internalID: 262142062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78913f55e73274a4a9358fd3d9f668a7
+      internalID: 1030161826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_80
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da003d7b7ad1aa34594c7422f6e716bd
+      internalID: -1098173624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_81
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d73d1348e2673247a6445cb6870ebaa
+      internalID: -1120255482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd50f38ef550de44496852f874261cfa
+      internalID: 1155003168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_83
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f50dc1e8ce85cf4c8f2bd8907349012
+      internalID: 1751906787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_84
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2d3b1dd4fe5b4458c7ff3ec1fe0e3b
+      internalID: -581258425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_85
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8a0b30920018943a1d8ecafbf553ed
+      internalID: 1620009318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_86
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fb25ad53a5a8141bb4abc6cc13eb83
+      internalID: 493090240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c30056c6838dd64bb3ac00c75c6d6c0
+      internalID: 1292555755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5745686cedd5843bb72666e91ad4d8
+      internalID: 1695726456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_89
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fcfbf9075502c49acad8dd5d74b17e
+      internalID: 1963288080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fc2192abbeaec499e7f8b39616400b
+      internalID: 1344771329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_91
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11e4ec288b2b4a4f95cd659291b4ae3
+      internalID: -1088107001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_92
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f31e30bbd8a2b343ba41e5013c9a721
+      internalID: -1210175883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_93
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f75c6486f54bb546adc085ea38cb1d4
+      internalID: -1851052008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 576
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6053b173e1ac77b46b06c12add372ae5
+      internalID: -1285476685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_95
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 576
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd6b6c52f8c23a49a916402202dc4f3
+      internalID: 1942399125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7d92932b436b549b3e6b4107769716
+      internalID: -653228681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3b90a71d2c4c04d9e8fe70c629809c
+      internalID: 199543171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a934edd28fb5d41904af8691cd94ed
+      internalID: -876825195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b260048b5ecc145ac3b08b675d63d4
+      internalID: -171963347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dcbfb1511dcc364fbfd31b5bcac18c8
+      internalID: 1828309981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_101
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861fdaa22961f8f4fbcf60b8e3be0c06
+      internalID: 1903735159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9132811362e0f46a3d2214eb8b0c5e
+      internalID: 1469199739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_103
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f76b7fd76425c4ab21556f908239db
+      internalID: 135389732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0952f4f04cf934b448183033afb5868c
+      internalID: -1839776006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_105
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4900cdd60b1c34daf8178ab412d92e
+      internalID: 485611474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133565d430370df4d91db196eb9e115f
+      internalID: 1174241281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_107
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eeb72687eb946f4b94399ca3102c5b1
+      internalID: -378069032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4bcd371891c574da0402adc44aab64
+      internalID: 1865398744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_109
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683365997a8df804fbbc3909909ac696
+      internalID: -1508449685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_110
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70c4bdfcddf3ea42a9ff5a4b0193b26
+      internalID: -280779621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_111
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40794d672d669034bb67ebf918309d1c
+      internalID: 656967184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_112
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0790c8735f9656648a6421ac2c75dbc8
+      internalID: -1296038441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_113
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2ae7e5c646def4291e19c70b8eb541
+      internalID: -712324247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a453b14e53a6e8b4da850ca496602351
+      internalID: 240548615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_115
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d2860f8982f2d46a44e6549a1e0830
+      internalID: -1373179331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3052bfce52a7c4c4ebec9468d637c83f
+      internalID: -719760711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_117
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ced51dd52070a3449d0d5e0153f4b93
+      internalID: -179791577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_118
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f134fce95eed7f48b85bda2f8d5db25
+      internalID: 512295653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_119
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4989bc15c257e51478ecc12065be1ea6
+      internalID: 2096486933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616a72d3549d68e4aa931e061cc8bff9
+      internalID: 1167842160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_121
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f943d59220024b947b1c9b71933b2146
+      internalID: -1462228901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_122
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3074aa02e90c2804685af3817d755bdd
+      internalID: -1062616624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_123
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4bfdc22edab2641bc139d0eba25c4f
+      internalID: 949153783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_124
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703551ca7c44ce942ad73074cb2ac539
+      internalID: 1790131914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_125
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f094de62adc7014292825f5dd1c4b42
+      internalID: 489989224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_126
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a524eee0e00c1449d4d685decb2cab
+      internalID: 1596307066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_127
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729c3dcc9df1a7943b515f1644a06a26
+      internalID: -1853357519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_128
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2aaba7bd376af4c88331423c55a1c6
+      internalID: -554197884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_129
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b729ea66e3009e241b9a711d8a0df035
+      internalID: -221374428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_130
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b2e40706965f544aefaf9bcd7bbbe5
+      internalID: -752819458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_131
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d552a7e9e97c0e49b7318f7abb5fe09
+      internalID: 683448061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_132
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1beb895b2dfbb4685093a9aa140694
+      internalID: 1151749267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ec7cfe13b6f0545acfcfc5563d0b06
+      internalID: 1808891886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_134
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353f6a4c6d5157c41934bc1d415bcb57
+      internalID: 508209368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_135
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c477be7587429478002828738c8977
+      internalID: 435212515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_136
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7ad353daef85949b4a98cd299c8943
+      internalID: 452044843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_137
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f297010e166fbd458df0737b0c4f61a
+      internalID: 1076569211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bea3a6df7dbb0b41b9aa494b2ce3b49
+      internalID: -241993812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_139
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a42ac643c85a754980a7e7c0d029c45
+      internalID: -1025205744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_140
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2dfac23cf0bc443bc4bad2d61eedaa
+      internalID: 916399702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_141
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a2f905acd205a4ea19a8ecc1ed4cf2
+      internalID: -1198246392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_142
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97ca1e44e2e5464fa436ccdb6487023
+      internalID: 1329878768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_143
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6802509ff6ae942aad799d63a3c6cd
+      internalID: -692081443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_144
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25dfd3671fa5dab458607c2a0fc5040a
+      internalID: -52835422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_145
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bdab579b934344479806234cc7e00fc
+      internalID: -1979555901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbff0f5e408b8c043aac10ea19c22593
+      internalID: 255322457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_147
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb49fd8f4a0fa840a6f14cedadd18b3
+      internalID: 365226794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb43856f648702479de1696ad4ea70a
+      internalID: -1584018937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_149
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73de914b2595374aab7d7b50c399679
+      internalID: -842004064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_150
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c1f92e7dc2113449eabd948ce47dc7
+      internalID: -970082801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_151
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd2d51c8d7d16b4c841e171f16ccf5e
+      internalID: -970847724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_152
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f52da45a8e7e6243bfa2b6c264618c7
+      internalID: 1416820676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_153
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc3cfc5c1827734d870e658d23d2b69
+      internalID: 227292144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_154
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25a1e753e096984780fb03ae6f13072
+      internalID: -489798031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_155
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec84b3e6a3c5b44790f8b219ac63eb5
+      internalID: -1794195632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_156
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1231e2cc18ca9642be9912674af6167
+      internalID: 1316843175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_157
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c8ab33e40440242859ddc60291bcbf
+      internalID: -333891013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_158
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf048d18d46ca740b52eed8f63b25fa
+      internalID: 743761396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_159
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f6b4d982f82704d967535967f117d0
+      internalID: -2145218925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_160
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f0628e0adf7fd43b9e4d816cef91b0
+      internalID: -1063240272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_161
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a03318227500194aa65a18a9afa076b
+      internalID: 2046203380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_162
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a362874fafeca408b3089e0512f613
+      internalID: -1199358902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_163
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d0ad0d71c8d0f459e648abb63f08b3
+      internalID: -1401148622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_164
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b44072bc33292c45a0a30a0f9bb9f4c
+      internalID: 43940311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_165
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a979e9766c17374497d9240b8538f38
+      internalID: 511356487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_166
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1608e12b19c7296449efcb68c9252d93
+      internalID: -960170780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_167
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482aff68426d9f841b827750da72509d
+      internalID: 503861312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_168
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1441757163a59d40854d2ae145de117
+      internalID: 643044505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_169
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4abb71fa0c3bb74fb282e77cb5f30cb
+      internalID: 472804196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_170
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fe78f3090144c4c9950428353fc51c
+      internalID: 1134649110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_171
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2848242f8a2bb0c4d81288820fa6b8cf
+      internalID: 1177234731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_172
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96752e0739a59694d80fc2e512787760
+      internalID: -1286145914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_173
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a50b28b9a747274ba31da3c10b08c34
+      internalID: -263510150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_174
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab18ba63617b725499b5185dc7599297
+      internalID: -334361131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_175
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229c4550b81778248a719219cdb61522
+      internalID: 1991109645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiayVang_176
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e88d5db552870499fb50add670bf2e
+      internalID: -1527154826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c06869b8b23633d409c8c7da6d210e5f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GiayVang_0: 1711935447
+      GiayVang_1: -103482834
+      GiayVang_10: -1695065678
+      GiayVang_100: 1828309981
+      GiayVang_101: 1903735159
+      GiayVang_102: 1469199739
+      GiayVang_103: 135389732
+      GiayVang_104: -1839776006
+      GiayVang_105: 485611474
+      GiayVang_106: 1174241281
+      GiayVang_107: -378069032
+      GiayVang_108: 1865398744
+      GiayVang_109: -1508449685
+      GiayVang_11: -575832085
+      GiayVang_110: -280779621
+      GiayVang_111: 656967184
+      GiayVang_112: -1296038441
+      GiayVang_113: -712324247
+      GiayVang_114: 240548615
+      GiayVang_115: -1373179331
+      GiayVang_116: -719760711
+      GiayVang_117: -179791577
+      GiayVang_118: 512295653
+      GiayVang_119: 2096486933
+      GiayVang_12: 1906595479
+      GiayVang_120: 1167842160
+      GiayVang_121: -1462228901
+      GiayVang_122: -1062616624
+      GiayVang_123: 949153783
+      GiayVang_124: 1790131914
+      GiayVang_125: 489989224
+      GiayVang_126: 1596307066
+      GiayVang_127: -1853357519
+      GiayVang_128: -554197884
+      GiayVang_129: -221374428
+      GiayVang_13: 1601993126
+      GiayVang_130: -752819458
+      GiayVang_131: 683448061
+      GiayVang_132: 1151749267
+      GiayVang_133: 1808891886
+      GiayVang_134: 508209368
+      GiayVang_135: 435212515
+      GiayVang_136: 452044843
+      GiayVang_137: 1076569211
+      GiayVang_138: -241993812
+      GiayVang_139: -1025205744
+      GiayVang_14: 351122568
+      GiayVang_140: 916399702
+      GiayVang_141: -1198246392
+      GiayVang_142: 1329878768
+      GiayVang_143: -692081443
+      GiayVang_144: -52835422
+      GiayVang_145: -1979555901
+      GiayVang_146: 255322457
+      GiayVang_147: 365226794
+      GiayVang_148: -1584018937
+      GiayVang_149: -842004064
+      GiayVang_15: 2010948693
+      GiayVang_150: -970082801
+      GiayVang_151: -970847724
+      GiayVang_152: 1416820676
+      GiayVang_153: 227292144
+      GiayVang_154: -489798031
+      GiayVang_155: -1794195632
+      GiayVang_156: 1316843175
+      GiayVang_157: -333891013
+      GiayVang_158: 743761396
+      GiayVang_159: -2145218925
+      GiayVang_16: 57361521
+      GiayVang_160: -1063240272
+      GiayVang_161: 2046203380
+      GiayVang_162: -1199358902
+      GiayVang_163: -1401148622
+      GiayVang_164: 43940311
+      GiayVang_165: 511356487
+      GiayVang_166: -960170780
+      GiayVang_167: 503861312
+      GiayVang_168: 643044505
+      GiayVang_169: 472804196
+      GiayVang_17: -1423712746
+      GiayVang_170: 1134649110
+      GiayVang_171: 1177234731
+      GiayVang_172: -1286145914
+      GiayVang_173: -263510150
+      GiayVang_174: -334361131
+      GiayVang_175: 1991109645
+      GiayVang_176: -1527154826
+      GiayVang_18: -1267364557
+      GiayVang_19: 631793055
+      GiayVang_2: 531494139
+      GiayVang_20: 1619309028
+      GiayVang_21: 1765232975
+      GiayVang_22: 1252225554
+      GiayVang_23: -1210381454
+      GiayVang_24: -847580728
+      GiayVang_25: 1413882972
+      GiayVang_26: -1168740777
+      GiayVang_27: 668995284
+      GiayVang_28: 1283910157
+      GiayVang_29: -701680000
+      GiayVang_3: 1986652613
+      GiayVang_30: 1378298942
+      GiayVang_31: 961305096
+      GiayVang_32: -1576715909
+      GiayVang_33: 945092076
+      GiayVang_34: 539674788
+      GiayVang_35: -1412134790
+      GiayVang_36: -2040659772
+      GiayVang_37: 1088495593
+      GiayVang_38: -853167207
+      GiayVang_39: 372944447
+      GiayVang_4: 159142689
+      GiayVang_40: -172998378
+      GiayVang_41: -1885338749
+      GiayVang_42: -582244906
+      GiayVang_43: 634291165
+      GiayVang_44: 1569242262
+      GiayVang_45: -444852527
+      GiayVang_46: 2556773
+      GiayVang_47: 190557065
+      GiayVang_48: -980966242
+      GiayVang_49: 2123061789
+      GiayVang_5: 1961599653
+      GiayVang_50: -868379192
+      GiayVang_51: -547685772
+      GiayVang_52: -1446886893
+      GiayVang_53: 529683605
+      GiayVang_54: 655121625
+      GiayVang_55: 34893065
+      GiayVang_56: 1893313476
+      GiayVang_57: -1281570498
+      GiayVang_58: -1668415310
+      GiayVang_59: -2068980972
+      GiayVang_6: -236088613
+      GiayVang_60: -437530996
+      GiayVang_61: 1889459149
+      GiayVang_62: 1694541221
+      GiayVang_63: 1097139451
+      GiayVang_64: 1066840203
+      GiayVang_65: -1469692177
+      GiayVang_66: -1758250331
+      GiayVang_67: -112864436
+      GiayVang_68: 1819083925
+      GiayVang_69: -1459607139
+      GiayVang_7: 2119316622
+      GiayVang_70: 1360526103
+      GiayVang_71: 589148588
+      GiayVang_72: -916022373
+      GiayVang_73: -677744223
+      GiayVang_74: -2146890416
+      GiayVang_75: -1812363756
+      GiayVang_76: -590175072
+      GiayVang_77: -1802601964
+      GiayVang_78: 262142062
+      GiayVang_79: 1030161826
+      GiayVang_8: 606425420
+      GiayVang_80: -1098173624
+      GiayVang_81: -1120255482
+      GiayVang_82: 1155003168
+      GiayVang_83: 1751906787
+      GiayVang_84: -581258425
+      GiayVang_85: 1620009318
+      GiayVang_86: 493090240
+      GiayVang_87: 1292555755
+      GiayVang_88: 1695726456
+      GiayVang_89: 1963288080
+      GiayVang_9: -1271380014
+      GiayVang_90: 1344771329
+      GiayVang_91: -1088107001
+      GiayVang_92: -1210175883
+      GiayVang_93: -1851052008
+      GiayVang_94: -1285476685
+      GiayVang_95: 1942399125
+      GiayVang_96: -653228681
+      GiayVang_97: 199543171
+      GiayVang_98: -876825195
+      GiayVang_99: -171963347
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

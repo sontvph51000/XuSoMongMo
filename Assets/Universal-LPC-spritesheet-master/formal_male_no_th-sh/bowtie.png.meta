@@ -1,0 +1,1880 @@
+fileFormatVersion: 2
+guid: 8bad0f8fabc3b1649812aafc43b42765
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5007395434484744977
+    second: bowtie_0
+  - first:
+      213: 6849203299635897982
+    second: bowtie_1
+  - first:
+      213: -8855316960927612260
+    second: bowtie_2
+  - first:
+      213: -5146548785715046057
+    second: bowtie_3
+  - first:
+      213: 8368493679225284638
+    second: bowtie_4
+  - first:
+      213: 5877014159996826559
+    second: bowtie_5
+  - first:
+      213: -1562371777022914898
+    second: bowtie_6
+  - first:
+      213: -6062613830197237077
+    second: bowtie_7
+  - first:
+      213: 8957694295365645557
+    second: bowtie_8
+  - first:
+      213: -2497983442766591218
+    second: bowtie_9
+  - first:
+      213: 6477289389156052358
+    second: bowtie_10
+  - first:
+      213: -698124760067007491
+    second: bowtie_11
+  - first:
+      213: -7256130335094463494
+    second: bowtie_12
+  - first:
+      213: -714432362602756316
+    second: bowtie_13
+  - first:
+      213: -6537498868252234033
+    second: bowtie_14
+  - first:
+      213: -6080065598003568291
+    second: bowtie_15
+  - first:
+      213: -724235085485425019
+    second: bowtie_16
+  - first:
+      213: 8298724682858709308
+    second: bowtie_17
+  - first:
+      213: 3536934425123793807
+    second: bowtie_18
+  - first:
+      213: 9060919926982595038
+    second: bowtie_19
+  - first:
+      213: 6595000028655535399
+    second: bowtie_20
+  - first:
+      213: -4085534342161300010
+    second: bowtie_21
+  - first:
+      213: 2481448976613189147
+    second: bowtie_22
+  - first:
+      213: 9093996566540302152
+    second: bowtie_23
+  - first:
+      213: -7892510239382270277
+    second: bowtie_24
+  - first:
+      213: -5688461005864893133
+    second: bowtie_25
+  - first:
+      213: -8168370597753516915
+    second: bowtie_26
+  - first:
+      213: 6035952946819404310
+    second: bowtie_27
+  - first:
+      213: 3941842723286502724
+    second: bowtie_28
+  - first:
+      213: 3951136618525923094
+    second: bowtie_29
+  - first:
+      213: 6081801664485986801
+    second: bowtie_30
+  - first:
+      213: -3635843692240386249
+    second: bowtie_31
+  - first:
+      213: 1322814233670600035
+    second: bowtie_32
+  - first:
+      213: -5121691823207385120
+    second: bowtie_33
+  - first:
+      213: -3175428208811307534
+    second: bowtie_34
+  - first:
+      213: -8689821467673128544
+    second: bowtie_35
+  - first:
+      213: -6639069871227661290
+    second: bowtie_36
+  - first:
+      213: 1703975654413014452
+    second: bowtie_37
+  - first:
+      213: 7102243719843732653
+    second: bowtie_38
+  - first:
+      213: -713859496759694529
+    second: bowtie_39
+  - first:
+      213: -1636547423921078384
+    second: bowtie_40
+  - first:
+      213: -350906277588485985
+    second: bowtie_41
+  - first:
+      213: -5558049842500286424
+    second: bowtie_42
+  - first:
+      213: 5363763860027865162
+    second: bowtie_43
+  - first:
+      213: -7718476739400738982
+    second: bowtie_44
+  - first:
+      213: 7850875526741295556
+    second: bowtie_45
+  - first:
+      213: 1064760966104395914
+    second: bowtie_46
+  - first:
+      213: 1091212335339896789
+    second: bowtie_47
+  - first:
+      213: -8059614194128548581
+    second: bowtie_48
+  - first:
+      213: -4437987437673806659
+    second: bowtie_49
+  - first:
+      213: 3140962046329351539
+    second: bowtie_50
+  - first:
+      213: 7193130567043296019
+    second: bowtie_51
+  - first:
+      213: 7031016128321230467
+    second: bowtie_52
+  - first:
+      213: -4626647178815560605
+    second: bowtie_53
+  - first:
+      213: 6243030214208375777
+    second: bowtie_54
+  - first:
+      213: 4456470762972929541
+    second: bowtie_55
+  - first:
+      213: -6649152344306031676
+    second: bowtie_56
+  - first:
+      213: -1210303560130008113
+    second: bowtie_57
+  - first:
+      213: -7284695417077998239
+    second: bowtie_58
+  - first:
+      213: 2552883799427959622
+    second: bowtie_59
+  - first:
+      213: -197641099572188207
+    second: bowtie_60
+  - first:
+      213: -156853773922371907
+    second: bowtie_61
+  - first:
+      213: -4225167157611105733
+    second: bowtie_62
+  - first:
+      213: -6199161756252828415
+    second: bowtie_63
+  - first:
+      213: 2523273519633733095
+    second: bowtie_64
+  - first:
+      213: 1478427919590139453
+    second: bowtie_65
+  - first:
+      213: -2720412454801976924
+    second: bowtie_66
+  - first:
+      213: 6056537272940911938
+    second: bowtie_67
+  - first:
+      213: -8898528014795410906
+    second: bowtie_68
+  - first:
+      213: 7051347810413001111
+    second: bowtie_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bowtie_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1238
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113406a0e97dd7540800000000000000
+      internalID: 5007395434484744977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1238
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e762b35cc124d0f50800000000000000
+      internalID: 6849203299635897982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1238
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c920b6a34289b1580800000000000000
+      internalID: -8855316960927612260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1238
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7599c30a529c398b0800000000000000
+      internalID: -5146548785715046057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1238
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18235fb9acd22470800000000000000
+      internalID: 8368493679225284638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1238
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb33d82ad395f8150800000000000000
+      internalID: 5877014159996826559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_6
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1238
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae04778527515ae0800000000000000
+      internalID: -1562371777022914898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_7
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1174
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa29b0b7d44ddba0800000000000000
+      internalID: -6062613830197237077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_8
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1174
+        width: 76
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4ffc1708f105c70800000000000000
+      internalID: 8957694295365645557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_9
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1174
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b071f2b41655dd0800000000000000
+      internalID: -2497983442766591218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_10
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1174
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68dad0c9164f3e950800000000000000
+      internalID: 6477289389156052358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_11
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1174
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb1d43ca33cf46f0800000000000000
+      internalID: -698124760067007491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_12
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1174
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af322c4a7eb0d4b90800000000000000
+      internalID: -7256130335094463494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_13
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1110
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427050b2d83d516f0800000000000000
+      internalID: -714432362602756316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_14
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1110
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fceae4e9a632645a0800000000000000
+      internalID: -6537498868252234033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_15
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1110
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51aceb5d844f9ba0800000000000000
+      internalID: -6080065598003568291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_16
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1110
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e34c3e60003f5f0800000000000000
+      internalID: -724235085485425019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_17
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1110
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c314f8a612efa2370800000000000000
+      internalID: 8298724682858709308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_18
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1110
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8baa53ce17b51130800000000000000
+      internalID: 3536934425123793807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_19
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1110
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed15e02baaadebd70800000000000000
+      internalID: 9060919926982595038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_20
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 726
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72544b19595268b50800000000000000
+      internalID: 6595000028655535399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_21
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 725
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d501d179244d47c0800000000000000
+      internalID: -4085534342161300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_22
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 726
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16294b62b0ef6220800000000000000
+      internalID: 2481448976613189147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_23
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 726
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847b149f1bd543e70800000000000000
+      internalID: 9093996566540302152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_24
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 726
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe8c7be0cb287290800000000000000
+      internalID: -7892510239382270277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_25
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 725
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33503ca9ad68e01b0800000000000000
+      internalID: -5688461005864893133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_26
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 726
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c082f183e14ae80800000000000000
+      internalID: -8168370597753516915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_27
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 726
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612942ca93304c350800000000000000
+      internalID: 6035952946819404310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_28
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 726
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d43f1721d34b630800000000000000
+      internalID: 3941842723286502724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_29
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 662
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617964e02d145d630800000000000000
+      internalID: 3951136618525923094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_30
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 662
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1111e1466e66450800000000000000
+      internalID: 6081801664485986801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_31
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 662
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737ca29ec63ea8dc0800000000000000
+      internalID: -3635843692240386249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_32
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 661
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36544c579849b5210800000000000000
+      internalID: 1322814233670600035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_33
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 662
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e773b43c681ce8b0800000000000000
+      internalID: -5121691823207385120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_34
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 662
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd0c044edc9ee3d0800000000000000
+      internalID: -3175428208811307534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_35
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 662
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a197c17a6d876780800000000000000
+      internalID: -8689821467673128544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_36
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 661
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6141a7e90294dd3a0800000000000000
+      internalID: -6639069871227661290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_37
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 662
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5933364dcb5a710800000000000000
+      internalID: 1703975654413014452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_38
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 598
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dacd88da80d309260800000000000000
+      internalID: 7102243719843732653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_39
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 597
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b6914e19cd716f0800000000000000
+      internalID: -713859496759694529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_40
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 598
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f7a1be9c0d949e0800000000000000
+      internalID: -1636547423921078384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_41
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 598
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9832e68994512bf0800000000000000
+      internalID: -350906277588485985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_42
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 598
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828cad5bd17ddd2b0800000000000000
+      internalID: -5558049842500286424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_43
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 597
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48f900ffcaef6a40800000000000000
+      internalID: 5363763860027865162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_44
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 598
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5757ecbc4672e490800000000000000
+      internalID: -7718476739400738982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_45
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 598
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1093322b9e3fc60800000000000000
+      internalID: 7850875526741295556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_46
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 598
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80ba53157ac6ce00800000000000000
+      internalID: 1064760966104395914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_47
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 470
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df757666d3c42f00800000000000000
+      internalID: 1091212335339896789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_48
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 468
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d8544979f762090800000000000000
+      internalID: -8059614194128548581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_49
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 470
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db48ecb50f91962c0800000000000000
+      internalID: -4437987437673806659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_50
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 470
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37de170f650f69b20800000000000000
+      internalID: 3140962046329351539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_51
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 470
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31bae9fc32223d360800000000000000
+      internalID: 7193130567043296019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_52
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 470
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38611a2baef239160800000000000000
+      internalID: 7031016128321230467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_53
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 406
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364a2a567e8dacfb0800000000000000
+      internalID: -4626647178815560605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_54
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 406
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ebcbef17e2b3a650800000000000000
+      internalID: 6243030214208375777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_55
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 404
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e5aea2c8098dd30800000000000000
+      internalID: 4456470762972929541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_56
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 405
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3ee2ceb2779b3a0800000000000000
+      internalID: -6649152344306031676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_57
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 406
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb6f041353243fe0800000000000000
+      internalID: -1210303560130008113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_58
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 406
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d56283d1097ea90800000000000000
+      internalID: -7284695417077998239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_59
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 342
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64bc0c13a4aad6320800000000000000
+      internalID: 2552883799427959622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_60
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 340
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db6bf29776d14df0800000000000000
+      internalID: -197641099572188207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_61
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 342
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db67dabd25eb2ddf0800000000000000
+      internalID: -156853773922371907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_62
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 342
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3271f52bd03d55c0800000000000000
+      internalID: -4225167157611105733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_63
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 342
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d0d5d2a3728f9a0800000000000000
+      internalID: -6199161756252828415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_64
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 342
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e51be0b5e7740320800000000000000
+      internalID: 2523273519633733095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_65
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 22
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36a03d1c5e648410800000000000000
+      internalID: 1478427919590139453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_66
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 21
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1daf429472f3ad0800000000000000
+      internalID: -2720412454801976924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_67
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 14
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d5e829f842d0450800000000000000
+      internalID: 6056537272940911938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_68
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 10
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622f14ebae3128480800000000000000
+      internalID: -8898528014795410906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie_69
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 6
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7993563597b6bd160800000000000000
+      internalID: 7051347810413001111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

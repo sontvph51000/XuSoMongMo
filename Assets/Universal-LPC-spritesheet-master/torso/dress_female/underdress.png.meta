@@ -1,0 +1,4980 @@
+fileFormatVersion: 2
+guid: ff89b817ada518d489e5fa12468db737
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7788654219878413151
+    second: underdress_0
+  - first:
+      213: 7227221287589449221
+    second: underdress_1
+  - first:
+      213: -5710734168081378506
+    second: underdress_2
+  - first:
+      213: 9057103563731860236
+    second: underdress_3
+  - first:
+      213: 882850864322216001
+    second: underdress_4
+  - first:
+      213: 4971273946251780819
+    second: underdress_5
+  - first:
+      213: 5938847401998959608
+    second: underdress_6
+  - first:
+      213: 9071781630306079265
+    second: underdress_7
+  - first:
+      213: 3902209147044614916
+    second: underdress_8
+  - first:
+      213: 8168378983535706917
+    second: underdress_9
+  - first:
+      213: -3455999946560511970
+    second: underdress_10
+  - first:
+      213: 4931182008082326245
+    second: underdress_11
+  - first:
+      213: 7373539046198725948
+    second: underdress_12
+  - first:
+      213: -623558149988810788
+    second: underdress_13
+  - first:
+      213: 4451821017512024730
+    second: underdress_14
+  - first:
+      213: -2280550784190833830
+    second: underdress_15
+  - first:
+      213: -3477946707990686518
+    second: underdress_16
+  - first:
+      213: 4935705157604727088
+    second: underdress_17
+  - first:
+      213: 8096496751940738708
+    second: underdress_18
+  - first:
+      213: 3887259226919602668
+    second: underdress_19
+  - first:
+      213: 6423301797647162838
+    second: underdress_20
+  - first:
+      213: -3356691654467731459
+    second: underdress_21
+  - first:
+      213: -1084371618760807520
+    second: underdress_22
+  - first:
+      213: 2391242192155033625
+    second: underdress_23
+  - first:
+      213: 5673846797531338027
+    second: underdress_24
+  - first:
+      213: -1251064830048332953
+    second: underdress_25
+  - first:
+      213: 1589922868995109173
+    second: underdress_26
+  - first:
+      213: 2908927036243273536
+    second: underdress_27
+  - first:
+      213: -2411427076925684659
+    second: underdress_28
+  - first:
+      213: 2756565540763803260
+    second: underdress_29
+  - first:
+      213: -2387229748766227526
+    second: underdress_30
+  - first:
+      213: 478579931795532072
+    second: underdress_31
+  - first:
+      213: 8848321444558195706
+    second: underdress_32
+  - first:
+      213: 5301276618450675922
+    second: underdress_33
+  - first:
+      213: -410913886422389055
+    second: underdress_34
+  - first:
+      213: 4676562708931357216
+    second: underdress_35
+  - first:
+      213: 9060604374139001478
+    second: underdress_36
+  - first:
+      213: -2448009511031221892
+    second: underdress_37
+  - first:
+      213: 7811497026407051175
+    second: underdress_38
+  - first:
+      213: 7084673158382384222
+    second: underdress_39
+  - first:
+      213: -648030244117498766
+    second: underdress_40
+  - first:
+      213: -7987777908450745923
+    second: underdress_41
+  - first:
+      213: -2001199968243984967
+    second: underdress_42
+  - first:
+      213: 7634814919094625591
+    second: underdress_43
+  - first:
+      213: 8787577696900025974
+    second: underdress_44
+  - first:
+      213: 5295023717025663067
+    second: underdress_45
+  - first:
+      213: -7868269407287542390
+    second: underdress_46
+  - first:
+      213: 9113787230532011144
+    second: underdress_47
+  - first:
+      213: 2443468124539085434
+    second: underdress_48
+  - first:
+      213: -663943755599558949
+    second: underdress_49
+  - first:
+      213: 5300648953030207692
+    second: underdress_50
+  - first:
+      213: 8466873549929179715
+    second: underdress_51
+  - first:
+      213: -1085559005232168757
+    second: underdress_52
+  - first:
+      213: -244356704459266731
+    second: underdress_53
+  - first:
+      213: 4840744943998166316
+    second: underdress_54
+  - first:
+      213: 4112755750246913420
+    second: underdress_55
+  - first:
+      213: -1495451502454020124
+    second: underdress_56
+  - first:
+      213: 5792488016260862009
+    second: underdress_57
+  - first:
+      213: -8671459842135666687
+    second: underdress_58
+  - first:
+      213: -5757458025939246051
+    second: underdress_59
+  - first:
+      213: 7421977487060973360
+    second: underdress_60
+  - first:
+      213: 8151184791098061372
+    second: underdress_61
+  - first:
+      213: -6998089058745204540
+    second: underdress_62
+  - first:
+      213: -7480750947288095610
+    second: underdress_63
+  - first:
+      213: -1635448352275160479
+    second: underdress_64
+  - first:
+      213: -6863155725476275074
+    second: underdress_65
+  - first:
+      213: 7120831161392490007
+    second: underdress_66
+  - first:
+      213: -7617838029445109869
+    second: underdress_67
+  - first:
+      213: 1787444625389248619
+    second: underdress_68
+  - first:
+      213: -4734031361318056855
+    second: underdress_69
+  - first:
+      213: 313918315160679675
+    second: underdress_70
+  - first:
+      213: 5738078772470756600
+    second: underdress_71
+  - first:
+      213: -5864988996815817736
+    second: underdress_72
+  - first:
+      213: 9078247311271831319
+    second: underdress_73
+  - first:
+      213: 6005418649710711093
+    second: underdress_74
+  - first:
+      213: -3113129798384099439
+    second: underdress_75
+  - first:
+      213: 7911695809643073072
+    second: underdress_76
+  - first:
+      213: 5584454689785881876
+    second: underdress_77
+  - first:
+      213: -4359726048435941184
+    second: underdress_78
+  - first:
+      213: -1043327238226647059
+    second: underdress_79
+  - first:
+      213: -4227735624112514848
+    second: underdress_80
+  - first:
+      213: -5316465987700528427
+    second: underdress_81
+  - first:
+      213: -1204644395545463334
+    second: underdress_82
+  - first:
+      213: -5492245099316239897
+    second: underdress_83
+  - first:
+      213: 4226104933786536299
+    second: underdress_84
+  - first:
+      213: 8133488680257049694
+    second: underdress_85
+  - first:
+      213: -2797968986413978728
+    second: underdress_86
+  - first:
+      213: -7517871260374943642
+    second: underdress_87
+  - first:
+      213: 6013070127237800104
+    second: underdress_88
+  - first:
+      213: -2110510751292617308
+    second: underdress_89
+  - first:
+      213: -6279151146245615415
+    second: underdress_90
+  - first:
+      213: -7682286353826110282
+    second: underdress_91
+  - first:
+      213: 2472470156556963472
+    second: underdress_92
+  - first:
+      213: 270174657473931318
+    second: underdress_93
+  - first:
+      213: 1916940095551445654
+    second: underdress_94
+  - first:
+      213: 8767718280846763188
+    second: underdress_95
+  - first:
+      213: 3364551847899598067
+    second: underdress_96
+  - first:
+      213: -8893170915186045422
+    second: underdress_97
+  - first:
+      213: 6119425370819527792
+    second: underdress_98
+  - first:
+      213: -7916092469727385029
+    second: underdress_99
+  - first:
+      213: -2700806670912625822
+    second: underdress_100
+  - first:
+      213: -5422913915356006825
+    second: underdress_101
+  - first:
+      213: -841257599723708276
+    second: underdress_102
+  - first:
+      213: -7048383587993378215
+    second: underdress_103
+  - first:
+      213: 6170778890667816292
+    second: underdress_104
+  - first:
+      213: 9102703875308164301
+    second: underdress_105
+  - first:
+      213: 4187354281739948181
+    second: underdress_106
+  - first:
+      213: -1906318117642961863
+    second: underdress_107
+  - first:
+      213: 450751013256403788
+    second: underdress_108
+  - first:
+      213: -8690127236958468594
+    second: underdress_109
+  - first:
+      213: 8741695532963558445
+    second: underdress_110
+  - first:
+      213: -2140597516464615883
+    second: underdress_111
+  - first:
+      213: 1012827261652988671
+    second: underdress_112
+  - first:
+      213: 1569032359411863916
+    second: underdress_113
+  - first:
+      213: -7514265449701834070
+    second: underdress_114
+  - first:
+      213: 5558840157699672918
+    second: underdress_115
+  - first:
+      213: 1984966725067493042
+    second: underdress_116
+  - first:
+      213: -1408463921036614711
+    second: underdress_117
+  - first:
+      213: -3894388682465905621
+    second: underdress_118
+  - first:
+      213: 6649689118387212362
+    second: underdress_119
+  - first:
+      213: -7352417605823512567
+    second: underdress_120
+  - first:
+      213: -5930452559315831901
+    second: underdress_121
+  - first:
+      213: -910936226742708009
+    second: underdress_122
+  - first:
+      213: -1695189962197418070
+    second: underdress_123
+  - first:
+      213: 9076939678492147909
+    second: underdress_124
+  - first:
+      213: 9065404903435024772
+    second: underdress_125
+  - first:
+      213: 5394785589631011168
+    second: underdress_126
+  - first:
+      213: 2493797881419608338
+    second: underdress_127
+  - first:
+      213: -5475678246591213565
+    second: underdress_128
+  - first:
+      213: -6137728825282460871
+    second: underdress_129
+  - first:
+      213: -488610363444197244
+    second: underdress_130
+  - first:
+      213: -1366649028040303085
+    second: underdress_131
+  - first:
+      213: -2317269511133564329
+    second: underdress_132
+  - first:
+      213: -879900221647663255
+    second: underdress_133
+  - first:
+      213: 3815025200605698425
+    second: underdress_134
+  - first:
+      213: -603419196749321824
+    second: underdress_135
+  - first:
+      213: -2823374003385092256
+    second: underdress_136
+  - first:
+      213: -1164850909482674653
+    second: underdress_137
+  - first:
+      213: -6843939522822282299
+    second: underdress_138
+  - first:
+      213: -4753861105096610652
+    second: underdress_139
+  - first:
+      213: 2293206836595463509
+    second: underdress_140
+  - first:
+      213: -7896077322099991373
+    second: underdress_141
+  - first:
+      213: 2314991130794864703
+    second: underdress_142
+  - first:
+      213: -4993777502261769510
+    second: underdress_143
+  - first:
+      213: 6170713905541756905
+    second: underdress_144
+  - first:
+      213: 9149156163792467642
+    second: underdress_145
+  - first:
+      213: 4420712456885868912
+    second: underdress_146
+  - first:
+      213: -7065061311806000416
+    second: underdress_147
+  - first:
+      213: -6316283585664994166
+    second: underdress_148
+  - first:
+      213: 478131599381501540
+    second: underdress_149
+  - first:
+      213: 7559228022280395197
+    second: underdress_150
+  - first:
+      213: 5767260304797801077
+    second: underdress_151
+  - first:
+      213: 6748703168551764238
+    second: underdress_152
+  - first:
+      213: -7108093894735560608
+    second: underdress_153
+  - first:
+      213: -1502061675575738125
+    second: underdress_154
+  - first:
+      213: -9075266216142931206
+    second: underdress_155
+  - first:
+      213: -1872606192064131535
+    second: underdress_156
+  - first:
+      213: 8586835202706104556
+    second: underdress_157
+  - first:
+      213: -3450072762694624048
+    second: underdress_158
+  - first:
+      213: -8294130962743241293
+    second: underdress_159
+  - first:
+      213: -6161053395156394021
+    second: underdress_160
+  - first:
+      213: 1811351598473006035
+    second: underdress_161
+  - first:
+      213: -1590456712741074188
+    second: underdress_162
+  - first:
+      213: -6584583688918009170
+    second: underdress_163
+  - first:
+      213: -8420711065330094648
+    second: underdress_164
+  - first:
+      213: -1310513569992956177
+    second: underdress_165
+  - first:
+      213: -2577061731426085036
+    second: underdress_166
+  - first:
+      213: 8257325864079965109
+    second: underdress_167
+  - first:
+      213: -3165354680342698738
+    second: underdress_168
+  - first:
+      213: 736585365668131934
+    second: underdress_169
+  - first:
+      213: -6834284825345341740
+    second: underdress_170
+  - first:
+      213: 2388943190602031188
+    second: underdress_171
+  - first:
+      213: -4618226225071923321
+    second: underdress_172
+  - first:
+      213: -507213046089812643
+    second: underdress_173
+  - first:
+      213: -1128071908078217819
+    second: underdress_174
+  - first:
+      213: -2915872051080505678
+    second: underdress_175
+  - first:
+      213: 5952138098917502514
+    second: underdress_176
+  - first:
+      213: -8646072841605028884
+    second: underdress_177
+  - first:
+      213: -1211561068320799895
+    second: underdress_178
+  - first:
+      213: 2201236535006601084
+    second: underdress_179
+  - first:
+      213: 1196825303584926991
+    second: underdress_180
+  - first:
+      213: -6369450556583655071
+    second: underdress_181
+  - first:
+      213: -6289652125404272977
+    second: underdress_182
+  - first:
+      213: 6289703474706021685
+    second: underdress_183
+  - first:
+      213: 5528707051901914682
+    second: underdress_184
+  - first:
+      213: 5849828804324656500
+    second: underdress_185
+  - first:
+      213: -4215864023258618646
+    second: underdress_186
+  - first:
+      213: 7703199734185658098
+    second: underdress_187
+  - first:
+      213: -2636387838716407578
+    second: underdress_188
+  - first:
+      213: -4561572778714259404
+    second: underdress_189
+  - first:
+      213: 4547337836844186836
+    second: underdress_190
+  - first:
+      213: -6276213536802062814
+    second: underdress_191
+  - first:
+      213: 4632177427824597444
+    second: underdress_192
+  - first:
+      213: -781552771311622189
+    second: underdress_193
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: underdress_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1280
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1acccc9c04429e390800000000000000
+      internalID: -7788654219878413151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1280
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e09e7387f3c4460800000000000000
+      internalID: 7227221287589449221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1280
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633d2d8e7856fb0b0800000000000000
+      internalID: -5710734168081378506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1280
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b792264bb41bd70800000000000000
+      internalID: 9057103563731860236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1280
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140829dfe24804c00800000000000000
+      internalID: 882850864322216001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_5
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1280
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2ed7fa0538df440800000000000000
+      internalID: 4971273946251780819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_6
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1280
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3466b2f360b6250800000000000000
+      internalID: 5938847401998959608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1216
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122de42145175ed70800000000000000
+      internalID: 9071781630306079265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1216
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403dfd06b8e672630800000000000000
+      internalID: 3902209147044614916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_9
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1216
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52389685869eb5170800000000000000
+      internalID: 8168378983535706917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_10
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1233
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10ed79fb52d900d0800000000000000
+      internalID: -3455999946560511970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_11
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1216
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e26b8ae8e31f6440800000000000000
+      internalID: 4931182008082326245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_12
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1216
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3dc52222b2145660800000000000000
+      internalID: 7373539046198725948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_13
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1216
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdffd159a2da857f0800000000000000
+      internalID: -623558149988810788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_14
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1216
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a1c60f0ab08cd30800000000000000
+      internalID: 4451821017512024730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_15
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1152
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b1118052bd950e0800000000000000
+      internalID: -2280550784190833830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_16
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1152
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4d97265e9dbbfc0800000000000000
+      internalID: -3477946707990686518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_17
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1172
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039d71bb0b52f7440800000000000000
+      internalID: 4935705157604727088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_18
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1152
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e188816e88c5070800000000000000
+      internalID: 8096496751940738708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1172
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9076adba152f530800000000000000
+      internalID: 3887259226919602668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_20
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1152
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd13ede3f6242950800000000000000
+      internalID: 6423301797647162838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_21
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1152
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dffbeea89b2aa61d0800000000000000
+      internalID: -3356691654467731459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_22
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1152
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab2f3b02c983f0f0800000000000000
+      internalID: -1084371618760807520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_23
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1152
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910c35bba166f2120800000000000000
+      internalID: 2391242192155033625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_24
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1088
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25d7dcd99d8dbe40800000000000000
+      internalID: 5673846797531338027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_25
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1088
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7631cfd5a2353aee0800000000000000
+      internalID: -1251064830048332953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_26
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1105
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53139b2fc6a801610800000000000000
+      internalID: 1589922868995109173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_27
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1088
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0476fc03ab59e5820800000000000000
+      internalID: 2908927036243273536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_28
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1088
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44061e89d3e88ed0800000000000000
+      internalID: -2411427076925684659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_29
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1088
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e1f4121c9414620800000000000000
+      internalID: 2756565540763803260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_30
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1088
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab34b8b013bdeded0800000000000000
+      internalID: -2387229748766227526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_31
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1088
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829ad4f89e144a600800000000000000
+      internalID: 478579931795532072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_32
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1023
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbcc51397d8bca70800000000000000
+      internalID: 8848321444558195706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_33
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1023
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d826d24ffae19940800000000000000
+      internalID: 5301276618450675922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_34
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1024
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cea4865ff32c4af0800000000000000
+      internalID: -410913886422389055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_35
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1024
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a21bb910d76e040800000000000000
+      internalID: 4676562708931357216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_36
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1023
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ad7e25cabbdbd70800000000000000
+      internalID: 9060604374139001478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_37
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1023
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71d430e15ce60ed0800000000000000
+      internalID: -2448009511031221892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_38
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1023
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af230f8823086c60800000000000000
+      internalID: 7811497026407051175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_39
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1024
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54702b83b0d15260800000000000000
+      internalID: 7084673158382384222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_40
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 960
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274baa72debb107f0800000000000000
+      internalID: -648030244117498766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_41
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 960
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1a4163056b52190800000000000000
+      internalID: -7987777908450745923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_42
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 960
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b55b405b3f4a34e0800000000000000
+      internalID: -2001199968243984967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_43
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 960
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735ec7ac7bf44f960800000000000000
+      internalID: 7634814919094625591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_44
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 960
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e0fd35b5fb3f970800000000000000
+      internalID: 8787577696900025974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_45
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 960
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5845923404bb7940800000000000000
+      internalID: 5295023717025663067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_46
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 960
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d7d8579aa4ec290800000000000000
+      internalID: -7868269407287542390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_47
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 960
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8840a52033daa7e70800000000000000
+      internalID: 9113787230532011144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_48
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 896
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72642f2051f8e120800000000000000
+      internalID: 2443468124539085434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_49
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 896
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd646a80ca239c6f0800000000000000
+      internalID: -663943755599558949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_50
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 896
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc869648320bf8940800000000000000
+      internalID: 5300648953030207692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_51
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 919
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34aedad52a0608570800000000000000
+      internalID: 8466873549929179715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_52
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 918
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0096616d15fe0f0800000000000000
+      internalID: -1085559005232168757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_53
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 916
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55568383fdedb9cf0800000000000000
+      internalID: -244356704459266731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_54
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 915
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25674311e7cd2340800000000000000
+      internalID: 4840744943998166316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_55
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 916
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8599658091731930800000000000000
+      internalID: 4112755750246913420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_56
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 919
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7676128c61f3be0800000000000000
+      internalID: -1495451502454020124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_57
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 918
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9309fee292d036050800000000000000
+      internalID: 5792488016260862009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_58
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 896
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10050798739c8a780800000000000000
+      internalID: -8671459842135666687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_59
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 895
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d146ba20e666910b0800000000000000
+      internalID: -5757458025939246051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_60
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 895
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037373f7339200760800000000000000
+      internalID: 7421977487060973360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_61
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 895
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3277f37163de1170800000000000000
+      internalID: 8151184791098061372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_62
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 896
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0c1fa141bc1ee90800000000000000
+      internalID: -6998089058745204540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_63
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 832
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684e9bde5a80f2890800000000000000
+      internalID: -7480750947288095610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_64
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 832
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162242a7368bd49e0800000000000000
+      internalID: -1635448352275160479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_65
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 832
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c5cc0fa3c21c0a0800000000000000
+      internalID: -6863155725476275074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_66
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 832
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716e458a63642d260800000000000000
+      internalID: 7120831161392490007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_67
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 832
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397667a5ca0084690800000000000000
+      internalID: -7617838029445109869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_68
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 832
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60e100aa674ec810800000000000000
+      internalID: 1787444625389248619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_69
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 832
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c04111f875d4eb0800000000000000
+      internalID: -4734031361318056855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_70
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 832
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf434af5b034b5400800000000000000
+      internalID: 313918315160679675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_71
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 769
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4345eed30c1af40800000000000000
+      internalID: 5738078772470756600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_72
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 769
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3f739d49f5b9ea0800000000000000
+      internalID: -5864988996815817736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_73
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 769
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717a08bb4d96cfd70800000000000000
+      internalID: 9078247311271831319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_74
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 768
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531538f9178875350800000000000000
+      internalID: 6005418649710711093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_75
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 769
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19fd1a341f0fbc4d0800000000000000
+      internalID: -3113129798384099439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_76
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 769
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ec8b0cb6dfbcd60800000000000000
+      internalID: 7911695809643073072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_77
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 769
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415a3f0e3f7ff7d40800000000000000
+      internalID: 5584454689785881876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_78
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 768
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c055fcf1442f73c0800000000000000
+      internalID: -4359726048435941184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_79
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 769
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7e205976b5581f0800000000000000
+      internalID: -1043327238226647059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_80
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 704
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8528079d01455c0800000000000000
+      internalID: -4227735624112514848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_81
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 704
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dae9ae1a5e1836b0800000000000000
+      internalID: -5316465987700528427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_82
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 704
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5f8d20e4e384fe0800000000000000
+      internalID: -1204644395545463334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_83
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 705
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e120eb6e20a7c3b0800000000000000
+      internalID: -5492245099316239897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_84
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 704
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b694fd1eb0426aa30800000000000000
+      internalID: 4226104933786536299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_85
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 703
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54d1639cd4ffd070800000000000000
+      internalID: 8133488680257049694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_86
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 703
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b2c38f70e9b29d0800000000000000
+      internalID: -2797968986413978728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_87
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 704
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668bb3a8be72ba790800000000000000
+      internalID: -7517871260374943642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_88
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 704
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0a58f0c67b27350800000000000000
+      internalID: 6013070127237800104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_89
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 640
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad8f8657a5f5b2e0800000000000000
+      internalID: -2110510751292617308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_90
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 640
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c01b050d49fbd8a0800000000000000
+      internalID: -6279151146245615415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_91
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 640
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b42d518349036590800000000000000
+      internalID: -7682286353826110282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_92
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 639
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e0557f18aff4220800000000000000
+      internalID: 2472470156556963472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_93
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 640
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638eb066b6adfb300800000000000000
+      internalID: 270174657473931318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_94
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 640
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a1c0b4cd65a9a10800000000000000
+      internalID: 1916940095551445654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_95
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 640
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4e194b2513da970800000000000000
+      internalID: 8767718280846763188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_96
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 639
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc807a541a41be20800000000000000
+      internalID: 3364551847899598067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_97
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 640
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e0081bb2c159480800000000000000
+      internalID: -8893170915186045422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_98
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 576
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0740631e3f09ce450800000000000000
+      internalID: 6119425370819527792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_99
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 576
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a21cc07d3642290800000000000000
+      internalID: -7916092469727385029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_100
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 576
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2636f3d64aec48ad0800000000000000
+      internalID: -2700806670912625822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_101
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 577
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756beab9680fdb4b0800000000000000
+      internalID: -5422913915356006825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_102
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 576
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80eed39ba04354f0800000000000000
+      internalID: -841257599723708276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_103
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 575
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95226fc787c1f2e90800000000000000
+      internalID: -7048383587993378215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_104
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 575
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465fbb5f4b203a550800000000000000
+      internalID: 6170778890667816292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_105
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 576
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4905742fc435e70800000000000000
+      internalID: 9102703875308164301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_106
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 576
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59012df98887c1a30800000000000000
+      internalID: 4187354281739948181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_107
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 512
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93cfff8a5c56b85e0800000000000000
+      internalID: -1906318117642961863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_108
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 512
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b9b4b88a3614600800000000000000
+      internalID: 450751013256403788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_109
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 512
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06c42cf157766780800000000000000
+      internalID: -8690127236958468594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_110
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 513
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2479e095cdb05970800000000000000
+      internalID: 8741695532963558445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_111
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 513
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e0b0076e11b42e0800000000000000
+      internalID: -2140597516464615883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_112
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 513
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff278ad37094e0e00800000000000000
+      internalID: 1012827261652988671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_113
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 448
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6156d72e9256c510800000000000000
+      internalID: 1569032359411863916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_114
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 447
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa20882c267f7b790800000000000000
+      internalID: -7514265449701834070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_115
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 447
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b8dd2eba7f42d40800000000000000
+      internalID: 5558840157699672918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_116
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 448
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be4e9a38b40c8b10800000000000000
+      internalID: 1984966725067493042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_117
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 448
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3a8a3b681247ce0800000000000000
+      internalID: -1408463921036614711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_118
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 448
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24715c602a54f9c0800000000000000
+      internalID: -3894388682465905621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_119
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 384
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4010488501784c50800000000000000
+      internalID: 6649689118387212362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_120
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 383
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900cf8c6427f6f990800000000000000
+      internalID: -7352417605823512567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_121
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 383
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a37ca471dcc2bda0800000000000000
+      internalID: -5930452559315831901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_122
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 384
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d857fff354bb53f0800000000000000
+      internalID: -910936226742708009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_123
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 384
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf3a6cf5b97978e0800000000000000
+      internalID: -1695189962197418070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_124
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 384
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c04c20cb84c7fd70800000000000000
+      internalID: 9076939678492147909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_125
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 320
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4893456aab9cecd70800000000000000
+      internalID: 9065404903435024772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_126
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 319
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0694a5539e02eda40800000000000000
+      internalID: 5394785589631011168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_127
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 319
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21133afd5ffbb9220800000000000000
+      internalID: 2493797881419608338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_128
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 320
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300d89765ab7204b0800000000000000
+      internalID: -5475678246591213565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_129
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 320
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9330d59072862daa0800000000000000
+      internalID: -6137728825282460871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_130
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 320
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4888555967b1839f0800000000000000
+      internalID: -488610363444197244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_131
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 256
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e560723ffa80de0800000000000000
+      internalID: -1366649028040303085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_132
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 256
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7527a0438a767dfd0800000000000000
+      internalID: -2317269511133564329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_133
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 256
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f47ea0967f9c3f0800000000000000
+      internalID: -879900221647663255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_134
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 256
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97914430531b1f430800000000000000
+      internalID: 3815025200605698425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_135
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 256
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9ea17007930a7f0800000000000000
+      internalID: -603419196749321824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_136
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 256
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067b8248d4c51d8d0800000000000000
+      internalID: -2823374003385092256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_137
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 256
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3269efbf44e95dfe0800000000000000
+      internalID: -1164850909482674653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_138
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 256
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3ebe5c3417501a0800000000000000
+      internalID: -6843939522822282299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_139
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 256
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4acab2f0384e60eb0800000000000000
+      internalID: -4753861105096610652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_140
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 256
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55515cbc77b13df10800000000000000
+      internalID: 2293206836595463509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_141
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 256
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc5631c28f7b6290800000000000000
+      internalID: -7896077322099991373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_142
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 256
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3035390b20802020800000000000000
+      internalID: 2314991130794864703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_143
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 256
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada8952e1d982bab0800000000000000
+      internalID: -4993777502261769510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_144
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 192
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7316e6a97c2a550800000000000000
+      internalID: 6170713905541756905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_145
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 192
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6fc618e0558fe70800000000000000
+      internalID: 9149156163792467642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_146
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 192
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07993debe86895d30800000000000000
+      internalID: 4420712456885868912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_147
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 192
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2b2715b2cd3fd90800000000000000
+      internalID: -7065061311806000416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_148
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 192
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84becf3b8d0858a0800000000000000
+      internalID: -6316283585664994166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_149
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 192
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4661609082aa2a600800000000000000
+      internalID: 478131599381501540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_150
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 192
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db99334f5d5c7e860800000000000000
+      internalID: 7559228022280395197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_151
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 192
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a1fa2e0bc690050800000000000000
+      internalID: 5767260304797801077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_152
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 192
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01c41096c538ad50800000000000000
+      internalID: 6748703168551764238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_153
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 192
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0600a26534afa5d90800000000000000
+      internalID: -7108093894735560608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_154
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 192
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f084944dda972be0800000000000000
+      internalID: -1502061675575738125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_155
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 192
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa72b0957d2e0280800000000000000
+      internalID: -9075266216142931206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_156
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 192
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e02ddf69a2306e0800000000000000
+      internalID: -1872606192064131535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_157
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 128
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0ed123f119a2770800000000000000
+      internalID: 8586835202706104556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_158
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 128
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc16520a11ee10d0800000000000000
+      internalID: -3450072762694624048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_159
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 128
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5de1565d355ec80800000000000000
+      internalID: -8294130962743241293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_160
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 128
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf1d7b649a8f7aa0800000000000000
+      internalID: -6161053395156394021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_161
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 128
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dbc15e8ea6332910800000000000000
+      internalID: 1811351598473006035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_162
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 151
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4face6edb009de9e0800000000000000
+      internalID: -1590456712741074188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_163
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 128
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaaf534850cde94a0800000000000000
+      internalID: -6584583688918009170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_164
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 151
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd6cc2a6ef932b80800000000000000
+      internalID: -8420711065330094648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_165
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 128
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6ad3bf9de10dde0800000000000000
+      internalID: -1310513569992956177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_166
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 128
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457581652007c3cd0800000000000000
+      internalID: -2577061731426085036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_167
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 149
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bbb12bcf1ae79270800000000000000
+      internalID: 8257325864079965109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_168
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 128
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05ad0260b66214d0800000000000000
+      internalID: -3165354680342698738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_169
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 128
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54766bcc70e83a00800000000000000
+      internalID: 736585365668131934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_170
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 128
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6c273392eb721a0800000000000000
+      internalID: -6834284825345341740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_171
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 128
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4502c68bc2b372120800000000000000
+      internalID: 2388943190602031188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_172
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 128
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78fd13a77b3c8efb0800000000000000
+      internalID: -4618226225071923321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_173
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 64
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d557f520c6406f8f0800000000000000
+      internalID: -507213046089812643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_174
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 64
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a596ed83984850f0800000000000000
+      internalID: -1128071908078217819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_175
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 64
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b65bd881ddb887d0800000000000000
+      internalID: -2915872051080505678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_176
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 64
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23eeb00b01e3a9250800000000000000
+      internalID: 5952138098917502514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_177
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 64
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3eaf53f8af20880800000000000000
+      internalID: -8646072841605028884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_178
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 64
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963cb03a0abaf2fe0800000000000000
+      internalID: -1211561068320799895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_179
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 64
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f1ea747fc5c8e10800000000000000
+      internalID: 2201236535006601084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_180
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 64
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0de066c54afb9010800000000000000
+      internalID: 1196825303584926991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_181
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 64
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169ca60377a2b97a0800000000000000
+      internalID: -6369450556583655071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_182
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 64
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa66f7847baa6b8a0800000000000000
+      internalID: -6289652125404272977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_183
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 64
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d74686cf3894750800000000000000
+      internalID: 6289703474706021685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_184
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 64
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e8fc775c9e9bc40800000000000000
+      internalID: 5528707051901914682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_185
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 64
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4758e96cd44ce2150800000000000000
+      internalID: 5849828804324656500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_186
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae42258e10e3e75c0800000000000000
+      internalID: -4215864023258618646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_187
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6050e485347ea60800000000000000
+      internalID: 7703199734185658098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_188
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e016279a3ba96bd0800000000000000
+      internalID: -2636387838716407578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_189
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43025abd9b902b0c0800000000000000
+      internalID: -4561572778714259404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_190
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 14
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc7ac67ba36b1f30800000000000000
+      internalID: 4547337836844186836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_191
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 14
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e3a648a0966e8a0800000000000000
+      internalID: -6276213536802062814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_192
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 18
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9511a04dcc84040800000000000000
+      internalID: 4632177427824597444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underdress_193
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 5
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7afb435ed5725f0800000000000000
+      internalID: -781552771311622189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

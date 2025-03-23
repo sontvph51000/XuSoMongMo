@@ -1,0 +1,4730 @@
+fileFormatVersion: 2
+guid: c75d67c8b1de0764b81a87c35661c12c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4354375974600601061
+    second: white-cyan_0
+  - first:
+      213: 4446267881687883961
+    second: white-cyan_1
+  - first:
+      213: 7667346941225836985
+    second: white-cyan_2
+  - first:
+      213: 4383343639178795668
+    second: white-cyan_3
+  - first:
+      213: -7103905604755533894
+    second: white-cyan_4
+  - first:
+      213: 4747727593374106084
+    second: white-cyan_5
+  - first:
+      213: 378529848806829648
+    second: white-cyan_6
+  - first:
+      213: -1657561690206813844
+    second: white-cyan_7
+  - first:
+      213: 719867629757990057
+    second: white-cyan_8
+  - first:
+      213: -7375696228182157760
+    second: white-cyan_9
+  - first:
+      213: -6660282632670847501
+    second: white-cyan_10
+  - first:
+      213: -1379775759181170215
+    second: white-cyan_11
+  - first:
+      213: 114198725628966270
+    second: white-cyan_12
+  - first:
+      213: -7553638152297454863
+    second: white-cyan_13
+  - first:
+      213: 1741797222940626891
+    second: white-cyan_14
+  - first:
+      213: -8942896552674547045
+    second: white-cyan_15
+  - first:
+      213: 8401657910900164247
+    second: white-cyan_16
+  - first:
+      213: -6513455587833922890
+    second: white-cyan_17
+  - first:
+      213: 5160742599315285055
+    second: white-cyan_18
+  - first:
+      213: -1703286193186491390
+    second: white-cyan_19
+  - first:
+      213: 5131842963419062060
+    second: white-cyan_20
+  - first:
+      213: 6687603456885160495
+    second: white-cyan_21
+  - first:
+      213: -3252853606292421171
+    second: white-cyan_22
+  - first:
+      213: 1256599746641762419
+    second: white-cyan_23
+  - first:
+      213: 1916875453439172985
+    second: white-cyan_24
+  - first:
+      213: -3385429331375156755
+    second: white-cyan_25
+  - first:
+      213: -7558154038660459720
+    second: white-cyan_26
+  - first:
+      213: -9105823656597917177
+    second: white-cyan_27
+  - first:
+      213: 1926564668046661250
+    second: white-cyan_28
+  - first:
+      213: 3427211305617621127
+    second: white-cyan_29
+  - first:
+      213: 107979839880610231
+    second: white-cyan_30
+  - first:
+      213: 339814253590562195
+    second: white-cyan_31
+  - first:
+      213: 5092051532233680236
+    second: white-cyan_32
+  - first:
+      213: 4245784922454059612
+    second: white-cyan_33
+  - first:
+      213: 1902944538089476603
+    second: white-cyan_34
+  - first:
+      213: -6658930528953368916
+    second: white-cyan_35
+  - first:
+      213: 4462947345411209841
+    second: white-cyan_36
+  - first:
+      213: -4140212612245381009
+    second: white-cyan_37
+  - first:
+      213: 4704527714024977102
+    second: white-cyan_38
+  - first:
+      213: 6603370808777158613
+    second: white-cyan_39
+  - first:
+      213: -4047337739965230758
+    second: white-cyan_40
+  - first:
+      213: -1581304567737147231
+    second: white-cyan_41
+  - first:
+      213: 10593160744899993
+    second: white-cyan_42
+  - first:
+      213: -3135052364379837962
+    second: white-cyan_43
+  - first:
+      213: -1236965143999814755
+    second: white-cyan_44
+  - first:
+      213: 7313734280484823765
+    second: white-cyan_45
+  - first:
+      213: 3890338002540977965
+    second: white-cyan_46
+  - first:
+      213: 2666716730553132795
+    second: white-cyan_47
+  - first:
+      213: 7249934627249020655
+    second: white-cyan_48
+  - first:
+      213: -9206059629798991380
+    second: white-cyan_49
+  - first:
+      213: -7742016192196809114
+    second: white-cyan_50
+  - first:
+      213: -1900451128747448416
+    second: white-cyan_51
+  - first:
+      213: 8810166955068474494
+    second: white-cyan_52
+  - first:
+      213: -7855824387859132311
+    second: white-cyan_53
+  - first:
+      213: -3530554763947675377
+    second: white-cyan_54
+  - first:
+      213: 5942223393651638835
+    second: white-cyan_55
+  - first:
+      213: 8091000122210488424
+    second: white-cyan_56
+  - first:
+      213: -1985259010807846810
+    second: white-cyan_57
+  - first:
+      213: -8598125057331758816
+    second: white-cyan_58
+  - first:
+      213: -4626576353134431333
+    second: white-cyan_59
+  - first:
+      213: -4141457175653527182
+    second: white-cyan_60
+  - first:
+      213: -976288463734793087
+    second: white-cyan_61
+  - first:
+      213: 2368796541984491920
+    second: white-cyan_62
+  - first:
+      213: -6673014233215239400
+    second: white-cyan_63
+  - first:
+      213: -1629633666587362513
+    second: white-cyan_64
+  - first:
+      213: 5424453841518525048
+    second: white-cyan_65
+  - first:
+      213: -5702415130321187014
+    second: white-cyan_66
+  - first:
+      213: 3242234952359078497
+    second: white-cyan_67
+  - first:
+      213: -2320378167984806969
+    second: white-cyan_68
+  - first:
+      213: 1640806971866584930
+    second: white-cyan_69
+  - first:
+      213: 6690786464949347457
+    second: white-cyan_70
+  - first:
+      213: 4035289780378891504
+    second: white-cyan_71
+  - first:
+      213: -9132529255577377177
+    second: white-cyan_72
+  - first:
+      213: 3603596673030160455
+    second: white-cyan_73
+  - first:
+      213: 919758986557421230
+    second: white-cyan_74
+  - first:
+      213: 6264166241272104283
+    second: white-cyan_75
+  - first:
+      213: -5714759806238246329
+    second: white-cyan_76
+  - first:
+      213: 7515304529930216863
+    second: white-cyan_77
+  - first:
+      213: -1009002210713816968
+    second: white-cyan_78
+  - first:
+      213: 3336179906688289777
+    second: white-cyan_79
+  - first:
+      213: -4072859761752596524
+    second: white-cyan_80
+  - first:
+      213: 5923384893868493492
+    second: white-cyan_81
+  - first:
+      213: -2365387666052273138
+    second: white-cyan_82
+  - first:
+      213: 3307910624643083723
+    second: white-cyan_83
+  - first:
+      213: 2370007345877744647
+    second: white-cyan_84
+  - first:
+      213: 5132214665878316155
+    second: white-cyan_85
+  - first:
+      213: 1134331840944502026
+    second: white-cyan_86
+  - first:
+      213: 4095242069865885402
+    second: white-cyan_87
+  - first:
+      213: 1102881151802688451
+    second: white-cyan_88
+  - first:
+      213: 9193950394970593146
+    second: white-cyan_89
+  - first:
+      213: -5231578401678013663
+    second: white-cyan_90
+  - first:
+      213: -7553609511999616123
+    second: white-cyan_91
+  - first:
+      213: 7513982359801900599
+    second: white-cyan_92
+  - first:
+      213: -7026259438401339290
+    second: white-cyan_93
+  - first:
+      213: -7789614546947798917
+    second: white-cyan_94
+  - first:
+      213: -6443413811080580382
+    second: white-cyan_95
+  - first:
+      213: 1512716225741455429
+    second: white-cyan_96
+  - first:
+      213: 2179399101784181937
+    second: white-cyan_97
+  - first:
+      213: -4031339421167091352
+    second: white-cyan_98
+  - first:
+      213: -7599046630537247154
+    second: white-cyan_99
+  - first:
+      213: 6587759338907270147
+    second: white-cyan_100
+  - first:
+      213: 3089346470237322424
+    second: white-cyan_101
+  - first:
+      213: 4891802052286901107
+    second: white-cyan_102
+  - first:
+      213: 5006564893053544239
+    second: white-cyan_103
+  - first:
+      213: -4639445665338556732
+    second: white-cyan_104
+  - first:
+      213: 6533003645188629734
+    second: white-cyan_105
+  - first:
+      213: 3084072501737409000
+    second: white-cyan_106
+  - first:
+      213: 6470433808735306245
+    second: white-cyan_107
+  - first:
+      213: 6718810531723696013
+    second: white-cyan_108
+  - first:
+      213: 914682925794949175
+    second: white-cyan_109
+  - first:
+      213: 546329749315648253
+    second: white-cyan_110
+  - first:
+      213: 7579996926452478154
+    second: white-cyan_111
+  - first:
+      213: 5508818854049977997
+    second: white-cyan_112
+  - first:
+      213: 3950559056369098329
+    second: white-cyan_113
+  - first:
+      213: 170896676063505607
+    second: white-cyan_114
+  - first:
+      213: -7547438324918267181
+    second: white-cyan_115
+  - first:
+      213: 2511740866631484154
+    second: white-cyan_116
+  - first:
+      213: -4169810690691500910
+    second: white-cyan_117
+  - first:
+      213: -5015289978757072217
+    second: white-cyan_118
+  - first:
+      213: 7947996097147380147
+    second: white-cyan_119
+  - first:
+      213: -3960610145541927060
+    second: white-cyan_120
+  - first:
+      213: -6710965009419312328
+    second: white-cyan_121
+  - first:
+      213: -1761208939061112178
+    second: white-cyan_122
+  - first:
+      213: 606715082631919052
+    second: white-cyan_123
+  - first:
+      213: -4350344693384621685
+    second: white-cyan_124
+  - first:
+      213: 2269246713787141860
+    second: white-cyan_125
+  - first:
+      213: 4776607968502306120
+    second: white-cyan_126
+  - first:
+      213: -5204061095590267423
+    second: white-cyan_127
+  - first:
+      213: -195205566650217135
+    second: white-cyan_128
+  - first:
+      213: 1910245024527544466
+    second: white-cyan_129
+  - first:
+      213: -2625154428598812277
+    second: white-cyan_130
+  - first:
+      213: 2376789213571501340
+    second: white-cyan_131
+  - first:
+      213: -3919481899482966393
+    second: white-cyan_132
+  - first:
+      213: 7979652904619250164
+    second: white-cyan_133
+  - first:
+      213: -8960148013683649859
+    second: white-cyan_134
+  - first:
+      213: -8406113247426782025
+    second: white-cyan_135
+  - first:
+      213: 4634093982776185432
+    second: white-cyan_136
+  - first:
+      213: 3797194994581243170
+    second: white-cyan_137
+  - first:
+      213: -3117196601764515498
+    second: white-cyan_138
+  - first:
+      213: 2599163178078313815
+    second: white-cyan_139
+  - first:
+      213: 7072668656723533854
+    second: white-cyan_140
+  - first:
+      213: -49671931123824956
+    second: white-cyan_141
+  - first:
+      213: -1927762514498033063
+    second: white-cyan_142
+  - first:
+      213: 1104022769637350737
+    second: white-cyan_143
+  - first:
+      213: 8884248527445146046
+    second: white-cyan_144
+  - first:
+      213: -7500763778380895395
+    second: white-cyan_145
+  - first:
+      213: -2995003151504455635
+    second: white-cyan_146
+  - first:
+      213: -655895252225938391
+    second: white-cyan_147
+  - first:
+      213: -1031960993166538762
+    second: white-cyan_148
+  - first:
+      213: -5845946292841345776
+    second: white-cyan_149
+  - first:
+      213: -3622632828615062008
+    second: white-cyan_150
+  - first:
+      213: -9057786428887902661
+    second: white-cyan_151
+  - first:
+      213: 2119764677241157725
+    second: white-cyan_152
+  - first:
+      213: 7314093008423832489
+    second: white-cyan_153
+  - first:
+      213: -2718942398917820572
+    second: white-cyan_154
+  - first:
+      213: 2441175921871400128
+    second: white-cyan_155
+  - first:
+      213: -7925823683536595747
+    second: white-cyan_156
+  - first:
+      213: 6773602736553014670
+    second: white-cyan_157
+  - first:
+      213: -6926546498000106751
+    second: white-cyan_158
+  - first:
+      213: -3367922441746275930
+    second: white-cyan_159
+  - first:
+      213: -8915171958140047364
+    second: white-cyan_160
+  - first:
+      213: -8961328727368514909
+    second: white-cyan_161
+  - first:
+      213: 6893307142241106710
+    second: white-cyan_162
+  - first:
+      213: 7317694633245892199
+    second: white-cyan_163
+  - first:
+      213: -5254689329553767452
+    second: white-cyan_164
+  - first:
+      213: -8006429859983538879
+    second: white-cyan_165
+  - first:
+      213: -8740637986387006800
+    second: white-cyan_166
+  - first:
+      213: -3054095465491470591
+    second: white-cyan_167
+  - first:
+      213: 3318242725554292569
+    second: white-cyan_168
+  - first:
+      213: 6594677188418737559
+    second: white-cyan_169
+  - first:
+      213: -4824695175421350811
+    second: white-cyan_170
+  - first:
+      213: -5358550658137017157
+    second: white-cyan_171
+  - first:
+      213: -2055851779934167258
+    second: white-cyan_172
+  - first:
+      213: -337474153516806310
+    second: white-cyan_173
+  - first:
+      213: 8037727057337942501
+    second: white-cyan_174
+  - first:
+      213: 7073591272283835230
+    second: white-cyan_175
+  - first:
+      213: 8534971432702769014
+    second: white-cyan_176
+  - first:
+      213: -5505469392226251048
+    second: white-cyan_177
+  - first:
+      213: -3161675320248829535
+    second: white-cyan_178
+  - first:
+      213: -8420456067685024349
+    second: white-cyan_179
+  - first:
+      213: 3378798793098649838
+    second: white-cyan_180
+  - first:
+      213: -2492528947000283590
+    second: white-cyan_181
+  - first:
+      213: 4874941566874338869
+    second: white-cyan_182
+  - first:
+      213: -1777844856231411094
+    second: white-cyan_183
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: white-cyan_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1291
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b129f6f1f162293c0800000000000000
+      internalID: -4354375974600601061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1291
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b02c30c41154bd30800000000000000
+      internalID: 4446267881687883961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1291
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1a1717b63e76a60800000000000000
+      internalID: 7667346941225836985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1291
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a58bdd0d3c4dc30800000000000000
+      internalID: 4383343639178795668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_4
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1291
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abfc3a69d7bd96d90800000000000000
+      internalID: -7103905604755533894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_5
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1291
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e14265771153e140800000000000000
+      internalID: 4747727593374106084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_6
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1291
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e630754eec04500800000000000000
+      internalID: 378529848806829648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_7
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1234
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c614de5cc682ff8e0800000000000000
+      internalID: -1657561690206813844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_8
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1234
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a407059bcb7df900800000000000000
+      internalID: 719867629757990057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_9
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1234
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046930ccb5344a990800000000000000
+      internalID: -7375696228182157760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_10
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1239
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd53f7bb3ce193a0800000000000000
+      internalID: -6660282632670847501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_11
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1234
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9bf44e14d0adce0800000000000000
+      internalID: -1379775759181170215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_12
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1245
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75baeac227b59100800000000000000
+      internalID: 114198725628966270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_13
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1239
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2e8721f161c2790800000000000000
+      internalID: -7553638152297454863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_14
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1234
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf4328885b1c2810800000000000000
+      internalID: 1741797222940626891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_15
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1183
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9aa4c287f274e380800000000000000
+      internalID: -8942896552674547045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_16
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1183
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7960e872b5fa89470800000000000000
+      internalID: 8401657910900164247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_17
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1183
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba30e217ae8b95a0800000000000000
+      internalID: -6513455587833922890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_18
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1183
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34e9612d04ae9740800000000000000
+      internalID: 5160742599315285055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_19
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1183
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204ba405b36bc58e0800000000000000
+      internalID: -1703286193186491390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_20
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1183
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f5ead4cf7f73740800000000000000
+      internalID: 5131842963419062060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_21
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1183
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a705e59e32fcc50800000000000000
+      internalID: 6687603456885160495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_22
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1108
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5879221ea8bd2d0800000000000000
+      internalID: -3252853606292421171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_23
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1106
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3789d63dfc6507110800000000000000
+      internalID: 1256599746641762419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_24
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1106
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97168e0a11c1a9a10800000000000000
+      internalID: 1916875453439172985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_25
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1112
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1123bb5f98401d0800000000000000
+      internalID: -3385429331375156755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_26
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1106
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83395f752fa0c1790800000000000000
+      internalID: -7558154038660459720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_27
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1106
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702f12901ad91a180800000000000000
+      internalID: -9105823656597917177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_28
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1112
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2865db3bb588cba10800000000000000
+      internalID: 1926564668046661250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_29
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1034
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7808a893686ef8f20800000000000000
+      internalID: 3427211305617621127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_30
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1034
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1ccfe971f9f7100800000000000000
+      internalID: 107979839880610231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_31
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1035
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39541e2634347b400800000000000000
+      internalID: 339814253590562195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_32
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1035
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65a5c4c3e99aa640800000000000000
+      internalID: 5092051532233680236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_33
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1034
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a659f44ee0cea30800000000000000
+      internalID: 4245784922454059612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_34
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1034
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1d714a9fd986a10800000000000000
+      internalID: 1902944538089476603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_35
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1034
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caefab5e6f9b693a0800000000000000
+      internalID: -6658930528953368916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_36
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1035
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17af18607f29fed30800000000000000
+      internalID: 4462947345411209841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_37
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 978
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60a580a0920b86c0800000000000000
+      internalID: -4140212612245381009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_38
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 978
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2707eb707d94140800000000000000
+      internalID: 4704527714024977102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_39
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 984
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dfa851b3c2e3ab50800000000000000
+      internalID: 6603370808777158613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_40
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 986
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51175be4c7f4d7c0800000000000000
+      internalID: -4047337739965230758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_41
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 978
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0235eafd31e0ae0800000000000000
+      internalID: -1581304567737147231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_42
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 978
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9959f3f6c62a52000800000000000000
+      internalID: 10593160744899993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_43
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 978
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f924ec1c7e0e74d0800000000000000
+      internalID: -3135052364379837962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_44
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 986
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93e95851ca65dee0800000000000000
+      internalID: -1236965143999814755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_45
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 927
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d225e9049a9f7560800000000000000
+      internalID: 7313734280484823765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_46
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 927
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f58a92dc14df530800000000000000
+      internalID: 3890338002540977965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_47
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 927
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6e531dcb4120520800000000000000
+      internalID: 2666716730553132795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_48
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 927
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee5bf5b121fc9460800000000000000
+      internalID: 7249934627249020655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_49
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 926
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce954c0ea818d3080800000000000000
+      internalID: -9206059629798991380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_50
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 926
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e69caca45de8490800000000000000
+      internalID: -7742016192196809114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_51
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 926
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7a40674cd30a5e0800000000000000
+      internalID: -1900451128747448416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_52
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 927
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74cdb8da20044a70800000000000000
+      internalID: 8810166955068474494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_53
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 852
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9605ec757518af290800000000000000
+      internalID: -7855824387859132311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_54
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 853
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01f5dad523f00fc0800000000000000
+      internalID: -3530554763947675377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_55
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 857
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3324f9a71b4077250800000000000000
+      internalID: 5942223393651638835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_56
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 859
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8609ff14eb1094070800000000000000
+      internalID: 8091000122210488424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_57
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 850
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668a7a1b271f274e0800000000000000
+      internalID: -1985259010807846810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_58
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 850
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029fa5fa0d25da880800000000000000
+      internalID: -8598125057331758816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_59
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 850
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b933339c1591bcfb0800000000000000
+      internalID: -4626576353134431333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_60
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 859
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271dda024a69686c0800000000000000
+      internalID: -4141457175653527182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_61
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 779
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c96c890d68372f0800000000000000
+      internalID: -976288463734793087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_62
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 779
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099c82e87e7afd020800000000000000
+      internalID: 2368796541984491920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_63
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 779
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b7418f8e0b463a0800000000000000
+      internalID: -6673014233215239400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_64
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 778
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2bfa0d70d06269e0800000000000000
+      internalID: -1629633666587362513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_65
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 779
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87af6346708874b40800000000000000
+      internalID: 5424453841518525048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_66
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 779
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f8463d6a3fcd0b0800000000000000
+      internalID: -5702415130321187014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_67
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 779
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ae7b5d28bbefc20800000000000000
+      internalID: 3242234952359078497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_68
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 778
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3a1b0a95c5ccfd0800000000000000
+      internalID: -2320378167984806969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_69
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 779
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267971f5f3155c610800000000000000
+      internalID: 1640806971866584930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_70
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 722
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1842c4f27d27adc50800000000000000
+      internalID: 6690786464949347457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_71
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 721
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f47f35ecaa300830800000000000000
+      internalID: 4035289780378891504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_72
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 721
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766a27c370db24180800000000000000
+      internalID: -9132529255577377177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_73
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 722
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7400eb9d41c820230800000000000000
+      internalID: 3603596673030160455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_74
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 725
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea67ab8dce3a3cc00800000000000000
+      internalID: 919758986557421230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_75
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 724
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b558409e10acee650800000000000000
+      internalID: 6264166241272104283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_76
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 724
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a3d7cfb3811b0b0800000000000000
+      internalID: -5714759806238246329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_77
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 722
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f95ef55f6a9bb4860800000000000000
+      internalID: 7515304529930216863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_78
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 722
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870b1d4d5dd4ff1f0800000000000000
+      internalID: -1009002210713816968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_79
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 671
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb83f403fd7c4e20800000000000000
+      internalID: 3336179906688289777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_80
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 671
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df11c820ab4a77c0800000000000000
+      internalID: -4072859761752596524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_81
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 671
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba42f27d27143250800000000000000
+      internalID: 5923384893868493492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_82
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 670
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c2dd833747c2fd0800000000000000
+      internalID: -2365387666052273138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_83
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 671
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd6792ef2f08ed20800000000000000
+      internalID: 3307910624643083723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_84
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 671
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70cfb1ecf15f3e020800000000000000
+      internalID: 2370007345877744647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_85
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 671
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b742ab60c0a493740800000000000000
+      internalID: 5132214665878316155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_86
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 670
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0579e4acc4fdbf00800000000000000
+      internalID: 1134331840944502026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_87
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 671
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade679b07f835d830800000000000000
+      internalID: 4095242069865885402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_88
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 596
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c34ca270983e4f00800000000000000
+      internalID: 1102881151802688451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_89
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 593
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77d8ce2c29779f70800000000000000
+      internalID: 9193950394970593146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_90
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 593
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b40696923b567b0800000000000000
+      internalID: -5231578401678013663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_91
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 596
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b40496b203c2790800000000000000
+      internalID: -7553609511999616123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_92
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 597
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e2b8c3527074860800000000000000
+      internalID: 7513982359801900599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_93
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 597
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6604a5a7446bd7e90800000000000000
+      internalID: -7026259438401339290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_94
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 596
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7806f737dab5e390800000000000000
+      internalID: -7789614546947798917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_95
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 597
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e232b907456496a0800000000000000
+      internalID: -6443413811080580382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_96
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 594
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5400a41846f3ef410800000000000000
+      internalID: 1512716225741455429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_97
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 523
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bcc6a5afe7ce3e10800000000000000
+      internalID: 2179399101784181937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_98
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 523
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8618e48c72ecd08c0800000000000000
+      internalID: -4031339421167091352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_99
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 523
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46c23bd953ca8690800000000000000
+      internalID: -7599046630537247154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_100
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 524
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c745d173c6c6b50800000000000000
+      internalID: 6587759338907270147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_101
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 524
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc3a922f309fda20800000000000000
+      internalID: 3089346470237322424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_102
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 524
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b66167c0c23e340800000000000000
+      internalID: 4891802052286901107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_103
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 466
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27e56b8e34ea7540800000000000000
+      internalID: 5006564893053544239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_104
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 466
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cef4ca8fb06d9fb0800000000000000
+      internalID: -4639445665338556732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_105
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 467
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4ecc3b334e9aa50800000000000000
+      internalID: 6533003645188629734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_106
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 469
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9cb97a993dcca20800000000000000
+      internalID: 3084072501737409000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_107
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 469
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502885864499bc950800000000000000
+      internalID: 6470433808735306245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_108
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 469
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d875b80b4920e3d50800000000000000
+      internalID: 6718810531723696013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_109
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 415
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7387f1a564b91bc00800000000000000
+      internalID: 914682925794949175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_110
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 413
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfaff2e2304f49700800000000000000
+      internalID: 546329749315648253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_111
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 414
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0b0c74b0f813960800000000000000
+      internalID: 7579996926452478154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_112
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 415
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d869f9f8f81437c40800000000000000
+      internalID: 5508818854049977997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_113
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 415
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e1513e78433d630800000000000000
+      internalID: 3950559056369098329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_114
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 415
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc6f061f952f5200800000000000000
+      internalID: 170896676063505607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_115
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 340
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2d31fd4dc124790800000000000000
+      internalID: -7547438324918267181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_116
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 339
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2c66ba20f7bd220800000000000000
+      internalID: 2511740866631484154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_117
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 340
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294f4b8f44bd126c0800000000000000
+      internalID: -4169810690691500910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_118
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 342
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aabb92265c166ab0800000000000000
+      internalID: -5015289978757072217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_119
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 342
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b129ae0754fc4e60800000000000000
+      internalID: 7947996097147380147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_120
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 342
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f4a2d8e061909c0800000000000000
+      internalID: -3960610145541927060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_121
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 267
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8336c7151ecddd2a0800000000000000
+      internalID: -6710965009419312328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_122
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 267
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82150c1dcdee87e0800000000000000
+      internalID: -1761208939061112178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_123
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 267
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5b524372c7b6800800000000000000
+      internalID: 606715082631919052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_124
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 267
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81dd4cec8870a3c0800000000000000
+      internalID: -4350344693384621685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_125
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 267
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee410bfcdbfd7f10800000000000000
+      internalID: 2269246713787141860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_126
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 267
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84551e9c3abe94240800000000000000
+      internalID: 4776607968502306120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_127
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 267
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e579ef710677c7b0800000000000000
+      internalID: -5204061095590267423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_128
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 267
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d82a5429d7a4df0800000000000000
+      internalID: -195205566650217135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_129
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 267
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290fbe89abd828a10800000000000000
+      internalID: 1910245024527544466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_130
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 267
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8103d2b4f3919bd0800000000000000
+      internalID: -2625154428598812277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_131
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 267
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1dc8ec623d0cf020800000000000000
+      internalID: 2376789213571501340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_132
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 267
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7869ebd8af33b99c0800000000000000
+      internalID: -3919481899482966393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_133
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 267
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f19ebae90c6dbe60800000000000000
+      internalID: 7979652904619250164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_134
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 210
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2d67dbad827a380800000000000000
+      internalID: -8960148013683649859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_135
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 210
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bcdb69f98c775b80800000000000000
+      internalID: -8406113247426782025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_136
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 216
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8525623cceb9f4040800000000000000
+      internalID: 4634093982776185432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_137
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 216
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22508eaaab852b430800000000000000
+      internalID: 3797194994581243170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_138
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 210
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65175c0d43e7db4d0800000000000000
+      internalID: -3117196601764515498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_139
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 210
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d12a6b325121420800000000000000
+      internalID: 2599163178078313815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_140
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 210
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10ab02bbaa272260800000000000000
+      internalID: 7072668656723533854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_141
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 226
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c68e0e44a78f4ff0800000000000000
+      internalID: -49671931123824956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_142
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 223
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ae700f4363f35e0800000000000000
+      internalID: -1927762514498033063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_143
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 210
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d5d201cd6425f00800000000000000
+      internalID: 1104022769637350737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_144
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 217
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9b7a607f03b4b70800000000000000
+      internalID: 8884248527445146046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_145
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 210
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b6d75951fe7e790800000000000000
+      internalID: -7500763778380895395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_146
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 217
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28c66d708c9f66d0800000000000000
+      internalID: -2995003151504455635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_147
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 210
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c25314ebac5e6f0800000000000000
+      internalID: -655895252225938391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_148
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 210
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7cf3cb1fcbda1f0800000000000000
+      internalID: -1031960993166538762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_149
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 159
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d0e2fd1d60fdea0800000000000000
+      internalID: -5845946292841345776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_150
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 159
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e0bbac2a2d9bdc0800000000000000
+      internalID: -3622632828615062008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_151
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 159
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3658ceab374c4280800000000000000
+      internalID: -9057786428887902661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_152
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 159
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5831623ebaea6d10800000000000000
+      internalID: 2119764677241157725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_153
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 159
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab4545e6d0e08560800000000000000
+      internalID: 7314093008423832489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_154
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 159
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f31c33b40644ad0800000000000000
+      internalID: -2718942398917820572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_155
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 159
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cca169219cc0e120800000000000000
+      internalID: 2441175921871400128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_156
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 159
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd45c664a51d10290800000000000000
+      internalID: -7925823683536595747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_157
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 159
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e853bd10dcba00e50800000000000000
+      internalID: 6773602736553014670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_158
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 159
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b4a7298a6ffdf90800000000000000
+      internalID: -6926546498000106751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_159
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 159
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1a5ac126cb241d0800000000000000
+      internalID: -3367922441746275930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_160
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 159
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffe983b652f64480800000000000000
+      internalID: -8915171958140047364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_161
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 159
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a242b96007f2a380800000000000000
+      internalID: -8961328727368514909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_162
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 84
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61bb1f4d252f9af50800000000000000
+      internalID: 6893307142241106710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_163
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 84
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e57658f7cad8560800000000000000
+      internalID: 7317694633245892199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_164
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 89
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e389e235e79317b0800000000000000
+      internalID: -5254689329553767452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_165
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 89
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145c994567273e090800000000000000
+      internalID: -8006429859983538879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_166
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 82
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0baed1faf0403b680800000000000000
+      internalID: -8740637986387006800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_167
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 82
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107ef3dfa5cad95d0800000000000000
+      internalID: -3054095465491470591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_168
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 96
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95700379d24cc0e20800000000000000
+      internalID: 3318242725554292569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_169
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 95
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795121876fff48b50800000000000000
+      internalID: 6594677188418737559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_170
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 95
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c287fdc4d3b0db0800000000000000
+      internalID: -4824695175421350811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_171
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 82
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4bec6319a92a5b0800000000000000
+      internalID: -5358550658137017157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_172
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 90
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f5b22d2b52873e0800000000000000
+      internalID: -2055851779934167258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_173
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 82
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f41ce9b0d015bf0800000000000000
+      internalID: -337474153516806310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_174
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 90
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e18c264c2ebb8f60800000000000000
+      internalID: 8037727057337942501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_175
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 82
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b08ced8c17a2260800000000000000
+      internalID: 7073591272283835230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_176
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 82
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677fa5e3c4f427670800000000000000
+      internalID: 8534971432702769014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_177
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 82
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de819ac1c4a893b0800000000000000
+      internalID: -5505469392226251048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_178
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 30
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9f2792c097f14d0800000000000000
+      internalID: -3161675320248829535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_179
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 30
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3adf9d6e1d7842b80800000000000000
+      internalID: -8420456067685024349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_180
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 21
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0e926c997e3ee20800000000000000
+      internalID: 3378798793098649838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_181
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 17
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e6ba1f022c86dd0800000000000000
+      internalID: -2492528947000283590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_182
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 7
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536c45ac68547a340800000000000000
+      internalID: 4874941566874338869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-cyan_183
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62429ec583d357e0800000000000000
+      internalID: -1777844856231411094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4905 @@
+fileFormatVersion: 2
+guid: 45990b2edb5b19d4aa940b83678a74fd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5758499822294690984
+    second: maroon_pirate_0
+  - first:
+      213: 2157650946938594470
+    second: maroon_pirate_1
+  - first:
+      213: 4360038128316533817
+    second: maroon_pirate_2
+  - first:
+      213: -171825855176038941
+    second: maroon_pirate_3
+  - first:
+      213: 5238181231193513444
+    second: maroon_pirate_4
+  - first:
+      213: 1322167463350471303
+    second: maroon_pirate_5
+  - first:
+      213: -3707802082733041703
+    second: maroon_pirate_6
+  - first:
+      213: 8981108910575241094
+    second: maroon_pirate_7
+  - first:
+      213: -1369216105462045830
+    second: maroon_pirate_8
+  - first:
+      213: 6433611962574023471
+    second: maroon_pirate_9
+  - first:
+      213: -4822618933181219346
+    second: maroon_pirate_10
+  - first:
+      213: 92661490791085294
+    second: maroon_pirate_11
+  - first:
+      213: 5769199692106682530
+    second: maroon_pirate_12
+  - first:
+      213: 2186437903053328862
+    second: maroon_pirate_13
+  - first:
+      213: -6710254131545880669
+    second: maroon_pirate_14
+  - first:
+      213: 6597148810817705798
+    second: maroon_pirate_15
+  - first:
+      213: 7143424900422980698
+    second: maroon_pirate_16
+  - first:
+      213: 7584644582192652990
+    second: maroon_pirate_17
+  - first:
+      213: 2390652611226335051
+    second: maroon_pirate_18
+  - first:
+      213: 4580348038620710999
+    second: maroon_pirate_19
+  - first:
+      213: -8375536660305985026
+    second: maroon_pirate_20
+  - first:
+      213: -6830559216578695567
+    second: maroon_pirate_21
+  - first:
+      213: -3979043719381443342
+    second: maroon_pirate_22
+  - first:
+      213: -4229689782120413306
+    second: maroon_pirate_23
+  - first:
+      213: -6039845084109987464
+    second: maroon_pirate_24
+  - first:
+      213: -8148109234249366522
+    second: maroon_pirate_25
+  - first:
+      213: 2995754965680812654
+    second: maroon_pirate_26
+  - first:
+      213: -4963200531191203511
+    second: maroon_pirate_27
+  - first:
+      213: -2265439272931092709
+    second: maroon_pirate_28
+  - first:
+      213: -8535102094640862834
+    second: maroon_pirate_29
+  - first:
+      213: 4329486414077510583
+    second: maroon_pirate_30
+  - first:
+      213: 8744858867581002097
+    second: maroon_pirate_31
+  - first:
+      213: -271328283598820495
+    second: maroon_pirate_32
+  - first:
+      213: 5212070892610409039
+    second: maroon_pirate_33
+  - first:
+      213: -5608999065698242480
+    second: maroon_pirate_34
+  - first:
+      213: -4062431056901187181
+    second: maroon_pirate_35
+  - first:
+      213: -4533063225276931014
+    second: maroon_pirate_36
+  - first:
+      213: 3600416227447137081
+    second: maroon_pirate_37
+  - first:
+      213: -5821526172856102549
+    second: maroon_pirate_38
+  - first:
+      213: -5960071286305599575
+    second: maroon_pirate_39
+  - first:
+      213: -3444487225561297421
+    second: maroon_pirate_40
+  - first:
+      213: -92572482116968109
+    second: maroon_pirate_41
+  - first:
+      213: -6638866601638251275
+    second: maroon_pirate_42
+  - first:
+      213: 7884286359013985750
+    second: maroon_pirate_43
+  - first:
+      213: -7099637717416441253
+    second: maroon_pirate_44
+  - first:
+      213: 7120821430677328800
+    second: maroon_pirate_45
+  - first:
+      213: 927605369354582767
+    second: maroon_pirate_46
+  - first:
+      213: -6713247654889333229
+    second: maroon_pirate_47
+  - first:
+      213: 460491406404787038
+    second: maroon_pirate_48
+  - first:
+      213: 1080556856758265371
+    second: maroon_pirate_49
+  - first:
+      213: -3155725676393222305
+    second: maroon_pirate_50
+  - first:
+      213: -3263774320545255206
+    second: maroon_pirate_51
+  - first:
+      213: 5261611270122971466
+    second: maroon_pirate_52
+  - first:
+      213: 2653262791443590043
+    second: maroon_pirate_53
+  - first:
+      213: 1461543831429197969
+    second: maroon_pirate_54
+  - first:
+      213: 3975442963516784269
+    second: maroon_pirate_55
+  - first:
+      213: 6416971538631490920
+    second: maroon_pirate_56
+  - first:
+      213: -5547392141727966950
+    second: maroon_pirate_57
+  - first:
+      213: 7223611320114603023
+    second: maroon_pirate_58
+  - first:
+      213: 5963458594588671362
+    second: maroon_pirate_59
+  - first:
+      213: -6137914230724290683
+    second: maroon_pirate_60
+  - first:
+      213: -8853706555791061503
+    second: maroon_pirate_61
+  - first:
+      213: -5878727746506344888
+    second: maroon_pirate_62
+  - first:
+      213: 2669087449340261780
+    second: maroon_pirate_63
+  - first:
+      213: -9335910640703274
+    second: maroon_pirate_64
+  - first:
+      213: 4390788997015132018
+    second: maroon_pirate_65
+  - first:
+      213: -1099586448069884904
+    second: maroon_pirate_66
+  - first:
+      213: 2284084681919746972
+    second: maroon_pirate_67
+  - first:
+      213: -5959392564458444274
+    second: maroon_pirate_68
+  - first:
+      213: -7827889315858834333
+    second: maroon_pirate_69
+  - first:
+      213: 5768737951025041550
+    second: maroon_pirate_70
+  - first:
+      213: 8626845056215210688
+    second: maroon_pirate_71
+  - first:
+      213: -3741501934836022551
+    second: maroon_pirate_72
+  - first:
+      213: -5698091922353741548
+    second: maroon_pirate_73
+  - first:
+      213: 6569334060788794020
+    second: maroon_pirate_74
+  - first:
+      213: -4598063215134407706
+    second: maroon_pirate_75
+  - first:
+      213: -644527509439646806
+    second: maroon_pirate_76
+  - first:
+      213: -5785734471428599891
+    second: maroon_pirate_77
+  - first:
+      213: 7924734211627348695
+    second: maroon_pirate_78
+  - first:
+      213: -8714652745212758386
+    second: maroon_pirate_79
+  - first:
+      213: 2545814062277937243
+    second: maroon_pirate_80
+  - first:
+      213: 1074446379646293439
+    second: maroon_pirate_81
+  - first:
+      213: -4943627251975553454
+    second: maroon_pirate_82
+  - first:
+      213: 850990729604202423
+    second: maroon_pirate_83
+  - first:
+      213: -5292661272159017030
+    second: maroon_pirate_84
+  - first:
+      213: 5599239941654952078
+    second: maroon_pirate_85
+  - first:
+      213: -5635340586123493438
+    second: maroon_pirate_86
+  - first:
+      213: 222325119279766056
+    second: maroon_pirate_87
+  - first:
+      213: 6885364943670605956
+    second: maroon_pirate_88
+  - first:
+      213: 2909022371700130556
+    second: maroon_pirate_89
+  - first:
+      213: -8786967191383634049
+    second: maroon_pirate_90
+  - first:
+      213: 8010541866983575995
+    second: maroon_pirate_91
+  - first:
+      213: 2412446170340482036
+    second: maroon_pirate_92
+  - first:
+      213: 5607261220210927429
+    second: maroon_pirate_93
+  - first:
+      213: 8820579311347389391
+    second: maroon_pirate_94
+  - first:
+      213: 2471379427825056452
+    second: maroon_pirate_95
+  - first:
+      213: -5053854741051144905
+    second: maroon_pirate_96
+  - first:
+      213: -3130386602535281034
+    second: maroon_pirate_97
+  - first:
+      213: -3244028188516212537
+    second: maroon_pirate_98
+  - first:
+      213: -7097775857407889845
+    second: maroon_pirate_99
+  - first:
+      213: 1091095914908450481
+    second: maroon_pirate_100
+  - first:
+      213: -7494869079041374307
+    second: maroon_pirate_101
+  - first:
+      213: -55879094737379490
+    second: maroon_pirate_102
+  - first:
+      213: -6973214018927900622
+    second: maroon_pirate_103
+  - first:
+      213: 4099779543264803188
+    second: maroon_pirate_104
+  - first:
+      213: -6530131161276196752
+    second: maroon_pirate_105
+  - first:
+      213: 8730116937541511166
+    second: maroon_pirate_106
+  - first:
+      213: 8663433287141844419
+    second: maroon_pirate_107
+  - first:
+      213: 2514235614984479202
+    second: maroon_pirate_108
+  - first:
+      213: -5198390378369611643
+    second: maroon_pirate_109
+  - first:
+      213: -1294149880892690188
+    second: maroon_pirate_110
+  - first:
+      213: -3074072011630756250
+    second: maroon_pirate_111
+  - first:
+      213: 821328264035908745
+    second: maroon_pirate_112
+  - first:
+      213: 6729028678306117219
+    second: maroon_pirate_113
+  - first:
+      213: -9091445860246479706
+    second: maroon_pirate_114
+  - first:
+      213: 6984250385111540830
+    second: maroon_pirate_115
+  - first:
+      213: 5696388766509395733
+    second: maroon_pirate_116
+  - first:
+      213: -3452251217949240725
+    second: maroon_pirate_117
+  - first:
+      213: 6217217136339042371
+    second: maroon_pirate_118
+  - first:
+      213: 5460603147912196832
+    second: maroon_pirate_119
+  - first:
+      213: 3534916751908121138
+    second: maroon_pirate_120
+  - first:
+      213: -245119864601208306
+    second: maroon_pirate_121
+  - first:
+      213: 82066509303883189
+    second: maroon_pirate_122
+  - first:
+      213: -3724560634092401997
+    second: maroon_pirate_123
+  - first:
+      213: 4507955627907826148
+    second: maroon_pirate_124
+  - first:
+      213: -3195950841316220822
+    second: maroon_pirate_125
+  - first:
+      213: 6925599633345184434
+    second: maroon_pirate_126
+  - first:
+      213: 1189305892693588733
+    second: maroon_pirate_127
+  - first:
+      213: -5187173013729380695
+    second: maroon_pirate_128
+  - first:
+      213: -4613778337952926759
+    second: maroon_pirate_129
+  - first:
+      213: 5813570940971801345
+    second: maroon_pirate_130
+  - first:
+      213: 7630440551979796960
+    second: maroon_pirate_131
+  - first:
+      213: -2887907455404068810
+    second: maroon_pirate_132
+  - first:
+      213: -169878954246127379
+    second: maroon_pirate_133
+  - first:
+      213: -1554404990346101422
+    second: maroon_pirate_134
+  - first:
+      213: 2831775510960579335
+    second: maroon_pirate_135
+  - first:
+      213: -8391021411764609591
+    second: maroon_pirate_136
+  - first:
+      213: 8402144458940225502
+    second: maroon_pirate_137
+  - first:
+      213: -6225143261153960729
+    second: maroon_pirate_138
+  - first:
+      213: -8436384812583959176
+    second: maroon_pirate_139
+  - first:
+      213: -2656409196210000072
+    second: maroon_pirate_140
+  - first:
+      213: -7968001018577320585
+    second: maroon_pirate_141
+  - first:
+      213: 2661195450921279467
+    second: maroon_pirate_142
+  - first:
+      213: -4004366258702089985
+    second: maroon_pirate_143
+  - first:
+      213: 7252742385015663427
+    second: maroon_pirate_144
+  - first:
+      213: 329083664319836954
+    second: maroon_pirate_145
+  - first:
+      213: 2101948160845470477
+    second: maroon_pirate_146
+  - first:
+      213: -5151365705767574064
+    second: maroon_pirate_147
+  - first:
+      213: -172909323887415106
+    second: maroon_pirate_148
+  - first:
+      213: -92518007845965956
+    second: maroon_pirate_149
+  - first:
+      213: -8742058426623014861
+    second: maroon_pirate_150
+  - first:
+      213: -8870906007347853255
+    second: maroon_pirate_151
+  - first:
+      213: -2729009422260796810
+    second: maroon_pirate_152
+  - first:
+      213: -2280981472199274812
+    second: maroon_pirate_153
+  - first:
+      213: -4390417384517734835
+    second: maroon_pirate_154
+  - first:
+      213: 8004699593850950004
+    second: maroon_pirate_155
+  - first:
+      213: -5220874097227239316
+    second: maroon_pirate_156
+  - first:
+      213: -882302190726502849
+    second: maroon_pirate_157
+  - first:
+      213: -6118243030451955565
+    second: maroon_pirate_158
+  - first:
+      213: -660087908038037715
+    second: maroon_pirate_159
+  - first:
+      213: 1940525814585149545
+    second: maroon_pirate_160
+  - first:
+      213: 7414577725210031649
+    second: maroon_pirate_161
+  - first:
+      213: 1266888937186472112
+    second: maroon_pirate_162
+  - first:
+      213: -6989511295686875789
+    second: maroon_pirate_163
+  - first:
+      213: -2677753551896262914
+    second: maroon_pirate_164
+  - first:
+      213: -4764677362650073211
+    second: maroon_pirate_165
+  - first:
+      213: -8131655233779798662
+    second: maroon_pirate_166
+  - first:
+      213: -379437314551817836
+    second: maroon_pirate_167
+  - first:
+      213: 8521086700603137840
+    second: maroon_pirate_168
+  - first:
+      213: -5921940063064784669
+    second: maroon_pirate_169
+  - first:
+      213: -6173439245402849403
+    second: maroon_pirate_170
+  - first:
+      213: 8103719581242285407
+    second: maroon_pirate_171
+  - first:
+      213: 8754363502949379602
+    second: maroon_pirate_172
+  - first:
+      213: 7514060349931395302
+    second: maroon_pirate_173
+  - first:
+      213: -2953663876512465016
+    second: maroon_pirate_174
+  - first:
+      213: 1693894857845031131
+    second: maroon_pirate_175
+  - first:
+      213: -921158420291453103
+    second: maroon_pirate_176
+  - first:
+      213: 4120495214626818945
+    second: maroon_pirate_177
+  - first:
+      213: -7478436329014121844
+    second: maroon_pirate_178
+  - first:
+      213: -5173649277028384194
+    second: maroon_pirate_179
+  - first:
+      213: 6951631211467986436
+    second: maroon_pirate_180
+  - first:
+      213: -4371351244554107885
+    second: maroon_pirate_181
+  - first:
+      213: 5129101178447612391
+    second: maroon_pirate_182
+  - first:
+      213: 443928396253137796
+    second: maroon_pirate_183
+  - first:
+      213: 3497107434485843505
+    second: maroon_pirate_184
+  - first:
+      213: -6031919816568696051
+    second: maroon_pirate_185
+  - first:
+      213: 1267847236465612696
+    second: maroon_pirate_186
+  - first:
+      213: -9102313214990822034
+    second: maroon_pirate_187
+  - first:
+      213: 7281727989441621155
+    second: maroon_pirate_188
+  - first:
+      213: -5343007085536503836
+    second: maroon_pirate_189
+  - first:
+      213: -3594185994304026260
+    second: maroon_pirate_190
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: maroon_pirate_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1295
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85399f4ebe2b510b0800000000000000
+      internalID: -5758499822294690984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1295
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a46f81ca1481fd10800000000000000
+      internalID: 2157650946938594470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1295
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c4775c397f18c30800000000000000
+      internalID: 4360038128316533817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1295
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5210b8b4d8d9df0800000000000000
+      internalID: -171825855176038941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1295
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed5862a312c1b840800000000000000
+      internalID: 5238181231193513444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_5
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1295
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a85928d48495210800000000000000
+      internalID: 1322167463350471303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_6
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1295
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d75e3986ad3b8cc0800000000000000
+      internalID: -3707802082733041703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_7
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1232
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687ceef58fe43ac70800000000000000
+      internalID: 8981108910575241094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_8
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1232
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73e03dd4319ffce0800000000000000
+      internalID: -1369216105462045830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_9
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1233
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2bade34ef7c84950800000000000000
+      internalID: 6433611962574023471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_10
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1232
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eedf8a0b1ad921db0800000000000000
+      internalID: -4822618933181219346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_11
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1232
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4f5fa8223394100800000000000000
+      internalID: 92661490791085294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_12
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1232
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0df4ead80501050800000000000000
+      internalID: 5769199692106682530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_13
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1232
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed191f640b9c75e10800000000000000
+      internalID: 2186437903053328862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_14
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1168
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a74c987b6360e2a0800000000000000
+      internalID: -6710254131545880669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_15
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1168
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6471e27e3e7cd8b50800000000000000
+      internalID: 6597148810817705798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_16
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1173
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a545465791b822360800000000000000
+      internalID: 7143424900422980698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_17
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1168
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb22f25ff02124960800000000000000
+      internalID: 7584644582192652990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_18
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1173
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47718932ed4d2120800000000000000
+      internalID: 2390652611226335051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_19
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1168
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75805adf54aa09f30800000000000000
+      internalID: 4580348038620710999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_20
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1168
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1433f68cd14cb80800000000000000
+      internalID: -8375536660305985026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_21
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1168
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e6e86159af431a0800000000000000
+      internalID: -6830559216578695567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_22
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1168
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc1580b1d897c8c0800000000000000
+      internalID: -3979043719381443342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_23
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1105
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6870d929d8f1d45c0800000000000000
+      internalID: -4229689782120413306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_24
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1105
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8712c3f75e82e2ca0800000000000000
+      internalID: -6039845084109987464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_25
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1105
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6048c7d62d91cee80800000000000000
+      internalID: -8148109234249366522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_26
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1105
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e627483e44f039920800000000000000
+      internalID: 2995754965680812654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_27
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1105
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949715db96b2f1bb0800000000000000
+      internalID: -4963200531191203511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_28
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1105
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1719bcebfa8f80e0800000000000000
+      internalID: -2265439272931092709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_29
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1105
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e892d37add93d8980800000000000000
+      internalID: -8535102094640862834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_30
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1038
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b348fa74fc651c30800000000000000
+      internalID: 4329486414077510583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_31
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1038
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171271dcecafb5970800000000000000
+      internalID: 8744858867581002097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_32
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1038
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b63961d5c0c3cf0800000000000000
+      internalID: -271328283598820495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_33
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1039
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f425232bcdef45840800000000000000
+      internalID: 5212070892610409039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_34
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1038
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050fe874115d822b0800000000000000
+      internalID: -5608999065698242480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_35
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1038
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399d3e83a785f97c0800000000000000
+      internalID: -4062431056901187181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_36
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1039
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a346bf883035711c0800000000000000
+      internalID: -4533063225276931014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_37
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1039
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933e988ab7f37f130800000000000000
+      internalID: 3600416227447137081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_38
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 976
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61d5402ac8c53fa0800000000000000
+      internalID: -5821526172856102549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_39
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 976
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9afcfbf2eb2994da0800000000000000
+      internalID: -5960071286305599575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_40
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 976
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd4c073e19b230d0800000000000000
+      internalID: -3444487225561297421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_41
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 976
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351217761dd17bef0800000000000000
+      internalID: -92572482116968109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_42
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 977
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4b52200020ed3a0800000000000000
+      internalID: -6638866601638251275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_43
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 977
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd8c78bbac9a6d60800000000000000
+      internalID: 7884286359013985750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_44
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 977
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a8d6b8c15097d90800000000000000
+      internalID: -7099637717416441253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_45
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 983
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3d28c0d5d32d260800000000000000
+      internalID: 7120821430677328800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_46
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 976
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feaff143b248fdc00800000000000000
+      internalID: 927605369354582767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_47
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 912
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ed81183d0c5d2a0800000000000000
+      internalID: -6713247654889333229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_48
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 912
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b90ec8e7ef36600800000000000000
+      internalID: 460491406404787038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_49
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 917
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1660b67cb8eefe00800000000000000
+      internalID: 1080556856758265371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_50
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 912
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5fa002973c9434d0800000000000000
+      internalID: -3155725676393222305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_51
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 920
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0bbd43c8eb4b2d0800000000000000
+      internalID: -3263774320545255206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_52
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 913
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a412fdda29ff40940800000000000000
+      internalID: 5261611270122971466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_53
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 912
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ba1c3837842d420800000000000000
+      internalID: 2653262791443590043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_54
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 920
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19030000f52784410800000000000000
+      internalID: 1461543831429197969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_55
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 912
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e7e31005c9b2730800000000000000
+      internalID: 3975442963516784269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_56
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 912
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86dfbe5ad99ad0950800000000000000
+      internalID: 6416971538631490920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_57
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 920
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19d28a0d34b303b0800000000000000
+      internalID: -5547392141727966950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_58
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 919
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04ebea293c6f3460800000000000000
+      internalID: 7223611320114603023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_59
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 913
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d353bfef572c250800000000000000
+      internalID: 5963458594588671362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_60
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 849
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5871dd7f68fb1daa0800000000000000
+      internalID: -6137914230724290683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_61
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 849
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ec684ebc0512580800000000000000
+      internalID: -8853706555791061503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_62
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 850
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846b14ae2409a6ea0800000000000000
+      internalID: -5878727746506344888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_63
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 850
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495316cc4e08a0520800000000000000
+      internalID: 2669087449340261780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_64
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 850
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d82b9ae905dedff0800000000000000
+      internalID: -9335910640703274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_65
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 850
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277d7c254573fec30800000000000000
+      internalID: 4390788997015132018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_66
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 849
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81406fa83fb7db0f0800000000000000
+      internalID: -1099586448069884904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_67
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 849
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93dcb6aae2b2bf10800000000000000
+      internalID: 2284084681919746972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_68
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 783
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0aa95e690cfb4da0800000000000000
+      internalID: -5959392564458444274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_69
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 783
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c98232420cd5390800000000000000
+      internalID: -7827889315858834333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_70
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 782
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8099253a9cae0050800000000000000
+      internalID: 5768737951025041550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_71
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 783
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cada042fd5b8b770800000000000000
+      internalID: 8626845056215210688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_72
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 783
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e289a740d3831cc0800000000000000
+      internalID: -3741501934836022551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_73
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 783
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411259e169f4ce0b0800000000000000
+      internalID: -5698091922353741548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_74
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 782
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2c030c586fa2b50800000000000000
+      internalID: 6569334060788794020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_75
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 783
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e38f1f0ed56030c0800000000000000
+      internalID: -4598063215134407706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_76
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 783
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3f1ef15ad2e07f0800000000000000
+      internalID: -644527509439646806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_77
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 720
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf04c10721f4bfa0800000000000000
+      internalID: -5785734471428599891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_78
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 720
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2fe6747cf4afd60800000000000000
+      internalID: 7924734211627348695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_79
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 720
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86f5bc10855f0780800000000000000
+      internalID: -8714652745212758386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_80
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 720
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58454eb66c845320800000000000000
+      internalID: 2545814062277937243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_81
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 720
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb595052a4339ee00800000000000000
+      internalID: 1074446379646293439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_82
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 720
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e7e00f435b46bb0800000000000000
+      internalID: -4943627251975553454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_83
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 720
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf75315f835fcb00800000000000000
+      internalID: 850990729604202423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_84
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 721
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7ae7c5d90bc86b0800000000000000
+      internalID: -5292661272159017030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_85
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 721
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88b5869f0f74bd40800000000000000
+      internalID: 5599239941654952078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_86
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 656
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf74cf189f3bc1b0800000000000000
+      internalID: -5635340586123493438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_87
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 656
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a115f948bd51300800000000000000
+      internalID: 222325119279766056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_88
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 656
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488f960afeabd8f50800000000000000
+      internalID: 6885364943670605956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_89
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 655
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2c9d43f6cee5820800000000000000
+      internalID: 2909022371700130556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_90
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 656
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f019015eb6e0680800000000000000
+      internalID: -8786967191383634049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_91
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 656
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb153f7e2692b2f60800000000000000
+      internalID: 8010541866983575995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_92
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 656
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb55ee920bba7120800000000000000
+      internalID: 2412446170340482036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_93
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 655
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547ee790f5ef0dd40800000000000000
+      internalID: 5607261220210927429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_94
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 656
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc35506762ef86a70800000000000000
+      internalID: 8820579311347389391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_95
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 592
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca78b4ee7a1c4220800000000000000
+      internalID: 2471379427825056452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_96
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 592
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7350935b3e91dd9b0800000000000000
+      internalID: -5053854741051144905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_97
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 591
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e1e3278f1ae84d0800000000000000
+      internalID: -3130386602535281034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_98
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 592
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c02326dc85eaf2d0800000000000000
+      internalID: -3244028188516212537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_99
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 592
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4eebdb9672af7d90800000000000000
+      internalID: -7097775857407889845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_100
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 592
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be7ff724f9542f00800000000000000
+      internalID: 1091095914908450481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_101
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 592
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d970ea93840ecf790800000000000000
+      internalID: -7494869079041374307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_102
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 593
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5fdec7624a793ff0800000000000000
+      internalID: -55879094737379490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_103
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 593
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2384703abca2a3f90800000000000000
+      internalID: -6973214018927900622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_104
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 527
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47936b5e5c755e830800000000000000
+      internalID: 4099779543264803188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_105
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 526
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0785c639e405065a0800000000000000
+      internalID: -6530131161276196752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_106
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 526
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef768cdb91b972970800000000000000
+      internalID: 8730116937541511166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_107
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 528
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5626f7ca2ba3870800000000000000
+      internalID: 8663433287141844419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_108
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 528
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e129c888fb54e220800000000000000
+      internalID: 2514235614984479202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_109
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 528
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588887d3e7b9bd7b0800000000000000
+      internalID: -5198390378369611643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_110
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 464
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0f64f3a814a0ee0800000000000000
+      internalID: -1294149880892690188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_111
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 462
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e37c4eac3b655d0800000000000000
+      internalID: -3074072011630756250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_112
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 463
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c39dd54b1f56b00800000000000000
+      internalID: 821328264035908745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_113
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 464
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3663ad55eef426d50800000000000000
+      internalID: 6729028678306117219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_114
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 464
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac105d9822b4d180800000000000000
+      internalID: -9091445860246479706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_115
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 464
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5465fa98ba0de060800000000000000
+      internalID: 6984250385111540830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_116
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 400
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f61520763ad0f40800000000000000
+      internalID: 5696388766509395733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_117
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 398
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62d9bedec32710d0800000000000000
+      internalID: -3452251217949240725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_118
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 399
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340c5f69b0ef74650800000000000000
+      internalID: 6217217136339042371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_119
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 400
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2bfaaa1a5f7cb40800000000000000
+      internalID: 5460603147912196832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_120
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 400
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23aaf0c9e0c8e0130800000000000000
+      internalID: 3534916751908121138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_121
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 400
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a9d0728c8299cf0800000000000000
+      internalID: -245119864601208306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_122
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 336
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5a30f2e0f832100800000000000000
+      internalID: 82066509303883189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_123
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 334
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bac48c36d3bf4cc0800000000000000
+      internalID: -3724560634092401997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_124
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 335
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e14ba862c97f8e30800000000000000
+      internalID: 4507955627907826148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_125
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 336
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a606cb784a3b5a3d0800000000000000
+      internalID: -3195950841316220822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_126
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 336
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b28d125c2cac1060800000000000000
+      internalID: 6925599633345184434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_127
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 336
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfab74f7863418010800000000000000
+      internalID: 1189305892693588733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_128
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 271
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6fa2870a57308b0800000000000000
+      internalID: -5187173013729380695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_129
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 271
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d37ce5eb0198ffb0800000000000000
+      internalID: -4613778337952926759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_130
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 271
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b582d18f3fda050800000000000000
+      internalID: 5813570940971801345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_131
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 270
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9cd741145c4e960800000000000000
+      internalID: 7630440551979796960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_132
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 270
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630307858771ce7d0800000000000000
+      internalID: -2887907455404068810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_133
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 270
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0485dbdf774adf0800000000000000
+      internalID: -169878954246127379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_134
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 270
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d735995e4ad6ae0800000000000000
+      internalID: -1554404990346101422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_135
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 270
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703a476e2dc7c4720800000000000000
+      internalID: 2831775510960579335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_136
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 270
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cdd219cb7a1d8b80800000000000000
+      internalID: -8391021411764609591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_137
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 270
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed716a27ed96a9470800000000000000
+      internalID: 8402144458940225502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_138
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 270
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec500baf29db99a0800000000000000
+      internalID: -6225143261153960729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_139
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 270
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875ce69f5b0fbea80800000000000000
+      internalID: -8436384812583959176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_140
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 270
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f62d909e9822bd0800000000000000
+      internalID: -2656409196210000072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_141
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 208
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7758fb53a49fb6190800000000000000
+      internalID: -7968001018577320585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_142
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 208
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef5c0ab9277ee420800000000000000
+      internalID: 2661195450921279467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_143
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 208
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0808f8a12ad68c0800000000000000
+      internalID: -4004366258702089985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_144
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 206
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b2742c5cae6a460800000000000000
+      internalID: 7252742385015663427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_145
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 208
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13fa2169d3219400800000000000000
+      internalID: 329083664319836954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_146
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 208
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0bda7737be9b2d10800000000000000
+      internalID: 2101948160845470477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_147
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 208
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d528970f2ca288b0800000000000000
+      internalID: -5151365705767574064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_148
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 208
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb07653d2e3b99df0800000000000000
+      internalID: -172909323887415106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_149
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 208
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fa30fac5f47bef0800000000000000
+      internalID: -92518007845965956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_150
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 208
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338cc6bad28fda680800000000000000
+      internalID: -8742058426623014861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_151
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 208
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93807248cf534e480800000000000000
+      internalID: -8870906007347853255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_152
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 208
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672837da36c902ad0800000000000000
+      internalID: -2729009422260796810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_153
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 208
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce805aaf635850e0800000000000000
+      internalID: -2280981472199274812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_154
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 144
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4eee1476aa1213c0800000000000000
+      internalID: -4390417384517734835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_155
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 144
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4711331bed7661f60800000000000000
+      internalID: 8004699593850950004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_156
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 144
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c607bb18baabb87b0800000000000000
+      internalID: -5220874097227239316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_157
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 152
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36a23905de61c3f0800000000000000
+      internalID: -882302190726502849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_158
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 143
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398d6603162a71ba0800000000000000
+      internalID: -6118243030451955565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_159
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 143
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2facd08b85e6d6f0800000000000000
+      internalID: -660087908038037715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_160
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 143
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968c2df62f12eea10800000000000000
+      internalID: 1940525814585149545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_161
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 143
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126faae282fd5e660800000000000000
+      internalID: 7414577725210031649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_162
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 143
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b03fdea6c4e49110800000000000000
+      internalID: 1266888937186472112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_163
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 143
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375e0033284400f90800000000000000
+      internalID: -6989511295686875789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_164
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 143
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6ce27f455b6dad0800000000000000
+      internalID: -2677753551896262914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_165
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 143
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587b5e9de2770edb0800000000000000
+      internalID: -4764677362650073211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_166
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 143
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7deb92f5ae862f80800000000000000
+      internalID: -8131655233779798662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_167
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 143
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4995c93d5c7fbbaf0800000000000000
+      internalID: -379437314551817836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_168
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 143
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f51c1253bf04670800000000000000
+      internalID: 8521086700603137840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_169
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 143
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e08edf63ea01dda0800000000000000
+      internalID: -5921940063064784669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_170
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 143
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58fbe4fe6b9835aa0800000000000000
+      internalID: -6173439245402849403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_171
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 143
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5dd2571602367070800000000000000
+      internalID: 8103719581242285407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_172
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 143
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e21fb293fbd7970800000000000000
+      internalID: 8754363502949379602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_173
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 80
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8128ab31e474860800000000000000
+      internalID: 7514060349931395302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_174
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 80
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f329e7a5a7207d0800000000000000
+      internalID: -2953663876512465016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_175
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 80
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0c6b8066ce18710800000000000000
+      internalID: 1693894857845031131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_176
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 78
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ffaa81c436733f0800000000000000
+      internalID: -921158420291453103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_177
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 80
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b478ef090fe2930800000000000000
+      internalID: 4120495214626818945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_178
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 80
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8aacbdf7c1473890800000000000000
+      internalID: -7478436329014121844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_179
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 80
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32444ac4618338b0800000000000000
+      internalID: -5173649277028384194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_180
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 80
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406511961c7297060800000000000000
+      internalID: 6951631211467986436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_181
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 80
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31404e71437d553c0800000000000000
+      internalID: -4371351244554107885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_182
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 80
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9486eb85a3e2740800000000000000
+      internalID: 5129101178447612391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_183
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 80
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b806c3686292600800000000000000
+      internalID: 443928396253137796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_184
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 80
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13608e5eea8388030800000000000000
+      internalID: 3497107434485843505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_185
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 80
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0398c3a2e05a4ca0800000000000000
+      internalID: -6031919816568696051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_186
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 15
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8975efe185c489110800000000000000
+      internalID: 1267847236465612696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_187
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 15
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65d02a6b561ea180800000000000000
+      internalID: -9102313214990822034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_188
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 9
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3acefa1b605ed0560800000000000000
+      internalID: 7281727989441621155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_189
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 8
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7933a3d53d9d5b0800000000000000
+      internalID: -5343007085536503836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_pirate_190
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 18
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6903d881e2ee1ec0800000000000000
+      internalID: -3594185994304026260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

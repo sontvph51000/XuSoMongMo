@@ -1,0 +1,4805 @@
+fileFormatVersion: 2
+guid: ddea6135d1e7e00449fbe406a025300f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6085396108396273980
+    second: jacket_female_0
+  - first:
+      213: 2303301444393141321
+    second: jacket_female_1
+  - first:
+      213: -4477800574979594895
+    second: jacket_female_2
+  - first:
+      213: 4958872440121621789
+    second: jacket_female_3
+  - first:
+      213: -6217332039469187026
+    second: jacket_female_4
+  - first:
+      213: 2990558628639641848
+    second: jacket_female_5
+  - first:
+      213: -7771494454653425072
+    second: jacket_female_6
+  - first:
+      213: 6242092479856439290
+    second: jacket_female_7
+  - first:
+      213: -3076885442653897515
+    second: jacket_female_8
+  - first:
+      213: 7107396673807675345
+    second: jacket_female_9
+  - first:
+      213: 5098368521865747969
+    second: jacket_female_10
+  - first:
+      213: -642516131046855504
+    second: jacket_female_11
+  - first:
+      213: 111752829760590930
+    second: jacket_female_12
+  - first:
+      213: -4147305485828979925
+    second: jacket_female_13
+  - first:
+      213: 1025253845802002514
+    second: jacket_female_14
+  - first:
+      213: -7651359652042898561
+    second: jacket_female_15
+  - first:
+      213: -3832979627319587503
+    second: jacket_female_16
+  - first:
+      213: 6340967312922403086
+    second: jacket_female_17
+  - first:
+      213: 8525966883668050755
+    second: jacket_female_18
+  - first:
+      213: 3549964525884244562
+    second: jacket_female_19
+  - first:
+      213: 2507326768327552647
+    second: jacket_female_20
+  - first:
+      213: 1387503376736877863
+    second: jacket_female_21
+  - first:
+      213: -9199897944250824955
+    second: jacket_female_22
+  - first:
+      213: 5092448126447983083
+    second: jacket_female_23
+  - first:
+      213: -7927718583922148891
+    second: jacket_female_24
+  - first:
+      213: 6765928844493485795
+    second: jacket_female_25
+  - first:
+      213: -7989892758891130751
+    second: jacket_female_26
+  - first:
+      213: -6284990976165604466
+    second: jacket_female_27
+  - first:
+      213: -2876320991829424745
+    second: jacket_female_28
+  - first:
+      213: 5186900597997532693
+    second: jacket_female_29
+  - first:
+      213: -7875232309825432035
+    second: jacket_female_30
+  - first:
+      213: 1060092087271797557
+    second: jacket_female_31
+  - first:
+      213: 2648528923288942522
+    second: jacket_female_32
+  - first:
+      213: -51537849799234094
+    second: jacket_female_33
+  - first:
+      213: 7320716178438431146
+    second: jacket_female_34
+  - first:
+      213: -5720799014914951643
+    second: jacket_female_35
+  - first:
+      213: -6242647748398270221
+    second: jacket_female_36
+  - first:
+      213: 7015413457559245387
+    second: jacket_female_37
+  - first:
+      213: -2843864867548306367
+    second: jacket_female_38
+  - first:
+      213: -4406980198595180449
+    second: jacket_female_39
+  - first:
+      213: 6933465874742087709
+    second: jacket_female_40
+  - first:
+      213: -5296548247747509899
+    second: jacket_female_41
+  - first:
+      213: 4457205955388474356
+    second: jacket_female_42
+  - first:
+      213: -3866721126186808450
+    second: jacket_female_43
+  - first:
+      213: -8626231833654312400
+    second: jacket_female_44
+  - first:
+      213: -6768144019531278120
+    second: jacket_female_45
+  - first:
+      213: 6841543190592997704
+    second: jacket_female_46
+  - first:
+      213: -507004830159042079
+    second: jacket_female_47
+  - first:
+      213: -511279042847501836
+    second: jacket_female_48
+  - first:
+      213: 1841902095411670934
+    second: jacket_female_49
+  - first:
+      213: 792149766839363385
+    second: jacket_female_50
+  - first:
+      213: 6669950729182415778
+    second: jacket_female_51
+  - first:
+      213: 8750918852684927168
+    second: jacket_female_52
+  - first:
+      213: 6899891074013608175
+    second: jacket_female_53
+  - first:
+      213: 5359991143104880584
+    second: jacket_female_54
+  - first:
+      213: 3052811596642828639
+    second: jacket_female_55
+  - first:
+      213: -8203673783906592031
+    second: jacket_female_56
+  - first:
+      213: 5489961072410970214
+    second: jacket_female_57
+  - first:
+      213: -8357715356900192633
+    second: jacket_female_58
+  - first:
+      213: 7364158494211522996
+    second: jacket_female_59
+  - first:
+      213: 7481930140026419227
+    second: jacket_female_60
+  - first:
+      213: 7973428642335166693
+    second: jacket_female_61
+  - first:
+      213: 2109710838902719062
+    second: jacket_female_62
+  - first:
+      213: 1313827630001365859
+    second: jacket_female_63
+  - first:
+      213: -3974590869508644045
+    second: jacket_female_64
+  - first:
+      213: 5946308177798927267
+    second: jacket_female_65
+  - first:
+      213: -6604209518933700631
+    second: jacket_female_66
+  - first:
+      213: -8209098784222728209
+    second: jacket_female_67
+  - first:
+      213: 8126725479253503528
+    second: jacket_female_68
+  - first:
+      213: 5362487373489999782
+    second: jacket_female_69
+  - first:
+      213: 5979360247784561040
+    second: jacket_female_70
+  - first:
+      213: -6503021691336946002
+    second: jacket_female_71
+  - first:
+      213: 12054774842331401
+    second: jacket_female_72
+  - first:
+      213: -8164096320856520285
+    second: jacket_female_73
+  - first:
+      213: 3390644449942996414
+    second: jacket_female_74
+  - first:
+      213: 2885057506864531758
+    second: jacket_female_75
+  - first:
+      213: -687557504207042396
+    second: jacket_female_76
+  - first:
+      213: -3157404101154501080
+    second: jacket_female_77
+  - first:
+      213: 2323417841397776516
+    second: jacket_female_78
+  - first:
+      213: 2899400694717836669
+    second: jacket_female_79
+  - first:
+      213: 8208988574563219137
+    second: jacket_female_80
+  - first:
+      213: 9047969158692506708
+    second: jacket_female_81
+  - first:
+      213: 327447837054779248
+    second: jacket_female_82
+  - first:
+      213: -353348692804646608
+    second: jacket_female_83
+  - first:
+      213: 3329743129937473920
+    second: jacket_female_84
+  - first:
+      213: -6471647253759474043
+    second: jacket_female_85
+  - first:
+      213: 7356019893111156118
+    second: jacket_female_86
+  - first:
+      213: -2598427087617617896
+    second: jacket_female_87
+  - first:
+      213: 251618438717988693
+    second: jacket_female_88
+  - first:
+      213: 4647698968821976374
+    second: jacket_female_89
+  - first:
+      213: -7459857679231040601
+    second: jacket_female_90
+  - first:
+      213: -6131152519595489667
+    second: jacket_female_91
+  - first:
+      213: 1921319337724834591
+    second: jacket_female_92
+  - first:
+      213: 6358734404006306427
+    second: jacket_female_93
+  - first:
+      213: 4961318396665514790
+    second: jacket_female_94
+  - first:
+      213: -6606865318980392306
+    second: jacket_female_95
+  - first:
+      213: 1721703104860671803
+    second: jacket_female_96
+  - first:
+      213: -7493195027618800652
+    second: jacket_female_97
+  - first:
+      213: -8997394721148480537
+    second: jacket_female_98
+  - first:
+      213: 2313170989710241080
+    second: jacket_female_99
+  - first:
+      213: -8433365636082770355
+    second: jacket_female_100
+  - first:
+      213: 369994516528601196
+    second: jacket_female_101
+  - first:
+      213: -3741520188697926798
+    second: jacket_female_102
+  - first:
+      213: 5702451178798798530
+    second: jacket_female_103
+  - first:
+      213: 6266064690916669383
+    second: jacket_female_104
+  - first:
+      213: 8398791697842307029
+    second: jacket_female_105
+  - first:
+      213: -7228963822522051316
+    second: jacket_female_106
+  - first:
+      213: 6093946753882149396
+    second: jacket_female_107
+  - first:
+      213: -1315237138375519187
+    second: jacket_female_108
+  - first:
+      213: 2105455015892586069
+    second: jacket_female_109
+  - first:
+      213: 359352932981648125
+    second: jacket_female_110
+  - first:
+      213: 3188897580153075722
+    second: jacket_female_111
+  - first:
+      213: 9099410480778729615
+    second: jacket_female_112
+  - first:
+      213: 4462206617944607644
+    second: jacket_female_113
+  - first:
+      213: -7795469493335279163
+    second: jacket_female_114
+  - first:
+      213: -6265698349626833536
+    second: jacket_female_115
+  - first:
+      213: 243001494943252330
+    second: jacket_female_116
+  - first:
+      213: -5676339978294667671
+    second: jacket_female_117
+  - first:
+      213: -1867511233703427567
+    second: jacket_female_118
+  - first:
+      213: 9082962557855889390
+    second: jacket_female_119
+  - first:
+      213: 2774595175783975938
+    second: jacket_female_120
+  - first:
+      213: -9062115171880232975
+    second: jacket_female_121
+  - first:
+      213: -5496706819234418969
+    second: jacket_female_122
+  - first:
+      213: -907777899192201403
+    second: jacket_female_123
+  - first:
+      213: -1019937362381820388
+    second: jacket_female_124
+  - first:
+      213: 7498186152463243294
+    second: jacket_female_125
+  - first:
+      213: -5749964514049530650
+    second: jacket_female_126
+  - first:
+      213: -1354631919413678509
+    second: jacket_female_127
+  - first:
+      213: -4307308916751554086
+    second: jacket_female_128
+  - first:
+      213: 6237279004983512175
+    second: jacket_female_129
+  - first:
+      213: 5041907347660924787
+    second: jacket_female_130
+  - first:
+      213: -2754567762009742042
+    second: jacket_female_131
+  - first:
+      213: -3967801527403837239
+    second: jacket_female_132
+  - first:
+      213: 8740582932337771465
+    second: jacket_female_133
+  - first:
+      213: 4065361200966897352
+    second: jacket_female_134
+  - first:
+      213: -1447762756934574906
+    second: jacket_female_135
+  - first:
+      213: 8112418408435762556
+    second: jacket_female_136
+  - first:
+      213: 2153497286972826379
+    second: jacket_female_137
+  - first:
+      213: 9113659951438522718
+    second: jacket_female_138
+  - first:
+      213: -2705995894987344772
+    second: jacket_female_139
+  - first:
+      213: 2710677092531017773
+    second: jacket_female_140
+  - first:
+      213: 2487106848499730
+    second: jacket_female_141
+  - first:
+      213: -2918490119458072767
+    second: jacket_female_142
+  - first:
+      213: 3228968159631217805
+    second: jacket_female_143
+  - first:
+      213: 5273955339178410063
+    second: jacket_female_144
+  - first:
+      213: 710760045937901770
+    second: jacket_female_145
+  - first:
+      213: 7691531367255686952
+    second: jacket_female_146
+  - first:
+      213: -3290200710104142687
+    second: jacket_female_147
+  - first:
+      213: 1190003837377253729
+    second: jacket_female_148
+  - first:
+      213: -3426967973112898107
+    second: jacket_female_149
+  - first:
+      213: 2426616521479001122
+    second: jacket_female_150
+  - first:
+      213: -1024311034688425969
+    second: jacket_female_151
+  - first:
+      213: 5598982624857221328
+    second: jacket_female_152
+  - first:
+      213: 1080683608796043153
+    second: jacket_female_153
+  - first:
+      213: 8297484393001918344
+    second: jacket_female_154
+  - first:
+      213: -6039782209331245519
+    second: jacket_female_155
+  - first:
+      213: 3567010409733862268
+    second: jacket_female_156
+  - first:
+      213: -2053397222441899948
+    second: jacket_female_157
+  - first:
+      213: -23031347317003589
+    second: jacket_female_158
+  - first:
+      213: 5798868607654413643
+    second: jacket_female_159
+  - first:
+      213: 6361982540689367361
+    second: jacket_female_160
+  - first:
+      213: 2827810638702013403
+    second: jacket_female_161
+  - first:
+      213: 8205670738553564355
+    second: jacket_female_162
+  - first:
+      213: 2039505930589242113
+    second: jacket_female_163
+  - first:
+      213: -1994613076114260450
+    second: jacket_female_164
+  - first:
+      213: 7389778374339525279
+    second: jacket_female_165
+  - first:
+      213: -1678260153265041176
+    second: jacket_female_166
+  - first:
+      213: -5368182637743384311
+    second: jacket_female_167
+  - first:
+      213: -6631369856690906483
+    second: jacket_female_168
+  - first:
+      213: -7613013589939891885
+    second: jacket_female_169
+  - first:
+      213: -3320136416757961732
+    second: jacket_female_170
+  - first:
+      213: 4641919775365633372
+    second: jacket_female_171
+  - first:
+      213: 6242807154035615422
+    second: jacket_female_172
+  - first:
+      213: 6043325946044111196
+    second: jacket_female_173
+  - first:
+      213: -445721677915039800
+    second: jacket_female_174
+  - first:
+      213: -4825653032023300752
+    second: jacket_female_175
+  - first:
+      213: 5547225377281339565
+    second: jacket_female_176
+  - first:
+      213: 1504255963997977384
+    second: jacket_female_177
+  - first:
+      213: -6292330196970578564
+    second: jacket_female_178
+  - first:
+      213: 6281215931672405734
+    second: jacket_female_179
+  - first:
+      213: -4912241908701787770
+    second: jacket_female_180
+  - first:
+      213: -8511538562589169159
+    second: jacket_female_181
+  - first:
+      213: -5543333689854606019
+    second: jacket_female_182
+  - first:
+      213: 5661958975302639859
+    second: jacket_female_183
+  - first:
+      213: -603239240788435183
+    second: jacket_female_184
+  - first:
+      213: 6007715903647456463
+    second: jacket_female_185
+  - first:
+      213: 5256519882960793553
+    second: jacket_female_186
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jacket_female_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1290
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31218ec48ba37450800000000000000
+      internalID: 6085396108396273980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1290
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94482b3d578f6ff10800000000000000
+      internalID: 2303301444393141321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1290
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1752d49f918abd1c0800000000000000
+      internalID: -4477800574979594895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1290
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d7ce7063471d440800000000000000
+      internalID: 4958872440121621789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_4
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1290
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20c8c0737997b9a0800000000000000
+      internalID: -6217332039469187026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_5
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1290
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f09b046a39908920800000000000000
+      internalID: 2990558628639641848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_6
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1290
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ae678f7fa162490800000000000000
+      internalID: -7771494454653425072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_7
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1226
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: affeaf4d90e50a650800000000000000
+      internalID: 6242092479856439290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_8
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1226
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc3b00fdf4bc45d0800000000000000
+      internalID: -3076885442653897515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_9
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1233
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df69144e9b82a260800000000000000
+      internalID: 7107396673807675345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_10
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1226
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e57d7882b01c640800000000000000
+      internalID: 5098368521865747969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_11
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1226
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc6e76abf25517f0800000000000000
+      internalID: -642516131046855504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_12
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1226
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25456884b960d8100800000000000000
+      internalID: 111752829760590930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_13
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1226
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23822e42afc176c0800000000000000
+      internalID: -4147305485828979925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_14
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1226
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258a1a3d0fe6a3e00800000000000000
+      internalID: 1025253845802002514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_15
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1163
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f730a336fe8e0d590800000000000000
+      internalID: -7651359652042898561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_16
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1163
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d8e4246558ecac0800000000000000
+      internalID: -3832979627319587503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_17
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1163
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e016a1bdc24aff750800000000000000
+      internalID: 6340967312922403086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_18
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1163
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34347cb45b1525670800000000000000
+      internalID: 8525966883668050755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_19
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1163
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25281928de1044130800000000000000
+      internalID: 3549964525884244562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_20
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1163
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78eedf15960dbc220800000000000000
+      internalID: 2507326768327552647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_21
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1163
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d7e0748f6614310800000000000000
+      internalID: 1387503376736877863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_22
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1098
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50745171095635080800000000000000
+      internalID: -9199897944250824955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_23
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1098
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9190e07920ca640800000000000000
+      internalID: 5092448126447983083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_24
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1098
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9be0663f51bf190800000000000000
+      internalID: -7927718583922148891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_25
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1105
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e67a97cf6865ed50800000000000000
+      internalID: 6765928844493485795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_26
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1098
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18014d83ed23e1190800000000000000
+      internalID: -7989892758891130751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_27
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1098
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e831d19a10a37c8a0800000000000000
+      internalID: -6284990976165604466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_28
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1098
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795020e1c414518d0800000000000000
+      internalID: -2876320991829424745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_29
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1098
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51677eccc929bf740800000000000000
+      internalID: 5186900597997532693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_30
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1034
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d161d2160fd85b290800000000000000
+      internalID: -7875232309825432035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_31
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1033
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533b903032436be00800000000000000
+      internalID: 1060092087271797557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_32
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1034
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab73cf1f50771c420800000000000000
+      internalID: 2648528923288942522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_33
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1034
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ddaa324996e84ff0800000000000000
+      internalID: -51537849799234094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_34
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1034
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa12745d398689560800000000000000
+      internalID: 7320716178438431146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_35
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1034
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526f6942b93ab90b0800000000000000
+      internalID: -5720799014914951643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_36
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1034
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f834d2a2f8ad59a0800000000000000
+      internalID: -6242647748398270221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_37
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1034
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b425052de51cb5160800000000000000
+      internalID: 7015413457559245387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_38
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 970
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144e19c68ff8888d0800000000000000
+      internalID: -2843864867548306367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_39
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 970
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58cd8acbd247d2c0800000000000000
+      internalID: -4406980198595180449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_40
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 970
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d109b4e5a7e983060800000000000000
+      internalID: 6933465874742087709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_41
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 970
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571ca455e61ee76b0800000000000000
+      internalID: -5296548247747509899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_42
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 970
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f38fad733d2bdd30800000000000000
+      internalID: 4457205955388474356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_43
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 970
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b032c5f95a65ac0800000000000000
+      internalID: -3866721126186808450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_44
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 970
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0324edcd9d7794880800000000000000
+      internalID: -8626231833654312400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_45
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 970
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d857279fd8b212a0800000000000000
+      internalID: -6768144019531278120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_46
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 907
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849c9c6a84b02fe50800000000000000
+      internalID: 6841543190592997704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_47
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 907
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e986fe0bc1c6f8f0800000000000000
+      internalID: -507004830159042079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_48
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 917
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f119fd5b6297e8f0800000000000000
+      internalID: -511279042847501836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_49
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 919
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f6f0c6230cf8910800000000000000
+      internalID: 1841902095411670934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_50
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 916
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9376e5514084efa00800000000000000
+      internalID: 792149766839363385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_51
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 915
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab864a69dc609c50800000000000000
+      internalID: 6669950729182415778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_52
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 916
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0dd880552817970800000000000000
+      internalID: 8750918852684927168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_53
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 919
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe83877ef5651cf50800000000000000
+      internalID: 6899891074013608175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_54
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 907
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf9104db83826a40800000000000000
+      internalID: 5359991143104880584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_55
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 907
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51c61009f3cd5a20800000000000000
+      internalID: 3052811596642828639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_56
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 907
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea10119822b62e80800000000000000
+      internalID: -8203673783906592031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_57
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 906
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66847cf1282403c40800000000000000
+      internalID: 5489961072410970214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_58
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 907
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e032af92e630c80800000000000000
+      internalID: -8357715356900192633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_59
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 907
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1472d222fb23660800000000000000
+      internalID: 7364158494211522996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_60
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 842
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18309642d725d760800000000000000
+      internalID: 7481930140026419227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_61
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 842
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0105cea1f47ae60800000000000000
+      internalID: 7973428642335166693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_62
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 842
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652869b84d2374d10800000000000000
+      internalID: 2109710838902719062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_63
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 842
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363235eb447ab3210800000000000000
+      internalID: 1313827630001365859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_64
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 842
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3332d6799aa67d8c0800000000000000
+      internalID: -3974590869508644045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_65
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 842
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a394b668c7858250800000000000000
+      internalID: 5946308177798927267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_66
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 842
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef04b1ee622954a0800000000000000
+      internalID: -6604209518933700631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_67
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 842
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef2050462c631e80800000000000000
+      internalID: -8209098784222728209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_68
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 778
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e650224cde7c070800000000000000
+      internalID: 8126725479253503528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_69
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 778
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af8361cad16b6a40800000000000000
+      internalID: 5362487373489999782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_70
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 778
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0995a412774faf250800000000000000
+      internalID: 5979360247784561040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_71
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 777
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae8339e930a0c5a0800000000000000
+      internalID: -6503021691336946002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_72
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 778
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901135cf0c3da2000800000000000000
+      internalID: 12054774842331401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_73
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 778
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a90643c6ad43be80800000000000000
+      internalID: -8164096320856520285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_74
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 778
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5808ea92dfd0f20800000000000000
+      internalID: 3390644449942996414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_75
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 777
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e290c3d4488c90820800000000000000
+      internalID: 2885057506864531758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_76
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 778
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8c51fb71e4576f0800000000000000
+      internalID: -687557504207042396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_77
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 714
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e035ad2b5ae24d0800000000000000
+      internalID: -3157404101154501080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_78
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 713
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480c15d77307e3020800000000000000
+      internalID: 2323417841397776516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_79
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 713
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d6d26f19dbc3820800000000000000
+      internalID: 2899400694717836669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_80
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 715
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6b4109d9f2ce170800000000000000
+      internalID: 8208988574563219137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_81
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 714
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c8e8af208d09d70800000000000000
+      internalID: 9047969158692506708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_82
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 714
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fbe1aa2145b8400800000000000000
+      internalID: 327447837054779248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_83
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 714
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039c78b6c37a81bf0800000000000000
+      internalID: -353348692804646608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_84
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 714
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08178352cbf953e20800000000000000
+      internalID: 3329743129937473920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_85
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 714
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586c8086c171036a0800000000000000
+      internalID: -6471647253759474043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_86
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 651
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69de8917e15d51660800000000000000
+      internalID: 7356019893111156118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_87
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 651
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8109cc3b45880fbd0800000000000000
+      internalID: -2598427087617617896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_88
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 650
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f59ba03aded7300800000000000000
+      internalID: 251618438717988693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_89
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 649
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d459b6691ff7040800000000000000
+      internalID: 4647698968821976374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_90
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 650
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3c67af6f2497890800000000000000
+      internalID: -7459857679231040601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_91
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 651
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7605c58445c9eaa0800000000000000
+      internalID: -6131152519595489667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_92
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 650
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f137d2112c5e9aa10800000000000000
+      internalID: 1921319337724834591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_93
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 649
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72e9db1043ce3850800000000000000
+      internalID: 6358734404006306427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_94
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 650
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62bcbdaabc42ad440800000000000000
+      internalID: 4961318396665514790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_95
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 586
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a635f3ff2bf44a0800000000000000
+      internalID: -6606865318980392306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_96
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 585
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f48e51ad7b4e710800000000000000
+      internalID: 1721703104860671803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_97
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 585
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbde02b2d2d20890800000000000000
+      internalID: -7493195027618800652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_98
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 587
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e358fddb25d22380800000000000000
+      internalID: -8997394721148480537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_99
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 586
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83dea6a62c80a1020800000000000000
+      internalID: 2313170989710241080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_100
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 586
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4edc48c2aaa6fa80800000000000000
+      internalID: -8433365636082770355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_101
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 586
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68978e6d0c722500800000000000000
+      internalID: 369994516528601196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_102
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 586
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27325b83633731cc0800000000000000
+      internalID: -3741520188697926798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_103
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 586
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c65f4d522d232f40800000000000000
+      internalID: 5702451178798798530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_104
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 522
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7b4b923a885f650800000000000000
+      internalID: 6266064690916669383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_105
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 522
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dff36cec808e8470800000000000000
+      internalID: 8398791697842307029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_106
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 522
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c055c6044bf8dab90800000000000000
+      internalID: -7228963822522051316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_107
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 523
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4125a49194c029450800000000000000
+      internalID: 6093946753882149396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_108
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 523
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24d9b38ac65fbde0800000000000000
+      internalID: -1315237138375519187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_109
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 523
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e87d88e24183d10800000000000000
+      internalID: 2105455015892586069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_110
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 458
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfaad5fa69dacf400800000000000000
+      internalID: 359352932981648125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_111
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 457
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a087022247d314c20800000000000000
+      internalID: 3188897580153075722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_112
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 457
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88584c1f99974e70800000000000000
+      internalID: 9099410480778729615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_113
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 458
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b4cf8f641fced30800000000000000
+      internalID: 4462206617944607644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_114
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 458
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c93b584ccde0d390800000000000000
+      internalID: -7795469493335279163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_115
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 458
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085cdb05c84cb09a0800000000000000
+      internalID: -6265698349626833536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_116
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 395
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f3bf972905f5300800000000000000
+      internalID: 243001494943252330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_117
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 393
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966d5614dd69931b0800000000000000
+      internalID: -5676339978294667671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_118
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 394
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1124e0d6d644516e0800000000000000
+      internalID: -1867511233703427567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_119
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 395
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee77c21a25a2d0e70800000000000000
+      internalID: 9082962557855889390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_120
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 395
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ccd18ac97518620800000000000000
+      internalID: 2774595175783975938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_121
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 395
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7966aa346ec3280800000000000000
+      internalID: -9062115171880232975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_122
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 330
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eea01d4546c7b3b0800000000000000
+      internalID: -5496706819234418969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_123
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 329
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54fc2bf6fcce663f0800000000000000
+      internalID: -907777899192201403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_124
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 329
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e251e6f5478d1f0800000000000000
+      internalID: -1019937362381820388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_125
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 330
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18135d1498ee0860800000000000000
+      internalID: 7498186152463243294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_126
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 330
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4e9f43db50430b0800000000000000
+      internalID: -5749964514049530650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_127
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 330
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e21f94271633de0800000000000000
+      internalID: -1354631919413678509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_128
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 266
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9a62f7c5d5934c0800000000000000
+      internalID: -4307308916751554086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_129
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 264
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c4b0165344f8650800000000000000
+      internalID: 6237279004983512175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_130
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 266
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377e2cff40478f540800000000000000
+      internalID: 5041907347660924787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_131
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 264
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625aaabf63fc5c9d0800000000000000
+      internalID: -2754567762009742042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_132
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 264
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c887db78898fe8c0800000000000000
+      internalID: -3967801527403837239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_133
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 264
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3c5db0ed9cc4970800000000000000
+      internalID: 8740582932337771465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_134
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 264
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce894b19701b6830800000000000000
+      internalID: 4065361200966897352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_135
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 264
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ccdfd1717388ebe0800000000000000
+      internalID: -1447762756934574906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_136
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 264
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c754720af89159070800000000000000
+      internalID: 8112418408435762556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_137
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 264
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0368ce6f52c2ed10800000000000000
+      internalID: 2153497286972826379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_138
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 264
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59623980793a7e70800000000000000
+      internalID: 9113659951438522718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_139
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 264
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c743d9b021f527ad0800000000000000
+      internalID: -2705995894987344772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_140
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 264
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28991134724e9520800000000000000
+      internalID: 2710677092531017773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_141
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 202
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2182930b206d80000800000000000000
+      internalID: 2487106848499730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_142
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 202
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147d63df2b07f77d0800000000000000
+      internalID: -2918490119458072767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_143
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 202
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d849dd1fe699fcc20800000000000000
+      internalID: 3228968159631217805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_144
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 200
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f400109307ad03940800000000000000
+      internalID: 5273955339178410063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_145
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 202
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac04baafe702dd900800000000000000
+      internalID: 710760045937901770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_146
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 202
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82fbc0ce60fcdba60800000000000000
+      internalID: 7691531367255686952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_147
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 202
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac218ae2ebd652d0800000000000000
+      internalID: -3290200710104142687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_148
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 202
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16119386f2eb38010800000000000000
+      internalID: 1190003837377253729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_149
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 202
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd17f909c6f070d0800000000000000
+      internalID: -3426967973112898107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_150
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 202
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22499d89ed21da120800000000000000
+      internalID: 2426616521479001122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_151
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 202
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0032ed7a8ae8c1f0800000000000000
+      internalID: -1024311034688425969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_152
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 202
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8e23a580593bd40800000000000000
+      internalID: 5598982624857221328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_153
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 202
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19710e8340c5ffe00800000000000000
+      internalID: 1080683608796043153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_154
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 139
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f1a3ee716962370800000000000000
+      internalID: 8297484393001918344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_155
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 139
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e461ca4126e2ca0800000000000000
+      internalID: -6039782209331245519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_156
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 138
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73be4e9111908130800000000000000
+      internalID: 3567010409733862268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_157
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 138
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458a3950b1ed083e0800000000000000
+      internalID: -2053397222441899948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_158
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 138
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbaa8749c1d2eaff0800000000000000
+      internalID: -23031347317003589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_159
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 138
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45c7626648b97050800000000000000
+      internalID: 5798868607654413643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_160
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 138
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141e60dd96d4a4850800000000000000
+      internalID: 6361982540689367361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_161
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 138
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb67e32bc66e3720800000000000000
+      internalID: 2827810638702013403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_162
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 138
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc6d4baf0660e170800000000000000
+      internalID: 8205670738553564355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_163
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 138
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103031e86d7cd4c10800000000000000
+      internalID: 2039505930589242113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_164
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 138
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e3cd5a9f5b154e0800000000000000
+      internalID: -1994613076114260450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_165
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 149
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9afe5b5744cd8660800000000000000
+      internalID: 7389778374339525279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_166
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 138
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0d1fb484f95b8e0800000000000000
+      internalID: -1678260153265041176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_167
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 138
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909d2e335526085b0800000000000000
+      internalID: -5368182637743384311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_168
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 74
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a94b5ff34a8f3a0800000000000000
+      internalID: -6631369856690906483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_169
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 74
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3515965b974295690800000000000000
+      internalID: -7613013589939891885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_170
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 74
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfbad4115818ce1d0800000000000000
+      internalID: -3320136416757961732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_171
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 72
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55978611796b6040800000000000000
+      internalID: 4641919775365633372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_172
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 74
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb66f81e708e2a650800000000000000
+      internalID: 6242807154035615422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_173
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 74
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c595cd3dde43ed350800000000000000
+      internalID: 6043325946044111196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_174
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 74
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7de27de7a70d9f0800000000000000
+      internalID: -445721677915039800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_175
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 74
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075e6f08226d70db0800000000000000
+      internalID: -4825653032023300752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_176
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 74
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0f2e51714bbfc40800000000000000
+      internalID: 5547225377281339565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_177
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 74
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82bbc5154d030e410800000000000000
+      internalID: 1504255963997977384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_178
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 74
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7dda1826072da8a0800000000000000
+      internalID: -6292330196970578564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_179
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 74
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6abdc4c9c5b2750800000000000000
+      internalID: 6281215931672405734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_180
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 74
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6890b0d920634dbb0800000000000000
+      internalID: -4912241908701787770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_181
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 10
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f965dcf5c0f0e980800000000000000
+      internalID: -8511538562589169159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_182
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 11
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35c2c0016f1213b0800000000000000
+      internalID: -5543333689854606019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_183
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 7
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0afbf80b1539e40800000000000000
+      internalID: 5661958975302639859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_184
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 5
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f9a3a4b1dd0a7f0800000000000000
+      internalID: -603239240788435183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_185
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 7
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc1f5cb8c1bf5350800000000000000
+      internalID: 6007715903647456463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacket_female_186
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 15
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dfe7aabbf8e2f840800000000000000
+      internalID: 5256519882960793553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4730 @@
+fileFormatVersion: 2
+guid: 6b6355fed60048a4fa246abb019964a4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1991269185827906170
+    second: chest_female_0
+  - first:
+      213: -8126734151621050940
+    second: chest_female_1
+  - first:
+      213: 2889577618653944542
+    second: chest_female_2
+  - first:
+      213: 4929152811372412021
+    second: chest_female_3
+  - first:
+      213: -7782810566692688189
+    second: chest_female_4
+  - first:
+      213: -3283950853786625054
+    second: chest_female_5
+  - first:
+      213: 3581641811475322908
+    second: chest_female_6
+  - first:
+      213: 8921190087810467899
+    second: chest_female_7
+  - first:
+      213: 8883196864697579481
+    second: chest_female_8
+  - first:
+      213: 4137571696331132888
+    second: chest_female_9
+  - first:
+      213: 2749997694496418433
+    second: chest_female_10
+  - first:
+      213: -4816630714368841504
+    second: chest_female_11
+  - first:
+      213: 567000797335484516
+    second: chest_female_12
+  - first:
+      213: 6264408200655876518
+    second: chest_female_13
+  - first:
+      213: 5030433737235394212
+    second: chest_female_14
+  - first:
+      213: 6254389053643344785
+    second: chest_female_15
+  - first:
+      213: -5581833348806158313
+    second: chest_female_16
+  - first:
+      213: -9089806036064098851
+    second: chest_female_17
+  - first:
+      213: -8657647122801573032
+    second: chest_female_18
+  - first:
+      213: 6347544527544163158
+    second: chest_female_19
+  - first:
+      213: -5421877239753323038
+    second: chest_female_20
+  - first:
+      213: 7558727973167884848
+    second: chest_female_21
+  - first:
+      213: 5066895371870036974
+    second: chest_female_22
+  - first:
+      213: -6764711543643786517
+    second: chest_female_23
+  - first:
+      213: -5873779886580814778
+    second: chest_female_24
+  - first:
+      213: 5987832171999353524
+    second: chest_female_25
+  - first:
+      213: 8665544778380139652
+    second: chest_female_26
+  - first:
+      213: -8341371975161673653
+    second: chest_female_27
+  - first:
+      213: 862632023511785642
+    second: chest_female_28
+  - first:
+      213: -3146310457257041355
+    second: chest_female_29
+  - first:
+      213: -8097262308955893784
+    second: chest_female_30
+  - first:
+      213: -994862767810333004
+    second: chest_female_31
+  - first:
+      213: 3602384027132314337
+    second: chest_female_32
+  - first:
+      213: -3010447510132454519
+    second: chest_female_33
+  - first:
+      213: 5132817596354006176
+    second: chest_female_34
+  - first:
+      213: -4545053746256402635
+    second: chest_female_35
+  - first:
+      213: -8502744972991535366
+    second: chest_female_36
+  - first:
+      213: 3971493832370066674
+    second: chest_female_37
+  - first:
+      213: -7847123352714798762
+    second: chest_female_38
+  - first:
+      213: 6939772172541111350
+    second: chest_female_39
+  - first:
+      213: -3724810186300592365
+    second: chest_female_40
+  - first:
+      213: -3305300455610747330
+    second: chest_female_41
+  - first:
+      213: -1328368518058569274
+    second: chest_female_42
+  - first:
+      213: -3581401865156976195
+    second: chest_female_43
+  - first:
+      213: -1200573460032183706
+    second: chest_female_44
+  - first:
+      213: -3337030240787344935
+    second: chest_female_45
+  - first:
+      213: 8656399902147555974
+    second: chest_female_46
+  - first:
+      213: 7323167412668220056
+    second: chest_female_47
+  - first:
+      213: -6592672231129959962
+    second: chest_female_48
+  - first:
+      213: 8066127179132882596
+    second: chest_female_49
+  - first:
+      213: -5743652907024686348
+    second: chest_female_50
+  - first:
+      213: 3954508292476088894
+    second: chest_female_51
+  - first:
+      213: 2673720279893659767
+    second: chest_female_52
+  - first:
+      213: -8137554235296069001
+    second: chest_female_53
+  - first:
+      213: -3675151245685959850
+    second: chest_female_54
+  - first:
+      213: -4640455887293025523
+    second: chest_female_55
+  - first:
+      213: 3166873537818005606
+    second: chest_female_56
+  - first:
+      213: 7054659137795060615
+    second: chest_female_57
+  - first:
+      213: -6354728078210528305
+    second: chest_female_58
+  - first:
+      213: -7568560059325750707
+    second: chest_female_59
+  - first:
+      213: -6721621514433705775
+    second: chest_female_60
+  - first:
+      213: -5504296240164932815
+    second: chest_female_61
+  - first:
+      213: -2756163377997145175
+    second: chest_female_62
+  - first:
+      213: 4931675094516083240
+    second: chest_female_63
+  - first:
+      213: -25930266223229309
+    second: chest_female_64
+  - first:
+      213: -2379891084484769611
+    second: chest_female_65
+  - first:
+      213: 8348773834910120196
+    second: chest_female_66
+  - first:
+      213: 2913116173232604579
+    second: chest_female_67
+  - first:
+      213: -4175509368547922857
+    second: chest_female_68
+  - first:
+      213: 5477192330916914690
+    second: chest_female_69
+  - first:
+      213: 6369869187735705816
+    second: chest_female_70
+  - first:
+      213: -8290502562672859357
+    second: chest_female_71
+  - first:
+      213: -5754501568680077960
+    second: chest_female_72
+  - first:
+      213: -238468094436778837
+    second: chest_female_73
+  - first:
+      213: 6524643172811968063
+    second: chest_female_74
+  - first:
+      213: -3278219949286877436
+    second: chest_female_75
+  - first:
+      213: 5175687948636287605
+    second: chest_female_76
+  - first:
+      213: -6154536877189097666
+    second: chest_female_77
+  - first:
+      213: 4673215757500547263
+    second: chest_female_78
+  - first:
+      213: -490789091376463908
+    second: chest_female_79
+  - first:
+      213: -3527423585130446138
+    second: chest_female_80
+  - first:
+      213: -5530929608184618017
+    second: chest_female_81
+  - first:
+      213: -5560521654333371133
+    second: chest_female_82
+  - first:
+      213: -7904962858076774709
+    second: chest_female_83
+  - first:
+      213: -7203575082272277019
+    second: chest_female_84
+  - first:
+      213: -505687351050034338
+    second: chest_female_85
+  - first:
+      213: -2428565547190639649
+    second: chest_female_86
+  - first:
+      213: 4487088194093753195
+    second: chest_female_87
+  - first:
+      213: 7152244815593585180
+    second: chest_female_88
+  - first:
+      213: -3125234232973516760
+    second: chest_female_89
+  - first:
+      213: -4388618920829979319
+    second: chest_female_90
+  - first:
+      213: 6572376172731099437
+    second: chest_female_91
+  - first:
+      213: 8202156188330792529
+    second: chest_female_92
+  - first:
+      213: 2635803293878204024
+    second: chest_female_93
+  - first:
+      213: -7580050973425051824
+    second: chest_female_94
+  - first:
+      213: 3529107129414874892
+    second: chest_female_95
+  - first:
+      213: -4282624062568407077
+    second: chest_female_96
+  - first:
+      213: -5167281616387790164
+    second: chest_female_97
+  - first:
+      213: 3564545894991655097
+    second: chest_female_98
+  - first:
+      213: 1979441959432036441
+    second: chest_female_99
+  - first:
+      213: -2626480459837642046
+    second: chest_female_100
+  - first:
+      213: 6016116834609970150
+    second: chest_female_101
+  - first:
+      213: -8957864290131427326
+    second: chest_female_102
+  - first:
+      213: -6807980570161314405
+    second: chest_female_103
+  - first:
+      213: 6716726718219510097
+    second: chest_female_104
+  - first:
+      213: 3188315934816233730
+    second: chest_female_105
+  - first:
+      213: -795995361666172714
+    second: chest_female_106
+  - first:
+      213: 7725871386434211079
+    second: chest_female_107
+  - first:
+      213: 4950071581459657798
+    second: chest_female_108
+  - first:
+      213: 9101361050499440089
+    second: chest_female_109
+  - first:
+      213: 1845444748887912047
+    second: chest_female_110
+  - first:
+      213: 8391885164368195754
+    second: chest_female_111
+  - first:
+      213: 4385898540444048065
+    second: chest_female_112
+  - first:
+      213: -2461444517892369822
+    second: chest_female_113
+  - first:
+      213: -7460079329159809776
+    second: chest_female_114
+  - first:
+      213: -2909069322339581887
+    second: chest_female_115
+  - first:
+      213: 365709566700109112
+    second: chest_female_116
+  - first:
+      213: 3751572489233966427
+    second: chest_female_117
+  - first:
+      213: -3466426694579724240
+    second: chest_female_118
+  - first:
+      213: 3500652080823102529
+    second: chest_female_119
+  - first:
+      213: 6399784608182041343
+    second: chest_female_120
+  - first:
+      213: 5767972890194543920
+    second: chest_female_121
+  - first:
+      213: 6613689796150859720
+    second: chest_female_122
+  - first:
+      213: -6578281231364262641
+    second: chest_female_123
+  - first:
+      213: -2950573589902360778
+    second: chest_female_124
+  - first:
+      213: -3561295619501263873
+    second: chest_female_125
+  - first:
+      213: 8665264851898347934
+    second: chest_female_126
+  - first:
+      213: 221813335426667933
+    second: chest_female_127
+  - first:
+      213: -831070377763377903
+    second: chest_female_128
+  - first:
+      213: 2952673808527682887
+    second: chest_female_129
+  - first:
+      213: -2530596374911339510
+    second: chest_female_130
+  - first:
+      213: 1537264266539115725
+    second: chest_female_131
+  - first:
+      213: 93132216594268760
+    second: chest_female_132
+  - first:
+      213: 4184612060858786722
+    second: chest_female_133
+  - first:
+      213: -8353893411615151322
+    second: chest_female_134
+  - first:
+      213: 3272882597022598653
+    second: chest_female_135
+  - first:
+      213: -4097729281886316180
+    second: chest_female_136
+  - first:
+      213: 5911934414960541759
+    second: chest_female_137
+  - first:
+      213: -8162399591982676070
+    second: chest_female_138
+  - first:
+      213: -6733779620339593628
+    second: chest_female_139
+  - first:
+      213: 2762482513593502593
+    second: chest_female_140
+  - first:
+      213: -5200906093037130724
+    second: chest_female_141
+  - first:
+      213: 8677488263620985806
+    second: chest_female_142
+  - first:
+      213: 2846675964149790254
+    second: chest_female_143
+  - first:
+      213: 8515008081106865104
+    second: chest_female_144
+  - first:
+      213: -4137259140864173730
+    second: chest_female_145
+  - first:
+      213: -4539314675420411230
+    second: chest_female_146
+  - first:
+      213: -3545981031032739711
+    second: chest_female_147
+  - first:
+      213: 7028024741736056349
+    second: chest_female_148
+  - first:
+      213: 5205654455486512177
+    second: chest_female_149
+  - first:
+      213: 2207464848689555614
+    second: chest_female_150
+  - first:
+      213: 8273849691333536462
+    second: chest_female_151
+  - first:
+      213: -3048147249292174841
+    second: chest_female_152
+  - first:
+      213: 1545111647104531990
+    second: chest_female_153
+  - first:
+      213: 288962771821284451
+    second: chest_female_154
+  - first:
+      213: 7699482188286817597
+    second: chest_female_155
+  - first:
+      213: -605567338334776722
+    second: chest_female_156
+  - first:
+      213: 5650308597538562872
+    second: chest_female_157
+  - first:
+      213: 5329310254440924321
+    second: chest_female_158
+  - first:
+      213: 6597669555865724269
+    second: chest_female_159
+  - first:
+      213: -555204424841584248
+    second: chest_female_160
+  - first:
+      213: -357693887525458323
+    second: chest_female_161
+  - first:
+      213: -3253100074539309483
+    second: chest_female_162
+  - first:
+      213: 7358875604299664890
+    second: chest_female_163
+  - first:
+      213: -6742348917737639250
+    second: chest_female_164
+  - first:
+      213: 3777605278523769929
+    second: chest_female_165
+  - first:
+      213: -6587678994432006981
+    second: chest_female_166
+  - first:
+      213: 1142949293629744358
+    second: chest_female_167
+  - first:
+      213: -113072477731585983
+    second: chest_female_168
+  - first:
+      213: -1435130482707950917
+    second: chest_female_169
+  - first:
+      213: 3666948557321438281
+    second: chest_female_170
+  - first:
+      213: 4401117848872506433
+    second: chest_female_171
+  - first:
+      213: 6214451823634095425
+    second: chest_female_172
+  - first:
+      213: 8372978100679583189
+    second: chest_female_173
+  - first:
+      213: -9203249410677732768
+    second: chest_female_174
+  - first:
+      213: -1858040669749499103
+    second: chest_female_175
+  - first:
+      213: -9017829416637855470
+    second: chest_female_176
+  - first:
+      213: -5133688945337763105
+    second: chest_female_177
+  - first:
+      213: 692051485733620355
+    second: chest_female_178
+  - first:
+      213: 2190620887701883073
+    second: chest_female_179
+  - first:
+      213: -116241440898318446
+    second: chest_female_180
+  - first:
+      213: 5752783216273682871
+    second: chest_female_181
+  - first:
+      213: 1328478487648234198
+    second: chest_female_182
+  - first:
+      213: 6832672756917174360
+    second: chest_female_183
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chest_female_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1293
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72247936c862ab10800000000000000
+      internalID: 1991269185827906170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1293
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd779ca85a083f80800000000000000
+      internalID: -8126734151621050940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1293
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda99c6d887d91820800000000000000
+      internalID: 2889577618653944542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1293
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c787dbd5ed76440800000000000000
+      internalID: 4929152811372412021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_4
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1293
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce20225607edf390800000000000000
+      internalID: -7782810566692688189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_5
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1293
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb153cf8101d62d0800000000000000
+      internalID: -3283950853786625054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_6
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1293
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c185cad404c84b130800000000000000
+      internalID: 3581641811475322908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_7
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1230
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38cdad4e1f6ecb70800000000000000
+      internalID: 8921190087810467899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_8
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1230
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7b926bb74774b70800000000000000
+      internalID: 8883196864697579481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_9
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1230
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df0788398b9b6930800000000000000
+      internalID: 4137571696331132888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_10
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1230
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a2a914554f92620800000000000000
+      internalID: 2749997694496418433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_11
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1230
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e82fc782e3e72db0800000000000000
+      internalID: -4816630714368841504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_12
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1230
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4687b8898346ed700800000000000000
+      internalID: 567000797335484516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_13
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1230
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a133287116afe650800000000000000
+      internalID: 6264408200655876518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_14
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1166
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae6e06e4d0bfc540800000000000000
+      internalID: 5030433737235394212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_15
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1166
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19bc08505bd0cc650800000000000000
+      internalID: 6254389053643344785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_16
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1166
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718daf0a4285982b0800000000000000
+      internalID: -5581833348806158313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_17
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1166
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5a23fe1958ad180800000000000000
+      internalID: -9089806036064098851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_18
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1166
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853cabedfcbd9d780800000000000000
+      internalID: -8657647122801573032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_19
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1166
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b9e38fd12071850800000000000000
+      internalID: 6347544527544163158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_20
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1166
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed4ab4706f91c4b0800000000000000
+      internalID: -5421877239753323038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_21
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1102
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03aea723b0ff5e860800000000000000
+      internalID: 7558727973167884848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_22
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1102
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee36262ce7a315640800000000000000
+      internalID: 5066895371870036974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_23
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1102
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2b02921baee12a0800000000000000
+      internalID: -6764711543643786517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_24
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1102
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c248350542c7ea0800000000000000
+      internalID: -5873779886580814778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_25
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1102
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba5da2b2ad091350800000000000000
+      internalID: 5987832171999353524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_26
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1102
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48cd69c5013324870800000000000000
+      internalID: 8665544778380139652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_27
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1102
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b480711126e7d3c80800000000000000
+      internalID: -8341371975161673653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_28
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1035
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0eb45414fa8fb00800000000000000
+      internalID: 862632023511785642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_29
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1035
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532e81a1f4f0654d0800000000000000
+      internalID: -3146310457257041355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_30
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1036
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef4685c4deb0af80800000000000000
+      internalID: -8097262308955893784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_31
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1036
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6376c65998132f0800000000000000
+      internalID: -994862767810333004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_32
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1036
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e243c9bf2d3ef130800000000000000
+      internalID: 3602384027132314337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_33
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1036
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b889780fdb836d0800000000000000
+      internalID: -3010447510132454519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_34
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1036
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac0e87b86e6b3740800000000000000
+      internalID: 5132817596354006176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_35
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1036
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5372451d2b9bce0c0800000000000000
+      internalID: -4545053746256402635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_36
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 974
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6e91d1f7e200a80800000000000000
+      internalID: -8502744972991535366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_37
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 974
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4921249949d1730800000000000000
+      internalID: 3971493832370066674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_38
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 974
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65913c4f2ea691390800000000000000
+      internalID: -7847123352714798762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_39
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 974
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c247eb5060f4060800000000000000
+      internalID: 6939772172541111350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_40
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 974
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31febc5ded0de4cc0800000000000000
+      internalID: -3724810186300592365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_41
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 974
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3672637fb63122d0800000000000000
+      internalID: -3305300455610747330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_42
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 974
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c19e4eeedfa09de0800000000000000
+      internalID: -1328368518058569274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_43
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 974
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1a56d8afd4c4ec0800000000000000
+      internalID: -3581401865156976195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_44
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 910
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662250c8cc4b65fe0800000000000000
+      internalID: -1200573460032183706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_45
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 910
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d152252dac70b1d0800000000000000
+      internalID: -3337030240787344935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_46
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 917
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6823b31f8d5b12870800000000000000
+      internalID: 8656399902147555974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_47
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 910
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8924ec646fd11a560800000000000000
+      internalID: 7323167412668220056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_48
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 918
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1bae6098f1284a0800000000000000
+      internalID: -6592672231129959962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_49
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 910
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aec659eee3a0ff60800000000000000
+      internalID: 8066127179132882596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_50
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 916
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f267abbc127a40b0800000000000000
+      internalID: -5743652907024686348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_51
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 910
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32bf52175c31e630800000000000000
+      internalID: 3954508292476088894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_52
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 916
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770d1d7bd66fa1520800000000000000
+      internalID: 2673720279893659767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_53
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 918
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ac3b0a989911f80800000000000000
+      internalID: -8137554235296069001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_54
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 910
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653dd01f96d3ffcc0800000000000000
+      internalID: -3675151245685959850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_55
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 909
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03770ae4f9c99fb0800000000000000
+      internalID: -4640455887293025523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_56
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 909
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6601a3e24bef2fb20800000000000000
+      internalID: 3166873537818005606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_57
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 909
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783fcbfcb1f27e160800000000000000
+      internalID: 7054659137795060615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_58
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 846
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb8f0e4b787fc7a0800000000000000
+      internalID: -6354728078210528305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_59
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 846
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42edaad9b217f690800000000000000
+      internalID: -7568560059325750707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_60
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 846
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d84e8568d008b2a0800000000000000
+      internalID: -6721621514433705775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_61
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 846
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133737a8bbfcc93b0800000000000000
+      internalID: -5504296240164932815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_62
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 846
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab1a8fa20420c9d0800000000000000
+      internalID: -2756163377997145175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_63
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 846
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82aa54c8e54d07440800000000000000
+      internalID: 4931675094516083240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_64
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 846
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38645dc6f80e3aff0800000000000000
+      internalID: -25930266223229309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_65
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 846
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b88a29faade8fed0800000000000000
+      internalID: -2379891084484769611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_66
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 781
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409b4e3b19dccd370800000000000000
+      internalID: 8348773834910120196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_67
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 781
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a589f6a9b77d6820800000000000000
+      internalID: 2913116173232604579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_68
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 781
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ca2632a5c9d06c0800000000000000
+      internalID: -4175509368547922857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_69
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 780
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206ebc2d765e20c40800000000000000
+      internalID: 5477192330916914690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_70
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 781
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d851b8f642566850800000000000000
+      internalID: 6369869187735705816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_71
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 781
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3272b6e18d732fc80800000000000000
+      internalID: -8290502562672859357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_72
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 781
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875556bdf47e320b0800000000000000
+      internalID: -5754501568680077960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_73
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 780
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bacd4d4188ac0bcf0800000000000000
+      internalID: -238468094436778837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_74
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 781
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e82a985603c8a50800000000000000
+      internalID: 6524643172811968063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_75
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 718
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407182b235c6182d0800000000000000
+      internalID: -3278219949286877436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_76
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 717
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5727cbe64ccb3d740800000000000000
+      internalID: 5175687948636287605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_77
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 717
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e371a1e7151b69aa0800000000000000
+      internalID: -6154536877189097666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_78
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 718
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb00490c8f89ad040800000000000000
+      internalID: 4673215757500547263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_79
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 718
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf7ed4fbed5039f0800000000000000
+      internalID: -490789091376463908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_80
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 717
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c207fb30f21c0fc0800000000000000
+      internalID: -3527423585130446138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_81
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 717
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3277253d03e33b0800000000000000
+      internalID: -5530929608184618017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_82
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 718
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d879b240f05d2b0800000000000000
+      internalID: -5560521654333371133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_83
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 718
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce5da1b92eeb4290800000000000000
+      internalID: -7904962858076774709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_84
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 654
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed3e4cf0a2c70c90800000000000000
+      internalID: -7203575082272277019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_85
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 654
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53214198007bf8f0800000000000000
+      internalID: -505687351050034338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_86
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 654
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd323fd70800c4ed0800000000000000
+      internalID: -2428565547190639649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_87
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 653
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63aecc50f6554e30800000000000000
+      internalID: 4487088194093753195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_88
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 654
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ab51cf3c0e14360800000000000000
+      internalID: 7152244815593585180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_89
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 654
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82029b7f500f0a4d0800000000000000
+      internalID: -3125234232973516760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_90
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 654
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945fe59e75e7813c0800000000000000
+      internalID: -4388618920829979319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_91
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 653
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29e0e1ae45c53b50800000000000000
+      internalID: 6572376172731099437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_92
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 654
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1569abda899e3d170800000000000000
+      internalID: 8202156188330792529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_93
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 590
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8763a657121449420800000000000000
+      internalID: 2635803293878204024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_94
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 589
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05755adeccf3ec690800000000000000
+      internalID: -7580050973425051824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_95
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 589
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0772177c38e9f030800000000000000
+      internalID: 3529107129414874892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_96
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 590
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdfd11cfa101194c0800000000000000
+      internalID: -4282624062568407077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_97
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 590
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caaacc05fb02a48b0800000000000000
+      internalID: -5167281616387790164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_98
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 589
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0fd801b9fc77130800000000000000
+      internalID: 3564545894991655097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_99
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 589
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950237d79f3687b10800000000000000
+      internalID: 1979441959432036441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_100
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 590
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca6fddffeddc8bd0800000000000000
+      internalID: -2626480459837642046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_101
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 590
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ebbc26e26a8d7350800000000000000
+      internalID: 6016116834609970150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_102
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 525
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2004f8093e54fa380800000000000000
+      internalID: -8957864290131427326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_103
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 525
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9506cdddb13581a0800000000000000
+      internalID: -6807980570161314405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_104
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 524
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15169dc0d5b963d50800000000000000
+      internalID: 6716726718219510097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_105
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 526
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2096076437c2f3c20800000000000000
+      internalID: 3188315934816233730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_106
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 526
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d877099f6e04f4f0800000000000000
+      internalID: -795995361666172714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_107
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 526
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d04c0b71fc73b60800000000000000
+      internalID: 7725871386434211079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_108
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 462
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644b8a170ef22b440800000000000000
+      internalID: 4950071581459657798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_109
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 460
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd589387a78e4e70800000000000000
+      internalID: 9101361050499440089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_110
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 461
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ee216b8365c9910800000000000000
+      internalID: 1845444748887912047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_111
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 462
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0790a4817f57470800000000000000
+      internalID: 8391885164368195754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_112
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 462
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca521c2c77dddc30800000000000000
+      internalID: 4385898540444048065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_113
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 462
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26251b4904137ddd0800000000000000
+      internalID: -2461444517892369822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_114
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 398
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015f1351069787890800000000000000
+      internalID: -7460079329159809776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_115
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 396
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14086fe3dd8e0a7d0800000000000000
+      internalID: -2909069322339581887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_116
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 397
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d3f1ec9e2431500800000000000000
+      internalID: 365709566700109112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_117
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 398
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b552be16d43401430800000000000000
+      internalID: 3751572489233966427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_118
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 398
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030e4a58947c4efc0800000000000000
+      internalID: -3466426694579724240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_119
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 398
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c61bf2580d49030800000000000000
+      internalID: 3500652080823102529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_120
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 334
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffaf3b1913a90d850800000000000000
+      internalID: 6399784608182041343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_121
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 332
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035012a98c4fb0050800000000000000
+      internalID: 5767972890194543920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_122
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 333
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7923a24db88cb50800000000000000
+      internalID: 6613689796150859720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_123
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 334
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05f9e3c21045b4a0800000000000000
+      internalID: -6578281231364262641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_124
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 334
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f783ae3f47d07d0800000000000000
+      internalID: -2950573589902360778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_125
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 334
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3f87ba08cb39ec0800000000000000
+      internalID: -3561295619501263873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_126
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 269
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e913416e874314870800000000000000
+      internalID: 8665264851898347934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_127
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 269
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d951d88ad0a041300800000000000000
+      internalID: 221813335426667933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_128
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 268
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d601605e17774f0800000000000000
+      internalID: -831070377763377903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_129
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 267
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d64e65f210af820800000000000000
+      internalID: 2952673808527682887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_130
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 267
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04b483310481ecd0800000000000000
+      internalID: -2530596374911339510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_131
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 267
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc427f4a4b5755510800000000000000
+      internalID: 1537264266539115725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_132
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 267
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8520f3fe14fda4100800000000000000
+      internalID: 93132216594268760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_133
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 267
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3ad429f7ab21a30800000000000000
+      internalID: 4184612060858786722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_134
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 267
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62be335f332011c80800000000000000
+      internalID: -8353893411615151322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_135
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 267
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5071ba16d9b6d20800000000000000
+      internalID: 3272882597022598653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_136
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 267
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c691377cde0f127c0800000000000000
+      internalID: -4097729281886316180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_137
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 267
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30412317096b0250800000000000000
+      internalID: 5911934414960541759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_138
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 267
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97441d31d459be80800000000000000
+      internalID: -8162399591982676070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_139
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 206
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ec4e5cc1fcc82a0800000000000000
+      internalID: -6733779620339593628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_140
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 206
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b08f8b53f465620800000000000000
+      internalID: 2762482513593502593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_141
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 206
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c6b56c67ba2d7b0800000000000000
+      internalID: -5200906093037130724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_142
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 204
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec300c7b991ac6870800000000000000
+      internalID: 8677488263620985806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_143
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 206
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e267ac105bc618720800000000000000
+      internalID: 2846675964149790254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_144
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 206
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db84fd3cb26b2670800000000000000
+      internalID: 8515008081106865104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_145
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 206
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e599d054bb08596c0800000000000000
+      internalID: -4137259140864173730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_146
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 206
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa49df5a5d1101c0800000000000000
+      internalID: -4539314675420411230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_147
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 206
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18825092a052acec0800000000000000
+      internalID: -3545981031032739711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_148
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 206
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1685db344f888160800000000000000
+      internalID: 7028024741736056349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_149
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 206
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13cf3b285233e3840800000000000000
+      internalID: 5205654455486512177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_150
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 206
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e986d40959d72ae10800000000000000
+      internalID: 2207464848689555614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_151
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 206
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca29e0257e92d270800000000000000
+      internalID: 8273849691333536462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_152
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 142
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a1bdef93ec2b5d0800000000000000
+      internalID: -3048147249292174841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_153
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 142
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61efbff4bd6517510800000000000000
+      internalID: 1545111647104531990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_154
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 142
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c48b72c1a920400800000000000000
+      internalID: 288962771821284451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_155
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 141
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d357843b14e0ada60800000000000000
+      internalID: 7699482188286817597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_156
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e621af6d6b79897f0800000000000000
+      internalID: -605567338334776722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_157
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 141
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8332f9b9bbde96e40800000000000000
+      internalID: 5650308597538562872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_158
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 141
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a44cc5c07385f940800000000000000
+      internalID: 5329310254440924321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_159
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6529ce4181af8b50800000000000000
+      internalID: 6597669555865724269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_160
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881a79764848b48f0800000000000000
+      internalID: -555204424841584248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_161
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 141
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e67bfed47390bf0800000000000000
+      internalID: -357693887525458323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_162
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 141
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556a946c7baaad2d0800000000000000
+      internalID: -3253100074539309483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_163
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 141
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afdc1948f5aff1660800000000000000
+      internalID: 7358875604299664890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_164
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 141
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2328eb16d5e62a0800000000000000
+      internalID: -6742348917737639250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_165
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 78
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944cc087cffbc6430800000000000000
+      internalID: 3777605278523769929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_166
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 78
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4e39a8bdcd394a0800000000000000
+      internalID: -6587678994432006981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_167
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 78
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4a513b3529cdf00800000000000000
+      internalID: 1142949293629744358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_168
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 76
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1408fea3e294e6ef0800000000000000
+      internalID: -113072477731585983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_169
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 78
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb29bdbfd64651ce0800000000000000
+      internalID: -1435130482707950917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_170
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 78
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94486c8d84e93e230800000000000000
+      internalID: 3666948557321438281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_171
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 78
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1445dac8d59e31d30800000000000000
+      internalID: 4401117848872506433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_172
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 78
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d1d7d020b2e3650800000000000000
+      internalID: 6214451823634095425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_173
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 78
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5a12b783bc23470800000000000000
+      internalID: 8372978100679583189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_174
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 78
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a0b310c6d774080800000000000000
+      internalID: -9203249410677732768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_175
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 78
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b2a5dead9e636e0800000000000000
+      internalID: -1858040669749499103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_176
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 78
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2198b309ceb3ad280800000000000000
+      internalID: -9017829416637855470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_177
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 78
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdafac98a1971c8b0800000000000000
+      internalID: -5133688945337763105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_178
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 13
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a0f6dd829aa9900800000000000000
+      internalID: 692051485733620355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_179
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 13
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c885094716a66e10800000000000000
+      internalID: 2190620887701883073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_180
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 8
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f731f7607036ef0800000000000000
+      internalID: -116241440898318446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_181
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 8
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b172db0bddf5df40800000000000000
+      internalID: 5752783216273682871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_182
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 7
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da650c5524bf6210800000000000000
+      internalID: 1328478487648234198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_female_183
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 16
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850898edba782de50800000000000000
+      internalID: 6832672756917174360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

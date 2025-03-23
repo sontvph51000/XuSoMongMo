@@ -1,0 +1,4930 @@
+fileFormatVersion: 2
+guid: dea627b9f2cea4349980bd0532ed2e10
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3482719547638489219
+    second: cape_gray_0
+  - first:
+      213: 1516055902622406794
+    second: cape_gray_1
+  - first:
+      213: -5540722682812234397
+    second: cape_gray_2
+  - first:
+      213: -738421969015581613
+    second: cape_gray_3
+  - first:
+      213: 1354341530469688849
+    second: cape_gray_4
+  - first:
+      213: 6812602229763459659
+    second: cape_gray_5
+  - first:
+      213: 3128891710436428101
+    second: cape_gray_6
+  - first:
+      213: -1222969953639657841
+    second: cape_gray_7
+  - first:
+      213: -1674134297105737829
+    second: cape_gray_8
+  - first:
+      213: -483660964816345852
+    second: cape_gray_9
+  - first:
+      213: 8692378603435493144
+    second: cape_gray_10
+  - first:
+      213: 918326773178248175
+    second: cape_gray_11
+  - first:
+      213: -6320280380694966400
+    second: cape_gray_12
+  - first:
+      213: -3306885284353991499
+    second: cape_gray_13
+  - first:
+      213: -4386473202669260751
+    second: cape_gray_14
+  - first:
+      213: 1859940584679131842
+    second: cape_gray_15
+  - first:
+      213: 5941099136403442674
+    second: cape_gray_16
+  - first:
+      213: -758301814422851806
+    second: cape_gray_17
+  - first:
+      213: 6447442866263593171
+    second: cape_gray_18
+  - first:
+      213: -1066975461978027923
+    second: cape_gray_19
+  - first:
+      213: -3862367670283527292
+    second: cape_gray_20
+  - first:
+      213: -2205932003761865466
+    second: cape_gray_21
+  - first:
+      213: -6834997185974114819
+    second: cape_gray_22
+  - first:
+      213: -5213519269712533394
+    second: cape_gray_23
+  - first:
+      213: -7827699311421593526
+    second: cape_gray_24
+  - first:
+      213: -7231706914076364188
+    second: cape_gray_25
+  - first:
+      213: 5264749773413196769
+    second: cape_gray_26
+  - first:
+      213: 5766200757496547861
+    second: cape_gray_27
+  - first:
+      213: 564050113977070072
+    second: cape_gray_28
+  - first:
+      213: 1796747234901826053
+    second: cape_gray_29
+  - first:
+      213: -2856780175068277572
+    second: cape_gray_30
+  - first:
+      213: -7967814895291054358
+    second: cape_gray_31
+  - first:
+      213: -5593144016168884105
+    second: cape_gray_32
+  - first:
+      213: -4317242072855516499
+    second: cape_gray_33
+  - first:
+      213: 4944002777415196192
+    second: cape_gray_34
+  - first:
+      213: -8717113542907891345
+    second: cape_gray_35
+  - first:
+      213: 7889949283210954221
+    second: cape_gray_36
+  - first:
+      213: 9123079227576892327
+    second: cape_gray_37
+  - first:
+      213: 6416998411906574121
+    second: cape_gray_38
+  - first:
+      213: 2898341025496802721
+    second: cape_gray_39
+  - first:
+      213: -5322358340939552482
+    second: cape_gray_40
+  - first:
+      213: 7029734964859787306
+    second: cape_gray_41
+  - first:
+      213: -5141558846522915994
+    second: cape_gray_42
+  - first:
+      213: 494848807898145452
+    second: cape_gray_43
+  - first:
+      213: -6017514228797317592
+    second: cape_gray_44
+  - first:
+      213: -6682634858990107658
+    second: cape_gray_45
+  - first:
+      213: 9120207593906923927
+    second: cape_gray_46
+  - first:
+      213: 7445898072767154735
+    second: cape_gray_47
+  - first:
+      213: -3114056790747318376
+    second: cape_gray_48
+  - first:
+      213: -4885503209058034732
+    second: cape_gray_49
+  - first:
+      213: -3282787818880597609
+    second: cape_gray_50
+  - first:
+      213: -680280662853020790
+    second: cape_gray_51
+  - first:
+      213: 1729184597948717449
+    second: cape_gray_52
+  - first:
+      213: -8665117600409400368
+    second: cape_gray_53
+  - first:
+      213: 6527203952523358924
+    second: cape_gray_54
+  - first:
+      213: -3622254611799171425
+    second: cape_gray_55
+  - first:
+      213: -6606426367326463674
+    second: cape_gray_56
+  - first:
+      213: -1380220281084267993
+    second: cape_gray_57
+  - first:
+      213: 9048420583825959193
+    second: cape_gray_58
+  - first:
+      213: 9191891065381177981
+    second: cape_gray_59
+  - first:
+      213: -5348295401015577522
+    second: cape_gray_60
+  - first:
+      213: -7880025806746361607
+    second: cape_gray_61
+  - first:
+      213: -6073019817977123359
+    second: cape_gray_62
+  - first:
+      213: 3723281249603665792
+    second: cape_gray_63
+  - first:
+      213: -8355551440400249915
+    second: cape_gray_64
+  - first:
+      213: -3250179316588516965
+    second: cape_gray_65
+  - first:
+      213: -744965534129447679
+    second: cape_gray_66
+  - first:
+      213: 5124131535634427805
+    second: cape_gray_67
+  - first:
+      213: -934572700779973165
+    second: cape_gray_68
+  - first:
+      213: -6759864950901320724
+    second: cape_gray_69
+  - first:
+      213: 7896053130375398919
+    second: cape_gray_70
+  - first:
+      213: -1214441159210236962
+    second: cape_gray_71
+  - first:
+      213: 8952069179584369371
+    second: cape_gray_72
+  - first:
+      213: -8389304152606462176
+    second: cape_gray_73
+  - first:
+      213: 6438397312238743142
+    second: cape_gray_74
+  - first:
+      213: -8695824049679956591
+    second: cape_gray_75
+  - first:
+      213: -4498998521042805757
+    second: cape_gray_76
+  - first:
+      213: 2312282755674935396
+    second: cape_gray_77
+  - first:
+      213: 6044428960662622457
+    second: cape_gray_78
+  - first:
+      213: -2591839577767110931
+    second: cape_gray_79
+  - first:
+      213: -8985547005519171735
+    second: cape_gray_80
+  - first:
+      213: -5145320505141191243
+    second: cape_gray_81
+  - first:
+      213: 4974646605080054410
+    second: cape_gray_82
+  - first:
+      213: 6737615972252010810
+    second: cape_gray_83
+  - first:
+      213: -8362292076504396092
+    second: cape_gray_84
+  - first:
+      213: 7647022138374122822
+    second: cape_gray_85
+  - first:
+      213: 3234493795451086183
+    second: cape_gray_86
+  - first:
+      213: -9070224612563552444
+    second: cape_gray_87
+  - first:
+      213: 4579439710708363116
+    second: cape_gray_88
+  - first:
+      213: -4844737875941718020
+    second: cape_gray_89
+  - first:
+      213: -339609530491190010
+    second: cape_gray_90
+  - first:
+      213: 237309130188861331
+    second: cape_gray_91
+  - first:
+      213: -4466565477544084735
+    second: cape_gray_92
+  - first:
+      213: 2038201613850895053
+    second: cape_gray_93
+  - first:
+      213: -1310952040337033032
+    second: cape_gray_94
+  - first:
+      213: -306427855564309341
+    second: cape_gray_95
+  - first:
+      213: -5442954344343453004
+    second: cape_gray_96
+  - first:
+      213: 5354504456979607843
+    second: cape_gray_97
+  - first:
+      213: 9058189718835800810
+    second: cape_gray_98
+  - first:
+      213: 2361572346155115772
+    second: cape_gray_99
+  - first:
+      213: -712978753974307428
+    second: cape_gray_100
+  - first:
+      213: -662858010682017441
+    second: cape_gray_101
+  - first:
+      213: 3350410806855447053
+    second: cape_gray_102
+  - first:
+      213: -892786833252173389
+    second: cape_gray_103
+  - first:
+      213: -5906731705572009567
+    second: cape_gray_104
+  - first:
+      213: -7174853821914687971
+    second: cape_gray_105
+  - first:
+      213: 3045271758617768533
+    second: cape_gray_106
+  - first:
+      213: 7010062780372888306
+    second: cape_gray_107
+  - first:
+      213: -6793240190793846269
+    second: cape_gray_108
+  - first:
+      213: 8098774509944843295
+    second: cape_gray_109
+  - first:
+      213: 5881032704756127384
+    second: cape_gray_110
+  - first:
+      213: -1087269834863443615
+    second: cape_gray_111
+  - first:
+      213: -8195331535664643891
+    second: cape_gray_112
+  - first:
+      213: 4431757440040499325
+    second: cape_gray_113
+  - first:
+      213: 2323691102147997431
+    second: cape_gray_114
+  - first:
+      213: -8271207959405263194
+    second: cape_gray_115
+  - first:
+      213: 1792517194892029489
+    second: cape_gray_116
+  - first:
+      213: -4638759790648564813
+    second: cape_gray_117
+  - first:
+      213: -7140755796883519819
+    second: cape_gray_118
+  - first:
+      213: 4509103526135727623
+    second: cape_gray_119
+  - first:
+      213: -1549947715022352595
+    second: cape_gray_120
+  - first:
+      213: -7343158757444414984
+    second: cape_gray_121
+  - first:
+      213: 2366742290495902742
+    second: cape_gray_122
+  - first:
+      213: -3665310014113517786
+    second: cape_gray_123
+  - first:
+      213: -258179718576458790
+    second: cape_gray_124
+  - first:
+      213: -8298391612238624335
+    second: cape_gray_125
+  - first:
+      213: -821161299108944146
+    second: cape_gray_126
+  - first:
+      213: -4488076202072830
+    second: cape_gray_127
+  - first:
+      213: -5796007680810993741
+    second: cape_gray_128
+  - first:
+      213: 3932293663902448548
+    second: cape_gray_129
+  - first:
+      213: -5923386705933245950
+    second: cape_gray_130
+  - first:
+      213: 1810884949316444839
+    second: cape_gray_131
+  - first:
+      213: 3184114598812948198
+    second: cape_gray_132
+  - first:
+      213: 1786819076443739936
+    second: cape_gray_133
+  - first:
+      213: -8582193462846718390
+    second: cape_gray_134
+  - first:
+      213: -2161054291153752899
+    second: cape_gray_135
+  - first:
+      213: 2733221404477810069
+    second: cape_gray_136
+  - first:
+      213: -8943907280232644589
+    second: cape_gray_137
+  - first:
+      213: -2594959886454650759
+    second: cape_gray_138
+  - first:
+      213: -7397021220409529811
+    second: cape_gray_139
+  - first:
+      213: -6114108010684059680
+    second: cape_gray_140
+  - first:
+      213: 2095551969839701402
+    second: cape_gray_141
+  - first:
+      213: 1650339527599046811
+    second: cape_gray_142
+  - first:
+      213: -5576963841581312437
+    second: cape_gray_143
+  - first:
+      213: 7215983833431015187
+    second: cape_gray_144
+  - first:
+      213: -9069593836875494524
+    second: cape_gray_145
+  - first:
+      213: 6629389936652277997
+    second: cape_gray_146
+  - first:
+      213: -1826225688138594550
+    second: cape_gray_147
+  - first:
+      213: 3063932629658491267
+    second: cape_gray_148
+  - first:
+      213: 2556607309321410437
+    second: cape_gray_149
+  - first:
+      213: 1022257670027356650
+    second: cape_gray_150
+  - first:
+      213: -8650577161912875144
+    second: cape_gray_151
+  - first:
+      213: -784417622642831131
+    second: cape_gray_152
+  - first:
+      213: -8990316385224681687
+    second: cape_gray_153
+  - first:
+      213: 9048173751446211572
+    second: cape_gray_154
+  - first:
+      213: -6021006586475057267
+    second: cape_gray_155
+  - first:
+      213: 2490166012832868060
+    second: cape_gray_156
+  - first:
+      213: -9042401133538447401
+    second: cape_gray_157
+  - first:
+      213: 1722787003536977362
+    second: cape_gray_158
+  - first:
+      213: 7041505608612399650
+    second: cape_gray_159
+  - first:
+      213: 5026669455961181645
+    second: cape_gray_160
+  - first:
+      213: 6834333885391763041
+    second: cape_gray_161
+  - first:
+      213: 134349780239605338
+    second: cape_gray_162
+  - first:
+      213: -9007152935188835160
+    second: cape_gray_163
+  - first:
+      213: -8865713435611777442
+    second: cape_gray_164
+  - first:
+      213: 6145345222384283696
+    second: cape_gray_165
+  - first:
+      213: -869826072018638192
+    second: cape_gray_166
+  - first:
+      213: 2361130775857962072
+    second: cape_gray_167
+  - first:
+      213: 2723004396860335950
+    second: cape_gray_168
+  - first:
+      213: 4235880794290924312
+    second: cape_gray_169
+  - first:
+      213: 8863913943940212224
+    second: cape_gray_170
+  - first:
+      213: 6726070096817418322
+    second: cape_gray_171
+  - first:
+      213: -3827507698425822479
+    second: cape_gray_172
+  - first:
+      213: 2253433327517048737
+    second: cape_gray_173
+  - first:
+      213: -606063317009304593
+    second: cape_gray_174
+  - first:
+      213: 6002598680719098621
+    second: cape_gray_175
+  - first:
+      213: 1537433732602687893
+    second: cape_gray_176
+  - first:
+      213: 1968403809017436292
+    second: cape_gray_177
+  - first:
+      213: -5698918194489103960
+    second: cape_gray_178
+  - first:
+      213: -6147989942324228513
+    second: cape_gray_179
+  - first:
+      213: 6543420320427334276
+    second: cape_gray_180
+  - first:
+      213: 957515814226649357
+    second: cape_gray_181
+  - first:
+      213: -1233082667437218606
+    second: cape_gray_182
+  - first:
+      213: -9160301838732501065
+    second: cape_gray_183
+  - first:
+      213: -7338492151098272980
+    second: cape_gray_184
+  - first:
+      213: 5256140941567179983
+    second: cape_gray_185
+  - first:
+      213: -4825141306977336784
+    second: cape_gray_186
+  - first:
+      213: 2874259441748528539
+    second: cape_gray_187
+  - first:
+      213: 3655407561893226841
+    second: cape_gray_188
+  - first:
+      213: -2007511943710093124
+    second: cape_gray_189
+  - first:
+      213: 4578957265508730727
+    second: cape_gray_190
+  - first:
+      213: 7977781742363632226
+    second: cape_gray_191
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cape_gray_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1282
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fd2be0605eaafc0800000000000000
+      internalID: -3482719547638489219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1282
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88517f9fcc1a0510800000000000000
+      internalID: 1516055902622406794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1282
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365070473166b13b0800000000000000
+      internalID: -5540722682812234397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1282
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3545b7aa12990c5f0800000000000000
+      internalID: -738421969015581613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1282
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116643442769bc210800000000000000
+      internalID: 1354341530469688849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_5
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1282
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ac51d12a93b8e50800000000000000
+      internalID: 6812602229763459659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_6
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1282
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5494a3dde6e0c6b20800000000000000
+      internalID: 3128891710436428101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_7
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1221
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e05568e43270fe0800000000000000
+      internalID: -1222969953639657841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_8
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1221
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97d6ba0ab744c8e0800000000000000
+      internalID: -1674134297105737829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_9
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1221
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40526604ae0b949f0800000000000000
+      internalID: -483660964816345852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_10
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1221
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8178afe194881a870800000000000000
+      internalID: 8692378603435493144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_11
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1222
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb250fa55d8ebc00800000000000000
+      internalID: 918326773178248175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_12
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1221
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f4ec3ea7ad948a0800000000000000
+      internalID: -6320280380694966400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_13
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1221
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc1d11ca559b12d0800000000000000
+      internalID: -3306885284353991499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_14
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1156
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130f02adcdd1023c0800000000000000
+      internalID: -4386473202669260751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_15
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1156
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cac12d7b16dfc910800000000000000
+      internalID: 1859940584679131842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_16
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1157
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb05b0ff26037250800000000000000
+      internalID: 5941099136403442674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_17
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1157
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22faac67488f975f0800000000000000
+      internalID: -758301814422851806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_18
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1157
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d09449702be97950800000000000000
+      internalID: 6447442866263593171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_19
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1157
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68cdbc68775131f0800000000000000
+      internalID: -1066975461978027923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_20
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1157
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b1ccc411d166ac0800000000000000
+      internalID: -3862367670283527292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_21
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1157
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60dbb15b784f261e0800000000000000
+      internalID: -2205932003761865466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_22
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1157
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5e731d5463521a0800000000000000
+      internalID: -6834997185974114819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_23
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1157
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68612bb8dbd5a7b0800000000000000
+      internalID: -5213519269712533394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_24
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1157
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48652ef2fc6e5390800000000000000
+      internalID: -7827699311421593526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_25
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1157
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462fdba70e0d3ab90800000000000000
+      internalID: -7231706914076364188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_26
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1157
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3ac9b6606201940800000000000000
+      internalID: 5264749773413196769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_27
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1157
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a8b2ec909a50050800000000000000
+      internalID: 5766200757496547861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_28
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1093
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f13f171798e3d700800000000000000
+      internalID: 564050113977070072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_29
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1093
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a1d7f27145fe810800000000000000
+      internalID: 1796747234901826053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_30
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1093
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb45daf019daa58d0800000000000000
+      internalID: -2856780175068277572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_31
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1093
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae64c1a6192ac6190800000000000000
+      internalID: -7967814895291054358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_32
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1093
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778e6aaa6292162b0800000000000000
+      internalID: -5593144016168884105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_33
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1093
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa631e55331614c0800000000000000
+      internalID: -4317242072855516499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_34
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1093
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e9064e450ac9440800000000000000
+      internalID: 4944002777415196192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_35
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1025
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f617a300b67960780800000000000000
+      internalID: -8717113542907891345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_36
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 965
+        width: 54
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de503a1021bbe7d60800000000000000
+      internalID: 7889949283210954221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_37
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1024
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab3779a830bb9e70800000000000000
+      internalID: 9123079227576892327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_38
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 966
+        width: 21
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927efe19e02cd0950800000000000000
+      internalID: 6416998411906574121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_39
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 966
+        width: 19
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5adae7ec9f83820800000000000000
+      internalID: 2898341025496802721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_40
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1025
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19e5f8b94f2326b0800000000000000
+      internalID: -5322358340939552482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_41
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 966
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a285c9594b2ae8160800000000000000
+      internalID: 7029734964859787306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_42
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 966
+        width: 20
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6630c31687385a8b0800000000000000
+      internalID: -5141558846522915994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_43
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1025
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca26b447e5e0ed600800000000000000
+      internalID: 494848807898145452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_44
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 965
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e5da9e0be7d7ca0800000000000000
+      internalID: -6017514228797317592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_45
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 966
+        width: 23
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3804a70038243a0800000000000000
+      internalID: -6682634858990107658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_46
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 900
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79964a85c7c719e70800000000000000
+      internalID: 9120207593906923927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_47
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 900
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a4d0dd8d4255760800000000000000
+      internalID: 7445898072767154735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_48
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 903
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897fc1909d5a8c4d0800000000000000
+      internalID: -3114056790747318376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_49
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 903
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db901347b4333cb0800000000000000
+      internalID: -4885503209058034732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_50
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 906
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79184a62fd13172d0800000000000000
+      internalID: -3282787818880597609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_51
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 902
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83141767582f86f0800000000000000
+      internalID: -680280662853020790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_52
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 906
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9895fcfea3c4ff710800000000000000
+      internalID: 1729184597948717449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_53
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 902
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dbcc92c3715fb780800000000000000
+      internalID: -8665117600409400368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_54
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 905
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc23ea68969459a50800000000000000
+      internalID: 6527203952523358924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_55
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 901
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e90b14f9a2bbdc0800000000000000
+      internalID: -3622254611799171425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_56
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 905
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6495bb4a8324154a0800000000000000
+      internalID: -6606426367326463674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_57
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 901
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722be2297f878dce0800000000000000
+      internalID: -1380220281084267993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_58
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 905
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91967459492729d70800000000000000
+      internalID: 9048420583825959193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_59
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 901
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ac1262938209f70800000000000000
+      internalID: 9191891065381177981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_60
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 906
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e447c945ba907c5b0800000000000000
+      internalID: -5348295401015577522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_61
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 902
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0e8f7674684a290800000000000000
+      internalID: -7880025806746361607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_62
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 837
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ede09bd6ac48bba0800000000000000
+      internalID: -6073019817977123359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_63
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 770
+        width: 26
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08fbf79d190cba330800000000000000
+      internalID: 3723281249603665792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_64
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 709
+        width: 26
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb807c0c3e1b0c80800000000000000
+      internalID: -8355551440400249915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_65
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 769
+        width: 26
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b996b6ab12b05e2d0800000000000000
+      internalID: -3250179316588516965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_66
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 838
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d1e403bc959a5f0800000000000000
+      internalID: -744965534129447679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_67
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 708
+        width: 26
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9feddb9b729c1740800000000000000
+      internalID: 5124131535634427805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_68
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 837
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d57b39841bb703f0800000000000000
+      internalID: -934572700779973165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_69
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 769
+        width: 26
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3d9e774a22032a0800000000000000
+      internalID: -6759864950901320724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_70
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 770
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70603abac7a649d60800000000000000
+      internalID: 7896053130375398919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_71
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 769
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed309a83330752fe0800000000000000
+      internalID: -1214441159210236962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_72
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 769
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd259dd1d732c3c70800000000000000
+      internalID: 8952069179584369371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_73
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 709
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02fae275254339b80800000000000000
+      internalID: -8389304152606462176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_74
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 709
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ee1de4e38c95950800000000000000
+      internalID: 6438397312238743142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_75
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 709
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1950789691a325780800000000000000
+      internalID: -8695824049679956591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_76
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 709
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c5c3c8ea85091c0800000000000000
+      internalID: -4498998521042805757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_77
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 708
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46014405ae0e61020800000000000000
+      internalID: 2312282755674935396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_78
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 644
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0116e6d1022e350800000000000000
+      internalID: 6044428960662622457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_79
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 644
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6946cd2afe70cd0800000000000000
+      internalID: -2591839577767110931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_80
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 647
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f647f1b9cec4380800000000000000
+      internalID: -8985547005519171735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_81
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 647
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd968bf2462898b0800000000000000
+      internalID: -5145320505141191243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_82
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 645
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a46e20bbe790540800000000000000
+      internalID: 4974646605080054410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_83
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 646
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3944138702d08d50800000000000000
+      internalID: 6737615972252010810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_84
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 646
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce44e769ab23fb80800000000000000
+      internalID: -8362292076504396092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_85
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 644
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d66538e1eaf1a60800000000000000
+      internalID: 7647022138374122822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_86
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 644
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765211a48fa33ec20800000000000000
+      internalID: 3234493795451086183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_87
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 647
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447f42f55c6102280800000000000000
+      internalID: -9070224612563552444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_88
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 647
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6fe61b67207d8f30800000000000000
+      internalID: 4579439710708363116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_89
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 645
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf70d92029804ccb0800000000000000
+      internalID: -4844737875941718020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_90
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 581
+        width: 7
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6054cbc6ee6794bf0800000000000000
+      internalID: -339609530491190010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_91
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 646
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f2dd685671b4300800000000000000
+      internalID: 237309130188861331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_92
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 582
+        width: 7
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b36f0fc529302c0800000000000000
+      internalID: -4466565477544084735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_93
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 645
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2e536a195294c10800000000000000
+      internalID: 2038201613850895053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_94
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 581
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b83326a0109ecde0800000000000000
+      internalID: -1310952040337033032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_95
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 515
+        width: 26
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3acfdc72d795fbbf0800000000000000
+      internalID: -306427855564309341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_96
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 581
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b24db0acddb674b0800000000000000
+      internalID: -5442954344343453004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_97
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 581
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321f38a2f650f4a40800000000000000
+      internalID: 5354504456979607843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_98
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 515
+        width: 27
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeaad439e8725bd70800000000000000
+      internalID: 9058189718835800810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_99
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 580
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf426f3698df5c020800000000000000
+      internalID: 2361572346155115772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_100
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 514
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95f5fcc99dfa16f0800000000000000
+      internalID: -712978753974307428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_101
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 513
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59b6c8b62e0dc6f0800000000000000
+      internalID: -662858010682017441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_102
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 514
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02bf3aa0ec0f7e20800000000000000
+      internalID: 3350410806855447053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_103
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 515
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9bbd7fa1f2c93f0800000000000000
+      internalID: -892786833252173389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_104
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 453
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9d7d91fc2170ea0800000000000000
+      internalID: -5906731705572009567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_105
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 453
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16db65867ccd6c90800000000000000
+      internalID: -7174853821914687971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_106
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 454
+        width: 69
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552f0f8a78af24a20800000000000000
+      internalID: 3045271758617768533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_107
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 454
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa205535feb84160800000000000000
+      internalID: 7010062780372888306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_108
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 388
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30273d1e90099b1a0800000000000000
+      internalID: -6793240190793846269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_109
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 388
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c2045f180a46070800000000000000
+      internalID: 8098774509944843295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_110
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 389
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896917ff510ad9150800000000000000
+      internalID: 5881032704756127384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_111
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 389
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16187f588dd39e0f0800000000000000
+      internalID: -1087269834863443615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_112
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 388
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc007289365544e80800000000000000
+      internalID: -8195331535664643891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_113
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 393
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78fe4849e3c08d30800000000000000
+      internalID: 4431757440040499325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_114
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 391
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe6447feb86f3020800000000000000
+      internalID: 2323691102147997431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_115
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 391
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a604440f24c63d80800000000000000
+      internalID: -8271207959405263194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_116
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 391
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ea15f34ec40e810800000000000000
+      internalID: 1792517194892029489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_117
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 391
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3e6003c80df9fb0800000000000000
+      internalID: -4638759790648564813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_118
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 389
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b642f2af60f6ec90800000000000000
+      internalID: -7140755796883519819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_119
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 325
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70608ca44cd839e30800000000000000
+      internalID: 4509103526135727623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_120
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 257
+        width: 25
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f0aa1e3ca7d7ae0800000000000000
+      internalID: -1549947715022352595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_121
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 325
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f11a3d040cd71a90800000000000000
+      internalID: -7343158757444414984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_122
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 258
+        width: 24
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61417ebd29b58d020800000000000000
+      internalID: 2366742290495902742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_123
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 325
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62fe41936f3322dc0800000000000000
+      internalID: -3665310014113517786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_124
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 325
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad33a02f9e2ca6cf0800000000000000
+      internalID: -258179718576458790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_125
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 258
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b98f61abc036dc80800000000000000
+      internalID: -8298391612238624335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_126
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 258
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6205f2626aa94f0800000000000000
+      internalID: -821161299108944146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_127
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 258
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20520445e1e00fff0800000000000000
+      internalID: -4488076202072830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_128
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 258
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b733dd09b1709fa0800000000000000
+      internalID: -5796007680810993741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_129
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 258
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4abbc6dc040529630800000000000000
+      internalID: 3932293663902448548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_130
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 258
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202e395ac27ebcda0800000000000000
+      internalID: -5923386705933245950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_131
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 258
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2ab15544e812910800000000000000
+      internalID: 1810884949316444839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_132
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 258
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e691628b5f303c20800000000000000
+      internalID: 3184114598812948198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_133
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 258
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0271259ab7e0cc810800000000000000
+      internalID: 1786819076443739936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_134
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 258
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e7755148ce5e880800000000000000
+      internalID: -8582193462846718390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_135
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 258
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc627b62946202e0800000000000000
+      internalID: -2161054291153752899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_136
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 197
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595e46ad26a5ee520800000000000000
+      internalID: 2733221404477810069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_137
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 198
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31004b927bbd0e380800000000000000
+      internalID: -8943907280232644589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_138
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 197
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9788b716bb9dcfbd0800000000000000
+      internalID: -2594959886454650759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_139
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 195
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2aa6712460885990800000000000000
+      internalID: -7397021220409529811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_140
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 197
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef6ec08823562ba0800000000000000
+      internalID: -6114108010684059680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_141
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 197
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d5aa2f965e41d10800000000000000
+      internalID: 2095551969839701402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_142
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 197
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90c3557e0f27e610800000000000000
+      internalID: 1650339527599046811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_143
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 197
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4619512fe4aa92b0800000000000000
+      internalID: -5576963841581312437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_144
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 197
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ffd988013542460800000000000000
+      internalID: 7215983833431015187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_145
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 197
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48bc6f74574522280800000000000000
+      internalID: -9069593836875494524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_146
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 197
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de855bbf503500c50800000000000000
+      internalID: 6629389936652277997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_147
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 197
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a074ec29961f7a6e0800000000000000
+      internalID: -1826225688138594550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_148
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 197
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389d5864e76458a20800000000000000
+      internalID: 3063932629658491267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_149
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 132
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58715466dc4ea7320800000000000000
+      internalID: 2556607309321410437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_150
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 132
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae926ea4fe9cf2e00800000000000000
+      internalID: 1022257670027356650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_151
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 135
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877831a67e9f2f780800000000000000
+      internalID: -8650577161912875144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_152
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 135
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e051d604503d15f0800000000000000
+      internalID: -784417622642831131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_153
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 138
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9271f4061eafb3380800000000000000
+      internalID: -8990316385224681687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_154
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 134
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb07f07612919d70800000000000000
+      internalID: 9048173751446211572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_155
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 137
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8fedd60966117ca0800000000000000
+      internalID: -6021006586475057267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_156
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 133
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd667a29bc8de8220800000000000000
+      internalID: 2490166012832868060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_157
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 137
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dfe9d6e310f28280800000000000000
+      internalID: -9042401133538447401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_158
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 133
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd2b79e6a198e710800000000000000
+      internalID: 1722787003536977362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_159
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 137
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a43452b0478b160800000000000000
+      internalID: 7041505608612399650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_160
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 133
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd4fdddc3152c540800000000000000
+      internalID: 5026669455961181645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_161
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 137
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166f03b757e68de50800000000000000
+      internalID: 6834333885391763041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_162
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 133
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e55dec96e4dd100800000000000000
+      internalID: 134349780239605338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_163
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 136
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4d37c902a200380800000000000000
+      internalID: -9007152935188835160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_164
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 132
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56b3f55a98a6f480800000000000000
+      internalID: -8865713435611777442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_165
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 137
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030fb5a9be6a84550800000000000000
+      internalID: 6145345222384283696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_166
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 133
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09aa4f8cbc1cde3f0800000000000000
+      internalID: -869826072018638192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_167
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 137
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c914b4eeb64c020800000000000000
+      internalID: 2361130775857962072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_168
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 133
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47efa4621e0ac520800000000000000
+      internalID: 2723004396860335950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_169
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 137
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b2c96c32fd8ca30800000000000000
+      internalID: 4235880794290924312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_170
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 133
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006203cd4c2f20b70800000000000000
+      internalID: 8863913943940212224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_171
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 137
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250fd27ed1dc75d50800000000000000
+      internalID: 6726070096817418322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_172
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 133
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2814cf606f1eac0800000000000000
+      internalID: -3827507698425822479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_173
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 137
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af1ea31cadc54f10800000000000000
+      internalID: 2253433327517048737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_174
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 133
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3f34ecf94d697f0800000000000000
+      internalID: -606063317009304593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_175
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 69
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df28d7d62b38d4350800000000000000
+      internalID: 6002598680719098621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_176
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 70
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5917c7985df065510800000000000000
+      internalID: 1537433732602687893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_177
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 69
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4889203d5dc215b10800000000000000
+      internalID: 1968403809017436292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_178
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 67
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a96775a81069e0b0800000000000000
+      internalID: -5698918194489103960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_179
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 69
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e071d88b3fdaaa0800000000000000
+      internalID: -6147989942324228513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_180
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 69
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ad427ec16eeca50800000000000000
+      internalID: 6543420320427334276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_181
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 69
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d016cc55f87c94d00800000000000000
+      internalID: 957515814226649357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_182
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 69
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4a6bcd8d533eee0800000000000000
+      internalID: -1233082667437218606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_183
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 69
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bfddf2d20210e080800000000000000
+      internalID: -9160301838732501065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_184
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 69
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c239bc20540782a90800000000000000
+      internalID: -7338492151098272980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_185
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 69
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fccbf7f865091f840800000000000000
+      internalID: 5256140941567179983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_186
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 69
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0324d86cb87a90db0800000000000000
+      internalID: -4825141306977336784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_187
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 69
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9dcbb9dbbb63e720800000000000000
+      internalID: 2874259441748528539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_188
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 14
+        width: 91
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9592ce37fcd9ab230800000000000000
+      internalID: 3655407561893226841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_189
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 3
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb05ec00682e324e0800000000000000
+      internalID: -2007511943710093124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_190
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 3
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76787546f59bb8f30800000000000000
+      internalID: 4578957265508730727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_gray_191
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 5
+        width: 72
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2626e210a36c6be60800000000000000
+      internalID: 7977781742363632226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

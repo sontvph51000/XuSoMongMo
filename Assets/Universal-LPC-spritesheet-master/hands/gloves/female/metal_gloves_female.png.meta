@@ -1,0 +1,7455 @@
+fileFormatVersion: 2
+guid: 8b2d10271f5a11b4fa78ae4b841e4ac4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3936527752356542219
+    second: metal_gloves_female_0
+  - first:
+      213: -7314927126398551006
+    second: metal_gloves_female_1
+  - first:
+      213: 3574068928972041156
+    second: metal_gloves_female_2
+  - first:
+      213: -1340254921953374423
+    second: metal_gloves_female_3
+  - first:
+      213: 3728237469906487473
+    second: metal_gloves_female_4
+  - first:
+      213: -4057069664185057818
+    second: metal_gloves_female_5
+  - first:
+      213: -1697671336593717160
+    second: metal_gloves_female_6
+  - first:
+      213: 7667883854280373744
+    second: metal_gloves_female_7
+  - first:
+      213: -4593968928568351498
+    second: metal_gloves_female_8
+  - first:
+      213: -4079841415159792170
+    second: metal_gloves_female_9
+  - first:
+      213: -1242348473616677003
+    second: metal_gloves_female_10
+  - first:
+      213: 8218883151259097633
+    second: metal_gloves_female_11
+  - first:
+      213: 3942894995944099505
+    second: metal_gloves_female_12
+  - first:
+      213: -5290401478573259184
+    second: metal_gloves_female_13
+  - first:
+      213: 5822903807073905639
+    second: metal_gloves_female_14
+  - first:
+      213: -1852730590749918405
+    second: metal_gloves_female_15
+  - first:
+      213: -6135669176063448663
+    second: metal_gloves_female_16
+  - first:
+      213: 1729908867579439724
+    second: metal_gloves_female_17
+  - first:
+      213: -6183337837467961734
+    second: metal_gloves_female_18
+  - first:
+      213: 3641480117581592633
+    second: metal_gloves_female_19
+  - first:
+      213: -197115371850906085
+    second: metal_gloves_female_20
+  - first:
+      213: 1067805115655399917
+    second: metal_gloves_female_21
+  - first:
+      213: -6534964800514821848
+    second: metal_gloves_female_22
+  - first:
+      213: 7993848095093466550
+    second: metal_gloves_female_23
+  - first:
+      213: 6703599532649183115
+    second: metal_gloves_female_24
+  - first:
+      213: 3540911064120191610
+    second: metal_gloves_female_25
+  - first:
+      213: -4101163876331595947
+    second: metal_gloves_female_26
+  - first:
+      213: -2020377583622706772
+    second: metal_gloves_female_27
+  - first:
+      213: -5951341291991692821
+    second: metal_gloves_female_28
+  - first:
+      213: -919431868364202508
+    second: metal_gloves_female_29
+  - first:
+      213: -1539866084808425605
+    second: metal_gloves_female_30
+  - first:
+      213: 7995922743524627955
+    second: metal_gloves_female_31
+  - first:
+      213: 8923063088738056736
+    second: metal_gloves_female_32
+  - first:
+      213: 4266062037668098839
+    second: metal_gloves_female_33
+  - first:
+      213: -2861644523680072691
+    second: metal_gloves_female_34
+  - first:
+      213: -4045106122353352260
+    second: metal_gloves_female_35
+  - first:
+      213: 2288261236130067946
+    second: metal_gloves_female_36
+  - first:
+      213: -5140015638992037692
+    second: metal_gloves_female_37
+  - first:
+      213: 9119168495694249656
+    second: metal_gloves_female_38
+  - first:
+      213: 4493238804029973737
+    second: metal_gloves_female_39
+  - first:
+      213: 5090893398816987397
+    second: metal_gloves_female_40
+  - first:
+      213: -6637484001554641996
+    second: metal_gloves_female_41
+  - first:
+      213: -3526709628750029657
+    second: metal_gloves_female_42
+  - first:
+      213: 8269409249611952884
+    second: metal_gloves_female_43
+  - first:
+      213: 3898680294924617762
+    second: metal_gloves_female_44
+  - first:
+      213: -1246914075681511730
+    second: metal_gloves_female_45
+  - first:
+      213: -5785379500661723140
+    second: metal_gloves_female_46
+  - first:
+      213: 6647342338488471900
+    second: metal_gloves_female_47
+  - first:
+      213: -7051030262812656223
+    second: metal_gloves_female_48
+  - first:
+      213: 4931988901221075602
+    second: metal_gloves_female_49
+  - first:
+      213: 743253016524011556
+    second: metal_gloves_female_50
+  - first:
+      213: -4636561827495357519
+    second: metal_gloves_female_51
+  - first:
+      213: 6058317992395549688
+    second: metal_gloves_female_52
+  - first:
+      213: -5319930514206649621
+    second: metal_gloves_female_53
+  - first:
+      213: -7725236175000724943
+    second: metal_gloves_female_54
+  - first:
+      213: -8242201440632966118
+    second: metal_gloves_female_55
+  - first:
+      213: 6435551479381174345
+    second: metal_gloves_female_56
+  - first:
+      213: 563835618243594386
+    second: metal_gloves_female_57
+  - first:
+      213: -2493091059435657914
+    second: metal_gloves_female_58
+  - first:
+      213: -5434523251137398125
+    second: metal_gloves_female_59
+  - first:
+      213: -2745062501039012735
+    second: metal_gloves_female_60
+  - first:
+      213: 6099031010101989126
+    second: metal_gloves_female_61
+  - first:
+      213: 6134036201839250698
+    second: metal_gloves_female_62
+  - first:
+      213: 4177995686014556905
+    second: metal_gloves_female_63
+  - first:
+      213: -4032428351627614988
+    second: metal_gloves_female_64
+  - first:
+      213: 1310193245753396001
+    second: metal_gloves_female_65
+  - first:
+      213: -6998933142420296667
+    second: metal_gloves_female_66
+  - first:
+      213: -9079899874991376254
+    second: metal_gloves_female_67
+  - first:
+      213: -6616463012967121546
+    second: metal_gloves_female_68
+  - first:
+      213: 6551864929708333046
+    second: metal_gloves_female_69
+  - first:
+      213: -2113148288558087372
+    second: metal_gloves_female_70
+  - first:
+      213: -639869344560552174
+    second: metal_gloves_female_71
+  - first:
+      213: -6936385453646077947
+    second: metal_gloves_female_72
+  - first:
+      213: 7816380851420070306
+    second: metal_gloves_female_73
+  - first:
+      213: -8713514787334252542
+    second: metal_gloves_female_74
+  - first:
+      213: -5789790940504507170
+    second: metal_gloves_female_75
+  - first:
+      213: -1622363909432416735
+    second: metal_gloves_female_76
+  - first:
+      213: 172517206841724418
+    second: metal_gloves_female_77
+  - first:
+      213: 1516808028102361392
+    second: metal_gloves_female_78
+  - first:
+      213: 6995804861164452001
+    second: metal_gloves_female_79
+  - first:
+      213: -2777612899504501310
+    second: metal_gloves_female_80
+  - first:
+      213: 2596976599207714110
+    second: metal_gloves_female_81
+  - first:
+      213: -1207993681041722022
+    second: metal_gloves_female_82
+  - first:
+      213: -648629066224902276
+    second: metal_gloves_female_83
+  - first:
+      213: 4186309190346611141
+    second: metal_gloves_female_84
+  - first:
+      213: 7593887002433605658
+    second: metal_gloves_female_85
+  - first:
+      213: -8979450004475942973
+    second: metal_gloves_female_86
+  - first:
+      213: -6731825367428512928
+    second: metal_gloves_female_87
+  - first:
+      213: -1001221300636254747
+    second: metal_gloves_female_88
+  - first:
+      213: -8600109892831048665
+    second: metal_gloves_female_89
+  - first:
+      213: 8668279139819377814
+    second: metal_gloves_female_90
+  - first:
+      213: -3854257838734711156
+    second: metal_gloves_female_91
+  - first:
+      213: -3709550184698741840
+    second: metal_gloves_female_92
+  - first:
+      213: 3659845726054467307
+    second: metal_gloves_female_93
+  - first:
+      213: -3196616948649675045
+    second: metal_gloves_female_94
+  - first:
+      213: -193809266160964960
+    second: metal_gloves_female_95
+  - first:
+      213: 9118957514720048434
+    second: metal_gloves_female_96
+  - first:
+      213: 2352519759630510954
+    second: metal_gloves_female_97
+  - first:
+      213: 8506917409030363246
+    second: metal_gloves_female_98
+  - first:
+      213: -5516177105136104220
+    second: metal_gloves_female_99
+  - first:
+      213: -2879467790120374219
+    second: metal_gloves_female_100
+  - first:
+      213: -5578174858278545108
+    second: metal_gloves_female_101
+  - first:
+      213: 3575878154342238442
+    second: metal_gloves_female_102
+  - first:
+      213: 886749514693216226
+    second: metal_gloves_female_103
+  - first:
+      213: 8426509940084760673
+    second: metal_gloves_female_104
+  - first:
+      213: -1564014138176833634
+    second: metal_gloves_female_105
+  - first:
+      213: 2160619969758845188
+    second: metal_gloves_female_106
+  - first:
+      213: -144819197807315252
+    second: metal_gloves_female_107
+  - first:
+      213: -9024070608624564048
+    second: metal_gloves_female_108
+  - first:
+      213: -5718016967067811259
+    second: metal_gloves_female_109
+  - first:
+      213: -710203571027499097
+    second: metal_gloves_female_110
+  - first:
+      213: -8791547236310719247
+    second: metal_gloves_female_111
+  - first:
+      213: 572833116303925871
+    second: metal_gloves_female_112
+  - first:
+      213: 1318940305617482510
+    second: metal_gloves_female_113
+  - first:
+      213: 1962777844314348573
+    second: metal_gloves_female_114
+  - first:
+      213: 3945332344942743920
+    second: metal_gloves_female_115
+  - first:
+      213: -1862184524817010730
+    second: metal_gloves_female_116
+  - first:
+      213: -3213468136758543388
+    second: metal_gloves_female_117
+  - first:
+      213: -5123531078504584667
+    second: metal_gloves_female_118
+  - first:
+      213: 7041170160890960197
+    second: metal_gloves_female_119
+  - first:
+      213: 5689996089826698672
+    second: metal_gloves_female_120
+  - first:
+      213: 7118586546325372921
+    second: metal_gloves_female_121
+  - first:
+      213: -3502556486154358448
+    second: metal_gloves_female_122
+  - first:
+      213: -5975348821034129788
+    second: metal_gloves_female_123
+  - first:
+      213: 8578701605194222676
+    second: metal_gloves_female_124
+  - first:
+      213: -7317935002577748054
+    second: metal_gloves_female_125
+  - first:
+      213: 5887002014424626594
+    second: metal_gloves_female_126
+  - first:
+      213: 2927523947467846154
+    second: metal_gloves_female_127
+  - first:
+      213: -6880045134623514055
+    second: metal_gloves_female_128
+  - first:
+      213: -4887109395488516736
+    second: metal_gloves_female_129
+  - first:
+      213: -2091061083590661237
+    second: metal_gloves_female_130
+  - first:
+      213: -2967787475191075883
+    second: metal_gloves_female_131
+  - first:
+      213: -7370537226458124751
+    second: metal_gloves_female_132
+  - first:
+      213: -2790727052131376952
+    second: metal_gloves_female_133
+  - first:
+      213: -5226369334198644476
+    second: metal_gloves_female_134
+  - first:
+      213: 3256759622609506034
+    second: metal_gloves_female_135
+  - first:
+      213: -4249974966595417257
+    second: metal_gloves_female_136
+  - first:
+      213: -641759738814309361
+    second: metal_gloves_female_137
+  - first:
+      213: -3295254624672908412
+    second: metal_gloves_female_138
+  - first:
+      213: 9202321845412210995
+    second: metal_gloves_female_139
+  - first:
+      213: 7758611819173906428
+    second: metal_gloves_female_140
+  - first:
+      213: -3982137711362545994
+    second: metal_gloves_female_141
+  - first:
+      213: 4651046073146889302
+    second: metal_gloves_female_142
+  - first:
+      213: 6532359473593072927
+    second: metal_gloves_female_143
+  - first:
+      213: 3971195304717915761
+    second: metal_gloves_female_144
+  - first:
+      213: 7072842730940281187
+    second: metal_gloves_female_145
+  - first:
+      213: 3846601043824617031
+    second: metal_gloves_female_146
+  - first:
+      213: -1933218049384949581
+    second: metal_gloves_female_147
+  - first:
+      213: 2101186034969404103
+    second: metal_gloves_female_148
+  - first:
+      213: -5205965842352657279
+    second: metal_gloves_female_149
+  - first:
+      213: 7268072948091777703
+    second: metal_gloves_female_150
+  - first:
+      213: -2070076077064973065
+    second: metal_gloves_female_151
+  - first:
+      213: -6910266476833568067
+    second: metal_gloves_female_152
+  - first:
+      213: 2219221509338306541
+    second: metal_gloves_female_153
+  - first:
+      213: -5587997031429981650
+    second: metal_gloves_female_154
+  - first:
+      213: -5652542371566532854
+    second: metal_gloves_female_155
+  - first:
+      213: -6658223260333213349
+    second: metal_gloves_female_156
+  - first:
+      213: -3155479027063657765
+    second: metal_gloves_female_157
+  - first:
+      213: -4705947772570239399
+    second: metal_gloves_female_158
+  - first:
+      213: -5852686624693132495
+    second: metal_gloves_female_159
+  - first:
+      213: -3026558649412357937
+    second: metal_gloves_female_160
+  - first:
+      213: -5584232765015157312
+    second: metal_gloves_female_161
+  - first:
+      213: 119596094372110146
+    second: metal_gloves_female_162
+  - first:
+      213: -3822910029111523507
+    second: metal_gloves_female_163
+  - first:
+      213: -1952127076252398422
+    second: metal_gloves_female_164
+  - first:
+      213: 5566090155863546949
+    second: metal_gloves_female_165
+  - first:
+      213: 2205476074603965
+    second: metal_gloves_female_166
+  - first:
+      213: 5189311455371489516
+    second: metal_gloves_female_167
+  - first:
+      213: -4328311693586247565
+    second: metal_gloves_female_168
+  - first:
+      213: 1361218827115413931
+    second: metal_gloves_female_169
+  - first:
+      213: 285795557527115685
+    second: metal_gloves_female_170
+  - first:
+      213: -2157974335014672401
+    second: metal_gloves_female_171
+  - first:
+      213: 664573665109793467
+    second: metal_gloves_female_172
+  - first:
+      213: 6466504963688965216
+    second: metal_gloves_female_173
+  - first:
+      213: -7063757852040289188
+    second: metal_gloves_female_174
+  - first:
+      213: 3502155416616478619
+    second: metal_gloves_female_175
+  - first:
+      213: 6150149634162711076
+    second: metal_gloves_female_176
+  - first:
+      213: 3347647626650472965
+    second: metal_gloves_female_177
+  - first:
+      213: -2174775002729143704
+    second: metal_gloves_female_178
+  - first:
+      213: -5632757428118665649
+    second: metal_gloves_female_179
+  - first:
+      213: 1659302793316001692
+    second: metal_gloves_female_180
+  - first:
+      213: 166119759735223616
+    second: metal_gloves_female_181
+  - first:
+      213: -4939416628840032597
+    second: metal_gloves_female_182
+  - first:
+      213: -2712522610416720750
+    second: metal_gloves_female_183
+  - first:
+      213: 5588413065640324106
+    second: metal_gloves_female_184
+  - first:
+      213: -5787465424867304548
+    second: metal_gloves_female_185
+  - first:
+      213: -6406220503271652040
+    second: metal_gloves_female_186
+  - first:
+      213: 4515616956085070251
+    second: metal_gloves_female_187
+  - first:
+      213: 3960079669182978831
+    second: metal_gloves_female_188
+  - first:
+      213: -2382277881503484950
+    second: metal_gloves_female_189
+  - first:
+      213: 3926264322822452786
+    second: metal_gloves_female_190
+  - first:
+      213: 856051781562112631
+    second: metal_gloves_female_191
+  - first:
+      213: 4315547720516329988
+    second: metal_gloves_female_192
+  - first:
+      213: 3494287160088523692
+    second: metal_gloves_female_193
+  - first:
+      213: -2198730434583508590
+    second: metal_gloves_female_194
+  - first:
+      213: -3125422342951271781
+    second: metal_gloves_female_195
+  - first:
+      213: -7650100363784507775
+    second: metal_gloves_female_196
+  - first:
+      213: 3194889888533003976
+    second: metal_gloves_female_197
+  - first:
+      213: 7585039758758471887
+    second: metal_gloves_female_198
+  - first:
+      213: -5532521672119154053
+    second: metal_gloves_female_199
+  - first:
+      213: 8991832426474285176
+    second: metal_gloves_female_200
+  - first:
+      213: -333115603502775994
+    second: metal_gloves_female_201
+  - first:
+      213: 7160955622225724877
+    second: metal_gloves_female_202
+  - first:
+      213: -7566502051627012107
+    second: metal_gloves_female_203
+  - first:
+      213: -5112485857116443373
+    second: metal_gloves_female_204
+  - first:
+      213: -5726786711146652662
+    second: metal_gloves_female_205
+  - first:
+      213: 7514292025492539923
+    second: metal_gloves_female_206
+  - first:
+      213: 5315881469322236510
+    second: metal_gloves_female_207
+  - first:
+      213: 4880015861008391849
+    second: metal_gloves_female_208
+  - first:
+      213: 2754870732072828873
+    second: metal_gloves_female_209
+  - first:
+      213: -2807948190440526051
+    second: metal_gloves_female_210
+  - first:
+      213: -2676971235345417825
+    second: metal_gloves_female_211
+  - first:
+      213: 2614976674633118073
+    second: metal_gloves_female_212
+  - first:
+      213: -1748681763270115372
+    second: metal_gloves_female_213
+  - first:
+      213: 7862562518295023369
+    second: metal_gloves_female_214
+  - first:
+      213: -6945627692043716085
+    second: metal_gloves_female_215
+  - first:
+      213: -1332377992866563693
+    second: metal_gloves_female_216
+  - first:
+      213: 7186332214613202576
+    second: metal_gloves_female_217
+  - first:
+      213: 3283158123012687118
+    second: metal_gloves_female_218
+  - first:
+      213: -7079513722624230211
+    second: metal_gloves_female_219
+  - first:
+      213: -4060358732145411737
+    second: metal_gloves_female_220
+  - first:
+      213: 6829403104938640545
+    second: metal_gloves_female_221
+  - first:
+      213: -8267376400262851097
+    second: metal_gloves_female_222
+  - first:
+      213: -1360508280762258261
+    second: metal_gloves_female_223
+  - first:
+      213: -5011071417331825701
+    second: metal_gloves_female_224
+  - first:
+      213: 7565813576469355995
+    second: metal_gloves_female_225
+  - first:
+      213: 8240859623492959351
+    second: metal_gloves_female_226
+  - first:
+      213: 6497680645570261595
+    second: metal_gloves_female_227
+  - first:
+      213: 9038194165657563545
+    second: metal_gloves_female_228
+  - first:
+      213: 2827857622043642557
+    second: metal_gloves_female_229
+  - first:
+      213: -8675673209294496990
+    second: metal_gloves_female_230
+  - first:
+      213: -7772131221958418520
+    second: metal_gloves_female_231
+  - first:
+      213: -1666738521129945187
+    second: metal_gloves_female_232
+  - first:
+      213: 891653352190193340
+    second: metal_gloves_female_233
+  - first:
+      213: 6146838938417237739
+    second: metal_gloves_female_234
+  - first:
+      213: 307175352990848726
+    second: metal_gloves_female_235
+  - first:
+      213: -6295779993443997583
+    second: metal_gloves_female_236
+  - first:
+      213: -2375565453343326170
+    second: metal_gloves_female_237
+  - first:
+      213: 4643936831600868202
+    second: metal_gloves_female_238
+  - first:
+      213: 8021268522028540486
+    second: metal_gloves_female_239
+  - first:
+      213: -3501754625952996143
+    second: metal_gloves_female_240
+  - first:
+      213: -3953973004056478413
+    second: metal_gloves_female_241
+  - first:
+      213: 8921516815669619040
+    second: metal_gloves_female_242
+  - first:
+      213: -2422649017851734282
+    second: metal_gloves_female_243
+  - first:
+      213: -3677097589600833415
+    second: metal_gloves_female_244
+  - first:
+      213: 3076230407327108279
+    second: metal_gloves_female_245
+  - first:
+      213: -4295169774564753152
+    second: metal_gloves_female_246
+  - first:
+      213: -7885884466414529051
+    second: metal_gloves_female_247
+  - first:
+      213: 3163700097628458506
+    second: metal_gloves_female_248
+  - first:
+      213: -7517900878438156840
+    second: metal_gloves_female_249
+  - first:
+      213: 2622506841170541307
+    second: metal_gloves_female_250
+  - first:
+      213: -938174818766386889
+    second: metal_gloves_female_251
+  - first:
+      213: 8158221395919212880
+    second: metal_gloves_female_252
+  - first:
+      213: -2815340570503205458
+    second: metal_gloves_female_253
+  - first:
+      213: -786819450094030697
+    second: metal_gloves_female_254
+  - first:
+      213: 6104162263952699442
+    second: metal_gloves_female_255
+  - first:
+      213: -7789094179469260937
+    second: metal_gloves_female_256
+  - first:
+      213: 378376802882296148
+    second: metal_gloves_female_257
+  - first:
+      213: 8711579821409050084
+    second: metal_gloves_female_258
+  - first:
+      213: 5689325000996215524
+    second: metal_gloves_female_259
+  - first:
+      213: -7189701729737647920
+    second: metal_gloves_female_260
+  - first:
+      213: -2077895710598175703
+    second: metal_gloves_female_261
+  - first:
+      213: 9087850045271929503
+    second: metal_gloves_female_262
+  - first:
+      213: -1921079155629849612
+    second: metal_gloves_female_263
+  - first:
+      213: -2576141468390422755
+    second: metal_gloves_female_264
+  - first:
+      213: 1871730852661308962
+    second: metal_gloves_female_265
+  - first:
+      213: 7453002392307906576
+    second: metal_gloves_female_266
+  - first:
+      213: 8546788346340745940
+    second: metal_gloves_female_267
+  - first:
+      213: 200474612378372638
+    second: metal_gloves_female_268
+  - first:
+      213: 6075665275952706300
+    second: metal_gloves_female_269
+  - first:
+      213: -8599007630619249063
+    second: metal_gloves_female_270
+  - first:
+      213: -3808116012595433714
+    second: metal_gloves_female_271
+  - first:
+      213: -7668423498011567500
+    second: metal_gloves_female_272
+  - first:
+      213: 7903117181724757859
+    second: metal_gloves_female_273
+  - first:
+      213: 1181791053033111679
+    second: metal_gloves_female_274
+  - first:
+      213: 4073173158758092524
+    second: metal_gloves_female_275
+  - first:
+      213: -4692701849286036102
+    second: metal_gloves_female_276
+  - first:
+      213: 8528706951873248496
+    second: metal_gloves_female_277
+  - first:
+      213: -8138060834950590475
+    second: metal_gloves_female_278
+  - first:
+      213: 9114278219059323553
+    second: metal_gloves_female_279
+  - first:
+      213: 3852056327519485865
+    second: metal_gloves_female_280
+  - first:
+      213: -4712413731846586273
+    second: metal_gloves_female_281
+  - first:
+      213: -8045699793554094588
+    second: metal_gloves_female_282
+  - first:
+      213: -4895256033986257177
+    second: metal_gloves_female_283
+  - first:
+      213: -5694139152888036783
+    second: metal_gloves_female_284
+  - first:
+      213: -2584461624772546005
+    second: metal_gloves_female_285
+  - first:
+      213: 7107795117267382502
+    second: metal_gloves_female_286
+  - first:
+      213: -5425300658819421645
+    second: metal_gloves_female_287
+  - first:
+      213: 4964250813232779436
+    second: metal_gloves_female_288
+  - first:
+      213: 336072533547595912
+    second: metal_gloves_female_289
+  - first:
+      213: -7718375142546963464
+    second: metal_gloves_female_290
+  - first:
+      213: -1246756040573216182
+    second: metal_gloves_female_291
+  - first:
+      213: -1813569099919122516
+    second: metal_gloves_female_292
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: metal_gloves_female_0
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1298
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07bda7522b51a630800000000000000
+      internalID: 3936527752356542219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_1
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1298
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c3521e8882c7a90800000000000000
+      internalID: -7314927126398551006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_2
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1301
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cba32231c4a99130800000000000000
+      internalID: 3574068928972041156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_3
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1301
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f008cdf35766de0800000000000000
+      internalID: -1340254921953374423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_4
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1308
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8c310d93c5db330800000000000000
+      internalID: 3728237469906487473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_5
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1308
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed7c3db2a462b7c0800000000000000
+      internalID: -4057069664185057818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1298
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85808fcf9e8a078e0800000000000000
+      internalID: -1697671336593717160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_7
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1298
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5b5514dbbc96a60800000000000000
+      internalID: 7667883854280373744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1292
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4608f6991fe30c0800000000000000
+      internalID: -4593968928568351498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_9
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1292
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd397d49dd7167c0800000000000000
+      internalID: -4079841415159792170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_10
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1236
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57744de35aa42cee0800000000000000
+      internalID: -1242348473616677003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_11
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1235
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12add393ea65f0270800000000000000
+      internalID: 8218883151259097633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_12
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1243
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bec9e3cb1af7b630800000000000000
+      internalID: 3942894995944099505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_13
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1242
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056807e82e7b496b0800000000000000
+      internalID: -5290401478573259184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_14
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1228
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebe8e5592c1fc050800000000000000
+      internalID: 5822903807073905639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_15
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1228
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3bf9d90857c946e0800000000000000
+      internalID: -1852730590749918405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_16
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1228
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9ac6d7469b9daa0800000000000000
+      internalID: -6135669176063448663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_17
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1229
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6aeed913fed10810800000000000000
+      internalID: 1729908867579439724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_18
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1231
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a767d7f5ffe503aa0800000000000000
+      internalID: -6183337837467961734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_19
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1231
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9383911afd2298230800000000000000
+      internalID: 3641480117581592633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_20
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1231
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16ce091d94b34df0800000000000000
+      internalID: -197115371850906085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_21
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1231
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de92cff581b91de00800000000000000
+      internalID: 1067805115655399917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_22
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1173
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821f1ad33242f45a0800000000000000
+      internalID: -6534964800514821848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_23
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1173
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5aa704d7adfee60800000000000000
+      internalID: 7993848095093466550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_24
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1180
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87770cf148f70d50800000000000000
+      internalID: 6703599532649183115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_25
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1180
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a622e2ad7d32130800000000000000
+      internalID: 3540911064120191610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_26
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1164
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5575791fe2db517c0800000000000000
+      internalID: -4101163876331595947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_27
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1164
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9a108ca4d26f3e0800000000000000
+      internalID: -2020377583622706772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_28
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1166
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be988b160a6986da0800000000000000
+      internalID: -5951341291991692821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_29
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1166
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd5afa46958d33f0800000000000000
+      internalID: -919431868364202508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_30
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1167
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f725554fb41aae0800000000000000
+      internalID: -1539866084808425605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_31
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1167
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5904bfe5937fe60800000000000000
+      internalID: 7995922743524627955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_32
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1167
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ab1a05a9615db70800000000000000
+      internalID: 8923063088738056736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_33
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1167
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7137cf812d8143b30800000000000000
+      internalID: 4266062037668098839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_34
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1167
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c7b94a7756948d0800000000000000
+      internalID: -2861644523680072691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_35
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1167
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1ee52e965ecd7c0800000000000000
+      internalID: -4045106122353352260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_36
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1107
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae534d4787981cf10800000000000000
+      internalID: 2288261236130067946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_37
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1108
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c85de1620ffaa8b0800000000000000
+      internalID: -5140015638992037692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_38
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1114
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bef9c07e6bcd8e70800000000000000
+      internalID: 9119168495694249656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_39
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1115
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e42535d2e03b5e30800000000000000
+      internalID: 4493238804029973737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_40
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1100
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5091ed1d29c76a640800000000000000
+      internalID: 5090893398816987397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_41
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1099
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb4ffca77be2e3a0800000000000000
+      internalID: -6637484001554641996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_42
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1100
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac9768274c9e0fc0800000000000000
+      internalID: -3526709628750029657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_43
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1101
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2337936e7d2c270800000000000000
+      internalID: 8269409249611952884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_44
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1103
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2280cc77215ea1630800000000000000
+      internalID: 3898680294924617762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_45
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1103
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6a19d214212bee0800000000000000
+      internalID: -1246914075681511730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_46
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1103
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff2b341ff336bfa0800000000000000
+      internalID: -5785379500661723140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_47
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1103
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51150243aa104c50800000000000000
+      internalID: 6647342338488471900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_48
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1035
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1adb58c7555b52e90800000000000000
+      internalID: -7051030262812656223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_49
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1035
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a837d56c1f17440800000000000000
+      internalID: 4931988901221075602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_50
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1035
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428b62c3ea0905a00800000000000000
+      internalID: 743253016524011556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_51
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1033
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3d00d559f97afb0800000000000000
+      internalID: -4636561827495357519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_52
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1034
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb2811ad18731450800000000000000
+      internalID: 6058317992395549688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_53
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 972
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be293fe226fcb26b0800000000000000
+      internalID: -5319930514206649621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_54
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 973
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a951ff0a27ac490800000000000000
+      internalID: -7725236175000724943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_55
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 973
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14fbd37571dd9d80800000000000000
+      internalID: -8242201440632966118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_56
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 974
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948214639fbaf4950800000000000000
+      internalID: 6435551479381174345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_57
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 974
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2984f19e18523d700800000000000000
+      internalID: 563835618243594386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_58
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 976
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645a2a1f3e2c66dd0800000000000000
+      internalID: -2493091059435657914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_59
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 976
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39aba5c75e1b494b0800000000000000
+      internalID: -5434523251137398125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_60
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 975
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1840353033497e9d0800000000000000
+      internalID: -2745062501039012735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_61
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 975
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f883fb36c14a450800000000000000
+      internalID: 6099031010101989126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_62
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 975
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0dc3021d69702550800000000000000
+      internalID: 6134036201839250698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_63
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 974
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea1302c0f83bf930800000000000000
+      internalID: 4177995686014556905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_64
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 975
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4a50767cfe908c0800000000000000
+      internalID: -4032428351627614988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_65
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 975
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b4f38b0ddbe2210800000000000000
+      internalID: 1310193245753396001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_66
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 976
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c645f836bcede90800000000000000
+      internalID: -6998933142420296667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_67
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 976
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288760bcb27bdf180800000000000000
+      internalID: -9079899874991376254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_68
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 908
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d759af1f99d24a0800000000000000
+      internalID: -6616463012967121546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_69
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 908
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7da97b076ecea50800000000000000
+      internalID: 6551864929708333046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_70
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 911
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43345c6d3d69ca2e0800000000000000
+      internalID: -2113148288558087372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_71
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 909
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2176ec6a83abe17f0800000000000000
+      internalID: -639869344560552174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_72
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 910
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5002d323e220dbf90800000000000000
+      internalID: -6936385453646077947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_73
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 912
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a10f0ea8fc597c60800000000000000
+      internalID: 7816380851420070306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_74
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 910
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20814d39770631780800000000000000
+      internalID: -8713514787334252542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_75
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 908
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc3473b0d786afa0800000000000000
+      internalID: -5789790940504507170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_76
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 910
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126edd9be943c79e0800000000000000
+      internalID: -1622363909432416735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_77
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 913
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e817f4c77e46200800000000000000
+      internalID: 172517206841724418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_78
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 844
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031808b7dd8cc0510800000000000000
+      internalID: 1516808028102361392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_79
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 845
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a878a3b477161160800000000000000
+      internalID: 6995804861164452001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_80
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 845
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cdcd79c8cfe379d0800000000000000
+      internalID: -2777612899504501310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_81
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 846
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d17c525705a0420800000000000000
+      internalID: 2596976599207714110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_82
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 846
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a557796b5285c3fe0800000000000000
+      internalID: -1207993681041722022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_83
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 848
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fdba40d4b9ff6f0800000000000000
+      internalID: -648629066224902276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_84
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 848
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c910925702c81a30800000000000000
+      internalID: 4186309190346611141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_85
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 847
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10d28c9ef7e26960800000000000000
+      internalID: 7593887002433605658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_86
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 847
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7e4dccbc5926380800000000000000
+      internalID: -8979450004475942973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_87
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 846
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063c57cbe70c392a0800000000000000
+      internalID: -6731825367428512928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_88
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 847
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed75022882fa12f0800000000000000
+      internalID: -1001221300636254747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_89
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 847
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c8b782e9546a880800000000000000
+      internalID: -8600109892831048665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_90
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 847
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694dcde73f9eb4870800000000000000
+      internalID: 8668279139819377814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_91
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 848
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86e3799aece28ac0800000000000000
+      internalID: -3854257838734711156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_92
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 848
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bbfb84d2c7058cc0800000000000000
+      internalID: -3709550184698741840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_93
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 780
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be645321c426ac230800000000000000
+      internalID: 3659845726054467307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_94
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 780
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd63eb452d553a3d0800000000000000
+      internalID: -3196616948649675045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_95
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 780
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aaeb40df737f4df0800000000000000
+      internalID: -193809266160964960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_96
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 780
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23574ca9b8b0d8e70800000000000000
+      internalID: 9118957514720048434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_97
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 778
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b2dd7d144d5a020800000000000000
+      internalID: 2352519759630510954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_98
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 780
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6857dadf44ae0670800000000000000
+      internalID: 8506917409030363246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_99
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 778
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec483a162a9273b0800000000000000
+      internalID: -5516177105136104220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_100
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 782
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53032bb0d431a08d0800000000000000
+      internalID: -2879467790120374219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_101
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 779
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29da4555875692b0800000000000000
+      internalID: -5578174858278545108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_102
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 781
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae806ad4c3210a130800000000000000
+      internalID: 3575878154342238442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_103
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 780
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e70a044cfd5e4c00800000000000000
+      internalID: 886749514693216226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_104
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 780
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160ec0b152af0f470800000000000000
+      internalID: 8426509940084760673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_105
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 780
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97f7468d618b4ae0800000000000000
+      internalID: -1564014138176833634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_106
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 778
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40957104a601cfd10800000000000000
+      internalID: 2160619969758845188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_107
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 782
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6b906f4bf7dfdf0800000000000000
+      internalID: -144819197807315252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_108
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 778
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8c3e0d79f04c280800000000000000
+      internalID: -9024070608624564048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_109
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 781
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54244422dd585a0b0800000000000000
+      internalID: -5718016967067811259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_110
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 779
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a721be6d99d426f0800000000000000
+      internalID: -710203571027499097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_111
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 716
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4e1a14e562ef580800000000000000
+      internalID: -8791547236310719247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_112
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 715
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6220ec2fac13f700800000000000000
+      internalID: 572833116303925871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_113
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 714
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03764c4831dd4210800000000000000
+      internalID: 1318940305617482510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_114
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 715
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c1d57dc003d3b10800000000000000
+      internalID: 1962777844314348573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_115
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 716
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071db2d4dd2a0c630800000000000000
+      internalID: 3945332344942743920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_116
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 716
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df6d0c7a013826e0800000000000000
+      internalID: -1862184524817010730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_117
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 716
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb787b51c77763d0800000000000000
+      internalID: -3213468136758543388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_118
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 716
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a6f0631af85e8b0800000000000000
+      internalID: -5123531078504584667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_119
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 715
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5495cf2a4f247b160800000000000000
+      internalID: 7041170160890960197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_120
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 715
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b56b7bfb4de6fe40800000000000000
+      internalID: 5689996089826698672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_121
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 715
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff399c7fbc4ac260800000000000000
+      internalID: 7118586546325372921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_122
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 715
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0517705ee6b646fc0800000000000000
+      internalID: -3502556486154358448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_123
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 652
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4862631f7eb431da0800000000000000
+      internalID: -5975348821034129788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_124
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 652
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ccca378abad0770800000000000000
+      internalID: 8578701605194222676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_125
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 652
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aafb4f123e8717a90800000000000000
+      internalID: -7317935002577748054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_126
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 652
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5f9c53425d2b150800000000000000
+      internalID: 5887002014424626594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_127
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 651
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0235400587a0a820800000000000000
+      internalID: 2927523947467846154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_128
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 653
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9326c10f66b2580a0800000000000000
+      internalID: -6880045134623514055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_129
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 651
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085de67d5ef7d2cb0800000000000000
+      internalID: -4887109395488516736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_130
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 653
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b6fecf50f0bf2e0800000000000000
+      internalID: -2091061083590661237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_131
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 651
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dbe16ce30d40d6d0800000000000000
+      internalID: -2967787475191075883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_132
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 653
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13eab2d717796b990800000000000000
+      internalID: -7370537226458124751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_133
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 652
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0e2a038885549d0800000000000000
+      internalID: -2790727052131376952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_134
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 652
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4015812f7c43877b0800000000000000
+      internalID: -5226369334198644476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_135
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 653
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe89782f95523d20800000000000000
+      internalID: 3256759622609506034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_136
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 651
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b07c3094e0505c0800000000000000
+      internalID: -4249974966595417257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_137
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 653
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c53d0fae20817f0800000000000000
+      internalID: -641759738814309361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_138
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 651
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b78ebb067e442d0800000000000000
+      internalID: -3295254624672908412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_139
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 653
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339ac9066f635bf70800000000000000
+      internalID: 9202321845412210995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_140
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 651
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf70208b7502cab60800000000000000
+      internalID: 7758611819173906428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_141
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 588
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b66c8b89da9cb8c0800000000000000
+      internalID: -3982137711362545994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_142
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 587
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65455efd2c5db8040800000000000000
+      internalID: 4651046073146889302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_143
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 586
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d3ca0d45a97aa50800000000000000
+      internalID: 6532359473593072927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_144
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 587
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176196fd6158c1730800000000000000
+      internalID: 3971195304717915761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_145
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 588
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36136e18df8c72260800000000000000
+      internalID: 7072842730940281187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_146
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 588
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74620d9e44fd16530800000000000000
+      internalID: 3846601043824617031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_147
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 588
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8590d3d64db25e0800000000000000
+      internalID: -1933218049384949581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_148
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 588
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2ec55f099e82d10800000000000000
+      internalID: 2101186034969404103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_149
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 587
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ca0c516a1b0c7b0800000000000000
+      internalID: -5205965842352657279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_150
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 587
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2f2a0a6d16dd460800000000000000
+      internalID: 7268072948091777703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_151
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 587
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4128096cc9543e0800000000000000
+      internalID: -2070076077064973065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_152
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 587
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba8b01604dc910a0800000000000000
+      internalID: -6910266476833568067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_153
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 539
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7140e64324cce10800000000000000
+      internalID: 2219221509338306541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_154
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 536
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2abdaf6e427372b0800000000000000
+      internalID: -5587997031429981650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_155
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 524
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07cee859a22e81b0800000000000000
+      internalID: -5652542371566532854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_156
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 524
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b597894b83d3993a0800000000000000
+      internalID: -6658223260333213349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_157
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 525
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdaeca71b8c7534d0800000000000000
+      internalID: -3155479027063657765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_158
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 525
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ef86c1f6d11beb0800000000000000
+      internalID: -4705947772570239399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_159
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 525
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1336c71168417cea0800000000000000
+      internalID: -5852686624693132495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_160
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 525
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0f3e991f08ff5d0800000000000000
+      internalID: -3026558649412357937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_161
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 525
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c59c2203e1d082b0800000000000000
+      internalID: -5584232765015157312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_162
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 473
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24fd291a304e8a100800000000000000
+      internalID: 119596094372110146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_163
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 474
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47878a459b42fac0800000000000000
+      internalID: -3822910029111523507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_164
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 460
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaccd8754c6a8e4e0800000000000000
+      internalID: -1952127076252398422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_165
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 457
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c9b00a189be3d40800000000000000
+      internalID: 5566090155863546949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_166
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 458
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5ccf96ed5d70000800000000000000
+      internalID: 2205476074603965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_167
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 459
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce078464643240840800000000000000
+      internalID: 5189311455371489516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_168
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 459
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3705f92727fbee3c0800000000000000
+      internalID: -4328311693586247565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_169
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 463
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1c9cbaf4504e210800000000000000
+      internalID: 1361218827115413931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_170
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 461
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7d9cc9b8957f300800000000000000
+      internalID: 285795557527115685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_171
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 461
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe76a0796c55d02e0800000000000000
+      internalID: -2157974335014672401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_172
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 461
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbad2f33a3a093900800000000000000
+      internalID: 664573665109793467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_173
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 396
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0642bf2e004adb950800000000000000
+      internalID: 6466504963688965216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_174
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 396
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5423c1b8ad78fd90800000000000000
+      internalID: -7063757852040289188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_175
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 394
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97a2a3dbc72a9030800000000000000
+      internalID: 3502155416616478619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_176
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 393
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a54c3e188b95550800000000000000
+      internalID: 6150149634162711076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_177
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 395
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5025ea3a7cb357e20800000000000000
+      internalID: 3347647626650472965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_178
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 395
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8622eef48a5a1d1e0800000000000000
+      internalID: -2174775002729143704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_179
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 396
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f464b0776fc64d1b0800000000000000
+      internalID: -5632757428118665649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_180
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 395
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97e9626917070710800000000000000
+      internalID: 1659302793316001692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_181
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 396
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045f0359a0d2e4200800000000000000
+      internalID: 166119759735223616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_182
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 398
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba615580fbaa37bb0800000000000000
+      internalID: -4939416628840032597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_183
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 396
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29465e0be0f2b5ad0800000000000000
+      internalID: -2712522610416720750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_184
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 401
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ca4a313180e8d40800000000000000
+      internalID: 5588413065640324106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_185
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 345
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9bdde00cdaceafa0800000000000000
+      internalID: -5787465424867304548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_186
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 346
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8354ba5d4688817a0800000000000000
+      internalID: -6406220503271652040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_187
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 332
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba96e2162b1baae30800000000000000
+      internalID: 4515616956085070251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_188
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 330
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bd5eb4a7705f630800000000000000
+      internalID: 3960079669182978831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_189
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 329
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3f6bc73e270fed0800000000000000
+      internalID: -2382277881503484950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_190
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 331
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2363f107994ec7630800000000000000
+      internalID: 3926264322822452786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_191
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 331
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a995d4f8e41eb00800000000000000
+      internalID: 856051781562112631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_192
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 333
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4026f9c79c7e3eb30800000000000000
+      internalID: 4315547720516329988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_193
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 335
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3f84898a33e7030800000000000000
+      internalID: 3494287160088523692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_194
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 333
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2994fc1b15a8c71e0800000000000000
+      internalID: -2198730434583508590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_195
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 333
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92025330f440a4d0800000000000000
+      internalID: -3125422342951271781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_196
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 277
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ea988404265d590800000000000000
+      internalID: -7650100363784507775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_197
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 278
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce3f762d67865c20800000000000000
+      internalID: 3194889888533003976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_198
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 282
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8630c2979734960800000000000000
+      internalID: 7585039758758471887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_199
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 282
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a003d0ad88833b0800000000000000
+      internalID: -5532521672119154053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_200
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 278
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878a6db73f769cc70800000000000000
+      internalID: 8991832426474285176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_201
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 278
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641c310af19806bf0800000000000000
+      internalID: -333115603502775994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_202
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 278
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5c913b233d06360800000000000000
+      internalID: 7160955622225724877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_203
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 268
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffe18c19726ef690800000000000000
+      internalID: -7566502051627012107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_204
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 268
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31dad57333dcc09b0800000000000000
+      internalID: -5112485857116443373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_205
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 268
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c1da9f3dd5680b0800000000000000
+      internalID: -5726786711146652662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_206
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 266
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a8806e8c0284860800000000000000
+      internalID: 7514292025492539923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_207
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 268
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e529807180ec5c940800000000000000
+      internalID: 5315881469322236510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_208
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 216
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae5da5f19c49b340800000000000000
+      internalID: 4880015861008391849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_209
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 213
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf325bb5544b3620800000000000000
+      internalID: 2754870732072828873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_210
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 218
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f67197ff92809d0800000000000000
+      internalID: -2807948190440526051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_211
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 220
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f993c4b38dc79dad0800000000000000
+      internalID: -2676971235345417825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_212
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 220
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971707b4e634a4420800000000000000
+      internalID: 2614976674633118073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_213
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 221
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dfb413833f6bb7e0800000000000000
+      internalID: -1748681763270115372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_214
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 219
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f8647e3fe6d1d60800000000000000
+      internalID: 7862562518295023369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_215
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 221
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a3e91e96c2c9f90800000000000000
+      internalID: -6945627692043716085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_216
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 217
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399f3a45641728de0800000000000000
+      internalID: -1332377992866563693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_217
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 218
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09657f9031bfab360800000000000000
+      internalID: 7186332214613202576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_218
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 216
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e050c9ffaee109d20800000000000000
+      internalID: 3283158123012687118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_219
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 213
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbcba7437c380cd90800000000000000
+      internalID: -7079513722624230211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_220
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 216
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76931ddee35b6a7c0800000000000000
+      internalID: -4060358732145411737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_221
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 216
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a441d1b0f9e6ce50800000000000000
+      internalID: 6829403104938640545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_222
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 213
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e592e567f0644d80800000000000000
+      internalID: -8267376400262851097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_223
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 216
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac203b4de08e1de0800000000000000
+      internalID: -1360508280762258261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_224
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 204
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3c2d18819157ab0800000000000000
+      internalID: -5011071417331825701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_225
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 205
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd9846cc5b2ff860800000000000000
+      internalID: 7565813576469355995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_226
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 204
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c38266a2a6d5270800000000000000
+      internalID: 8240859623492959351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_227
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 207
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b527527fe166c2a50800000000000000
+      internalID: 6497680645570261595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_228
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 206
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991f60f05bd1e6d70800000000000000
+      internalID: 9038194165657563545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_229
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 207
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbaca4d46819e3720800000000000000
+      internalID: 2827857622043642557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_230
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 206
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bd0ac8e21d99780800000000000000
+      internalID: -8675673209294496990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_231
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 208
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af127705d7d32490800000000000000
+      internalID: -7772131221958418520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_232
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 208
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97f692552e8ed8e0800000000000000
+      internalID: -1666738521129945187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_233
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 143
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe2518eff9cf5c00800000000000000
+      internalID: 891653352190193340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_234
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 146
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee06e77275fd4550800000000000000
+      internalID: 6146838938417237739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_235
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 149
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d656c62b5e434400800000000000000
+      internalID: 307175352990848726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_236
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 150
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17862c2d375e0a8a0800000000000000
+      internalID: -6295779993443997583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_237
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 143
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62008c47ecb480fd0800000000000000
+      internalID: -2375565453343326170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_238
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 145
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b3ce691f3927040800000000000000
+      internalID: 4643936831600868202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_239
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 145
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642a887e835415f60800000000000000
+      internalID: 8021268522028540486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_240
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 152
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4ad7588b4476fc0800000000000000
+      internalID: -3501754625952996143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_241
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 146
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33dbab9708aa029c0800000000000000
+      internalID: -3953973004056478413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_242
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 152
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06969af86489fcb70800000000000000
+      internalID: 8921516815669619040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_243
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 143
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f69f73dd85016ed0800000000000000
+      internalID: -2422649017851734282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_244
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 150
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970b56f693358fcc0800000000000000
+      internalID: -3677097589600833415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_245
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 143
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bcccf3c147f0ba20800000000000000
+      internalID: 3076230407327108279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_246
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 149
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001c219c8dd7464c0800000000000000
+      internalID: -4295169774564753152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_247
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 143
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e55797ebd5bf8290800000000000000
+      internalID: -7885884466414529051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_248
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 143
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e430f0a78b7eb20800000000000000
+      internalID: 3163700097628458506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_249
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 149
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5b81c8bfc0ba790800000000000000
+      internalID: -7517900878438156840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_250
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 143
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa7001d314056420800000000000000
+      internalID: 2622506841170541307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_251
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 140
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739863619feeaf2f0800000000000000
+      internalID: -938174818766386889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_252
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 140
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05191cea223d73170800000000000000
+      internalID: 8158221395919212880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_253
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 142
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead296ddaa6ede8d0800000000000000
+      internalID: -2815340570503205458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_254
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 142
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790f6cef0e7a415f0800000000000000
+      internalID: -786819450094030697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_255
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 141
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230be32ec3756b450800000000000000
+      internalID: 6104162263952699442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_256
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 85
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7770ca6bc1497e390800000000000000
+      internalID: -7789094179469260937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_257
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 88
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4591c0f82b3404500800000000000000
+      internalID: 378376802882296148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_258
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 92
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed1c8f01bfb5e870800000000000000
+      internalID: 8711579821409050084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_259
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 90
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ead020f1fa84fe40800000000000000
+      internalID: 5689325000996215524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_260
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 93
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8d9f59e5c093c90800000000000000
+      internalID: -7189701729737647920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_261
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 92
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924ec714cd4d923e0800000000000000
+      internalID: -2077895710598175703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_262
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 93
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92737877778e1e70800000000000000
+      internalID: 9087850045271929503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_263
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 91
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3864fafa4f655e0800000000000000
+      internalID: -1921079155629849612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_264
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 90
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d178f65cbf4bf3cd0800000000000000
+      internalID: -2576141468390422755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_265
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 89
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e240c2b49b9f910800000000000000
+      internalID: 1871730852661308962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_266
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 85
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01836a720326e6760800000000000000
+      internalID: 7453002392307906576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_267
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 88
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2a61ad7ba4c9670800000000000000
+      internalID: 8546788346340745940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_268
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 88
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a0c49099a38c200800000000000000
+      internalID: 200474612378372638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_269
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 85
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf23653d069115450800000000000000
+      internalID: 6075665275952706300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_270
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 88
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956f0149e103aa880800000000000000
+      internalID: -8599007630619249063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_271
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 88
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0fa5cda9aad62bc0800000000000000
+      internalID: -3808116012595433714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_272
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 76
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a13c52579449590800000000000000
+      internalID: -7668423498011567500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_273
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 76
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f8dfa44338dad60800000000000000
+      internalID: 7903117181724757859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_274
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 77
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7006ca83b0966010800000000000000
+      internalID: 1181791053033111679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_275
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 78
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee8e644861d68830800000000000000
+      internalID: 4073173158758092524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_276
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 79
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75bc74f78c20eeb0800000000000000
+      internalID: -4692701849286036102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_277
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 78
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc3fc329cd0c5670800000000000000
+      internalID: 8528706951873248496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_278
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 79
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff4044b9cccf0f80800000000000000
+      internalID: -8138060834950590475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_279
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 80
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a26c1f20cb6c7e70800000000000000
+      internalID: 9114278219059323553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_280
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 80
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af389022d0457530800000000000000
+      internalID: 3852056327519485865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_281
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 11
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f508c96ada42a9eb0800000000000000
+      internalID: -4712413731846586273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_282
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 11
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40646cb6aaee75090800000000000000
+      internalID: -8045699793554094588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_283
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 8
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee59a1c29e801cb0800000000000000
+      internalID: -4895256033986257177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_284
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 11
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152077afb9a5af0b0800000000000000
+      internalID: -5694139152888036783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_285
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 6
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22bdc768d5222cd0800000000000000
+      internalID: -2584461624772546005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_286
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 4
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e07afc1006f3a260800000000000000
+      internalID: 7107795117267382502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_287
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 3
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a20679bc575b4b0800000000000000
+      internalID: -5425300658819421645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_288
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 3
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca01faa10df84e440800000000000000
+      internalID: 4964250813232779436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_289
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 3
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888bedc4038f9a400800000000000000
+      internalID: 336072533547595912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_290
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3884993b2d2e490800000000000000
+      internalID: -7718375142546963464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_291
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a9f089cf1a2bee0800000000000000
+      internalID: -1246756040573216182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_gloves_female_292
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 2
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf12b72388e4d6e0800000000000000
+      internalID: -1813569099919122516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

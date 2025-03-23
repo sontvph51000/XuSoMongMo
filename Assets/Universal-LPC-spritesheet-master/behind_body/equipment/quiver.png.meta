@@ -1,0 +1,4580 @@
+fileFormatVersion: 2
+guid: 37d601f8aab66674eaa82292e1fd1dd6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7610712714267260426
+    second: quiver_0
+  - first:
+      213: 3767613404566940908
+    second: quiver_1
+  - first:
+      213: 4480042140738848600
+    second: quiver_2
+  - first:
+      213: 5964467320914181555
+    second: quiver_3
+  - first:
+      213: 7553236534889253955
+    second: quiver_4
+  - first:
+      213: 4315521472998640868
+    second: quiver_5
+  - first:
+      213: -2788430393053357649
+    second: quiver_6
+  - first:
+      213: -778837006666491739
+    second: quiver_7
+  - first:
+      213: 1011264004092098129
+    second: quiver_8
+  - first:
+      213: 4999908319818681416
+    second: quiver_9
+  - first:
+      213: 4906215447197371487
+    second: quiver_10
+  - first:
+      213: -6987079112806158841
+    second: quiver_11
+  - first:
+      213: -5874189828051286927
+    second: quiver_12
+  - first:
+      213: 4731545258458256729
+    second: quiver_13
+  - first:
+      213: -1656438155057788616
+    second: quiver_14
+  - first:
+      213: 2474802909280025050
+    second: quiver_15
+  - first:
+      213: -5359722113914692461
+    second: quiver_16
+  - first:
+      213: -1446487216546883667
+    second: quiver_17
+  - first:
+      213: -4861907722863797787
+    second: quiver_18
+  - first:
+      213: -9011330199379710635
+    second: quiver_19
+  - first:
+      213: 9106239628220252512
+    second: quiver_20
+  - first:
+      213: 867232676008657087
+    second: quiver_21
+  - first:
+      213: -7777494841081021103
+    second: quiver_22
+  - first:
+      213: 1961951173318591261
+    second: quiver_23
+  - first:
+      213: -2414840845740926397
+    second: quiver_24
+  - first:
+      213: 7381775340146181492
+    second: quiver_25
+  - first:
+      213: -3424739919894635049
+    second: quiver_26
+  - first:
+      213: 6798548398196631581
+    second: quiver_27
+  - first:
+      213: 3712109019026677834
+    second: quiver_28
+  - first:
+      213: 2451894831349724393
+    second: quiver_29
+  - first:
+      213: 8063079770982155704
+    second: quiver_30
+  - first:
+      213: -7830853757365561477
+    second: quiver_31
+  - first:
+      213: 5848330524388108088
+    second: quiver_32
+  - first:
+      213: 7015286569271148228
+    second: quiver_33
+  - first:
+      213: 4675813972378641542
+    second: quiver_34
+  - first:
+      213: -4203502880289735465
+    second: quiver_35
+  - first:
+      213: 2235584220942586538
+    second: quiver_36
+  - first:
+      213: 787011682144460322
+    second: quiver_37
+  - first:
+      213: 9112217948215165256
+    second: quiver_38
+  - first:
+      213: -572148428685686405
+    second: quiver_39
+  - first:
+      213: 5279621311163182667
+    second: quiver_40
+  - first:
+      213: -2162174687305735187
+    second: quiver_41
+  - first:
+      213: 7509716486623695495
+    second: quiver_42
+  - first:
+      213: 1714905416331634672
+    second: quiver_43
+  - first:
+      213: -1522100521818882183
+    second: quiver_44
+  - first:
+      213: 1507799126888568811
+    second: quiver_45
+  - first:
+      213: -3567782706536766484
+    second: quiver_46
+  - first:
+      213: -8668295628083191012
+    second: quiver_47
+  - first:
+      213: -495834371752766681
+    second: quiver_48
+  - first:
+      213: -1962873343914531304
+    second: quiver_49
+  - first:
+      213: 8677768155115780861
+    second: quiver_50
+  - first:
+      213: -8346049562361663155
+    second: quiver_51
+  - first:
+      213: 612869311915551255
+    second: quiver_52
+  - first:
+      213: -4044751565120201014
+    second: quiver_53
+  - first:
+      213: -7301176688161635171
+    second: quiver_54
+  - first:
+      213: -5131006359245688240
+    second: quiver_55
+  - first:
+      213: -7271032734089268925
+    second: quiver_56
+  - first:
+      213: 482909362449496299
+    second: quiver_57
+  - first:
+      213: -6202613136569221104
+    second: quiver_58
+  - first:
+      213: -4183336358720930295
+    second: quiver_59
+  - first:
+      213: 6457200933781819305
+    second: quiver_60
+  - first:
+      213: -5788915202042774320
+    second: quiver_61
+  - first:
+      213: 8140973322130227580
+    second: quiver_62
+  - first:
+      213: -7634361915269494231
+    second: quiver_63
+  - first:
+      213: -2889883660667852042
+    second: quiver_64
+  - first:
+      213: 5175810025509225605
+    second: quiver_65
+  - first:
+      213: -6464201080390910719
+    second: quiver_66
+  - first:
+      213: -8933530009939059993
+    second: quiver_67
+  - first:
+      213: 6088962983261806694
+    second: quiver_68
+  - first:
+      213: 6295096887661219928
+    second: quiver_69
+  - first:
+      213: -3996762995077290430
+    second: quiver_70
+  - first:
+      213: 2724222502570435467
+    second: quiver_71
+  - first:
+      213: 8869442354533104801
+    second: quiver_72
+  - first:
+      213: 8552963289759679545
+    second: quiver_73
+  - first:
+      213: -4349699186191019671
+    second: quiver_74
+  - first:
+      213: 1564108701144874579
+    second: quiver_75
+  - first:
+      213: 4542716228617378751
+    second: quiver_76
+  - first:
+      213: 2783996178963511278
+    second: quiver_77
+  - first:
+      213: 7407871966620361900
+    second: quiver_78
+  - first:
+      213: -8311162075850926287
+    second: quiver_79
+  - first:
+      213: 531106931358483270
+    second: quiver_80
+  - first:
+      213: 443561207681916446
+    second: quiver_81
+  - first:
+      213: 5631839648031475664
+    second: quiver_82
+  - first:
+      213: 451927132260623887
+    second: quiver_83
+  - first:
+      213: -1044981327973847568
+    second: quiver_84
+  - first:
+      213: -8556693044081256014
+    second: quiver_85
+  - first:
+      213: 772760867009914957
+    second: quiver_86
+  - first:
+      213: 1440172700448099615
+    second: quiver_87
+  - first:
+      213: 2863281091583400558
+    second: quiver_88
+  - first:
+      213: -6318259888024487058
+    second: quiver_89
+  - first:
+      213: -3060125782544243450
+    second: quiver_90
+  - first:
+      213: 2264599401619156049
+    second: quiver_91
+  - first:
+      213: -5932736240467091759
+    second: quiver_92
+  - first:
+      213: 585305290510872846
+    second: quiver_93
+  - first:
+      213: -7014435072564182194
+    second: quiver_94
+  - first:
+      213: 8436912544461601328
+    second: quiver_95
+  - first:
+      213: -1740854960711203646
+    second: quiver_96
+  - first:
+      213: -922405645652240413
+    second: quiver_97
+  - first:
+      213: -5369498874704145197
+    second: quiver_98
+  - first:
+      213: 7586211549105364081
+    second: quiver_99
+  - first:
+      213: 4400287705542205709
+    second: quiver_100
+  - first:
+      213: -6609554007348197099
+    second: quiver_101
+  - first:
+      213: 6061565589577705707
+    second: quiver_102
+  - first:
+      213: 5456502106597548232
+    second: quiver_103
+  - first:
+      213: -7948032072667934963
+    second: quiver_104
+  - first:
+      213: 1303736880898691533
+    second: quiver_105
+  - first:
+      213: 2585269045571089068
+    second: quiver_106
+  - first:
+      213: 1226444703432750875
+    second: quiver_107
+  - first:
+      213: 8066000457209416064
+    second: quiver_108
+  - first:
+      213: -4855361892248721358
+    second: quiver_109
+  - first:
+      213: 8491965583022689304
+    second: quiver_110
+  - first:
+      213: -5420698656093317586
+    second: quiver_111
+  - first:
+      213: -1832226530855343043
+    second: quiver_112
+  - first:
+      213: 2343637537050949984
+    second: quiver_113
+  - first:
+      213: 5001108521426556638
+    second: quiver_114
+  - first:
+      213: 8282477527265577896
+    second: quiver_115
+  - first:
+      213: 8006772699031789330
+    second: quiver_116
+  - first:
+      213: -899635519828638451
+    second: quiver_117
+  - first:
+      213: -4925875278939956521
+    second: quiver_118
+  - first:
+      213: -4897133649894854883
+    second: quiver_119
+  - first:
+      213: 8812606049185960971
+    second: quiver_120
+  - first:
+      213: 3227512597149081799
+    second: quiver_121
+  - first:
+      213: -1241420057783548193
+    second: quiver_122
+  - first:
+      213: -2695641567430911186
+    second: quiver_123
+  - first:
+      213: 340343058439566095
+    second: quiver_124
+  - first:
+      213: 4937291432773405203
+    second: quiver_125
+  - first:
+      213: 698849209967593898
+    second: quiver_126
+  - first:
+      213: 1916796556107523298
+    second: quiver_127
+  - first:
+      213: -6398120230503713344
+    second: quiver_128
+  - first:
+      213: -7254323357682856835
+    second: quiver_129
+  - first:
+      213: -7243665732666866480
+    second: quiver_130
+  - first:
+      213: 5793098873149973527
+    second: quiver_131
+  - first:
+      213: 7814624785698251912
+    second: quiver_132
+  - first:
+      213: 3072193652367087645
+    second: quiver_133
+  - first:
+      213: 7964573999496217002
+    second: quiver_134
+  - first:
+      213: -457764319383943796
+    second: quiver_135
+  - first:
+      213: 4255059505318221486
+    second: quiver_136
+  - first:
+      213: -3709883950548716841
+    second: quiver_137
+  - first:
+      213: -8991939874107889652
+    second: quiver_138
+  - first:
+      213: -4363683243566003993
+    second: quiver_139
+  - first:
+      213: 2748398186243562243
+    second: quiver_140
+  - first:
+      213: 5891389547397569544
+    second: quiver_141
+  - first:
+      213: -6632790135928167457
+    second: quiver_142
+  - first:
+      213: 8322751567118499567
+    second: quiver_143
+  - first:
+      213: -2759415641328806953
+    second: quiver_144
+  - first:
+      213: -7994439708354011832
+    second: quiver_145
+  - first:
+      213: -8762430102898196061
+    second: quiver_146
+  - first:
+      213: -1067682331981309615
+    second: quiver_147
+  - first:
+      213: 6141875880323602958
+    second: quiver_148
+  - first:
+      213: 2779332036983119289
+    second: quiver_149
+  - first:
+      213: -4271432018886885996
+    second: quiver_150
+  - first:
+      213: -5457571008473506981
+    second: quiver_151
+  - first:
+      213: -5163935491009835999
+    second: quiver_152
+  - first:
+      213: 2711588561712768294
+    second: quiver_153
+  - first:
+      213: 5111785464487771667
+    second: quiver_154
+  - first:
+      213: -5799330718591595827
+    second: quiver_155
+  - first:
+      213: -8591865369974876338
+    second: quiver_156
+  - first:
+      213: -4298551409881252846
+    second: quiver_157
+  - first:
+      213: -5654048151885589157
+    second: quiver_158
+  - first:
+      213: -6385771656603542285
+    second: quiver_159
+  - first:
+      213: 5344387477901469512
+    second: quiver_160
+  - first:
+      213: 5574613304125083079
+    second: quiver_161
+  - first:
+      213: 8268899867826566788
+    second: quiver_162
+  - first:
+      213: -8847297060150128836
+    second: quiver_163
+  - first:
+      213: -8560390715536178779
+    second: quiver_164
+  - first:
+      213: 5070453560703521749
+    second: quiver_165
+  - first:
+      213: 3062500791878805331
+    second: quiver_166
+  - first:
+      213: -3793893944933061503
+    second: quiver_167
+  - first:
+      213: 1364352636286117829
+    second: quiver_168
+  - first:
+      213: 6420068240737505671
+    second: quiver_169
+  - first:
+      213: 4865417576053392356
+    second: quiver_170
+  - first:
+      213: 3147479927093949938
+    second: quiver_171
+  - first:
+      213: 4985054506365027812
+    second: quiver_172
+  - first:
+      213: 5065841452556783070
+    second: quiver_173
+  - first:
+      213: 3151932502017198404
+    second: quiver_174
+  - first:
+      213: 354736262660998816
+    second: quiver_175
+  - first:
+      213: -9049108647257377875
+    second: quiver_176
+  - first:
+      213: 209646144052732538
+    second: quiver_177
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: quiver_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1287
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06f27de3eeae9960800000000000000
+      internalID: 7610712714267260426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1287
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec66360e60494430800000000000000
+      internalID: 3767613404566940908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1287
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8570589379e4c2e30800000000000000
+      internalID: 4480042140738848600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1287
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bdf3816d6b06c250800000000000000
+      internalID: 5964467320914181555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_4
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1287
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c83961c9c72d860800000000000000
+      internalID: 7553236534889253955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_5
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1287
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec87a24aefc3eb30800000000000000
+      internalID: 4315521472998640868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1287
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9d62dc4518d49d0800000000000000
+      internalID: -2788430393053357649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_7
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1224
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a817bf6ed30135f0800000000000000
+      internalID: -778837006666491739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_8
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1224
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1567c0af04bb80e00800000000000000
+      internalID: 1011264004092098129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_9
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1224
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c0050502e336540800000000000000
+      internalID: 4999908319818681416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_10
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1224
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ccbb974f0661440800000000000000
+      internalID: 4906215447197371487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_11
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1224
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e23a7e098e80f90800000000000000
+      internalID: -6987079112806158841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_12
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1224
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1744ac3697faa7ea0800000000000000
+      internalID: -5874189828051286927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_13
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1224
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95596110853d9a140800000000000000
+      internalID: 4731545258458256729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_14
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1157
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839806f26462309e0800000000000000
+      internalID: -1656438155057788616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_15
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1157
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad93db84224485220800000000000000
+      internalID: 2474802909280025050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_16
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1157
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c1f4962217e95b0800000000000000
+      internalID: -5359722113914692461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_17
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1157
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da754955a8b0debe0800000000000000
+      internalID: -1446487216546883667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_18
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1157
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e999ff7fa8078cb0800000000000000
+      internalID: -4861907722863797787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_19
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1157
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55de8308de251f280800000000000000
+      internalID: -9011330199379710635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_20
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1157
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06147a7e1bcdf5e70800000000000000
+      internalID: 9106239628220252512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1095
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb08b172687090c00800000000000000
+      internalID: 867232676008657087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1095
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15dbee226a9c01490800000000000000
+      internalID: -7777494841081021103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1095
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13c05082304a3b10800000000000000
+      internalID: 1961951173318591261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_24
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1095
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a12809b03cc7ed0800000000000000
+      internalID: -2414840845740926397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1095
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475c621cf85517660800000000000000
+      internalID: 7381775340146181492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_26
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1095
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd949a1031e870d0800000000000000
+      internalID: -3424739919894635049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_27
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1095
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18afc67fbb495e50800000000000000
+      internalID: 6798548398196631581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_28
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1031
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40eb963c7f048330800000000000000
+      internalID: 3712109019026677834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1032
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e47731cb51e60220800000000000000
+      internalID: 2451894831349724393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_30
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1034
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b58709e450d5ef60800000000000000
+      internalID: 8063079770982155704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_31
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1034
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7751305ff7335390800000000000000
+      internalID: -7830853757365561477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_32
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1033
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8372a3b40a1792150800000000000000
+      internalID: 5848330524388108088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_33
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1033
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ceb9f657fd4b5160800000000000000
+      internalID: 7015286569271148228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1033
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684ef6bc804d3e040800000000000000
+      internalID: 4675813972378641542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_35
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1035
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dcbff7c6682aa5c0800000000000000
+      internalID: -4203502880289735465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_36
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 967
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa250ca1104660f10800000000000000
+      internalID: 2235584220942586538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_37
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 967
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e9d4484f60cea00800000000000000
+      internalID: 787011682144460322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_38
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 967
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841cd4ff1f9157e70800000000000000
+      internalID: 9112217948215165256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_39
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 967
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79446519025f08f0800000000000000
+      internalID: -572148428685686405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_40
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 967
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ea6702c9bf44940800000000000000
+      internalID: 5279621311163182667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_41
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 967
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3ecccd3996ef1e0800000000000000
+      internalID: -2162174687305735187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_42
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 967
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782991d3b5fd73860800000000000000
+      internalID: 7509716486623695495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_43
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 967
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f727d3e3619cc710800000000000000
+      internalID: 1714905416331634672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_44
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 904
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f7c8cc3a960eae0800000000000000
+      internalID: -1522100521818882183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_45
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 904
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be756d63157cce410800000000000000
+      internalID: 1507799126888568811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_46
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 904
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce328150880bc7ec0800000000000000
+      internalID: -3567782706536766484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_47
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 904
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13a7088d0704b780800000000000000
+      internalID: -8668295628083191012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_48
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 903
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7235f3414417e19f0800000000000000
+      internalID: -495834371752766681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_49
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 903
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81624ece71972c4e0800000000000000
+      internalID: -1962873343914531304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_50
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 903
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa7fd80920ad6870800000000000000
+      internalID: 8677768155115780861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_51
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 904
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41f0ad6420ec2c80800000000000000
+      internalID: -8346049562361663155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_52
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 839
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ae67e5469518800800000000000000
+      internalID: 612869311915551255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_53
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 839
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace1e4ca1e72ed7c0800000000000000
+      internalID: -4044751565120201014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_54
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 839
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9443c34c720daa90800000000000000
+      internalID: -7301176688161635171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 839
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052f3e8c6e00bc8b0800000000000000
+      internalID: -5131006359245688240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_56
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 839
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3413f5e704a181b90800000000000000
+      internalID: -7271032734089268925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_57
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 839
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8338fa183a3b600800000000000000
+      internalID: 482909362449496299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_58
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 839
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010ce931734ebe9a0800000000000000
+      internalID: -6202613136569221104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_59
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 839
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e767afebdc1f5c0800000000000000
+      internalID: -4183336358720930295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_60
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 776
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9afc26d99069c9950800000000000000
+      internalID: 6457200933781819305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_61
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 776
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dcb1637b44a9afa0800000000000000
+      internalID: -5788915202042774320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_62
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 776
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71018f8a1c8af070800000000000000
+      internalID: 8140973322130227580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_63
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 775
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a4791694c4d0690800000000000000
+      internalID: -7634361915269494231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_64
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 776
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6faefa33f1215e7d0800000000000000
+      internalID: -2889883660667852042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_65
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 776
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584026babcb24d740800000000000000
+      internalID: 5175810025509225605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_66
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 776
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d7a9ebd5b8a46a0800000000000000
+      internalID: -6464201080390910719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_67
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 775
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea5a4fa9c9b50480800000000000000
+      internalID: -8933530009939059993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_68
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 776
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660a2d39297508450800000000000000
+      internalID: 6088962983261806694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_69
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 712
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850d6b7344dac5750800000000000000
+      internalID: 6295096887661219928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_70
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 710
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246edf25b35a888c0800000000000000
+      internalID: -3996762995077290430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_71
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 711
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8326dabee16ec520800000000000000
+      internalID: 2724222502570435467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_72
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 711
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1acffb144d6961b70800000000000000
+      internalID: 8869442354533104801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_73
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 711
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9340517ebca32b670800000000000000
+      internalID: 8552963289759679545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_74
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 710
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9615747c2a3c2a3c0800000000000000
+      internalID: -4349699186191019671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_75
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 711
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e76d1a394d4b510800000000000000
+      internalID: 1564108701144874579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_76
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 711
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb14227758fa0f30800000000000000
+      internalID: 4542716228617378751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_77
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 711
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee73a2746cdb2a620800000000000000
+      internalID: 2783996178963511278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_78
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 645
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca42bf71e4c0ec660800000000000000
+      internalID: 7407871966620361900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_79
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 645
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137153e5022d8ac80800000000000000
+      internalID: -8311162075850926287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_80
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 645
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643ce5da0fede5700800000000000000
+      internalID: 531106931358483270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_81
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 644
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e160c7198d72600800000000000000
+      internalID: 443561207681916446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_82
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 645
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d780e43250582e40800000000000000
+      internalID: 5631839648031475664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_83
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 645
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0661c61551954600800000000000000
+      internalID: 451927132260623887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_84
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 645
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fde33dc40b7f71f0800000000000000
+      internalID: -1044981327973847568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_85
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 644
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b91b7ff205804980800000000000000
+      internalID: -8556693044081256014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_86
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 646
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48e27e0ae569ba00800000000000000
+      internalID: 772760867009914957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_87
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 583
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d8c61d0758cf310800000000000000
+      internalID: 1440172700448099615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_88
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 582
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6adbe38bfa6cb720800000000000000
+      internalID: 2863281091583400558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_89
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 583
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b73bf7b180158a0800000000000000
+      internalID: -6318259888024487058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_90
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 583
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605af6360df3885d0800000000000000
+      internalID: -3060125782544243450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_91
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 583
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c621c48297d6f10800000000000000
+      internalID: 2264599401619156049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_92
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 582
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de5fd082dfaaada0800000000000000
+      internalID: -5932736240467091759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_93
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 583
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01be068f0c6f1800800000000000000
+      internalID: 585305290510872846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_94
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 583
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4345cf2778b7ae90800000000000000
+      internalID: -7014435072564182194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_95
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 584
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03abbad224fe51570800000000000000
+      internalID: 8436912544461601328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_96
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 519
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4055df2ad37d7e0800000000000000
+      internalID: -1740854960711203646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_97
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 519
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e75510d3f4f233f0800000000000000
+      internalID: -922405645652240413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_98
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 519
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d45667e835bb75b0800000000000000
+      internalID: -5369498874704145197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_99
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 519
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c146fd533a74960800000000000000
+      internalID: 7586211549105364081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_100
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 519
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01ac5eba56f01d30800000000000000
+      internalID: 4400287705542205709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_101
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 519
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519404436a52644a0800000000000000
+      internalID: -6609554007348197099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_102
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 456
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8a285c9c10f1450800000000000000
+      internalID: 6061565589577705707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_103
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 454
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0eae391c369bb40800000000000000
+      internalID: 5456502106597548232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_104
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 455
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f473db0fae2b190800000000000000
+      internalID: -7948032072667934963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_105
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 456
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1da8229cdc71210800000000000000
+      internalID: 1303736880898691533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_106
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 456
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2f316ef78b0e320800000000000000
+      internalID: 2585269045571089068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_107
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 456
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17b4c4b5f4350110800000000000000
+      internalID: 1226444703432750875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_108
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 390
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0890b1a2ea030ff60800000000000000
+      internalID: 8066000457209416064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_109
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 390
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238eb84751a4e9cb0800000000000000
+      internalID: -4855361892248721358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_110
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 390
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c09e494b589d570800000000000000
+      internalID: 8491965583022689304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_111
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 390
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26de19da4fc5c4b0800000000000000
+      internalID: -5420698656093317586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_112
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 390
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c22508daf9296e0800000000000000
+      internalID: -1832226530855343043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_113
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 390
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069713e3ce5468020800000000000000
+      internalID: 2343637537050949984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_114
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 328
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed61fc604b1876540800000000000000
+      internalID: 5001108521426556638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_115
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 326
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab02d8bd6541f270800000000000000
+      internalID: 8282477527265577896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_116
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 327
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21fd51b1955cd1f60800000000000000
+      internalID: 8006772699031789330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_117
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 328
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d054a4dd24ad383f0800000000000000
+      internalID: -899635519828638451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_118
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 328
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dad7ee3886c3abb0800000000000000
+      internalID: -4925875278939956521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_119
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 328
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1fa76c34e2e90cb0800000000000000
+      internalID: -4897133649894854883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_120
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 263
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b041033b28aac4a70800000000000000
+      internalID: 8812606049185960971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_121
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 264
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c06b256b9d6acc20800000000000000
+      internalID: 3227512597149081799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_122
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 265
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd644c6e80795cee0800000000000000
+      internalID: -1241420057783548193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_123
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 265
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2bd08bc648279ad0800000000000000
+      internalID: -2695641567430911186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_124
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 265
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f037f0c553429b400800000000000000
+      internalID: 340343058439566095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_125
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 265
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ac9033668c48440800000000000000
+      internalID: 4937291432773405203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_126
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 265
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa94eaf57afc2b900800000000000000
+      internalID: 698849209967593898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_127
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 265
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e42b79ef44d99a10800000000000000
+      internalID: 1916796556107523298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_128
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 265
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5f59e8c8f4537a0800000000000000
+      internalID: -6398120230503713344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_129
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 265
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c8e7b5757735b90800000000000000
+      internalID: -7254323357682856835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_130
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 265
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4c8bc0564597b90800000000000000
+      internalID: -7243665732666866480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_131
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 265
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714e1d26bb8356050800000000000000
+      internalID: 5793098873149973527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_132
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 265
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884e184c6df137c60800000000000000
+      internalID: 7814624785698251912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_133
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 197
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18dc8289df92aa20800000000000000
+      internalID: 3072193652367087645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_134
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 197
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1c84bbad9d78e60800000000000000
+      internalID: 7964573999496217002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_135
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 197
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c858540e6c1b5a9f0800000000000000
+      internalID: -457764319383943796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_136
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 197
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea654a863120d0b30800000000000000
+      internalID: 4255059505318221486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_137
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 197
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2fe99e338d38cc0800000000000000
+      internalID: -3709883950548716841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_138
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 197
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08e02a6356363380800000000000000
+      internalID: -8991939874107889652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_139
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 197
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e88ce2b5351173c0800000000000000
+      internalID: -4363683243566003993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_140
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 197
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b1068b695442620800000000000000
+      internalID: 2748398186243562243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_141
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 197
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80cd416549b62c150800000000000000
+      internalID: 5891389547397569544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_142
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 197
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3694e638893f3a0800000000000000
+      internalID: -6632790135928167457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_143
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 197
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee7ce7547a508370800000000000000
+      internalID: 8322751567118499567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_144
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 197
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d390fe181694b9d0800000000000000
+      internalID: -2759415641328806953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_145
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 197
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d184d017b0e0190800000000000000
+      internalID: -7994439708354011832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_146
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 134
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1409b2f38956680800000000000000
+      internalID: -8762430102898196061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_147
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 134
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1591b4d6394de21f0800000000000000
+      internalID: -1067682331981309615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_148
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 134
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a5a3572935c3550800000000000000
+      internalID: 6141875880323602958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_149
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 134
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bddd3913cb229620800000000000000
+      internalID: 2779332036983119289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_150
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 134
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d7408b533d8b4c0800000000000000
+      internalID: -4271432018886885996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_151
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 134
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b577f4510d244b0800000000000000
+      internalID: -5457571008473506981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_152
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 134
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c8357d7040658b0800000000000000
+      internalID: -5163935491009835999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_153
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 134
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625e6e52e6f71a520800000000000000
+      internalID: 2711588561712768294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_154
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 134
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e7ccaebc5b0f640800000000000000
+      internalID: 5111785464487771667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_155
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 134
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca46570073a48fa0800000000000000
+      internalID: -5799330718591595827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_156
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 134
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47daa8b7ff83c880800000000000000
+      internalID: -8591865369974876338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_157
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 134
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21cf545744a7854c0800000000000000
+      internalID: -4298551409881252846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_158
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 134
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55d7eb8929c881b0800000000000000
+      internalID: -5654048151885589157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_159
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 69
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc5367f28e2167a0800000000000000
+      internalID: -6385771656603542285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_160
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 69
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847ec5a68141b2a40800000000000000
+      internalID: 5344387477901469512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_161
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 69
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cdca88b3410d5d40800000000000000
+      internalID: 5574613304125083079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_162
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 69
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486b3198e9801c270800000000000000
+      internalID: 8268899867826566788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_163
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 69
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3fc463e236183580800000000000000
+      internalID: -8847297060150128836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_164
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 69
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a10ae5cff1633980800000000000000
+      internalID: -8560390715536178779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_165
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 69
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d319d726aedd5640800000000000000
+      internalID: 5070453560703521749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_166
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 69
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357e9409e30308a20800000000000000
+      internalID: 3062500791878805331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_167
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 69
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c62c8de81695bc0800000000000000
+      internalID: -3793893944933061503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_168
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 69
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7a33a7e772fe210800000000000000
+      internalID: 1364352636286117829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_169
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 69
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7811deacc0aa81950800000000000000
+      internalID: 6420068240737505671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_170
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 69
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3ca90e18f658340800000000000000
+      internalID: 4865417576053392356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_171
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 69
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f57b1051581eab20800000000000000
+      internalID: 3147479927093949938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_172
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 8
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e509dd59a87e2540800000000000000
+      internalID: 4985054506365027812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_173
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 6
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd881c06fb7d4640800000000000000
+      internalID: 5065841452556783070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_174
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 8
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4494eb239e9edbb20800000000000000
+      internalID: 3151932502017198404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_175
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 5
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a6cbdc50c64ce400800000000000000
+      internalID: 354736262660998816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_176
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 10
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3fe4a21ab1b6280800000000000000
+      internalID: -9049108647257377875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_177
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 10
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a722bc8ae00d8e200800000000000000
+      internalID: 209646144052732538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

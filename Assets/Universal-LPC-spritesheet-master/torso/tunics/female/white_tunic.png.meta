@@ -1,0 +1,4855 @@
+fileFormatVersion: 2
+guid: 92611871916dd4045b0c4f4660c2769b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3628893248601003468
+    second: white_tunic_0
+  - first:
+      213: -1853002316479885757
+    second: white_tunic_1
+  - first:
+      213: 3872114498493955472
+    second: white_tunic_2
+  - first:
+      213: -4749426146255519344
+    second: white_tunic_3
+  - first:
+      213: 3950127988660881585
+    second: white_tunic_4
+  - first:
+      213: -2853146776300865872
+    second: white_tunic_5
+  - first:
+      213: 7487824550134577646
+    second: white_tunic_6
+  - first:
+      213: 5260368452304634594
+    second: white_tunic_7
+  - first:
+      213: -5732478722783939483
+    second: white_tunic_8
+  - first:
+      213: 7525149674202855107
+    second: white_tunic_9
+  - first:
+      213: 2391262098030816597
+    second: white_tunic_10
+  - first:
+      213: -7172554412794212106
+    second: white_tunic_11
+  - first:
+      213: 9065914171028921911
+    second: white_tunic_12
+  - first:
+      213: 488954751318934090
+    second: white_tunic_13
+  - first:
+      213: -4516708046538924172
+    second: white_tunic_14
+  - first:
+      213: 3627595230231100862
+    second: white_tunic_15
+  - first:
+      213: -13728811672880515
+    second: white_tunic_16
+  - first:
+      213: -7382200889763470613
+    second: white_tunic_17
+  - first:
+      213: -3737155194597356761
+    second: white_tunic_18
+  - first:
+      213: 6966931436576297154
+    second: white_tunic_19
+  - first:
+      213: -7573314845512222364
+    second: white_tunic_20
+  - first:
+      213: -4255181801647780609
+    second: white_tunic_21
+  - first:
+      213: -9198453041108519715
+    second: white_tunic_22
+  - first:
+      213: -7430698814931274511
+    second: white_tunic_23
+  - first:
+      213: -3441987874645715647
+    second: white_tunic_24
+  - first:
+      213: -7715027497887280486
+    second: white_tunic_25
+  - first:
+      213: 7264353822651249131
+    second: white_tunic_26
+  - first:
+      213: -2064405033875232474
+    second: white_tunic_27
+  - first:
+      213: -2869993513501378649
+    second: white_tunic_28
+  - first:
+      213: -596848065954363478
+    second: white_tunic_29
+  - first:
+      213: 5297514999840657279
+    second: white_tunic_30
+  - first:
+      213: 254261093109326810
+    second: white_tunic_31
+  - first:
+      213: -4872216759981496520
+    second: white_tunic_32
+  - first:
+      213: -5230480810803254571
+    second: white_tunic_33
+  - first:
+      213: 7200317230564102078
+    second: white_tunic_34
+  - first:
+      213: 6323458785186690635
+    second: white_tunic_35
+  - first:
+      213: -2563246945856044893
+    second: white_tunic_36
+  - first:
+      213: 3947941775235538027
+    second: white_tunic_37
+  - first:
+      213: -7105252782890252698
+    second: white_tunic_38
+  - first:
+      213: 262905337152400708
+    second: white_tunic_39
+  - first:
+      213: -3380217515542131170
+    second: white_tunic_40
+  - first:
+      213: -2088397491063201792
+    second: white_tunic_41
+  - first:
+      213: 2191257317072702860
+    second: white_tunic_42
+  - first:
+      213: -853921016719933550
+    second: white_tunic_43
+  - first:
+      213: -401581320877991383
+    second: white_tunic_44
+  - first:
+      213: -6880808756577563378
+    second: white_tunic_45
+  - first:
+      213: 7299101130296682953
+    second: white_tunic_46
+  - first:
+      213: 6143312123018679910
+    second: white_tunic_47
+  - first:
+      213: 2969229640381079884
+    second: white_tunic_48
+  - first:
+      213: -7090098504949865442
+    second: white_tunic_49
+  - first:
+      213: -2702833277674310699
+    second: white_tunic_50
+  - first:
+      213: -2630085388381247859
+    second: white_tunic_51
+  - first:
+      213: 6486737590865937227
+    second: white_tunic_52
+  - first:
+      213: -2120454032676360810
+    second: white_tunic_53
+  - first:
+      213: -5779601700796363863
+    second: white_tunic_54
+  - first:
+      213: -3775671489494312841
+    second: white_tunic_55
+  - first:
+      213: -8896434890274018204
+    second: white_tunic_56
+  - first:
+      213: -5640893397346475712
+    second: white_tunic_57
+  - first:
+      213: 2837096329282597209
+    second: white_tunic_58
+  - first:
+      213: -3410655529828464734
+    second: white_tunic_59
+  - first:
+      213: -2674804214531513591
+    second: white_tunic_60
+  - first:
+      213: -6030013322212150281
+    second: white_tunic_61
+  - first:
+      213: -4195028344790563968
+    second: white_tunic_62
+  - first:
+      213: 5898282109912040156
+    second: white_tunic_63
+  - first:
+      213: 2052577676182142044
+    second: white_tunic_64
+  - first:
+      213: 2910764842582069581
+    second: white_tunic_65
+  - first:
+      213: 4380724770431569937
+    second: white_tunic_66
+  - first:
+      213: -6834601414457554603
+    second: white_tunic_67
+  - first:
+      213: -6319515165525599878
+    second: white_tunic_68
+  - first:
+      213: -3435816342769714317
+    second: white_tunic_69
+  - first:
+      213: 3610378513223190849
+    second: white_tunic_70
+  - first:
+      213: 6112528955320092859
+    second: white_tunic_71
+  - first:
+      213: -5002272205504086611
+    second: white_tunic_72
+  - first:
+      213: -2788907315967675616
+    second: white_tunic_73
+  - first:
+      213: -4182225164046798485
+    second: white_tunic_74
+  - first:
+      213: 6863138354459607014
+    second: white_tunic_75
+  - first:
+      213: 1133351370171978975
+    second: white_tunic_76
+  - first:
+      213: 645009751826803379
+    second: white_tunic_77
+  - first:
+      213: 6185044683508532485
+    second: white_tunic_78
+  - first:
+      213: -7387564330180446225
+    second: white_tunic_79
+  - first:
+      213: -2127511703989553858
+    second: white_tunic_80
+  - first:
+      213: -8078613454785275096
+    second: white_tunic_81
+  - first:
+      213: 724853979794213283
+    second: white_tunic_82
+  - first:
+      213: -4198220503419273640
+    second: white_tunic_83
+  - first:
+      213: 2844990116903320159
+    second: white_tunic_84
+  - first:
+      213: 7785230933596746596
+    second: white_tunic_85
+  - first:
+      213: -2941598711558662770
+    second: white_tunic_86
+  - first:
+      213: 2180149501920225316
+    second: white_tunic_87
+  - first:
+      213: 7458587298594281797
+    second: white_tunic_88
+  - first:
+      213: -3877759815769082579
+    second: white_tunic_89
+  - first:
+      213: -5076142203050515766
+    second: white_tunic_90
+  - first:
+      213: 7972837931043276314
+    second: white_tunic_91
+  - first:
+      213: 8034193724516871600
+    second: white_tunic_92
+  - first:
+      213: 7247099416152839098
+    second: white_tunic_93
+  - first:
+      213: 8472374367472899921
+    second: white_tunic_94
+  - first:
+      213: 8491343905098788353
+    second: white_tunic_95
+  - first:
+      213: 4089875225124364848
+    second: white_tunic_96
+  - first:
+      213: -6394974739675525913
+    second: white_tunic_97
+  - first:
+      213: 4040765510728167758
+    second: white_tunic_98
+  - first:
+      213: 3215007868777328685
+    second: white_tunic_99
+  - first:
+      213: -5924800372055088844
+    second: white_tunic_100
+  - first:
+      213: -5331189960516597739
+    second: white_tunic_101
+  - first:
+      213: 3094964435917578494
+    second: white_tunic_102
+  - first:
+      213: -1956445659452512770
+    second: white_tunic_103
+  - first:
+      213: -925340876764274069
+    second: white_tunic_104
+  - first:
+      213: -3464558274758011445
+    second: white_tunic_105
+  - first:
+      213: 6034780319946338863
+    second: white_tunic_106
+  - first:
+      213: -8152971585667928622
+    second: white_tunic_107
+  - first:
+      213: -1625848991159219841
+    second: white_tunic_108
+  - first:
+      213: -6963375134559793031
+    second: white_tunic_109
+  - first:
+      213: -1572339291810954894
+    second: white_tunic_110
+  - first:
+      213: 3080690156870117783
+    second: white_tunic_111
+  - first:
+      213: 5222601983176214816
+    second: white_tunic_112
+  - first:
+      213: 7741151484088195610
+    second: white_tunic_113
+  - first:
+      213: -4696810701262004583
+    second: white_tunic_114
+  - first:
+      213: 81186418363620386
+    second: white_tunic_115
+  - first:
+      213: 4233573221314916402
+    second: white_tunic_116
+  - first:
+      213: -8979669223783054731
+    second: white_tunic_117
+  - first:
+      213: 770925198771820235
+    second: white_tunic_118
+  - first:
+      213: 4743907117356912494
+    second: white_tunic_119
+  - first:
+      213: -1833467551139746929
+    second: white_tunic_120
+  - first:
+      213: -6942579932641302687
+    second: white_tunic_121
+  - first:
+      213: 3994207075178418345
+    second: white_tunic_122
+  - first:
+      213: 9120768374654376945
+    second: white_tunic_123
+  - first:
+      213: 1473973319590121815
+    second: white_tunic_124
+  - first:
+      213: -3459295725191709717
+    second: white_tunic_125
+  - first:
+      213: -2657584875403293330
+    second: white_tunic_126
+  - first:
+      213: -5026639125409918949
+    second: white_tunic_127
+  - first:
+      213: -5655247320993213924
+    second: white_tunic_128
+  - first:
+      213: -6808865428720531950
+    second: white_tunic_129
+  - first:
+      213: 4286834618341320601
+    second: white_tunic_130
+  - first:
+      213: -945519312070360400
+    second: white_tunic_131
+  - first:
+      213: -6429406329587524555
+    second: white_tunic_132
+  - first:
+      213: 4671794501117258009
+    second: white_tunic_133
+  - first:
+      213: -6218023598543131132
+    second: white_tunic_134
+  - first:
+      213: 7346166938645771481
+    second: white_tunic_135
+  - first:
+      213: 966759581056560767
+    second: white_tunic_136
+  - first:
+      213: -6300254896035061686
+    second: white_tunic_137
+  - first:
+      213: 4621356572169460046
+    second: white_tunic_138
+  - first:
+      213: 2796727913187448761
+    second: white_tunic_139
+  - first:
+      213: -955077057953083357
+    second: white_tunic_140
+  - first:
+      213: -6401709059107974603
+    second: white_tunic_141
+  - first:
+      213: -5474374799306788726
+    second: white_tunic_142
+  - first:
+      213: 6518427907501786835
+    second: white_tunic_143
+  - first:
+      213: 6321300446919730376
+    second: white_tunic_144
+  - first:
+      213: 8679647544011293103
+    second: white_tunic_145
+  - first:
+      213: 5405542693740260590
+    second: white_tunic_146
+  - first:
+      213: 8294549315600640514
+    second: white_tunic_147
+  - first:
+      213: 1035249551053370833
+    second: white_tunic_148
+  - first:
+      213: 7614809237063956141
+    second: white_tunic_149
+  - first:
+      213: -589215085289814060
+    second: white_tunic_150
+  - first:
+      213: -6504878721380668521
+    second: white_tunic_151
+  - first:
+      213: 6926864792397618750
+    second: white_tunic_152
+  - first:
+      213: -6695300863700897996
+    second: white_tunic_153
+  - first:
+      213: 3056245119468377037
+    second: white_tunic_154
+  - first:
+      213: 6803832237027723052
+    second: white_tunic_155
+  - first:
+      213: 4392388954425095153
+    second: white_tunic_156
+  - first:
+      213: -2571592501800610780
+    second: white_tunic_157
+  - first:
+      213: 7656738853384752920
+    second: white_tunic_158
+  - first:
+      213: -2165277963498947233
+    second: white_tunic_159
+  - first:
+      213: 168104480167898592
+    second: white_tunic_160
+  - first:
+      213: -6513874561627165712
+    second: white_tunic_161
+  - first:
+      213: -5252149798919737737
+    second: white_tunic_162
+  - first:
+      213: 9213982525789275861
+    second: white_tunic_163
+  - first:
+      213: 2701888825105723144
+    second: white_tunic_164
+  - first:
+      213: -1930798892013741443
+    second: white_tunic_165
+  - first:
+      213: -9158398691188890805
+    second: white_tunic_166
+  - first:
+      213: -6725334451252731605
+    second: white_tunic_167
+  - first:
+      213: 438461262765042182
+    second: white_tunic_168
+  - first:
+      213: -6753256443218158316
+    second: white_tunic_169
+  - first:
+      213: 8099621398749727557
+    second: white_tunic_170
+  - first:
+      213: -7187886829251189098
+    second: white_tunic_171
+  - first:
+      213: 91382681498605135
+    second: white_tunic_172
+  - first:
+      213: 5756080406822774500
+    second: white_tunic_173
+  - first:
+      213: 4998111531443461850
+    second: white_tunic_174
+  - first:
+      213: 9186148757383541118
+    second: white_tunic_175
+  - first:
+      213: -6125018920004872955
+    second: white_tunic_176
+  - first:
+      213: -791985048597337782
+    second: white_tunic_177
+  - first:
+      213: -6638069228161852573
+    second: white_tunic_178
+  - first:
+      213: -3741077044100067606
+    second: white_tunic_179
+  - first:
+      213: -3867018421365313107
+    second: white_tunic_180
+  - first:
+      213: -5473029641229525034
+    second: white_tunic_181
+  - first:
+      213: -604204818014447359
+    second: white_tunic_182
+  - first:
+      213: -7733219644028739065
+    second: white_tunic_183
+  - first:
+      213: 9130575729292686824
+    second: white_tunic_184
+  - first:
+      213: -835155790850928970
+    second: white_tunic_185
+  - first:
+      213: 3068727623114775592
+    second: white_tunic_186
+  - first:
+      213: -7485595292666569106
+    second: white_tunic_187
+  - first:
+      213: 3332845582996252835
+    second: white_tunic_188
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: white_tunic_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1290
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ae25d21d493adc0800000000000000
+      internalID: -3628893248601003468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1290
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e8d36f530d846e0800000000000000
+      internalID: -1853002316479885757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1290
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d3f5cfe938cb530800000000000000
+      internalID: 3872114498493955472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1290
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091cc716516a61eb0800000000000000
+      internalID: -4749426146255519344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1290
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8c57d1a7ca1d630800000000000000
+      internalID: 3950127988660881585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_5
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1290
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b63982af169768d0800000000000000
+      internalID: -2853146776300865872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_6
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1290
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9783391c81ae760800000000000000
+      internalID: 7487824550134577646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_7
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1227
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e20a4b9c35900940800000000000000
+      internalID: 5260368452304634594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_8
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1227
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5647afd39f42270b0800000000000000
+      internalID: -5732478722783939483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_9
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1233
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6f18c32c3be6860800000000000000
+      internalID: 7525149674202855107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_10
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1227
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d6bfd65387f2120800000000000000
+      internalID: 2391262098030816597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_11
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1227
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f09d3d63c7f57c90800000000000000
+      internalID: -7172554412794212106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_12
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1227
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73edb50c7e890dd70800000000000000
+      internalID: 9065914171028921911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_13
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1227
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42ca9771cd19c600800000000000000
+      internalID: 488954751318934090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_14
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1227
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f16e356fd6151c0800000000000000
+      internalID: -4516708046538924172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_15
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1163
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd73de54aec75230800000000000000
+      internalID: 3627595230231100862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_16
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1163
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7abc01f7b93fcff0800000000000000
+      internalID: -13728811672880515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_17
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1163
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2631147672d8990800000000000000
+      internalID: -7382200889763470613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_18
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1163
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72bc48b9625f22cc0800000000000000
+      internalID: -3737155194597356761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_19
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1163
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0d1abaa338fa060800000000000000
+      internalID: 6966931436576297154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_20
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1163
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4693d0de54e26e690800000000000000
+      internalID: -7573314845512222364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_21
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1163
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffcc31242be82f4c0800000000000000
+      internalID: -4255181801647780609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_22
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1099
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd47d91d1b7885080800000000000000
+      internalID: -9198453041108519715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_23
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1099
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4fa1f1ccad0e890800000000000000
+      internalID: -7430698814931274511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_24
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1105
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1455a82b34a9b30d0800000000000000
+      internalID: -3441987874645715647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_25
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1099
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92de0cdd57bee490800000000000000
+      internalID: -7715027497887280486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_26
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1099
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1f0e1405b20d460800000000000000
+      internalID: 7264353822651249131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_27
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1099
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629a6533f82c953e0800000000000000
+      internalID: -2064405033875232474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_28
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1099
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a73318fa1cbb28d0800000000000000
+      internalID: -2869993513501378649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_29
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1099
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa749e3a8d197b7f0800000000000000
+      internalID: -596848065954363478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_30
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1033
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f4ecd23dd848940800000000000000
+      internalID: 5297514999840657279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_31
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1033
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3ebf6fd11578300800000000000000
+      internalID: 254261093109326810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_32
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1033
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8372990cba8626cb0800000000000000
+      internalID: -4872216759981496520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_33
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1034
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da23933a699967b0800000000000000
+      internalID: -5230480810803254571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_34
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1033
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebfc5ed4f5aace360800000000000000
+      internalID: 7200317230564102078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_35
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1033
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4630e2134071c750800000000000000
+      internalID: 6323458785186690635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_36
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1033
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a045a0cb748d6cd0800000000000000
+      internalID: -2563246945856044893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_37
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1034
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6cd6d2a028e9c630800000000000000
+      internalID: 3947941775235538027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_38
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 971
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666887c3d32156d90800000000000000
+      internalID: -7105252782890252698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_39
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 971
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44de58ed20706a300800000000000000
+      internalID: 262905337152400708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_40
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 971
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ece8a241e0711d0800000000000000
+      internalID: -3380217515542131170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_41
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 971
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0006c53fb858403e0800000000000000
+      internalID: -2088397491063201792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_42
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 972
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d089b8be8e86e10800000000000000
+      internalID: 2191257317072702860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_43
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 972
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ffa2c0c534624f0800000000000000
+      internalID: -853921016719933550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_44
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 972
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a92a49aeb4d6af0800000000000000
+      internalID: -401581320877991383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_45
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 971
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d0cc854e47280a0800000000000000
+      internalID: -6880808756577563378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_46
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 907
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c96cf24ecd9b4560800000000000000
+      internalID: 7299101130296682953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_47
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 907
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66611e4c3dd614550800000000000000
+      internalID: 6143312123018679910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_48
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 917
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41a97350a2d43920800000000000000
+      internalID: 2969229640381079884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_49
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 907
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e146fe589f8ea9d90800000000000000
+      internalID: -7090098504949865442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_50
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 919
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d33e15447b9d7ad0800000000000000
+      internalID: -2702833277674310699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_51
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 907
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d862798264f008bd0800000000000000
+      internalID: -2630085388381247859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_52
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 916
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43ccbe7875850a50800000000000000
+      internalID: 6486737590865937227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_53
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 915
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69de7cbba42a292e0800000000000000
+      internalID: -2120454032676360810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_54
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 916
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab0ac0ffdabacfa0800000000000000
+      internalID: -5779601700796363863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_55
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 919
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7781f10e8ce1a9bc0800000000000000
+      internalID: -3775671489494312841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_56
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 907
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c63d54a93898480800000000000000
+      internalID: -8896434890274018204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_57
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 906
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0412153875587b1b0800000000000000
+      internalID: -5640893397346475712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_58
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 906
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951347474146f5720800000000000000
+      internalID: 2837096329282597209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_59
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 906
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a74a55bddaeaa0d0800000000000000
+      internalID: -3410655529828464734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_60
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 843
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903a1251dbf21ead0800000000000000
+      internalID: -2674804214531513591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_61
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 843
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3fba2f4d6115ca0800000000000000
+      internalID: -6030013322212150281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_62
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 843
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083401652f348c5c0800000000000000
+      internalID: -4195028344790563968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_63
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 843
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2495a1458ead150800000000000000
+      internalID: 5898282109912040156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_64
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 843
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5cbbbe75883c7c10800000000000000
+      internalID: 2052577676182142044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_65
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 843
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41dcc2d33d156820800000000000000
+      internalID: 2910764842582069581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_66
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 843
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1101458f7f57bcc30800000000000000
+      internalID: 4380724770431569937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_67
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 843
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55900ed893e9621a0800000000000000
+      internalID: -6834601414457554603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_68
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 778
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79172e60729c48a0800000000000000
+      internalID: -6319515165525599878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_69
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 778
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37bbabf6d378150d0800000000000000
+      internalID: -3435816342769714317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_70
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 778
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1490f511124aa1230800000000000000
+      internalID: 3610378513223190849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_71
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 778
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8c42503b014d450800000000000000
+      internalID: 6112528955320092859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_72
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 778
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad7e19aeeb549ab0800000000000000
+      internalID: -5002272205504086611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_73
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 778
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0233248829fcb49d0800000000000000
+      internalID: -2788907315967675616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_74
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 778
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b617a462f50c5f5c0800000000000000
+      internalID: -4182225164046798485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_75
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 778
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef7ced88f3ce3f50800000000000000
+      internalID: 6863138354459607014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_76
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 778
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd49dc001197abf00800000000000000
+      internalID: 1133351370171978975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_77
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 715
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3baac4ea3f883f800800000000000000
+      internalID: 645009751826803379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_78
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 714
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505c170be51b5d550800000000000000
+      internalID: 6185044683508532485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_79
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 714
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe77f38f1691a7990800000000000000
+      internalID: -7387564330180446225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_80
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 715
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e357734906f8972e0800000000000000
+      internalID: -2127511703989553858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_81
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 715
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b15dd7ddff2ef80800000000000000
+      internalID: -8078613454785275096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_82
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 714
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a989abaad23f0a00800000000000000
+      internalID: 724853979794213283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_83
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 714
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ebeecf1bcecb5c0800000000000000
+      internalID: -4198220503419273640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_84
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 715
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5af48b107f6b7720800000000000000
+      internalID: 2844990116903320159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_85
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 715
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463ba634942ba0c60800000000000000
+      internalID: 7785230933596746596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_86
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 651
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e859ccd9e875d27d0800000000000000
+      internalID: -2941598711558662770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_87
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 651
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428233bcb62714e10800000000000000
+      internalID: 2180149501920225316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_88
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 651
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549d3fa71a9328760800000000000000
+      internalID: 7458587298594281797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_89
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 650
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25bcc82efd6f2ac0800000000000000
+      internalID: -3877759815769082579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_90
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 651
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac22ec59f8bed89b0800000000000000
+      internalID: -5076142203050515766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_91
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 651
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16489b3bd535ae60800000000000000
+      internalID: 7972837931043276314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_92
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 651
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd208e10a03f7f60800000000000000
+      internalID: 8034193724516871600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_93
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 650
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab31bbfa58ed29460800000000000000
+      internalID: 7247099416152839098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_94
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 651
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157d851499be39570800000000000000
+      internalID: 8472374367472899921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_95
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 587
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e6719ea4057d570800000000000000
+      internalID: 8491343905098788353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_96
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 586
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032653129d722c830800000000000000
+      internalID: 4089875225124364848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_97
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 586
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec4b063b5c7047a0800000000000000
+      internalID: -6394974739675525913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_98
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 587
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e413a97b2dea31830800000000000000
+      internalID: 4040765510728167758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_99
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 587
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20fe807f900e9c20800000000000000
+      internalID: 3215007868777328685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_100
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 586
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431ed8ad371e6cda0800000000000000
+      internalID: -5924800372055088844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_101
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 586
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518874d0afec306b0800000000000000
+      internalID: -5331189960516597739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_102
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 587
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0a553b1c583fa20800000000000000
+      internalID: 3094964435917578494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_103
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 587
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef56af5d90f49d4e0800000000000000
+      internalID: -1956445659452512770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_104
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 522
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62215010678823f0800000000000000
+      internalID: -925340876764274069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_105
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 522
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc59869ea9a6befc0800000000000000
+      internalID: -3464558274758011445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_106
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 522
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f227be33ab8dfb350800000000000000
+      internalID: 6034780319946338863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_107
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 523
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dde8640a83dade80800000000000000
+      internalID: -8152971585667928622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_108
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 523
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f790787e4f2df69e0800000000000000
+      internalID: -1625848991159219841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_109
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 523
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97096ca653f1d5f90800000000000000
+      internalID: -6963375134559793031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_110
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 459
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2710835aebded2ae0800000000000000
+      internalID: -1572339291810954894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_111
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 457
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799294f106fc0ca20800000000000000
+      internalID: 3080690156870117783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_112
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 458
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029087a45d86a7840800000000000000
+      internalID: 5222601983176214816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_113
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 459
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a9099a2481e6b60800000000000000
+      internalID: 7741151484088195610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_114
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 459
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e560e4d8391deb0800000000000000
+      internalID: -4696810701262004583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_115
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 459
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c562b0e9e602100800000000000000
+      internalID: 81186418363620386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_116
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 395
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230f4131a6ca0ca30800000000000000
+      internalID: 4233573221314916402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_117
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 393
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57247e3da6ec16380800000000000000
+      internalID: -8979669223783054731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_118
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 394
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6113d3260e2ba00800000000000000
+      internalID: 770925198771820235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_119
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 395
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f8181936eb5d140800000000000000
+      internalID: 4743907117356912494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_120
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 395
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b2c13f9f63e86e0800000000000000
+      internalID: -1833467551139746929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_121
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 395
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167e82aa55007af90800000000000000
+      internalID: -6942579932641302687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_122
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 331
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a09c533c264e6730800000000000000
+      internalID: 3994207075178418345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_123
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 329
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb14e9438a739e70800000000000000
+      internalID: 9120768374654376945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_124
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 330
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751929abcea947410800000000000000
+      internalID: 1473973319590121815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_125
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 331
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bebbbe6bddc1effc0800000000000000
+      internalID: -3459295725191709717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_126
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 331
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6dc225e2ac5e1bd0800000000000000
+      internalID: -2657584875403293330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_127
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 331
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b109cd3095acd3ab0800000000000000
+      internalID: -5026639125409918949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_128
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 266
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12583b36868481b0800000000000000
+      internalID: -5655247320993213924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_129
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 266
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216ccada7fc0281a0800000000000000
+      internalID: -6808865428720531950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_130
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 266
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997e41d6f55ed7b30800000000000000
+      internalID: 4286834618341320601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_131
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 265
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b246cbf137d0e2f0800000000000000
+      internalID: -945519312070360400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_132
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 265
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c9948f10926c6a0800000000000000
+      internalID: -6429406329587524555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_133
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 265
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919a7b6b85c85d040800000000000000
+      internalID: 4671794501117258009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_134
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 265
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e27db4b7425b9a0800000000000000
+      internalID: -6218023598543131132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_135
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 265
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d433b6b8e3d2f560800000000000000
+      internalID: 7346166938645771481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_136
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 265
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ee41487be9a6d00800000000000000
+      internalID: 966759581056560767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_137
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 265
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a402a6f5d8ff098a0800000000000000
+      internalID: -6300254896035061686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_138
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 265
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49d390415b522040800000000000000
+      internalID: 4621356572169460046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_139
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 265
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b715f62839ffc620800000000000000
+      internalID: 2796727913187448761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_140
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 265
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320d49bd972eeb2f0800000000000000
+      internalID: -955077057953083357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_141
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 203
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5321878478f8827a0800000000000000
+      internalID: -6401709059107974603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_142
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 203
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80f7ffdf1d1704b0800000000000000
+      internalID: -5474374799306788726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_143
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 203
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d603a055ab167a50800000000000000
+      internalID: 6518427907501786835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_144
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 201
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c42b29c345c9b750800000000000000
+      internalID: 6321300446919730376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_145
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 203
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1826c547d447870800000000000000
+      internalID: 8679647544011293103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_146
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 203
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeca89ea078540b40800000000000000
+      internalID: 5405542693740260590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_147
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 203
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ae558f7a82c1370800000000000000
+      internalID: 8294549315600640514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_148
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 203
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d53b605bf1fd5e00800000000000000
+      internalID: 1035249551053370833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_149
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 203
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da67f87f7ac3da960800000000000000
+      internalID: 7614809237063956141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_150
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 203
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7cff07000b2d7f0800000000000000
+      internalID: -589215085289814060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_151
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 203
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79bab1964470ab5a0800000000000000
+      internalID: -6504878721380668521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_152
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 203
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e150e14da212060800000000000000
+      internalID: 6926864792397618750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_153
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 203
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43fedb276538513a0800000000000000
+      internalID: -6695300863700897996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_154
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 139
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc31f645eb6f96a20800000000000000
+      internalID: 3056245119468377037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_155
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 139
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27836f0f511c6e50800000000000000
+      internalID: 6803832237027723052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_156
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 139
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f37bdf6b76e4fc30800000000000000
+      internalID: 4392388954425095153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_157
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 139
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424dd179e3edf4cd0800000000000000
+      internalID: -2571592501800610780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_158
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 139
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f0ee58b63324a60800000000000000
+      internalID: 7656738853384752920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_159
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 139
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5df9a11a2363f1e0800000000000000
+      internalID: -2165277963498947233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_160
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 152
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed2f81522a355200800000000000000
+      internalID: 168104480167898592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_161
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 139
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb62c229911a95a0800000000000000
+      internalID: -6513874561627165712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_162
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 152
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77eef30c59d9c17b0800000000000000
+      internalID: -5252149798919737737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_163
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 139
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d683581a44aedf70800000000000000
+      internalID: 9213982525789275861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_164
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 139
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f260b32990f7520800000000000000
+      internalID: 2701888825105723144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_165
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 139
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a9dc433ac6435e0800000000000000
+      internalID: -1930798892013741443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_166
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 139
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43a844e9e4d6e080800000000000000
+      internalID: -9158398691188890805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_167
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 149
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21626de2ffcaa2a0800000000000000
+      internalID: -6725334451252731605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_168
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 139
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a21e6023ab51600800000000000000
+      internalID: 438461262765042182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_169
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 139
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d1dd09b0d9742a0800000000000000
+      internalID: -6753256443218158316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_170
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 75
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b41af9fb2a76070800000000000000
+      internalID: 8099621398749727557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_171
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 75
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69626c8030f7f3c90800000000000000
+      internalID: -7187886829251189098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_172
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 75
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46d85d8018a44100800000000000000
+      internalID: 91382681498605135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_173
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 73
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6e14b02a4b1ef40800000000000000
+      internalID: 5756080406822774500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_174
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 75
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade987be4fbdc5540800000000000000
+      internalID: 4998111531443461850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_175
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 75
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71fdb1ef91cb7f70800000000000000
+      internalID: 9186148757383541118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_176
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 75
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50510967ebf8ffaa0800000000000000
+      internalID: -6125018920004872955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_177
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 75
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a496fee5bcd4205f0800000000000000
+      internalID: -791985048597337782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_178
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 75
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b16fcf437d0e3a0800000000000000
+      internalID: -6638069228161852573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_179
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 75
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee0c0ddf36051cc0800000000000000
+      internalID: -3741077044100067606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_180
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 75
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1f0aeeb37955ac0800000000000000
+      internalID: -3867018421365313107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_181
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 75
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df9455e984eb04b0800000000000000
+      internalID: -5473029641229525034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_182
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 75
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1095ba25bee6d97f0800000000000000
+      internalID: -604204818014447359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_183
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 10
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7022893c4b51ea490800000000000000
+      internalID: -7733219644028739065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_184
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 10
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e53b4bff3256be70800000000000000
+      internalID: 9130575729292686824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_185
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 3
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be483aab3ee864f0800000000000000
+      internalID: -835155790850928970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_186
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 4
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c5f20b38f469a20800000000000000
+      internalID: 3068727623114775592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_187
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 18
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ed540edb2dd1890800000000000000
+      internalID: -7485595292666569106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_tunic_188
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 6
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8a8b94665a04e20800000000000000
+      internalID: 3332845582996252835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

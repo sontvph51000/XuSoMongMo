@@ -1,0 +1,6955 @@
+fileFormatVersion: 2
+guid: d2cd7dc9faf85c24a9965d4bbef1c0b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5651786361140098372
+    second: ruby-red_0
+  - first:
+      213: -2665250217381055662
+    second: ruby-red_1
+  - first:
+      213: 1600724143392465398
+    second: ruby-red_2
+  - first:
+      213: 6425774739372994234
+    second: ruby-red_3
+  - first:
+      213: 7234583002548714110
+    second: ruby-red_4
+  - first:
+      213: -6968050722192823189
+    second: ruby-red_5
+  - first:
+      213: -5224719702907022208
+    second: ruby-red_6
+  - first:
+      213: -653221393518692668
+    second: ruby-red_7
+  - first:
+      213: -5159721554652242016
+    second: ruby-red_8
+  - first:
+      213: 3996943163144546806
+    second: ruby-red_9
+  - first:
+      213: -4219087731054411087
+    second: ruby-red_10
+  - first:
+      213: 478321333941814473
+    second: ruby-red_11
+  - first:
+      213: -1619099298605287756
+    second: ruby-red_12
+  - first:
+      213: -1379674213465620473
+    second: ruby-red_13
+  - first:
+      213: 7613288445528849454
+    second: ruby-red_14
+  - first:
+      213: -934813387630632089
+    second: ruby-red_15
+  - first:
+      213: 1787759206097702315
+    second: ruby-red_16
+  - first:
+      213: 1528500320001320247
+    second: ruby-red_17
+  - first:
+      213: -5524443310022399424
+    second: ruby-red_18
+  - first:
+      213: 4858006845701868786
+    second: ruby-red_19
+  - first:
+      213: 5270892084157739967
+    second: ruby-red_20
+  - first:
+      213: 6214104176815468031
+    second: ruby-red_21
+  - first:
+      213: -4770923599132724350
+    second: ruby-red_22
+  - first:
+      213: 165362938701454186
+    second: ruby-red_23
+  - first:
+      213: -7233226562217712719
+    second: ruby-red_24
+  - first:
+      213: 7568400673723308803
+    second: ruby-red_25
+  - first:
+      213: 8788182712680570129
+    second: ruby-red_26
+  - first:
+      213: 808695997741543691
+    second: ruby-red_27
+  - first:
+      213: 3163171503857957968
+    second: ruby-red_28
+  - first:
+      213: 4566357129421457526
+    second: ruby-red_29
+  - first:
+      213: -7949112660712719848
+    second: ruby-red_30
+  - first:
+      213: -6971917752098101721
+    second: ruby-red_31
+  - first:
+      213: 3791506465225632939
+    second: ruby-red_32
+  - first:
+      213: 4229284499805402645
+    second: ruby-red_33
+  - first:
+      213: 8159176548835695602
+    second: ruby-red_34
+  - first:
+      213: 9064824119620082373
+    second: ruby-red_35
+  - first:
+      213: 4965707667641921343
+    second: ruby-red_36
+  - first:
+      213: -5083613800560981859
+    second: ruby-red_37
+  - first:
+      213: 8736100206357270059
+    second: ruby-red_38
+  - first:
+      213: 6167193783461315708
+    second: ruby-red_39
+  - first:
+      213: -6342686328963418220
+    second: ruby-red_40
+  - first:
+      213: -8055212133894542250
+    second: ruby-red_41
+  - first:
+      213: 7876900530438161207
+    second: ruby-red_42
+  - first:
+      213: -447897417828098480
+    second: ruby-red_43
+  - first:
+      213: 4905246678786773657
+    second: ruby-red_44
+  - first:
+      213: -5491811306326628781
+    second: ruby-red_45
+  - first:
+      213: -2782630289495375735
+    second: ruby-red_46
+  - first:
+      213: -1924970498251294026
+    second: ruby-red_47
+  - first:
+      213: 8717090417102256915
+    second: ruby-red_48
+  - first:
+      213: 8281925310573178186
+    second: ruby-red_49
+  - first:
+      213: -5516948103610397974
+    second: ruby-red_50
+  - first:
+      213: 6510572032516672118
+    second: ruby-red_51
+  - first:
+      213: 8428765505575539778
+    second: ruby-red_52
+  - first:
+      213: -8447995560523242185
+    second: ruby-red_53
+  - first:
+      213: -8468537009985744231
+    second: ruby-red_54
+  - first:
+      213: -2045619629447672859
+    second: ruby-red_55
+  - first:
+      213: -3237213282549776358
+    second: ruby-red_56
+  - first:
+      213: 8553253609108602967
+    second: ruby-red_57
+  - first:
+      213: -5997035421621934188
+    second: ruby-red_58
+  - first:
+      213: 8639675792674323831
+    second: ruby-red_59
+  - first:
+      213: -3007769369771479528
+    second: ruby-red_60
+  - first:
+      213: 215708663992228175
+    second: ruby-red_61
+  - first:
+      213: -2150202097403770304
+    second: ruby-red_62
+  - first:
+      213: -3873838963775649960
+    second: ruby-red_63
+  - first:
+      213: -221685927066214994
+    second: ruby-red_64
+  - first:
+      213: -7092878492403901898
+    second: ruby-red_65
+  - first:
+      213: -8329585568757533683
+    second: ruby-red_66
+  - first:
+      213: -2717101998757747255
+    second: ruby-red_67
+  - first:
+      213: -7220741347748328954
+    second: ruby-red_68
+  - first:
+      213: 5988258932816657735
+    second: ruby-red_69
+  - first:
+      213: -2443949285489785406
+    second: ruby-red_70
+  - first:
+      213: -4503084445304800535
+    second: ruby-red_71
+  - first:
+      213: -4366049873822741728
+    second: ruby-red_72
+  - first:
+      213: -8553152549237234744
+    second: ruby-red_73
+  - first:
+      213: -5645289706418759713
+    second: ruby-red_74
+  - first:
+      213: 2436930555567890689
+    second: ruby-red_75
+  - first:
+      213: -1769576195899860448
+    second: ruby-red_76
+  - first:
+      213: -2045162062524412021
+    second: ruby-red_77
+  - first:
+      213: -636552756706236413
+    second: ruby-red_78
+  - first:
+      213: 7660904200871650423
+    second: ruby-red_79
+  - first:
+      213: -4263746562162220034
+    second: ruby-red_80
+  - first:
+      213: -8032862036570022305
+    second: ruby-red_81
+  - first:
+      213: 5979967860666271699
+    second: ruby-red_82
+  - first:
+      213: 3557276400935112645
+    second: ruby-red_83
+  - first:
+      213: -6325246761174946539
+    second: ruby-red_84
+  - first:
+      213: -3158730000111335750
+    second: ruby-red_85
+  - first:
+      213: -1840520197887070135
+    second: ruby-red_86
+  - first:
+      213: -3599028553362029353
+    second: ruby-red_87
+  - first:
+      213: 7554519211011758264
+    second: ruby-red_88
+  - first:
+      213: 8693374226727094082
+    second: ruby-red_89
+  - first:
+      213: -679687403069211591
+    second: ruby-red_90
+  - first:
+      213: 1291887833513980024
+    second: ruby-red_91
+  - first:
+      213: 1853453828614086986
+    second: ruby-red_92
+  - first:
+      213: -1657207862662810940
+    second: ruby-red_93
+  - first:
+      213: -8707582616165544390
+    second: ruby-red_94
+  - first:
+      213: -4383831455625285273
+    second: ruby-red_95
+  - first:
+      213: -1787280191712503450
+    second: ruby-red_96
+  - first:
+      213: -3324817612457907944
+    second: ruby-red_97
+  - first:
+      213: -6335788301031044466
+    second: ruby-red_98
+  - first:
+      213: 3041356331072614616
+    second: ruby-red_99
+  - first:
+      213: -7223750199823343443
+    second: ruby-red_100
+  - first:
+      213: -6158772761900138030
+    second: ruby-red_101
+  - first:
+      213: 3411732474023350114
+    second: ruby-red_102
+  - first:
+      213: -6349265144066708109
+    second: ruby-red_103
+  - first:
+      213: -6286636727791667897
+    second: ruby-red_104
+  - first:
+      213: -7179921769869927672
+    second: ruby-red_105
+  - first:
+      213: 6106666409979317923
+    second: ruby-red_106
+  - first:
+      213: -8413012734246305034
+    second: ruby-red_107
+  - first:
+      213: -1125672215674334432
+    second: ruby-red_108
+  - first:
+      213: 4695340932701017310
+    second: ruby-red_109
+  - first:
+      213: 7693887889240791045
+    second: ruby-red_110
+  - first:
+      213: -2125618579312259944
+    second: ruby-red_111
+  - first:
+      213: 6185593174013986460
+    second: ruby-red_112
+  - first:
+      213: -8691280055530184452
+    second: ruby-red_113
+  - first:
+      213: -4746309558415056719
+    second: ruby-red_114
+  - first:
+      213: -5584085332397788300
+    second: ruby-red_115
+  - first:
+      213: -2325713711613377325
+    second: ruby-red_116
+  - first:
+      213: -74726707822592317
+    second: ruby-red_117
+  - first:
+      213: 6058627905649098703
+    second: ruby-red_118
+  - first:
+      213: -6344245973476705907
+    second: ruby-red_119
+  - first:
+      213: -8731912242730348974
+    second: ruby-red_120
+  - first:
+      213: 5965753771428051960
+    second: ruby-red_121
+  - first:
+      213: 7188123674832375661
+    second: ruby-red_122
+  - first:
+      213: -1632834635126371923
+    second: ruby-red_123
+  - first:
+      213: -3111651518713917137
+    second: ruby-red_124
+  - first:
+      213: -2954586713386361897
+    second: ruby-red_125
+  - first:
+      213: 4126725373490181343
+    second: ruby-red_126
+  - first:
+      213: -6796839142212527804
+    second: ruby-red_127
+  - first:
+      213: -8833179756779571652
+    second: ruby-red_128
+  - first:
+      213: 5702564226948679926
+    second: ruby-red_129
+  - first:
+      213: -2482156025305709530
+    second: ruby-red_130
+  - first:
+      213: 7522972279720342375
+    second: ruby-red_131
+  - first:
+      213: -5258385183884457255
+    second: ruby-red_132
+  - first:
+      213: 8850896239028321057
+    second: ruby-red_133
+  - first:
+      213: 7155298164020288127
+    second: ruby-red_134
+  - first:
+      213: -2563183811033135397
+    second: ruby-red_135
+  - first:
+      213: -700692550632489928
+    second: ruby-red_136
+  - first:
+      213: 5142869414052034635
+    second: ruby-red_137
+  - first:
+      213: -313083700486229128
+    second: ruby-red_138
+  - first:
+      213: 6232241713610159602
+    second: ruby-red_139
+  - first:
+      213: 8360210847215651996
+    second: ruby-red_140
+  - first:
+      213: 265829712720603443
+    second: ruby-red_141
+  - first:
+      213: 1392741613830501583
+    second: ruby-red_142
+  - first:
+      213: -3065111492266930961
+    second: ruby-red_143
+  - first:
+      213: 6923651886430633634
+    second: ruby-red_144
+  - first:
+      213: -3779610319816202887
+    second: ruby-red_145
+  - first:
+      213: 686780482350971070
+    second: ruby-red_146
+  - first:
+      213: 7324555658207561617
+    second: ruby-red_147
+  - first:
+      213: -4509511550793078380
+    second: ruby-red_148
+  - first:
+      213: -7855657025873648359
+    second: ruby-red_149
+  - first:
+      213: -2733986424389305507
+    second: ruby-red_150
+  - first:
+      213: -8331595584497819654
+    second: ruby-red_151
+  - first:
+      213: -1878669159302304087
+    second: ruby-red_152
+  - first:
+      213: 2496295455623926818
+    second: ruby-red_153
+  - first:
+      213: 657019919991714767
+    second: ruby-red_154
+  - first:
+      213: -4216693194068173948
+    second: ruby-red_155
+  - first:
+      213: 997050469789101492
+    second: ruby-red_156
+  - first:
+      213: 5811382050071760103
+    second: ruby-red_157
+  - first:
+      213: 5548635084902279221
+    second: ruby-red_158
+  - first:
+      213: 6086855754050505199
+    second: ruby-red_159
+  - first:
+      213: 223089284608479112
+    second: ruby-red_160
+  - first:
+      213: -1108205519783988604
+    second: ruby-red_161
+  - first:
+      213: 8419718112869467441
+    second: ruby-red_162
+  - first:
+      213: -1643980540921241598
+    second: ruby-red_163
+  - first:
+      213: -571202551803621174
+    second: ruby-red_164
+  - first:
+      213: 903399342877910128
+    second: ruby-red_165
+  - first:
+      213: -6102087365652814305
+    second: ruby-red_166
+  - first:
+      213: -7796125182077428009
+    second: ruby-red_167
+  - first:
+      213: -5252562186985452272
+    second: ruby-red_168
+  - first:
+      213: 4152658953562069824
+    second: ruby-red_169
+  - first:
+      213: 2005207450863506729
+    second: ruby-red_170
+  - first:
+      213: 393365306536760448
+    second: ruby-red_171
+  - first:
+      213: -4218480919310316334
+    second: ruby-red_172
+  - first:
+      213: -5853040154974570691
+    second: ruby-red_173
+  - first:
+      213: -8427159175932986512
+    second: ruby-red_174
+  - first:
+      213: -8557164743732608889
+    second: ruby-red_175
+  - first:
+      213: 5019440840813179095
+    second: ruby-red_176
+  - first:
+      213: 8887375940487864182
+    second: ruby-red_177
+  - first:
+      213: 2079997876750418231
+    second: ruby-red_178
+  - first:
+      213: -533035448405284853
+    second: ruby-red_179
+  - first:
+      213: 2825848613868101902
+    second: ruby-red_180
+  - first:
+      213: -7392945160799129689
+    second: ruby-red_181
+  - first:
+      213: -4443087963202355412
+    second: ruby-red_182
+  - first:
+      213: 6283858220178447005
+    second: ruby-red_183
+  - first:
+      213: -2652434015809201438
+    second: ruby-red_184
+  - first:
+      213: 2751433487897959668
+    second: ruby-red_185
+  - first:
+      213: -8316137626118817969
+    second: ruby-red_186
+  - first:
+      213: -6060979945016962523
+    second: ruby-red_187
+  - first:
+      213: -3815480673702373310
+    second: ruby-red_188
+  - first:
+      213: -667711627236625431
+    second: ruby-red_189
+  - first:
+      213: 1226559887151851403
+    second: ruby-red_190
+  - first:
+      213: 1502274041604407906
+    second: ruby-red_191
+  - first:
+      213: -7685963213840125264
+    second: ruby-red_192
+  - first:
+      213: 9188749396597058203
+    second: ruby-red_193
+  - first:
+      213: 6003610937814032260
+    second: ruby-red_194
+  - first:
+      213: 4817166832634947178
+    second: ruby-red_195
+  - first:
+      213: 4120023328286970852
+    second: ruby-red_196
+  - first:
+      213: -9031423073677743840
+    second: ruby-red_197
+  - first:
+      213: -2439818557751391922
+    second: ruby-red_198
+  - first:
+      213: -5484338990528652342
+    second: ruby-red_199
+  - first:
+      213: 4250286552955109100
+    second: ruby-red_200
+  - first:
+      213: 1565789327847375697
+    second: ruby-red_201
+  - first:
+      213: 6803726315543447310
+    second: ruby-red_202
+  - first:
+      213: -3278849109699209503
+    second: ruby-red_203
+  - first:
+      213: -7992502613230549507
+    second: ruby-red_204
+  - first:
+      213: -7243591334183229578
+    second: ruby-red_205
+  - first:
+      213: 6376514724400820853
+    second: ruby-red_206
+  - first:
+      213: -5891857740351675274
+    second: ruby-red_207
+  - first:
+      213: 4119834178885032957
+    second: ruby-red_208
+  - first:
+      213: 1505691872527316074
+    second: ruby-red_209
+  - first:
+      213: 6178281542993999547
+    second: ruby-red_210
+  - first:
+      213: 2094445716540960772
+    second: ruby-red_211
+  - first:
+      213: 7255190560657595218
+    second: ruby-red_212
+  - first:
+      213: -973471675257842023
+    second: ruby-red_213
+  - first:
+      213: 5840731832570160827
+    second: ruby-red_214
+  - first:
+      213: -1134270904882048873
+    second: ruby-red_215
+  - first:
+      213: 2293200573805800255
+    second: ruby-red_216
+  - first:
+      213: 1008619865224161436
+    second: ruby-red_217
+  - first:
+      213: -1721291146941902629
+    second: ruby-red_218
+  - first:
+      213: -6451861065934892459
+    second: ruby-red_219
+  - first:
+      213: -3789421392321742558
+    second: ruby-red_220
+  - first:
+      213: 2700076900027052924
+    second: ruby-red_221
+  - first:
+      213: -7770310568997131538
+    second: ruby-red_222
+  - first:
+      213: 4759103132171754895
+    second: ruby-red_223
+  - first:
+      213: 8825521863683227432
+    second: ruby-red_224
+  - first:
+      213: -8343017244836468862
+    second: ruby-red_225
+  - first:
+      213: 6917806561370219492
+    second: ruby-red_226
+  - first:
+      213: -4488012408929550196
+    second: ruby-red_227
+  - first:
+      213: 2361328961052912285
+    second: ruby-red_228
+  - first:
+      213: 4143105898028391983
+    second: ruby-red_229
+  - first:
+      213: 5602559385910580245
+    second: ruby-red_230
+  - first:
+      213: -4951795647673149851
+    second: ruby-red_231
+  - first:
+      213: 8009465434892542924
+    second: ruby-red_232
+  - first:
+      213: -4958812905554652928
+    second: ruby-red_233
+  - first:
+      213: -3773476177369089852
+    second: ruby-red_234
+  - first:
+      213: 906796882067687234
+    second: ruby-red_235
+  - first:
+      213: -8545274040969813443
+    second: ruby-red_236
+  - first:
+      213: 741207085137032018
+    second: ruby-red_237
+  - first:
+      213: -4309586753171151812
+    second: ruby-red_238
+  - first:
+      213: 5584898187347376787
+    second: ruby-red_239
+  - first:
+      213: 1121834770518738370
+    second: ruby-red_240
+  - first:
+      213: 4052002964638157188
+    second: ruby-red_241
+  - first:
+      213: 4570244238000632404
+    second: ruby-red_242
+  - first:
+      213: 7841869860547948608
+    second: ruby-red_243
+  - first:
+      213: -5407123725822216232
+    second: ruby-red_244
+  - first:
+      213: -3227569723012812994
+    second: ruby-red_245
+  - first:
+      213: 2496587136528715022
+    second: ruby-red_246
+  - first:
+      213: -3177743971503861773
+    second: ruby-red_247
+  - first:
+      213: 7040982753543642082
+    second: ruby-red_248
+  - first:
+      213: 5063081408015694051
+    second: ruby-red_249
+  - first:
+      213: 8988961436180600792
+    second: ruby-red_250
+  - first:
+      213: -2614329055879268998
+    second: ruby-red_251
+  - first:
+      213: -7716585376114898674
+    second: ruby-red_252
+  - first:
+      213: -1341997929709665233
+    second: ruby-red_253
+  - first:
+      213: -7870341544423593651
+    second: ruby-red_254
+  - first:
+      213: -8179225493042329764
+    second: ruby-red_255
+  - first:
+      213: 5313646375037959858
+    second: ruby-red_256
+  - first:
+      213: 200199583670497309
+    second: ruby-red_257
+  - first:
+      213: -6338799956759239530
+    second: ruby-red_258
+  - first:
+      213: 5163759919982635095
+    second: ruby-red_259
+  - first:
+      213: -1801241127296253263
+    second: ruby-red_260
+  - first:
+      213: -2408673640031561503
+    second: ruby-red_261
+  - first:
+      213: -4669464161242490780
+    second: ruby-red_262
+  - first:
+      213: 6750843649163913557
+    second: ruby-red_263
+  - first:
+      213: 8544391392850888934
+    second: ruby-red_264
+  - first:
+      213: 6293831807267127412
+    second: ruby-red_265
+  - first:
+      213: -2789610275015154595
+    second: ruby-red_266
+  - first:
+      213: 8906186353299703925
+    second: ruby-red_267
+  - first:
+      213: 8004300149259912735
+    second: ruby-red_268
+  - first:
+      213: -16629929527664526
+    second: ruby-red_269
+  - first:
+      213: -2659813782688100494
+    second: ruby-red_270
+  - first:
+      213: 2369274553733313835
+    second: ruby-red_271
+  - first:
+      213: -3184877879913201050
+    second: ruby-red_272
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ruby-red_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1302
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445372240cd2f6e40800000000000000
+      internalID: 5651786361140098372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1302
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25338736c01230bd0800000000000000
+      internalID: -2665250217381055662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1298
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1ac4e902ae63610800000000000000
+      internalID: 1600724143392465398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1302
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe610b8410fc2950800000000000000
+      internalID: 6425774739372994234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_4
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1302
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7abefc09e6666460800000000000000
+      internalID: 7234583002548714110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_5
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1298
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ceac659c28c4f90800000000000000
+      internalID: -6968050722192823189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_6
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1302
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0841e39ac111e77b0800000000000000
+      internalID: -5224719702907022208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_7
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1298
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6f1af7a9a4fe6f0800000000000000
+      internalID: -653221393518692668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_8
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1302
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0afd60b559cf468b0800000000000000
+      internalID: -5159721554652242016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_9
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1234
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f928a251aef77730800000000000000
+      internalID: 3996943163144546806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_10
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1244
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b20b42ff0ac275c0800000000000000
+      internalID: -4219087731054411087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_11
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1234
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4c71e08b653a600800000000000000
+      internalID: 478321333941814473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_12
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1244
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b63c8a24cdc789e0800000000000000
+      internalID: -1619099298605287756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_13
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1237
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7008d98dc996adce0800000000000000
+      internalID: -1379674213465620473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_14
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1244
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c35581185d7a960800000000000000
+      internalID: 7613288445528849454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_15
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1234
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7632ff24d20e603f0800000000000000
+      internalID: -934813387630632089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_16
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1244
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad4367a6856fc810800000000000000
+      internalID: 1787759206097702315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_17
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1234
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735efb451f2563510800000000000000
+      internalID: 1528500320001320247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_18
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1244
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ae45c441c3553b0800000000000000
+      internalID: -5524443310022399424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_19
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1234
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fcc972cc7b1b6340800000000000000
+      internalID: 4858006845701868786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_20
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1244
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3f3a59c68f52940800000000000000
+      internalID: 5270892084157739967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_21
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1234
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd6b5833deec3650800000000000000
+      internalID: 6214104176815468031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_22
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1244
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2837a2793464acdb0800000000000000
+      internalID: -4770923599132724350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_23
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1171
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b905477bc7b4200800000000000000
+      internalID: 165362938701454186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_24
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1180
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3e713d3ca6e9b90800000000000000
+      internalID: -7233226562217712719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_25
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1171
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30bda1b405c580960800000000000000
+      internalID: 7568400673723308803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_26
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1180
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ddd8a8d95e5f970800000000000000
+      internalID: 8788182712680570129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_27
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1171
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b013aaca9b0193b00800000000000000
+      internalID: 808695997741543691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_28
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1180
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c771b39b7d5eb20800000000000000
+      internalID: 3163171503857957968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_29
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1171
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6780db89d95fe5f30800000000000000
+      internalID: 4566357129421457526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_30
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1180
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a78aab6241fa190800000000000000
+      internalID: -7949112660712719848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_31
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1171
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726e3f64eb5ce3f90800000000000000
+      internalID: -6971917752098101721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_32
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1180
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bacee57ba032e9430800000000000000
+      internalID: 3791506465225632939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_33
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1171
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51677f848df61ba30800000000000000
+      internalID: 4229284499805402645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_34
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1180
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb9c0d87d73b3170800000000000000
+      internalID: 8159176548835695602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_35
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1171
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca19516289bccd70800000000000000
+      internalID: 9064824119620082373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_36
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1180
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3fea3470dcb9e440800000000000000
+      internalID: 4965707667641921343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_37
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1106
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d980a4abe206379b0800000000000000
+      internalID: -5083613800560981859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_38
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1106
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e44221adcdc3970800000000000000
+      internalID: 8736100206357270059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_39
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1106
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7485342216469550800000000000000
+      internalID: 6167193783461315708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_40
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1106
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497b86883604af7a0800000000000000
+      internalID: -6342686328963418220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_41
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1106
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65cacc81e33263090800000000000000
+      internalID: -8055212133894542250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_42
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1106
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7334adf7c4f505d60800000000000000
+      internalID: 7876900530438161207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_43
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1106
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e9a8aebafb8c9f0800000000000000
+      internalID: -447897417828098480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_44
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1046
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99210c08ddfe21440800000000000000
+      internalID: 4905246678786773657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_45
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1041
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3566de8b6ba29c3b0800000000000000
+      internalID: -5491811306326628781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_46
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1042
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980c265ae7c1269d0800000000000000
+      internalID: -2782630289495375735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_47
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1042
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6baff90e7812945e0800000000000000
+      internalID: -1924970498251294026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_48
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1041
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b775a9c8359f870800000000000000
+      internalID: 8717090417102256915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_49
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1041
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4de701c03f4fe270800000000000000
+      internalID: 8281925310573178186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_50
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1041
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea89080eecdf63b0800000000000000
+      internalID: -5516948103610397974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_51
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1042
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67acfb2e4c23a5a50800000000000000
+      internalID: 6510572032516672118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_52
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 978
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24455eed19df8f470800000000000000
+      internalID: 8428765505575539778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_53
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 988
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7356fee0cc0b2ca80800000000000000
+      internalID: -8447995560523242185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_54
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 978
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9921d882576b97a80800000000000000
+      internalID: -8468537009985744231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_55
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 988
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb843109cf7c93e0800000000000000
+      internalID: -2045619629447672859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_56
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 978
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10c177cbab1313d0800000000000000
+      internalID: -3237213282549776358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_57
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 988
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7500fb427d243b670800000000000000
+      internalID: 8553253609108602967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_58
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 981
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4972ac4ce0046cca0800000000000000
+      internalID: -5997035421621934188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_59
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 978
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77df4e4cb5b46e770800000000000000
+      internalID: 8639675792674323831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_60
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 988
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e687ca1b14246d0800000000000000
+      internalID: -3007769369771479528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_61
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 978
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f491b3413e95ef200800000000000000
+      internalID: 215708663992228175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_62
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 988
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ac2fca592f822e0800000000000000
+      internalID: -2150202097403770304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_63
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 978
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857c517acfb5d3ac0800000000000000
+      internalID: -3873838963775649960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_64
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 988
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eadd389e2d96cecf0800000000000000
+      internalID: -221685927066214994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_65
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 981
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ad1414798019d90800000000000000
+      internalID: -7092878492403901898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_66
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 915
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04bcf7ae0e576c80800000000000000
+      internalID: -8329585568757533683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_67
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 924
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c56a81c02aea4ad0800000000000000
+      internalID: -2717101998757747255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_68
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 915
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a4c785006cacb90800000000000000
+      internalID: -7220741347748328954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_69
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 924
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74db891b5c19a1350800000000000000
+      internalID: 5988258932816657735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_70
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 915
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5cf4dc219551ed0800000000000000
+      internalID: -2443949285489785406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_71
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 924
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea350c2e84d181c0800000000000000
+      internalID: -4503084445304800535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_72
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 915
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b0827a5cca863c0800000000000000
+      internalID: -4366049873822741728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_73
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 924
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3ecf0b2191d4980800000000000000
+      internalID: -8553152549237234744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_74
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 914
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd79dba0ce6e7a1b0800000000000000
+      internalID: -5645289706418759713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_75
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 923
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1016beacd67b1d120800000000000000
+      internalID: 2436930555567890689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_76
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 914
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ad66053d33177e0800000000000000
+      internalID: -1769576195899860448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_77
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 923
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f802b90ff1e93e0800000000000000
+      internalID: -2045162062524412021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_78
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 914
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308aabfe3a28a27f0800000000000000
+      internalID: -636552756706236413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_79
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 923
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774a04f08cff05a60800000000000000
+      internalID: 7660904200871650423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_80
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 915
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3270e871124d4c0800000000000000
+      internalID: -4263746562162220034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_81
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 924
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ed584a98a858090800000000000000
+      internalID: -8032862036570022305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_82
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 850
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d70447061d1df250800000000000000
+      internalID: 5979967860666271699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_83
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 850
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf0e951a0cfd5130800000000000000
+      internalID: 3557276400935112645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_84
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 850
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d2a7355953838a0800000000000000
+      internalID: -6325246761174946539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_85
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 850
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab68ef1fccfe924d0800000000000000
+      internalID: -3158730000111335750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_86
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 850
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940720ba1a82576e0800000000000000
+      internalID: -1840520197887070135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_87
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 850
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d44e54699ead0ec0800000000000000
+      internalID: -3599028553362029353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_88
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 850
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b85835623b07d860800000000000000
+      internalID: 7554519211011758264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_89
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 850
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247ca9bbcc115a870800000000000000
+      internalID: 8693374226727094082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_90
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 791
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c70c578e34196f0800000000000000
+      internalID: -679687403069211591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_91
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 791
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870ff3ec325bde110800000000000000
+      internalID: 1291887833513980024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_92
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 791
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a416126ef6ac8b910800000000000000
+      internalID: 1853453828614086986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_93
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 790
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2bffaaa3a6009e0800000000000000
+      internalID: -1657207862662810940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_94
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 791
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e061fceb3782780800000000000000
+      internalID: -8707582616165544390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_95
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 791
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761754484808923c0800000000000000
+      internalID: -4383831455625285273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_96
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 791
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66952e2922e4237e0800000000000000
+      internalID: -1787280191712503450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_97
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 790
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819eb724fffdbd1d0800000000000000
+      internalID: -3324817612457907944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_98
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 791
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a08f0db12c218a0800000000000000
+      internalID: -6335788301031044466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_99
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 722
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0f7f42871153a20800000000000000
+      internalID: 3041356331072614616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_100
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 732
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da06f51677510cb90800000000000000
+      internalID: -7223750199823343443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_101
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 721
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1479abdc4a78aa0800000000000000
+      internalID: -6158772761900138030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_102
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 731
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f83d6eb98e85f20800000000000000
+      internalID: 3411732474023350114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_103
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 722
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d6227cdf0e2e7a0800000000000000
+      internalID: -6349265144066708109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_104
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 732
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745bd00443161c8a0800000000000000
+      internalID: -6286636727791667897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_105
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 722
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b1fcfe03bcb5c90800000000000000
+      internalID: -7179921769869927672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_106
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 732
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae80a0debc3fb450800000000000000
+      internalID: 6106666409979317923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_107
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 722
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f249640e79fe3b80800000000000000
+      internalID: -8413012734246305034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_108
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 732
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023543b751fc060f0800000000000000
+      internalID: -1125672215674334432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_109
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 721
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4def883b3392140800000000000000
+      internalID: 4695340932701017310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_110
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 731
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50890e3754e26ca60800000000000000
+      internalID: 7693887889240791045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_111
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 722
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c4f140a294082e0800000000000000
+      internalID: -2125618579312259944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_112
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 732
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c964f261834a7d550800000000000000
+      internalID: 6185593174013986460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_113
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 722
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0afae76de526780800000000000000
+      internalID: -8691280055530184452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_114
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 732
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b021a88a98b12eb0800000000000000
+      internalID: -4746309558415056719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_115
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 722
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473f5f6d9f75182b0800000000000000
+      internalID: -5584085332397788300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_116
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 732
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4870293b769bfd0800000000000000
+      internalID: -2325713711613377325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_117
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 659
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cefff4847486fef0800000000000000
+      internalID: -74726707822592317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_118
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 668
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfbb7eeaf1941450800000000000000
+      internalID: 6058627905649098703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_119
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 659
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89f73f76e5b4f7a0800000000000000
+      internalID: -6344245973476705907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_120
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 668
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e4c22341402d680800000000000000
+      internalID: -8731912242730348974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_121
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 659
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb7a6b727d9ac250800000000000000
+      internalID: 5965753771428051960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_122
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 668
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f85ffd56851c360800000000000000
+      internalID: 7188123674832375661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_123
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 658
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9865cec810759e0800000000000000
+      internalID: -1632834635126371923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_124
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 667
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2190421e6131d4d0800000000000000
+      internalID: -3111651518713917137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_125
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 659
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db548ac9033ff6d0800000000000000
+      internalID: -2954586713386361897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_126
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 668
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd43974ecd2154930800000000000000
+      internalID: 4126725373490181343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_127
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 659
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44993f4bfc6cca1a0800000000000000
+      internalID: -6796839142212527804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_128
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 668
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c367bf7bfcd3a6580800000000000000
+      internalID: -8833179756779571652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_129
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 659
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8402073f3932f40800000000000000
+      internalID: 5702564226948679926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_130
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 668
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624ce8afe3c9d8dd0800000000000000
+      internalID: -2482156025305709530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_131
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 658
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76377d31e67f66860800000000000000
+      internalID: 7522972279720342375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_132
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 667
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dac36e09867607b0800000000000000
+      internalID: -5258385183884457255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_133
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 659
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12bbf1f3c33b4da70800000000000000
+      internalID: 8850896239028321057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_134
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 668
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a1f6015c9bc4360800000000000000
+      internalID: 7155298164020288127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_135
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 594
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6865977edbd6cd0800000000000000
+      internalID: -2563183811033135397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_136
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 593
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83cb9ce66d3a646f0800000000000000
+      internalID: -700692550632489928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_137
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 594
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48fac6eb742f5740800000000000000
+      internalID: 5142869414052034635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_138
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 594
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873bd8f7804b7abf0800000000000000
+      internalID: -313083700486229128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_139
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 594
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5fa1691de5d7650800000000000000
+      internalID: 6232241713610159602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_140
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 593
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c08a3a87f650470800000000000000
+      internalID: 8360210847215651996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_141
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 594
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339a47d17ba60b300800000000000000
+      internalID: 265829712720603443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_142
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 594
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc475446e13045310800000000000000
+      internalID: 1392741613830501583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_143
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 594
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec467266598675d0800000000000000
+      internalID: -3065111492266930961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_144
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 534
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae392725b0c51060800000000000000
+      internalID: 6923651886430633634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_145
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 529
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97564f970702c8bc0800000000000000
+      internalID: -3779610319816202887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_146
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 529
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb87331c53fe78900800000000000000
+      internalID: 686780482350971070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_147
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 530
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1970a01609c06a560800000000000000
+      internalID: 7324555658207561617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_148
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 534
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4992570132ffa61c0800000000000000
+      internalID: -4509511550793078380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_149
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 530
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915ef775e891bf290800000000000000
+      internalID: -7855657025873648359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_150
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 530
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5bf88115ddee0ad0800000000000000
+      internalID: -2733986424389305507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_151
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 466
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff5bc565f9306c80800000000000000
+      internalID: -8331595584497819654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_152
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 476
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aeed4d6a50ade5e0800000000000000
+      internalID: -1878669159302304087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_153
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 464
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224d2eead7f94a220800000000000000
+      internalID: 2496295455623926818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_154
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 474
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3367dd2243e1900800000000000000
+      internalID: 657019919991714767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_155
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 468
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b52c881eb4b75c0800000000000000
+      internalID: -4216693194068173948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_156
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 476
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd6ae2ae1c36dd00800000000000000
+      internalID: 997050469789101492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_157
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 466
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eccb9c3f2d26a050800000000000000
+      internalID: 5811382050071760103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_158
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 476
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538aed73636b00d40800000000000000
+      internalID: 5548635084902279221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_159
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 466
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9093b0f0bd87450800000000000000
+      internalID: 6086855754050505199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_160
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 476
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88fc84ab582981300800000000000000
+      internalID: 223089284608479112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_161
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 466
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482f52783fcde90f0800000000000000
+      internalID: -1108205519783988604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_162
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 476
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135c18a9309d8d470800000000000000
+      internalID: 8419718112869467441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_163
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 403
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2002cb088686f29e0800000000000000
+      internalID: -1643980540921241598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_164
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 412
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0d2f43e4ea218f0800000000000000
+      internalID: -571202551803621174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_165
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 403
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0742f8a7ae4898c00800000000000000
+      internalID: 903399342877910128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_166
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 412
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f166dd50fd7015ba0800000000000000
+      internalID: -6102087365652814305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_167
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 401
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de1cc9d3799ec390800000000000000
+      internalID: -7796125182077428009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_168
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 410
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d451c25862b17b0800000000000000
+      internalID: -5252562186985452272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_169
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 402
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b9968015531a930800000000000000
+      internalID: 4152658953562069824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_170
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 411
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9259fa17d8de3db10800000000000000
+      internalID: 2005207450863506729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_171
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 403
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084161389a3857500800000000000000
+      internalID: 393365306536760448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_172
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 412
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dcceb054f1f475c0800000000000000
+      internalID: -4218480919310316334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_173
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 403
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37b4a26df2d5cea0800000000000000
+      internalID: -5853040154974570691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_174
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 412
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b37d4e067bc0b80800000000000000
+      internalID: -8427159175932986512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_175
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 338
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780425dd008de3980800000000000000
+      internalID: -8557164743732608889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_176
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 336
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0f1cfb9d2a8a540800000000000000
+      internalID: 5019440840813179095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_177
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 338
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67fd12e945d465b70800000000000000
+      internalID: 8887375940487864182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_178
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 338
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73186417c03addc10800000000000000
+      internalID: 2079997876750418231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_179
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 338
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08ac1575174a98f0800000000000000
+      internalID: -533035448405284853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_180
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 338
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0163a2a75e673720800000000000000
+      internalID: 2825848613868101902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_181
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 278
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7afef96bb8bf66990800000000000000
+      internalID: -7392945160799129689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_182
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 273
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f7287b90bf652c0800000000000000
+      internalID: -4443087963202355412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_183
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 274
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a97a802cfb43750800000000000000
+      internalID: 6283858220178447005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_184
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 274
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea9789d059a03bd0800000000000000
+      internalID: -2652434015809201438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_185
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 278
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc9545fd2e0f2620800000000000000
+      internalID: 2751433487897959668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_186
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 278
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f477debc3e4279c80800000000000000
+      internalID: -8316137626118817969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_187
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 274
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5225f7a3ad213eba0800000000000000
+      internalID: -6060979945016962523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_188
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 278
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2481a94ea80bc0bc0800000000000000
+      internalID: -3815480673702373310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_189
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 274
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3b92e00dfcbb6f0800000000000000
+      internalID: -667711627236625431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_190
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 274
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87ed6108bd950110800000000000000
+      internalID: 1226559887151851403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_191
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 278
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2620f1d084629d410800000000000000
+      internalID: 1502274041604407906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_192
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 278
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2f652dd29f55590800000000000000
+      internalID: -7685963213840125264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_193
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 274
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9aa04264eef48f70800000000000000
+      internalID: 9188749396597058203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_194
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 274
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f1e06e65c115350800000000000000
+      internalID: 6003610937814032260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_195
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 274
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66effa36b30ad240800000000000000
+      internalID: 4817166832634947178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_196
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 210
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e31ed463634d2930800000000000000
+      internalID: 4120023328286970852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_197
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 220
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029eb25a090f9a280800000000000000
+      internalID: -9031423073677743840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_198
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 210
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4982dcc2f5042ed0800000000000000
+      internalID: -2439818557751391922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_199
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 220
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb17b1deb6b3e3b0800000000000000
+      internalID: -5484338990528652342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_200
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 210
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee3286d91d0cfa30800000000000000
+      internalID: 4250286552955109100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_201
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 220
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153c077091dcab510800000000000000
+      internalID: 1565789327847375697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_202
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 210
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07c1fa4901bb6e50800000000000000
+      internalID: 6803726315543447310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_203
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 220
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6d5485b103f72d0800000000000000
+      internalID: -3278849109699209503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_204
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 210
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df50308283de41190800000000000000
+      internalID: -7992502613230549507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_205
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 220
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67729eb4f08997b90800000000000000
+      internalID: -7243591334183229578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_206
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 210
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57275fc8b5eed7850800000000000000
+      internalID: 6376514724400820853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_207
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 225
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674e33ff99aeb3ea0800000000000000
+      internalID: -5891857740351675274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_208
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 210
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb94fd9b579c2930800000000000000
+      internalID: 4119834178885032957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_209
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 220
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64fe23d7ca45e410800000000000000
+      internalID: 1505691872527316074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_210
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 210
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb67284545aadb550800000000000000
+      internalID: 6178281542993999547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_211
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 220
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40033c74847f01d10800000000000000
+      internalID: 2094445716540960772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_212
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 210
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b53c1106d9fa460800000000000000
+      internalID: 7255190560657595218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_213
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 221
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9961a554ba88d72f0800000000000000
+      internalID: -973471675257842023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_214
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 210
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb629acf7a27e0150800000000000000
+      internalID: 5840731832570160827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_215
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 220
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790d1732f924240f0800000000000000
+      internalID: -1134270904882048873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_216
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 210
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3baa60a5c513df10800000000000000
+      internalID: 2293200573805800255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_217
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 220
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98a61c6c665ffd00800000000000000
+      internalID: 1008619865224161436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_218
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 210
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0d08752debc18e0800000000000000
+      internalID: -1721291146941902629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_219
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 220
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55217c04b826676a0800000000000000
+      internalID: -6451861065934892459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_220
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 210
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22975662255496bc0800000000000000
+      internalID: -3789421392321742558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_221
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 220
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73b95c82a9987520800000000000000
+      internalID: 2700076900027052924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_222
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 147
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea6674d4bf4a2490800000000000000
+      internalID: -7770310568997131538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_223
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 156
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ddb8a751bbb0240800000000000000
+      internalID: 4759103132171754895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_224
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 147
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f384a106d8a7a70800000000000000
+      internalID: 8825521863683227432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_225
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 156
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287609ed406a73c80800000000000000
+      internalID: -8343017244836468862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_226
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 147
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3a65b5a6cf00060800000000000000
+      internalID: 6917806561370219492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_227
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 156
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80853a1e7067b1c0800000000000000
+      internalID: -4488012408929550196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_228
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 147
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9aa661ed2025c020800000000000000
+      internalID: 2361328961052912285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_229
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 156
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2edec6fcd44f7930800000000000000
+      internalID: 4143105898028391983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_230
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 156
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5141b3ee31a40cd40800000000000000
+      internalID: 5602559385910580245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_231
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 147
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566dd1c1810b74bb0800000000000000
+      internalID: -4951795647673149851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_232
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 147
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc32a878066572f60800000000000000
+      internalID: 8009465434892542924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_233
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 147
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001dac07fe1ce2bb0800000000000000
+      internalID: -4958812905554652928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_234
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 156
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8348fc86be1abc0800000000000000
+      internalID: -3773476177369089852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_235
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 147
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2478317b5f6959c00800000000000000
+      internalID: 906796882067687234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_236
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 156
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32a0a7d886196980800000000000000
+      internalID: -8545274040969813443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_237
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 147
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2537896baeb494a00800000000000000
+      internalID: 741207085137032018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_238
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 156
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3421806ea54134c0800000000000000
+      internalID: -4309586753171151812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_239
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 147
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a3093bf4b818d40800000000000000
+      internalID: 5584898187347376787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_240
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 156
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c58371b7ce819f00800000000000000
+      internalID: 1121834770518738370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_241
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 147
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48946185a3b9b3830800000000000000
+      internalID: 4052002964638157188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_242
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 156
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452bdc69be4cc6f30800000000000000
+      internalID: 4570244238000632404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_243
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 150
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0407dc4171be3dc60800000000000000
+      internalID: 7841869860547948608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_244
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 156
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7b7c99e9906f4b0800000000000000
+      internalID: -5407123725822216232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_245
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 147
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3fe304ff6e5533d0800000000000000
+      internalID: -3227569723012812994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_246
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 156
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d8a9fe5c8a5a220800000000000000
+      internalID: 2496587136528715022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_247
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 82
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff8f5fb1b266e3d0800000000000000
+      internalID: -3177743971503861773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_248
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 82
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebde96728896b160800000000000000
+      internalID: 7040982753543642082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_249
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 82
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8f8a917bda34640800000000000000
+      internalID: 5063081408015694051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_250
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 82
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7da37fcc43fbc70800000000000000
+      internalID: 8988961436180600792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_251
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 82
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a757552339908bbd0800000000000000
+      internalID: -2614329055879268998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_252
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 97
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0982b11c7e29e490800000000000000
+      internalID: -7716585376114898674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_253
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 98
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24885e3ef3406de0800000000000000
+      internalID: -1341997929709665233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_254
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 99
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49e1af601ee6c290800000000000000
+      internalID: -7870341544423593651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_255
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 96
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57846ddfbd8d7e80800000000000000
+      internalID: -8179225493042329764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_256
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 82
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2befd26a93dddb940800000000000000
+      internalID: 5313646375037959858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_257
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 82
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d107cdce57047c200800000000000000
+      internalID: 200199583670497309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_258
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 85
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694aa13160f0808a0800000000000000
+      internalID: -6338799956759239530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_259
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 82
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758e6f7d94c59a740800000000000000
+      internalID: 5163759919982635095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_260
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 82
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2cea4fcb4b007e0800000000000000
+      internalID: -1801241127296253263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_261
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 82
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8521a061ca29ed0800000000000000
+      internalID: -2408673640031561503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_262
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 82
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46859b1d51bb23fb0800000000000000
+      internalID: -4669464161242490780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_263
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 82
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559ed9a0880dfad50800000000000000
+      internalID: 6750843649163913557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_264
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 19
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e848c0a3b6c39670800000000000000
+      internalID: 8544391392850888934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_265
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 28
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470463cbeae285750800000000000000
+      internalID: 6293831807267127412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_266
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 18
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5421ff1c305949d0800000000000000
+      internalID: -2789610275015154595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_267
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 27
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5784cd32d41299b70800000000000000
+      internalID: 8906186353299703925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_268
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 19
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f164e30c39cf41f60800000000000000
+      internalID: 8004300149259912735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_269
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 8
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2702dddca2be4cff0800000000000000
+      internalID: -16629929527664526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_270
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 5
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f003af471761bd0800000000000000
+      internalID: -2659813782688100494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_271
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2575a657aa51e020800000000000000
+      internalID: 2369274553733313835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby-red_272
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 12
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66246c2417a0dc3d0800000000000000
+      internalID: -3184877879913201050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3480 @@
+fileFormatVersion: 2
+guid: 01a344b954bf7594a8f2f9184a74097d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1667768972354438940
+    second: capetie_gray_0
+  - first:
+      213: -812846444723157323
+    second: capetie_gray_1
+  - first:
+      213: -3045736959779893657
+    second: capetie_gray_2
+  - first:
+      213: -7064534637552196749
+    second: capetie_gray_3
+  - first:
+      213: 8140477417350351746
+    second: capetie_gray_4
+  - first:
+      213: -4297378371316991197
+    second: capetie_gray_5
+  - first:
+      213: 6567019561023667623
+    second: capetie_gray_6
+  - first:
+      213: -7001714366064438535
+    second: capetie_gray_7
+  - first:
+      213: 1748105759961648447
+    second: capetie_gray_8
+  - first:
+      213: 9078787854901601881
+    second: capetie_gray_9
+  - first:
+      213: 3277427873245789964
+    second: capetie_gray_10
+  - first:
+      213: 4341411181659673248
+    second: capetie_gray_11
+  - first:
+      213: -8447620700100929860
+    second: capetie_gray_12
+  - first:
+      213: -2386427424611912179
+    second: capetie_gray_13
+  - first:
+      213: -270620162775159824
+    second: capetie_gray_14
+  - first:
+      213: -904688228157324192
+    second: capetie_gray_15
+  - first:
+      213: 7762898326214986852
+    second: capetie_gray_16
+  - first:
+      213: -8203159620926016413
+    second: capetie_gray_17
+  - first:
+      213: -4161102911828596643
+    second: capetie_gray_18
+  - first:
+      213: 5435899150048335867
+    second: capetie_gray_19
+  - first:
+      213: -9131021638061163733
+    second: capetie_gray_20
+  - first:
+      213: 7121880840322839342
+    second: capetie_gray_21
+  - first:
+      213: -7033163084409773101
+    second: capetie_gray_22
+  - first:
+      213: -585358909499443845
+    second: capetie_gray_23
+  - first:
+      213: 522083132425825777
+    second: capetie_gray_24
+  - first:
+      213: 2106672606977063278
+    second: capetie_gray_25
+  - first:
+      213: 7513730819880826530
+    second: capetie_gray_26
+  - first:
+      213: 2277579701317127479
+    second: capetie_gray_27
+  - first:
+      213: -1154337103620362454
+    second: capetie_gray_28
+  - first:
+      213: -7746163540072408654
+    second: capetie_gray_29
+  - first:
+      213: 1528143420255527908
+    second: capetie_gray_30
+  - first:
+      213: 5435254867697244774
+    second: capetie_gray_31
+  - first:
+      213: 7907941378020227100
+    second: capetie_gray_32
+  - first:
+      213: 2247592897800774632
+    second: capetie_gray_33
+  - first:
+      213: 5546769827569446966
+    second: capetie_gray_34
+  - first:
+      213: -804046975084038797
+    second: capetie_gray_35
+  - first:
+      213: 471658486607353015
+    second: capetie_gray_36
+  - first:
+      213: 3450349115643636104
+    second: capetie_gray_37
+  - first:
+      213: -7011421704041906365
+    second: capetie_gray_38
+  - first:
+      213: 2872935724882726388
+    second: capetie_gray_39
+  - first:
+      213: 6256660657944430514
+    second: capetie_gray_40
+  - first:
+      213: 4572381273884952850
+    second: capetie_gray_41
+  - first:
+      213: 1666497257316531137
+    second: capetie_gray_42
+  - first:
+      213: -395068701243719152
+    second: capetie_gray_43
+  - first:
+      213: -6077770157333046788
+    second: capetie_gray_44
+  - first:
+      213: 3613978125748625600
+    second: capetie_gray_45
+  - first:
+      213: -8537095948419351178
+    second: capetie_gray_46
+  - first:
+      213: 6818025594292889676
+    second: capetie_gray_47
+  - first:
+      213: -2237114733925218089
+    second: capetie_gray_48
+  - first:
+      213: 2181215314828791877
+    second: capetie_gray_49
+  - first:
+      213: 8229394483195254793
+    second: capetie_gray_50
+  - first:
+      213: -6924342576537012746
+    second: capetie_gray_51
+  - first:
+      213: 7347588859974198556
+    second: capetie_gray_52
+  - first:
+      213: -7662782717994218351
+    second: capetie_gray_53
+  - first:
+      213: 9093135214627239588
+    second: capetie_gray_54
+  - first:
+      213: -7329948000531317648
+    second: capetie_gray_55
+  - first:
+      213: -5596332729365686037
+    second: capetie_gray_56
+  - first:
+      213: 5652849983747820399
+    second: capetie_gray_57
+  - first:
+      213: -3576104751793426695
+    second: capetie_gray_58
+  - first:
+      213: 2608725481154853674
+    second: capetie_gray_59
+  - first:
+      213: -6025616382616322882
+    second: capetie_gray_60
+  - first:
+      213: 9172727931565038914
+    second: capetie_gray_61
+  - first:
+      213: -4512679871004749351
+    second: capetie_gray_62
+  - first:
+      213: -6784532798468625926
+    second: capetie_gray_63
+  - first:
+      213: 742821232868537384
+    second: capetie_gray_64
+  - first:
+      213: 1503040974435375250
+    second: capetie_gray_65
+  - first:
+      213: 2339719175040850974
+    second: capetie_gray_66
+  - first:
+      213: 6523090804724479581
+    second: capetie_gray_67
+  - first:
+      213: -7083782227157358051
+    second: capetie_gray_68
+  - first:
+      213: -3512776459050607772
+    second: capetie_gray_69
+  - first:
+      213: -119123575382223922
+    second: capetie_gray_70
+  - first:
+      213: 4399672316992373273
+    second: capetie_gray_71
+  - first:
+      213: 7891985741112107577
+    second: capetie_gray_72
+  - first:
+      213: 3456098290968988285
+    second: capetie_gray_73
+  - first:
+      213: -6740002350807468920
+    second: capetie_gray_74
+  - first:
+      213: -2726461005647986867
+    second: capetie_gray_75
+  - first:
+      213: 7079760498626849894
+    second: capetie_gray_76
+  - first:
+      213: 3289137458771810880
+    second: capetie_gray_77
+  - first:
+      213: 3775788872566347736
+    second: capetie_gray_78
+  - first:
+      213: 2276946077522530528
+    second: capetie_gray_79
+  - first:
+      213: -1065888032988056421
+    second: capetie_gray_80
+  - first:
+      213: 5659667070630132121
+    second: capetie_gray_81
+  - first:
+      213: -3505316805072806346
+    second: capetie_gray_82
+  - first:
+      213: 184416382814648802
+    second: capetie_gray_83
+  - first:
+      213: 9097703588428365173
+    second: capetie_gray_84
+  - first:
+      213: 4836052861207136880
+    second: capetie_gray_85
+  - first:
+      213: -9129895851404348401
+    second: capetie_gray_86
+  - first:
+      213: -2610963740361113900
+    second: capetie_gray_87
+  - first:
+      213: -324000688551860966
+    second: capetie_gray_88
+  - first:
+      213: 6990058254151736576
+    second: capetie_gray_89
+  - first:
+      213: 531218558290408261
+    second: capetie_gray_90
+  - first:
+      213: -6742075654026846791
+    second: capetie_gray_91
+  - first:
+      213: 3646541251469295754
+    second: capetie_gray_92
+  - first:
+      213: -7829893121452262349
+    second: capetie_gray_93
+  - first:
+      213: 1215142108611643772
+    second: capetie_gray_94
+  - first:
+      213: 5046739654101456053
+    second: capetie_gray_95
+  - first:
+      213: -5888349710698047663
+    second: capetie_gray_96
+  - first:
+      213: -3510720015458413657
+    second: capetie_gray_97
+  - first:
+      213: 6081884799756975424
+    second: capetie_gray_98
+  - first:
+      213: 4014999646295865210
+    second: capetie_gray_99
+  - first:
+      213: 2056642129520004693
+    second: capetie_gray_100
+  - first:
+      213: -4248737415953119450
+    second: capetie_gray_101
+  - first:
+      213: -8797607240225230489
+    second: capetie_gray_102
+  - first:
+      213: 4853360116432191501
+    second: capetie_gray_103
+  - first:
+      213: 7477640222436380703
+    second: capetie_gray_104
+  - first:
+      213: 548119753350200273
+    second: capetie_gray_105
+  - first:
+      213: -8183146644099627108
+    second: capetie_gray_106
+  - first:
+      213: 3841986053181188852
+    second: capetie_gray_107
+  - first:
+      213: -216909602670841301
+    second: capetie_gray_108
+  - first:
+      213: -8354380495556221700
+    second: capetie_gray_109
+  - first:
+      213: 76019694663512135
+    second: capetie_gray_110
+  - first:
+      213: 1219619967559683284
+    second: capetie_gray_111
+  - first:
+      213: -2919701275639034928
+    second: capetie_gray_112
+  - first:
+      213: -1837583820005924484
+    second: capetie_gray_113
+  - first:
+      213: -7907339680732079565
+    second: capetie_gray_114
+  - first:
+      213: 7337845579862944625
+    second: capetie_gray_115
+  - first:
+      213: -2389306144667650273
+    second: capetie_gray_116
+  - first:
+      213: -157605058352230937
+    second: capetie_gray_117
+  - first:
+      213: -4616853064424951536
+    second: capetie_gray_118
+  - first:
+      213: 2035912274040416051
+    second: capetie_gray_119
+  - first:
+      213: -5498770758461824383
+    second: capetie_gray_120
+  - first:
+      213: -210081580827463998
+    second: capetie_gray_121
+  - first:
+      213: 1753915738695471543
+    second: capetie_gray_122
+  - first:
+      213: 7355637267649594273
+    second: capetie_gray_123
+  - first:
+      213: -6807773740252508013
+    second: capetie_gray_124
+  - first:
+      213: 930980559917625950
+    second: capetie_gray_125
+  - first:
+      213: 4888970557304069345
+    second: capetie_gray_126
+  - first:
+      213: 2608758739654228276
+    second: capetie_gray_127
+  - first:
+      213: -8681408753765601387
+    second: capetie_gray_128
+  - first:
+      213: -5349063964501527495
+    second: capetie_gray_129
+  - first:
+      213: 5540609926302773523
+    second: capetie_gray_130
+  - first:
+      213: -5745588030956032057
+    second: capetie_gray_131
+  - first:
+      213: -1513988898008247235
+    second: capetie_gray_132
+  - first:
+      213: 1805705196166653145
+    second: capetie_gray_133
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: capetie_gray_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1237
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e83563b4f4ead8e0800000000000000
+      internalID: -1667768972354438940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1237
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b64655177038b4f0800000000000000
+      internalID: -812846444723157323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1237
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e8a014f5e5bb5d0800000000000000
+      internalID: -3045736959779893657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1237
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37322493d2bb5fd90800000000000000
+      internalID: -7064534637552196749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_4
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1237
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28bc14bb419c8f070800000000000000
+      internalID: 8140477417350351746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_5
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1237
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b3438c325ac54c0800000000000000
+      internalID: -4297378371316991197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_6
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1237
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad7bd74f7db22b50800000000000000
+      internalID: 6567019561023667623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_7
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1173
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2daf771e9e4de90800000000000000
+      internalID: -7001714366064438535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_8
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1173
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d04544de4824810800000000000000
+      internalID: 1748105759961648447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1174
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9566a8ad3755efd70800000000000000
+      internalID: 9078787854901601881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_10
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1173
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f77c14943cb7d20800000000000000
+      internalID: 3277427873245789964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_11
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1173
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2dbbac77acf3c30800000000000000
+      internalID: 4341411181659673248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_12
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1173
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb65f3d0bb504ca80800000000000000
+      internalID: -8447620700100929860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_13
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1173
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06b1c1b6e4b1eed0800000000000000
+      internalID: -2386427424611912179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_14
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1109
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb6ab055609e3cf0800000000000000
+      internalID: -270620162775159824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_15
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1109
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064843889d6e173f0800000000000000
+      internalID: -904688228157324192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_16
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1109
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46cc489e5ea5bbb60800000000000000
+      internalID: 7762898326214986852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_17
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1109
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36470e679c5882e80800000000000000
+      internalID: -8203159620926016413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_18
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1109
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58ec9ab2fac046c0800000000000000
+      internalID: -4161102911828596643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_19
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1109
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf79a71f971307b40800000000000000
+      internalID: 5435899150048335867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_20
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1109
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b75fac238184180800000000000000
+      internalID: -9131021638061163733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_21
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 981
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e237a1414e006d260800000000000000
+      internalID: 7121880840322839342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_22
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 981
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d36d52207f256e90800000000000000
+      internalID: -7033163084409773101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_23
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 981
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75fc255c2360e7f0800000000000000
+      internalID: -585358909499443845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_24
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 981
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fde673c7dfce3700800000000000000
+      internalID: 522083132425825777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_25
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 981
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69f9ec03976c3d10800000000000000
+      internalID: 2106672606977063278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_26
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 981
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6b6e80f52264860800000000000000
+      internalID: 7513730819880826530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_27
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 981
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73dc5a4dba69b9f10800000000000000
+      internalID: 2277579701317127479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_28
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 981
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2fa7ab2588faffe0800000000000000
+      internalID: -1154337103620362454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_29
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 917
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9d6ed1d49108490800000000000000
+      internalID: -7746163540072408654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_30
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 917
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e36e22285e053510800000000000000
+      internalID: 1528143420255527908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_31
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 917
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a9ec44187ed6b40800000000000000
+      internalID: 5435254867697244774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_32
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 919
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18328509c6aebd60800000000000000
+      internalID: 7907941378020227100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_33
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 917
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e32b1115dd013f10800000000000000
+      internalID: 2247592897800774632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_34
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 916
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630b12725c51afc40800000000000000
+      internalID: 5546769827569446966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_35
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 917
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3757363498377d4f0800000000000000
+      internalID: -804046975084038797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_36
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 919
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4978505eaab8600800000000000000
+      internalID: 471658486607353015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_37
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 853
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889a50d6d3a12ef20800000000000000
+      internalID: 3450349115643636104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_38
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 853
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f3e18bb1d62be90800000000000000
+      internalID: -7011421704041906365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_39
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 853
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd0a2002d7bed720800000000000000
+      internalID: 2872935724882726388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_40
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 853
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b780fc18bf14d650800000000000000
+      internalID: 6256660657944430514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_41
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 853
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2198f870b8c547f30800000000000000
+      internalID: 4572381273884952850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_42
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 853
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cbb3811d66902710800000000000000
+      internalID: 1666497257316531137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_43
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 853
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0124e700c1f648af0800000000000000
+      internalID: -395068701243719152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_44
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 853
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf991b94e3c67aba0800000000000000
+      internalID: -6077770157333046788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_45
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 725
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0674b25fd672230800000000000000
+      internalID: 3613978125748625600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_46
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 724
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67db9056774268980800000000000000
+      internalID: -8537095948419351178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_47
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 724
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c486951972e7e9e50800000000000000
+      internalID: 6818025594292889676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_48
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 725
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d84892900c24f0e0800000000000000
+      internalID: -2237114733925218089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_49
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 725
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5401303b5cb354e10800000000000000
+      internalID: 2181215314828791877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_50
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 724
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90899676eaea43270800000000000000
+      internalID: 8229394483195254793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_51
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 724
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5f5660d1bc7ef90800000000000000
+      internalID: -6924342576537012746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_52
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 725
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1521629321e7f560800000000000000
+      internalID: 7347588859974198556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_53
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 725
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19cc3f697b358a590800000000000000
+      internalID: -7662782717994218351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_54
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 661
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6b37adc4e413e70800000000000000
+      internalID: 9093135214627239588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_55
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 661
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07cfe36112bc64a90800000000000000
+      internalID: -7329948000531317648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_56
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 661
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be814458805d552b0800000000000000
+      internalID: -5596332729365686037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_57
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 660
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b8cd13c15f27e40800000000000000
+      internalID: 5652849983747820399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_58
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 661
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe24cddcaf1f5ec0800000000000000
+      internalID: -3576104751793426695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_59
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 661
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2bbeb4e00e043420800000000000000
+      internalID: 2608725481154853674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_60
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 661
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc316933d5b06ca0800000000000000
+      internalID: -6025616382616322882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_61
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 660
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ddc3e54731c4f70800000000000000
+      internalID: 9172727931565038914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_62
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 661
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1d4b7019dbf51c0800000000000000
+      internalID: -4512679871004749351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_63
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 597
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af96a44ad5f78d1a0800000000000000
+      internalID: -6784532798468625926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_64
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 596
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8243fb4c9f70f4a00800000000000000
+      internalID: 742821232868537384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_65
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 596
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298d3148dcfdbd410800000000000000
+      internalID: 1503040974435375250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_66
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 597
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1cda7e713a587020800000000000000
+      internalID: 2339719175040850974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_67
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 597
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56383da68ca68a50800000000000000
+      internalID: 6523090804724479581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_68
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 596
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a6f0c889951bd90800000000000000
+      internalID: -7083782227157358051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_69
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 596
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b1fe60c6c104fc0800000000000000
+      internalID: -3512776459050607772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_70
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 597
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3d7f44db9c85ef0800000000000000
+      internalID: -119123575382223922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_71
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 597
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912437e69a6ce0d30800000000000000
+      internalID: 4399672316992373273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_72
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 469
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9326f6fc737f58d60800000000000000
+      internalID: 7891985741112107577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_73
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 467
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a8a0e951786ff20800000000000000
+      internalID: 3456098290968988285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_74
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 468
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884b2de6293b672a0800000000000000
+      internalID: -6740002350807468920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_75
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 469
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4fb568292aa92ad0800000000000000
+      internalID: -2726461005647986867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_76
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 469
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66cee7fc9ac504260800000000000000
+      internalID: 7079760498626849894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_77
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 469
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a5687971d55ad20800000000000000
+      internalID: 3289137458771810880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_78
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 405
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7903089fb466430800000000000000
+      internalID: 3775788872566347736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_79
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 403
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0137bc466599f10800000000000000
+      internalID: 2276946077522530528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_80
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 404
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9438673b743531f0800000000000000
+      internalID: -1065888032988056421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_81
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 405
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99972ebe63d2b8e40800000000000000
+      internalID: 5659667070630132121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_82
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 405
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e9d6010fc9a5fc0800000000000000
+      internalID: -3505316805072806346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_83
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 405
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9fd6c19bd2f8200800000000000000
+      internalID: 184416382814648802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_84
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 341
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57db1144639814e70800000000000000
+      internalID: 9097703588428365173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_85
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 339
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a434b647c1d1340800000000000000
+      internalID: 4836052861207136880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_86
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 340
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f043bbc68181c4180800000000000000
+      internalID: -9129895851404348401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_87
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 341
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4deb956cf4ef3cbd0800000000000000
+      internalID: -2610963740361113900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_88
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 341
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1562e3271be08bf0800000000000000
+      internalID: -324000688551860966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_89
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 341
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d500e72fca10160800000000000000
+      internalID: 6990058254151736576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_90
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 213
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543bef8d6744f5700800000000000000
+      internalID: 531218558290408261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_91
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 213
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd9be8e9e55f62a0800000000000000
+      internalID: -6742075654026846791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_92
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 213
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80c2a0b2fd1b9230800000000000000
+      internalID: 3646541251469295754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_93
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 211
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c309ac0b1a65390800000000000000
+      internalID: -7829893121452262349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_94
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 213
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c798a674f4d0dd010800000000000000
+      internalID: 1215142108611643772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_95
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 213
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b458940afe990640800000000000000
+      internalID: 5046739654101456053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_96
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 213
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157919cc221684ea0800000000000000
+      internalID: -5888349710698047663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_97
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 213
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a35fbc1fba674fc0800000000000000
+      internalID: -3510720015458413657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_98
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 213
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04dbc5e8002376450800000000000000
+      internalID: 6081884799756975424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_99
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 213
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77b8cae7e428b730800000000000000
+      internalID: 4014999646295865210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_100
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 213
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e8428ce19aa8c10800000000000000
+      internalID: 2056642129520004693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_101
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 213
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627043ab4d37905c0800000000000000
+      internalID: -4248737415953119450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_102
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 213
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76178f4a3de98e580800000000000000
+      internalID: -8797607240225230489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_103
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 149
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d004dfacf499a5340800000000000000
+      internalID: 4853360116432191501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_104
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 149
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f105e700a2ae5c760800000000000000
+      internalID: 7477640222436380703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_105
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 149
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db30d8f2005b9700800000000000000
+      internalID: 548119753350200273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_106
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 149
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97038dbb7f9f6e80800000000000000
+      internalID: -8183146644099627108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_107
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 149
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4faaedba5f9715530800000000000000
+      internalID: 3841986053181188852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_108
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 152
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22fe689dd16dfcf0800000000000000
+      internalID: -216909602670841301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_109
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 149
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf46be3e3374f0c80800000000000000
+      internalID: -8354380495556221700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_110
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 149
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7403a5072831e0100800000000000000
+      internalID: 76019694663512135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_111
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 149
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc4e5f06e5fce010800000000000000
+      internalID: 1219619967559683284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_112
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 149
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dbc747b8232b77d0800000000000000
+      internalID: -2919701275639034928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_113
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 149
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71aa8b60479f76e0800000000000000
+      internalID: -1837583820005924484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_114
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 150
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a1d9b847c734290800000000000000
+      internalID: -7907339680732079565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_115
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 149
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ba6646da345d560800000000000000
+      internalID: 7337845579862944625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_116
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 85
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f173d6378ba77ded0800000000000000
+      internalID: -2389306144667650273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_117
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 85
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed4c12d80310ddf0800000000000000
+      internalID: -157605058352230937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_118
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 85
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011f6ca5994adefb0800000000000000
+      internalID: -4616853064424951536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_119
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 83
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33769003d63014c10800000000000000
+      internalID: 2035912274040416051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_120
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 85
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182e390012170b3b0800000000000000
+      internalID: -5498770758461824383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_121
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 85
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce2de05ae3a51df0800000000000000
+      internalID: -210081580827463998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_122
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 85
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b119ea5219275810800000000000000
+      internalID: 1753915738695471543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_123
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 85
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a301e28f19741660800000000000000
+      internalID: 7355637267649594273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_124
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 85
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39054053adde581a0800000000000000
+      internalID: -6807773740252508013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_125
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 85
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e523faef2e18bec00800000000000000
+      internalID: 930980559917625950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_126
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 85
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ecd379a1dc19d340800000000000000
+      internalID: 4888970557304069345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_127
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 85
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43939cd704c243420800000000000000
+      internalID: 2608758739654228276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_128
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 85
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59fa5d90cb0758780800000000000000
+      internalID: -8681408753765601387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_129
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 20
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9343b033aae44c5b0800000000000000
+      internalID: -5349063964501527495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_130
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 20
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311b7406f5334ec40800000000000000
+      internalID: 5540609926302773523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_131
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 13
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf212590229340b0800000000000000
+      internalID: -5745588030956032057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_132
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 9
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3455546e1b3dfae0800000000000000
+      internalID: -1513988898008247235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capetie_gray_133
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 5
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d427921f472f0910800000000000000
+      internalID: 1805705196166653145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

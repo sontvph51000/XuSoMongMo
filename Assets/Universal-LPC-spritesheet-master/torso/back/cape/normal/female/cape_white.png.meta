@@ -1,0 +1,4930 @@
+fileFormatVersion: 2
+guid: 95525fa60146c84468de4faae4c3a58e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5169061240046163224
+    second: cape_white_0
+  - first:
+      213: 5677005946460163749
+    second: cape_white_1
+  - first:
+      213: -5727786367116287256
+    second: cape_white_2
+  - first:
+      213: 1700310841568581044
+    second: cape_white_3
+  - first:
+      213: -9035291123105681043
+    second: cape_white_4
+  - first:
+      213: 7006331342940189888
+    second: cape_white_5
+  - first:
+      213: 8426047882773713919
+    second: cape_white_6
+  - first:
+      213: -2518837205242709303
+    second: cape_white_7
+  - first:
+      213: -8123748625733270798
+    second: cape_white_8
+  - first:
+      213: -6255007374926506449
+    second: cape_white_9
+  - first:
+      213: -5407382011122299632
+    second: cape_white_10
+  - first:
+      213: -858622546269005223
+    second: cape_white_11
+  - first:
+      213: 9157782324641575244
+    second: cape_white_12
+  - first:
+      213: 6333051480094434591
+    second: cape_white_13
+  - first:
+      213: -4666290172262552024
+    second: cape_white_14
+  - first:
+      213: 3817231975370563951
+    second: cape_white_15
+  - first:
+      213: 517412761935468354
+    second: cape_white_16
+  - first:
+      213: -835464034244625956
+    second: cape_white_17
+  - first:
+      213: -7640956301234425212
+    second: cape_white_18
+  - first:
+      213: 5526036020274218887
+    second: cape_white_19
+  - first:
+      213: 4761222469631858384
+    second: cape_white_20
+  - first:
+      213: 6791529645456283042
+    second: cape_white_21
+  - first:
+      213: 3670873483201741766
+    second: cape_white_22
+  - first:
+      213: 7303694891220708800
+    second: cape_white_23
+  - first:
+      213: -2047180965669099496
+    second: cape_white_24
+  - first:
+      213: -7752849704144458958
+    second: cape_white_25
+  - first:
+      213: 1774587339999849540
+    second: cape_white_26
+  - first:
+      213: 2931201495914740575
+    second: cape_white_27
+  - first:
+      213: 917723651446084208
+    second: cape_white_28
+  - first:
+      213: 6705568697295173173
+    second: cape_white_29
+  - first:
+      213: -5498300472192370366
+    second: cape_white_30
+  - first:
+      213: -595378410809324866
+    second: cape_white_31
+  - first:
+      213: -1603025801162313214
+    second: cape_white_32
+  - first:
+      213: 6641536808804786047
+    second: cape_white_33
+  - first:
+      213: 5260133000136734871
+    second: cape_white_34
+  - first:
+      213: -1306065346695307505
+    second: cape_white_35
+  - first:
+      213: 548457170331610073
+    second: cape_white_36
+  - first:
+      213: -8695558446432045284
+    second: cape_white_37
+  - first:
+      213: 1623060957726587116
+    second: cape_white_38
+  - first:
+      213: 2797767884991997994
+    second: cape_white_39
+  - first:
+      213: 5732679507384417829
+    second: cape_white_40
+  - first:
+      213: 3053066893033976536
+    second: cape_white_41
+  - first:
+      213: -7669467808755830746
+    second: cape_white_42
+  - first:
+      213: 2893900996651470063
+    second: cape_white_43
+  - first:
+      213: 125617445955018120
+    second: cape_white_44
+  - first:
+      213: -4477604446707199867
+    second: cape_white_45
+  - first:
+      213: 2585071634753507459
+    second: cape_white_46
+  - first:
+      213: -7310180956923437867
+    second: cape_white_47
+  - first:
+      213: 2046064758536414739
+    second: cape_white_48
+  - first:
+      213: 5183381871012428589
+    second: cape_white_49
+  - first:
+      213: -4270974956928160254
+    second: cape_white_50
+  - first:
+      213: 3719559360890194127
+    second: cape_white_51
+  - first:
+      213: -4292735160687182818
+    second: cape_white_52
+  - first:
+      213: -1603203052562181747
+    second: cape_white_53
+  - first:
+      213: -1717853350192931288
+    second: cape_white_54
+  - first:
+      213: -5530062849539003401
+    second: cape_white_55
+  - first:
+      213: 4662931812231511586
+    second: cape_white_56
+  - first:
+      213: -3201775073991349670
+    second: cape_white_57
+  - first:
+      213: 5277872743731796957
+    second: cape_white_58
+  - first:
+      213: -6784267980872294569
+    second: cape_white_59
+  - first:
+      213: -8697095353964377458
+    second: cape_white_60
+  - first:
+      213: 1462671315467091023
+    second: cape_white_61
+  - first:
+      213: -3024610261497680421
+    second: cape_white_62
+  - first:
+      213: -6967612469588573540
+    second: cape_white_63
+  - first:
+      213: -4883850728985635660
+    second: cape_white_64
+  - first:
+      213: 4738007908528058277
+    second: cape_white_65
+  - first:
+      213: -4696873162583315115
+    second: cape_white_66
+  - first:
+      213: -3233861538176916738
+    second: cape_white_67
+  - first:
+      213: 7089731154284855874
+    second: cape_white_68
+  - first:
+      213: -2338173570406482511
+    second: cape_white_69
+  - first:
+      213: 4085810231331815586
+    second: cape_white_70
+  - first:
+      213: -5881589005560157989
+    second: cape_white_71
+  - first:
+      213: -8451983308239268914
+    second: cape_white_72
+  - first:
+      213: -368398533183339659
+    second: cape_white_73
+  - first:
+      213: 6949240271587696596
+    second: cape_white_74
+  - first:
+      213: -2775361335959184369
+    second: cape_white_75
+  - first:
+      213: 5652048298178593615
+    second: cape_white_76
+  - first:
+      213: 1869131211191664922
+    second: cape_white_77
+  - first:
+      213: -1200558985050405312
+    second: cape_white_78
+  - first:
+      213: -6884090628211816942
+    second: cape_white_79
+  - first:
+      213: 1235731817682254338
+    second: cape_white_80
+  - first:
+      213: 8718279367920220118
+    second: cape_white_81
+  - first:
+      213: 8219501450936454021
+    second: cape_white_82
+  - first:
+      213: 9192862325511246620
+    second: cape_white_83
+  - first:
+      213: -2488041571599647613
+    second: cape_white_84
+  - first:
+      213: 8325444198928163495
+    second: cape_white_85
+  - first:
+      213: -7206206239206597872
+    second: cape_white_86
+  - first:
+      213: 7025705403399401983
+    second: cape_white_87
+  - first:
+      213: 8860481793446870801
+    second: cape_white_88
+  - first:
+      213: 2570502559694787656
+    second: cape_white_89
+  - first:
+      213: -4888160722024203157
+    second: cape_white_90
+  - first:
+      213: 5693508443144138832
+    second: cape_white_91
+  - first:
+      213: -8696879367495793738
+    second: cape_white_92
+  - first:
+      213: -5564963186983953817
+    second: cape_white_93
+  - first:
+      213: 2003898551008360766
+    second: cape_white_94
+  - first:
+      213: 1211259564474081858
+    second: cape_white_95
+  - first:
+      213: 8828041803864282569
+    second: cape_white_96
+  - first:
+      213: 5378153722975923947
+    second: cape_white_97
+  - first:
+      213: 3229975215418873098
+    second: cape_white_98
+  - first:
+      213: -3054641293849123554
+    second: cape_white_99
+  - first:
+      213: 499776914660939202
+    second: cape_white_100
+  - first:
+      213: -3783684573850856114
+    second: cape_white_101
+  - first:
+      213: 7579327302949386472
+    second: cape_white_102
+  - first:
+      213: 4328356321555882318
+    second: cape_white_103
+  - first:
+      213: 2451452480526869041
+    second: cape_white_104
+  - first:
+      213: -8129745255912482402
+    second: cape_white_105
+  - first:
+      213: -504682786932676688
+    second: cape_white_106
+  - first:
+      213: -3882117186859999812
+    second: cape_white_107
+  - first:
+      213: 6707961810616715966
+    second: cape_white_108
+  - first:
+      213: -1165408268950337719
+    second: cape_white_109
+  - first:
+      213: -4591153366640484182
+    second: cape_white_110
+  - first:
+      213: 21069704138315624
+    second: cape_white_111
+  - first:
+      213: -7881282539381135424
+    second: cape_white_112
+  - first:
+      213: 6182947097455127528
+    second: cape_white_113
+  - first:
+      213: 5118526264370375074
+    second: cape_white_114
+  - first:
+      213: -210525258922740679
+    second: cape_white_115
+  - first:
+      213: -2699117619694723865
+    second: cape_white_116
+  - first:
+      213: -6931723571089093724
+    second: cape_white_117
+  - first:
+      213: 4329601125934864995
+    second: cape_white_118
+  - first:
+      213: 8014602185332779620
+    second: cape_white_119
+  - first:
+      213: 5594579518793035075
+    second: cape_white_120
+  - first:
+      213: -7557263668421232543
+    second: cape_white_121
+  - first:
+      213: -8072851635095412304
+    second: cape_white_122
+  - first:
+      213: 4842147634246998346
+    second: cape_white_123
+  - first:
+      213: -5327358562657574299
+    second: cape_white_124
+  - first:
+      213: 2877176614730558240
+    second: cape_white_125
+  - first:
+      213: 3361530591747358863
+    second: cape_white_126
+  - first:
+      213: 469505619716599492
+    second: cape_white_127
+  - first:
+      213: 624831875251325530
+    second: cape_white_128
+  - first:
+      213: 4914407461090472851
+    second: cape_white_129
+  - first:
+      213: 8707583734554477319
+    second: cape_white_130
+  - first:
+      213: 4209931281624000879
+    second: cape_white_131
+  - first:
+      213: -114953141136437044
+    second: cape_white_132
+  - first:
+      213: 1586020649697824526
+    second: cape_white_133
+  - first:
+      213: -7532485465920080543
+    second: cape_white_134
+  - first:
+      213: 7602690414670560486
+    second: cape_white_135
+  - first:
+      213: -552859155530415971
+    second: cape_white_136
+  - first:
+      213: -4980369042032712411
+    second: cape_white_137
+  - first:
+      213: 7106555821269277670
+    second: cape_white_138
+  - first:
+      213: 8416768344160586945
+    second: cape_white_139
+  - first:
+      213: 6096406813222814341
+    second: cape_white_140
+  - first:
+      213: 5893978392212748238
+    second: cape_white_141
+  - first:
+      213: 6807054854482477327
+    second: cape_white_142
+  - first:
+      213: -6687747790720834188
+    second: cape_white_143
+  - first:
+      213: 5360428842604453245
+    second: cape_white_144
+  - first:
+      213: 5873805956428516903
+    second: cape_white_145
+  - first:
+      213: 8062375005557553294
+    second: cape_white_146
+  - first:
+      213: 3056865648455241421
+    second: cape_white_147
+  - first:
+      213: 730321404837489674
+    second: cape_white_148
+  - first:
+      213: 4799823908900628747
+    second: cape_white_149
+  - first:
+      213: -8243672245019467190
+    second: cape_white_150
+  - first:
+      213: -7994482828483641477
+    second: cape_white_151
+  - first:
+      213: 2767480279979844207
+    second: cape_white_152
+  - first:
+      213: 7519943157890016189
+    second: cape_white_153
+  - first:
+      213: 6191864483069324034
+    second: cape_white_154
+  - first:
+      213: 2192070026765824857
+    second: cape_white_155
+  - first:
+      213: 5577073382303908794
+    second: cape_white_156
+  - first:
+      213: 4141214728237197488
+    second: cape_white_157
+  - first:
+      213: -4747704952497986306
+    second: cape_white_158
+  - first:
+      213: -4916022730758421513
+    second: cape_white_159
+  - first:
+      213: -9039113130355167498
+    second: cape_white_160
+  - first:
+      213: -2320392855418717563
+    second: cape_white_161
+  - first:
+      213: -8667031797927913045
+    second: cape_white_162
+  - first:
+      213: 390484299789605549
+    second: cape_white_163
+  - first:
+      213: 7045849672247825433
+    second: cape_white_164
+  - first:
+      213: -2217692908731243923
+    second: cape_white_165
+  - first:
+      213: -782816845195198857
+    second: cape_white_166
+  - first:
+      213: -4084483787913204635
+    second: cape_white_167
+  - first:
+      213: 5592789153768761533
+    second: cape_white_168
+  - first:
+      213: -7702206584660479309
+    second: cape_white_169
+  - first:
+      213: -6240379619079120486
+    second: cape_white_170
+  - first:
+      213: -2009859047585521900
+    second: cape_white_171
+  - first:
+      213: -1145027312068252332
+    second: cape_white_172
+  - first:
+      213: 4429545895737744521
+    second: cape_white_173
+  - first:
+      213: -3165140086681485518
+    second: cape_white_174
+  - first:
+      213: 8611246344572004093
+    second: cape_white_175
+  - first:
+      213: -9211367840490864380
+    second: cape_white_176
+  - first:
+      213: 7776666308574877040
+    second: cape_white_177
+  - first:
+      213: -615244258659845527
+    second: cape_white_178
+  - first:
+      213: 29819768638924303
+    second: cape_white_179
+  - first:
+      213: 9021830433826666750
+    second: cape_white_180
+  - first:
+      213: -392625655931685743
+    second: cape_white_181
+  - first:
+      213: -3492793370222396377
+    second: cape_white_182
+  - first:
+      213: 4338905519799244555
+    second: cape_white_183
+  - first:
+      213: -1647379550665142341
+    second: cape_white_184
+  - first:
+      213: 8848594064096045235
+    second: cape_white_185
+  - first:
+      213: -2860151675119562114
+    second: cape_white_186
+  - first:
+      213: 4602219661329865955
+    second: cape_white_187
+  - first:
+      213: 614565490981494563
+    second: cape_white_188
+  - first:
+      213: -8218600811458372556
+    second: cape_white_189
+  - first:
+      213: 8453041978617901607
+    second: cape_white_190
+  - first:
+      213: 6722260785788117069
+    second: cape_white_191
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cape_white_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1282
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815113b9fc13cb740800000000000000
+      internalID: 5169061240046163224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1282
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aec98a84d6c8ce40800000000000000
+      internalID: 5677005946460163749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1282
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e265be65a0d280b0800000000000000
+      internalID: -5727786367116287256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1282
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5d077a3b7b89710800000000000000
+      internalID: 1700310841568581044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1282
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61bb0538923c9280800000000000000
+      internalID: -9035291123105681043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_5
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1282
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4b2aa3c3d7b3160800000000000000
+      internalID: 7006331342940189888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_6
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1282
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3d82108e55fe470800000000000000
+      internalID: 8426047882773713919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_7
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1221
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca787e38ea4b0dd0800000000000000
+      internalID: -2518837205242709303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_8
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1221
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2c9969aa5a24f80800000000000000
+      internalID: -8123748625733270798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_9
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1221
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f269e06deefb139a0800000000000000
+      internalID: -6255007374926506449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_10
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1221
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01dc73ed5be15f4b0800000000000000
+      internalID: -5407382011122299632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_11
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1222
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a9e75e75f8514f0800000000000000
+      internalID: -858622546269005223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_12
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1221
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41bc96118af61f70800000000000000
+      internalID: 9157782324641575244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_13
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1221
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f156a4764c483e750800000000000000
+      internalID: 6333051480094434591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_14
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1156
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ee467bfc10e3fb0800000000000000
+      internalID: -4666290172262552024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_15
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1156
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61a93dc14889f430800000000000000
+      internalID: 3817231975370563951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_16
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1157
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247da656a283e2700800000000000000
+      internalID: 517412761935468354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_17
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1157
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9fb3823e5d764f0800000000000000
+      internalID: -835464034244625956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_18
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1157
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482b3a04abed5f590800000000000000
+      internalID: -7640956301234425212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_19
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1157
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78745747b7c60bc40800000000000000
+      internalID: 5526036020274218887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_20
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1157
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6d30f2c92431240800000000000000
+      internalID: 4761222469631858384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_21
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1157
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5d4feba3c504e50800000000000000
+      internalID: 6791529645456283042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_22
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1157
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c304addbff81f230800000000000000
+      internalID: 3670873483201741766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_23
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1157
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cdab039ecfeb5560800000000000000
+      internalID: 7303694891220708800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_24
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1157
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8182a5612c3f693e0800000000000000
+      internalID: -2047180965669099496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_25
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1157
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b2a7b3548586490800000000000000
+      internalID: -7752849704144458958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_26
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1157
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ca89798c990a810800000000000000
+      internalID: 1774587339999849540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_27
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1157
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b7719fa38bda820800000000000000
+      internalID: 2931201495914740575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_28
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1093
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0721b667cc86cbc00800000000000000
+      internalID: 917723651446084208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_29
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1093
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536f14bd337fe0d50800000000000000
+      internalID: 6705568697295173173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_30
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1093
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2497c9e0adc12b3b0800000000000000
+      internalID: -5498300472192370366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_31
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1093
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba06c46d7accb7f0800000000000000
+      internalID: -595378410809324866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_32
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1093
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2023febe688e0c9e0800000000000000
+      internalID: -1603025801162313214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_33
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1093
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f9d7b0a8a7b2c50800000000000000
+      internalID: 6641536808804786047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_34
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1093
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798b570281fbff840800000000000000
+      internalID: 5260133000136734871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_35
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1025
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f57ccac7cefdde0800000000000000
+      internalID: -1306065346695307505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_36
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 965
+        width: 54
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dba12cf3e28c9700800000000000000
+      internalID: 548457170331610073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_37
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1024
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1735ccf9ab235780800000000000000
+      internalID: -8695558446432045284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_38
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 966
+        width: 21
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8391a7755468610800000000000000
+      internalID: 1623060957726587116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_39
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 966
+        width: 19
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28a1f4711ba3d620800000000000000
+      internalID: 2797767884991997994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_40
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1025
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e3fc093a19e8f40800000000000000
+      internalID: 5732679507384417829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_41
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 966
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2bbc2d92cae5a20800000000000000
+      internalID: 3053066893033976536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_42
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 966
+        width: 20
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620b0da99a3909590800000000000000
+      internalID: -7669467808755830746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_43
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1025
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec4f88bf93392820800000000000000
+      internalID: 2893900996651470063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_44
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 965
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d9dbbc6684eb100800000000000000
+      internalID: 125617445955018120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_45
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 966
+        width: 23
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580de45aa7a5cd1c0800000000000000
+      internalID: -4477604446707199867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_46
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 900
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380db6c94f400e320800000000000000
+      internalID: 2585071634753507459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_47
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 900
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dcd0c296250d8a90800000000000000
+      internalID: -7310180956923437867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_48
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 903
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3162200be05156c10800000000000000
+      internalID: 2046064758536414739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_49
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 903
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b35e459521fe740800000000000000
+      internalID: 5183381871012428589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_50
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 906
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e25bfb7e27ab4c0800000000000000
+      internalID: -4270974956928160254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_51
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 902
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8c6da18878e9330800000000000000
+      internalID: 3719559360890194127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_52
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 906
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c39608d142d64c0800000000000000
+      internalID: -4292735160687182818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_53
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 902
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81953d515740c9e0800000000000000
+      internalID: -1603203052562181747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_54
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 905
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e1985ca75f828e0800000000000000
+      internalID: -1717853350192931288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_55
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 901
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fba4ab43254143b0800000000000000
+      internalID: -5530062849539003401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_56
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 905
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e7de727cf06b040800000000000000
+      internalID: 4662931812231511586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_57
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 901
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5aab00b8820193d0800000000000000
+      internalID: -3201775073991349670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_58
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 905
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb99db0c45ce3940800000000000000
+      internalID: 5277872743731796957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_59
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 901
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75fdc0b473079d1a0800000000000000
+      internalID: -6784267980872294569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_60
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 906
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ac041dad5bd4780800000000000000
+      internalID: -8697095353964377458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_61
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 902
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4cb195dfc37c4410800000000000000
+      internalID: 1462671315467091023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_62
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 837
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdded630efc6606d0800000000000000
+      internalID: -3024610261497680421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_63
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 770
+        width: 26
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c924799ff511e4f90800000000000000
+      internalID: -6967612469588573540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_64
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 709
+        width: 26
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b457c243a3193cb0800000000000000
+      internalID: -4883850728985635660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_65
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 769
+        width: 26
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af6ecaf619c0c140800000000000000
+      internalID: 4738007908528058277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_66
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 838
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55de7256eba51deb0800000000000000
+      internalID: -4696873162583315115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_67
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 708
+        width: 26
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2aa2490140f13d0800000000000000
+      internalID: -3233861538176916738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_68
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 837
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2424b2cfbe8c36260800000000000000
+      internalID: 7089731154284855874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_69
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 769
+        width: 26
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bdf6b0a6832d8fd0800000000000000
+      internalID: -2338173570406482511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_70
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 770
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0803202c6b3b830800000000000000
+      internalID: 4085810231331815586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_71
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 769
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd86eb026f5606ea0800000000000000
+      internalID: -5881589005560157989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_72
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 769
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec31ed036f584ba80800000000000000
+      internalID: -8451983308239268914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_73
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 709
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57305d56c7f23eaf0800000000000000
+      internalID: -368398533183339659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_74
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 709
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dfd2d65539a07060800000000000000
+      internalID: 6949240271587696596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_75
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 709
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c9cc6c19feb79d0800000000000000
+      internalID: -2775361335959184369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_76
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 709
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43494a3bfb107e40800000000000000
+      internalID: 5652048298178593615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_77
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 708
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a11cca9feec70f910800000000000000
+      internalID: 1869131211191664922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_78
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 644
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046ca24c6f1c65fe0800000000000000
+      internalID: -1200558985050405312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_79
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 644
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216c6df0c0cc670a0800000000000000
+      internalID: -6884090628211816942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_80
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 647
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a399e7a83362110800000000000000
+      internalID: 1235731817682254338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_81
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 647
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d77089c4ec8df870800000000000000
+      internalID: 8718279367920220118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_82
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 645
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b00e55509811270800000000000000
+      internalID: 8219501450936454021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_83
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 646
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c135b25449b939f70800000000000000
+      internalID: 9192862325511246620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_84
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 646
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38cf5627f53b87dd0800000000000000
+      internalID: -2488041571599647613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_85
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 644
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2237a836be98370800000000000000
+      internalID: 8325444198928163495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_86
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 644
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b13e50b996efb90800000000000000
+      internalID: -7206206239206597872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_87
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 647
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1f92237d1508160800000000000000
+      internalID: 7025705403399401983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_88
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 647
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f773d0f31c6fa70800000000000000
+      internalID: 8860481793446870801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_89
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 645
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84417dc75724ca320800000000000000
+      internalID: 2570502559694787656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_90
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 581
+        width: 7
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6cfabec8b3c92cb0800000000000000
+      internalID: -4888160722024203157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_91
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 646
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0503b4773c7630f40800000000000000
+      internalID: 5693508443144138832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_92
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 582
+        width: 7
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b34df51b4a7e4780800000000000000
+      internalID: -8696879367495793738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_93
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 645
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a12b3477745c2b0800000000000000
+      internalID: -5564963186983953817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_94
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 581
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39f5c27d174fcb10800000000000000
+      internalID: 2003898551008360766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_95
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 515
+        width: 26
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242a54708224fc010800000000000000
+      internalID: 1211259564474081858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_96
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 581
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c511a56f31838a70800000000000000
+      internalID: 8828041803864282569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_97
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 581
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beeac6df05a03aa40800000000000000
+      internalID: 5378153722975923947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_98
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 515
+        width: 27
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a059b54685d23dc20800000000000000
+      internalID: 3229975215418873098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_99
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 580
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1522eb6debbb95d0800000000000000
+      internalID: -3054641293849123554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_100
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 514
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c55e49b4709fe600800000000000000
+      internalID: 499776914660939202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_101
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 513
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e459e794de6ad7bc0800000000000000
+      internalID: -3783684573850856114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_102
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 514
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8b7b8660e2f2960800000000000000
+      internalID: 7579327302949386472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_103
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 515
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41a7af4429611c30800000000000000
+      internalID: 4328356321555882318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_104
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 453
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132ed8dea0f450220800000000000000
+      internalID: 2451452480526869041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_105
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 453
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e995be253c75d2f80800000000000000
+      internalID: -8129745255912482402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_106
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 454
+        width: 69
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7af90eda10ff8f0800000000000000
+      internalID: -504682786932676688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_107
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 454
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd55c4acf2ff1ac0800000000000000
+      internalID: -3882117186859999812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_108
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 388
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba02b8f9b7771d50800000000000000
+      internalID: 6707961810616715966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_109
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 388
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94789ee9a53a3dfe0800000000000000
+      internalID: -1165408268950337719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_110
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 389
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa02e088652f840c0800000000000000
+      internalID: -4591153366640484182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_111
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 389
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867dfa6c8cada4000800000000000000
+      internalID: 21069704138315624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_112
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 388
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7e2b9894f00a290800000000000000
+      internalID: -7881282539381135424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_113
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 393
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb68d060ad3ec550800000000000000
+      internalID: 6182947097455127528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_114
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 391
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9ad41b488a80740800000000000000
+      internalID: 5118526264370375074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_115
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 391
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934b9a57460141df0800000000000000
+      internalID: -210525258922740679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_116
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 391
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec191f43deca8ad0800000000000000
+      internalID: -2699117619694723865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_117
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 391
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab480053229dcf90800000000000000
+      internalID: -6931723571089093724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_118
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 389
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a9a7ae845d51c30800000000000000
+      internalID: 4329601125934864995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_119
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 325
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a64d07936993f60800000000000000
+      internalID: 8014602185332779620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_120
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 257
+        width: 25
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34da5555e60f3ad40800000000000000
+      internalID: 5594579518793035075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_121
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 325
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16879c1dbb43f1790800000000000000
+      internalID: -7557263668421232543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_122
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 258
+        width: 24
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1e4bda53877ff80800000000000000
+      internalID: -8072851635095412304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_123
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 325
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a495a495e93c23340800000000000000
+      internalID: 4842147634246998346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_124
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 325
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562e8a1ec9b6116b0800000000000000
+      internalID: -5327358562657574299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_125
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 258
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b631d13e8cde720800000000000000
+      internalID: 2877176614730558240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_126
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 258
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80c5b6534e86ae20800000000000000
+      internalID: 3361530591747358863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_127
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 258
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cee143afd4048600800000000000000
+      internalID: 469505619716599492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_128
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 258
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a42b0b749dba800800000000000000
+      internalID: 624831875251325530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_129
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 258
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393b3d75c8b733440800000000000000
+      internalID: 4914407461090472851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_130
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 258
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703c616954d87d870800000000000000
+      internalID: 8707583734554477319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_131
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 258
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69e00a023eac6a30800000000000000
+      internalID: 4209931281624000879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_132
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 258
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc05fb82aba976ef0800000000000000
+      internalID: -114953141136437044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_133
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 258
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f4ca7b06da20610800000000000000
+      internalID: 1586020649697824526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_134
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 258
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1657a08a06c377790800000000000000
+      internalID: -7532485465920080543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_135
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 258
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ecb4bfb6ae228960800000000000000
+      internalID: 7602690414670560486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_136
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 197
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9089c7f689d358f0800000000000000
+      internalID: -552859155530415971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_137
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 198
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525a94f4ebc22eab0800000000000000
+      internalID: -4980369042032712411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_138
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 197
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb5d370ede8f9260800000000000000
+      internalID: 7106555821269277670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_139
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 195
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ccc17e073e5ec470800000000000000
+      internalID: 8416768344160586945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_140
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 197
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582ca6c42b9ca9450800000000000000
+      internalID: 6096406813222814341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_141
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 197
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec73badbe1e9bc150800000000000000
+      internalID: 5893978392212748238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_142
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 197
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01c6082354877e50800000000000000
+      internalID: 6807054854482477327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_143
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 197
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4756eaa41d85033a0800000000000000
+      internalID: -6687747790720834188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_144
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 197
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d523fa1a1146a40800000000000000
+      internalID: 5360428842604453245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_145
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 197
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ece788563f38150800000000000000
+      internalID: 5873805956428516903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_146
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 197
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88fe3ce95f43ef60800000000000000
+      internalID: 8062375005557553294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_147
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 197
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcec44e7c1b2c6a20800000000000000
+      internalID: 3056865648455241421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_148
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 197
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ce333c27f922a00800000000000000
+      internalID: 730321404837489674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_149
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 132
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09e2722a666c9240800000000000000
+      internalID: 4799823908900628747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_150
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 132
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a422ede15c7989d80800000000000000
+      internalID: -8243672245019467190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_151
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 135
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7fb54d5934ed0190800000000000000
+      internalID: -7994482828483641477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_152
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 135
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62e813e6a0186620800000000000000
+      internalID: 2767480279979844207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_153
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 138
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3e921b5743c5860800000000000000
+      internalID: 7519943157890016189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_154
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 134
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b64b201fbede550800000000000000
+      internalID: 6191864483069324034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_155
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 137
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9537824431ccb6e10800000000000000
+      internalID: 2192070026765824857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_156
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 133
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3c28e41beb56d40800000000000000
+      internalID: 5577073382303908794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_157
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 137
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8a13faadc887930800000000000000
+      internalID: 4141214728237197488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_158
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 133
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4aef70083cc1eb0800000000000000
+      internalID: -4747704952497986306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_159
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 137
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f306616f57c6cbb0800000000000000
+      internalID: -4916022730758421513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_160
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 133
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe6c9ccf7e9e8280800000000000000
+      internalID: -9039113130355167498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_161
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 137
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ab961fdfe4ccfd0800000000000000
+      internalID: -2320392855418717563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_162
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 133
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9dd7bef7488b780800000000000000
+      internalID: -8667031797927913045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_163
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 136
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa935bd6674b6500800000000000000
+      internalID: 390484299789605549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_164
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 132
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 914522742f2e7c160800000000000000
+      internalID: 7045849672247825433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_165
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 137
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62eb22ac0c2931e0800000000000000
+      internalID: -2217692908731243923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_166
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 133
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77eb2f11a30e225f0800000000000000
+      internalID: -782816845195198857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_167
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 137
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c679aa2aff057c0800000000000000
+      internalID: -4084483787913204635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_168
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 133
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db86b0e7a149d9d40800000000000000
+      internalID: 5592789153768761533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_169
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 137
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b233a65be34c1590800000000000000
+      internalID: -7702206584660479309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_170
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 133
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a999335acc7b569a0800000000000000
+      internalID: -6240379619079120486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_171
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 137
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f5f0c48db8b14e0800000000000000
+      internalID: -2009859047585521900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_172
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 133
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d2d0ee9bb0c10f0800000000000000
+      internalID: -1145027312068252332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_173
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 137
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98cdcbff588e87d30800000000000000
+      internalID: 4429545895737744521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_174
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 133
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f300d5cd92314d0800000000000000
+      internalID: -3165140086681485518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_175
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 69
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df668911dea418770800000000000000
+      internalID: 8611246344572004093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_176
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 70
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401c514c0c5aa2080800000000000000
+      internalID: -9211367840490864380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_177
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 69
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0759a5b1ec44ceb60800000000000000
+      internalID: 7776666308574877040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_178
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 67
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a3b704b963677f0800000000000000
+      internalID: -615244258659845527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_179
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 69
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06e10debe0f96000800000000000000
+      internalID: 29819768638924303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_180
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 69
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8fb08dafaf33d70800000000000000
+      internalID: 9021830433826666750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_181
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 69
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194bc70db0d1d8af0800000000000000
+      internalID: -392625655931685743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_182
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 69
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72cfd067fea178fc0800000000000000
+      internalID: -3492793370222396377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_183
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 69
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b079d9de493e63c30800000000000000
+      internalID: 4338905519799244555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_184
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 69
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf8c50e6055329e0800000000000000
+      internalID: -1647379550665142341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_185
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 69
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b823106b658cca70800000000000000
+      internalID: 8848594064096045235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_186
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 69
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7292c88433be48d0800000000000000
+      internalID: -2860151675119562114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_187
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 69
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec92ebf56e5edf30800000000000000
+      internalID: 4602219661329865955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_188
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 14
+        width: 91
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f5a25de00678800800000000000000
+      internalID: 614565490981494563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_189
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 3
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c59422b1aa1fd80800000000000000
+      internalID: -8218600811458372556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_190
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 3
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7223cf6b4ec3f4570800000000000000
+      internalID: 8453041978617901607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cape_white_191
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 5
+        width: 72
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40607091944a4d50800000000000000
+      internalID: 6722260785788117069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

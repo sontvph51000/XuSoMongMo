@@ -1,0 +1,4855 @@
+fileFormatVersion: 2
+guid: bb1482533277335418237647876120ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8231933453706278449
+    second: maroon_tunic_0
+  - first:
+      213: -2040995513895183830
+    second: maroon_tunic_1
+  - first:
+      213: -182756222918727472
+    second: maroon_tunic_2
+  - first:
+      213: 1994695058217388545
+    second: maroon_tunic_3
+  - first:
+      213: -100348206426313260
+    second: maroon_tunic_4
+  - first:
+      213: 5390415461328886700
+    second: maroon_tunic_5
+  - first:
+      213: -5196859543799590421
+    second: maroon_tunic_6
+  - first:
+      213: -3065566542602933855
+    second: maroon_tunic_7
+  - first:
+      213: -2890242590413783089
+    second: maroon_tunic_8
+  - first:
+      213: 5233562717615703810
+    second: maroon_tunic_9
+  - first:
+      213: -8096815183562775826
+    second: maroon_tunic_10
+  - first:
+      213: -8684370906905043659
+    second: maroon_tunic_11
+  - first:
+      213: -4840238315902516380
+    second: maroon_tunic_12
+  - first:
+      213: 9054846688332956259
+    second: maroon_tunic_13
+  - first:
+      213: 9173395380474937685
+    second: maroon_tunic_14
+  - first:
+      213: 3312558759703513430
+    second: maroon_tunic_15
+  - first:
+      213: 7126914422593019156
+    second: maroon_tunic_16
+  - first:
+      213: -3092708626798815255
+    second: maroon_tunic_17
+  - first:
+      213: 6862712728264880335
+    second: maroon_tunic_18
+  - first:
+      213: -820618623508546662
+    second: maroon_tunic_19
+  - first:
+      213: -8182610118594998994
+    second: maroon_tunic_20
+  - first:
+      213: -3595611400315651883
+    second: maroon_tunic_21
+  - first:
+      213: 2494626895546306909
+    second: maroon_tunic_22
+  - first:
+      213: 6642116680522587241
+    second: maroon_tunic_23
+  - first:
+      213: 2322808397258797657
+    second: maroon_tunic_24
+  - first:
+      213: -3937485155503155612
+    second: maroon_tunic_25
+  - first:
+      213: 1017051773951631475
+    second: maroon_tunic_26
+  - first:
+      213: -4797251486742412162
+    second: maroon_tunic_27
+  - first:
+      213: 5223849616929866872
+    second: maroon_tunic_28
+  - first:
+      213: -4258541710408485060
+    second: maroon_tunic_29
+  - first:
+      213: 7180042033021935672
+    second: maroon_tunic_30
+  - first:
+      213: 2476267848889623763
+    second: maroon_tunic_31
+  - first:
+      213: 7688460456768146100
+    second: maroon_tunic_32
+  - first:
+      213: 4607223851309870614
+    second: maroon_tunic_33
+  - first:
+      213: -2195097369649528767
+    second: maroon_tunic_34
+  - first:
+      213: 1473110662650383864
+    second: maroon_tunic_35
+  - first:
+      213: 6432252738897629351
+    second: maroon_tunic_36
+  - first:
+      213: 3029644148971310530
+    second: maroon_tunic_37
+  - first:
+      213: 3521181596689590574
+    second: maroon_tunic_38
+  - first:
+      213: 3825679556177396329
+    second: maroon_tunic_39
+  - first:
+      213: -4485815889128621878
+    second: maroon_tunic_40
+  - first:
+      213: -5794385223652520129
+    second: maroon_tunic_41
+  - first:
+      213: -8864131212833757381
+    second: maroon_tunic_42
+  - first:
+      213: 2159448401321962937
+    second: maroon_tunic_43
+  - first:
+      213: -5139979541665096341
+    second: maroon_tunic_44
+  - first:
+      213: 2468380247390942726
+    second: maroon_tunic_45
+  - first:
+      213: 7722062803968766173
+    second: maroon_tunic_46
+  - first:
+      213: -8023667770806338418
+    second: maroon_tunic_47
+  - first:
+      213: -4941938629744632902
+    second: maroon_tunic_48
+  - first:
+      213: 7147771659354428343
+    second: maroon_tunic_49
+  - first:
+      213: 1165440642075086273
+    second: maroon_tunic_50
+  - first:
+      213: 5086849605347221277
+    second: maroon_tunic_51
+  - first:
+      213: 6297660051750915755
+    second: maroon_tunic_52
+  - first:
+      213: 6593418275041922295
+    second: maroon_tunic_53
+  - first:
+      213: 2006693675565325729
+    second: maroon_tunic_54
+  - first:
+      213: 2908725353095350409
+    second: maroon_tunic_55
+  - first:
+      213: 7180062047931477065
+    second: maroon_tunic_56
+  - first:
+      213: -8594340321877839399
+    second: maroon_tunic_57
+  - first:
+      213: 2006181342046085423
+    second: maroon_tunic_58
+  - first:
+      213: 4720647381598595391
+    second: maroon_tunic_59
+  - first:
+      213: -3683584139733057632
+    second: maroon_tunic_60
+  - first:
+      213: -3328234682045043302
+    second: maroon_tunic_61
+  - first:
+      213: -825111877144499694
+    second: maroon_tunic_62
+  - first:
+      213: 5202861837212691769
+    second: maroon_tunic_63
+  - first:
+      213: -3864901734493359575
+    second: maroon_tunic_64
+  - first:
+      213: -7651308546547248648
+    second: maroon_tunic_65
+  - first:
+      213: 2470580806038954710
+    second: maroon_tunic_66
+  - first:
+      213: -6409659999082404535
+    second: maroon_tunic_67
+  - first:
+      213: -571484237431004648
+    second: maroon_tunic_68
+  - first:
+      213: 3302939036217410467
+    second: maroon_tunic_69
+  - first:
+      213: 2682271358398454524
+    second: maroon_tunic_70
+  - first:
+      213: -4034119658192810942
+    second: maroon_tunic_71
+  - first:
+      213: 7858710309949236165
+    second: maroon_tunic_72
+  - first:
+      213: -7730479435962551416
+    second: maroon_tunic_73
+  - first:
+      213: 3925959595688197771
+    second: maroon_tunic_74
+  - first:
+      213: 3264817301561476284
+    second: maroon_tunic_75
+  - first:
+      213: -3851067339413656234
+    second: maroon_tunic_76
+  - first:
+      213: -1626374768718432106
+    second: maroon_tunic_77
+  - first:
+      213: -4829897928331841940
+    second: maroon_tunic_78
+  - first:
+      213: -7644716672972774540
+    second: maroon_tunic_79
+  - first:
+      213: 1204021197971104741
+    second: maroon_tunic_80
+  - first:
+      213: 4821754029432534326
+    second: maroon_tunic_81
+  - first:
+      213: 4611897746691131564
+    second: maroon_tunic_82
+  - first:
+      213: 331830382419227987
+    second: maroon_tunic_83
+  - first:
+      213: 1801331929401571951
+    second: maroon_tunic_84
+  - first:
+      213: -1870124528206960587
+    second: maroon_tunic_85
+  - first:
+      213: 4603286681043073101
+    second: maroon_tunic_86
+  - first:
+      213: 4314217217019777316
+    second: maroon_tunic_87
+  - first:
+      213: 1510846639556049520
+    second: maroon_tunic_88
+  - first:
+      213: 7199019275545536198
+    second: maroon_tunic_89
+  - first:
+      213: 3487539734661287709
+    second: maroon_tunic_90
+  - first:
+      213: 443884983042096090
+    second: maroon_tunic_91
+  - first:
+      213: 613634667393607433
+    second: maroon_tunic_92
+  - first:
+      213: 9184336376402766873
+    second: maroon_tunic_93
+  - first:
+      213: -7620700728550634428
+    second: maroon_tunic_94
+  - first:
+      213: -9095518853617749009
+    second: maroon_tunic_95
+  - first:
+      213: -7847816067303271611
+    second: maroon_tunic_96
+  - first:
+      213: 217146139557238049
+    second: maroon_tunic_97
+  - first:
+      213: -1836029843529194276
+    second: maroon_tunic_98
+  - first:
+      213: 3845732540426515165
+    second: maroon_tunic_99
+  - first:
+      213: -8556165669844414576
+    second: maroon_tunic_100
+  - first:
+      213: 2715354804536977553
+    second: maroon_tunic_101
+  - first:
+      213: 9199858865106733064
+    second: maroon_tunic_102
+  - first:
+      213: 5892264249074631752
+    second: maroon_tunic_103
+  - first:
+      213: -496422737549894758
+    second: maroon_tunic_104
+  - first:
+      213: -164883939484898356
+    second: maroon_tunic_105
+  - first:
+      213: -4297175247827280563
+    second: maroon_tunic_106
+  - first:
+      213: -5817806315481989271
+    second: maroon_tunic_107
+  - first:
+      213: -1811243714704471465
+    second: maroon_tunic_108
+  - first:
+      213: -685342033746636756
+    second: maroon_tunic_109
+  - first:
+      213: 5108017901280090815
+    second: maroon_tunic_110
+  - first:
+      213: -9173962881815140766
+    second: maroon_tunic_111
+  - first:
+      213: 5412678295881622948
+    second: maroon_tunic_112
+  - first:
+      213: 4970413228830932753
+    second: maroon_tunic_113
+  - first:
+      213: -2914781591840853497
+    second: maroon_tunic_114
+  - first:
+      213: -2425009760873237159
+    second: maroon_tunic_115
+  - first:
+      213: 2235462232978958966
+    second: maroon_tunic_116
+  - first:
+      213: 2717594821970638177
+    second: maroon_tunic_117
+  - first:
+      213: -8267017413908829458
+    second: maroon_tunic_118
+  - first:
+      213: -1800053689122571167
+    second: maroon_tunic_119
+  - first:
+      213: -2844788324319301298
+    second: maroon_tunic_120
+  - first:
+      213: -971664469015460010
+    second: maroon_tunic_121
+  - first:
+      213: 3197176692137753849
+    second: maroon_tunic_122
+  - first:
+      213: -4016705876333526956
+    second: maroon_tunic_123
+  - first:
+      213: -7016554354458904693
+    second: maroon_tunic_124
+  - first:
+      213: 7993936960614557553
+    second: maroon_tunic_125
+  - first:
+      213: -3764223125640603442
+    second: maroon_tunic_126
+  - first:
+      213: -1552997696567011833
+    second: maroon_tunic_127
+  - first:
+      213: 2731214201577883025
+    second: maroon_tunic_128
+  - first:
+      213: 2463796054352908638
+    second: maroon_tunic_129
+  - first:
+      213: 2202575581017191338
+    second: maroon_tunic_130
+  - first:
+      213: -4556412623809757372
+    second: maroon_tunic_131
+  - first:
+      213: 881794242445398367
+    second: maroon_tunic_132
+  - first:
+      213: -4545122878580438223
+    second: maroon_tunic_133
+  - first:
+      213: 678405791006482162
+    second: maroon_tunic_134
+  - first:
+      213: 776874515688389974
+    second: maroon_tunic_135
+  - first:
+      213: -80510976063635944
+    second: maroon_tunic_136
+  - first:
+      213: -5629759475649920003
+    second: maroon_tunic_137
+  - first:
+      213: 5073813358613238620
+    second: maroon_tunic_138
+  - first:
+      213: 3128568402155370170
+    second: maroon_tunic_139
+  - first:
+      213: -1181186004085898573
+    second: maroon_tunic_140
+  - first:
+      213: 7968725950210179607
+    second: maroon_tunic_141
+  - first:
+      213: -1337233780483195564
+    second: maroon_tunic_142
+  - first:
+      213: -6800627761970581580
+    second: maroon_tunic_143
+  - first:
+      213: -4054846849812645107
+    second: maroon_tunic_144
+  - first:
+      213: -2310475114231796718
+    second: maroon_tunic_145
+  - first:
+      213: 8999919807130810361
+    second: maroon_tunic_146
+  - first:
+      213: -5052190594324134554
+    second: maroon_tunic_147
+  - first:
+      213: 2339667019092713016
+    second: maroon_tunic_148
+  - first:
+      213: -7012415965513947961
+    second: maroon_tunic_149
+  - first:
+      213: 7609032841920374507
+    second: maroon_tunic_150
+  - first:
+      213: -7139302409897887029
+    second: maroon_tunic_151
+  - first:
+      213: 3824070355842126344
+    second: maroon_tunic_152
+  - first:
+      213: -2628462604869875212
+    second: maroon_tunic_153
+  - first:
+      213: 8220041311060613126
+    second: maroon_tunic_154
+  - first:
+      213: -7174780481480784423
+    second: maroon_tunic_155
+  - first:
+      213: -4856199544514802897
+    second: maroon_tunic_156
+  - first:
+      213: -1801974435281839037
+    second: maroon_tunic_157
+  - first:
+      213: 5381158380593514764
+    second: maroon_tunic_158
+  - first:
+      213: 8773045981040001858
+    second: maroon_tunic_159
+  - first:
+      213: -5864455981382500249
+    second: maroon_tunic_160
+  - first:
+      213: -2659937590131028298
+    second: maroon_tunic_161
+  - first:
+      213: 8815845700211047016
+    second: maroon_tunic_162
+  - first:
+      213: 818053576370357168
+    second: maroon_tunic_163
+  - first:
+      213: 6772117260379840074
+    second: maroon_tunic_164
+  - first:
+      213: -2458129310273463137
+    second: maroon_tunic_165
+  - first:
+      213: -299282045410546313
+    second: maroon_tunic_166
+  - first:
+      213: -100758203691682852
+    second: maroon_tunic_167
+  - first:
+      213: -1429080245130120404
+    second: maroon_tunic_168
+  - first:
+      213: 7807848782500443934
+    second: maroon_tunic_169
+  - first:
+      213: 8192671394081818676
+    second: maroon_tunic_170
+  - first:
+      213: -1044605678795258059
+    second: maroon_tunic_171
+  - first:
+      213: -8496598468850302068
+    second: maroon_tunic_172
+  - first:
+      213: -5475238706807718987
+    second: maroon_tunic_173
+  - first:
+      213: 9183303502574423655
+    second: maroon_tunic_174
+  - first:
+      213: -1258988386327009515
+    second: maroon_tunic_175
+  - first:
+      213: 7202110996925382993
+    second: maroon_tunic_176
+  - first:
+      213: -8016027336458567898
+    second: maroon_tunic_177
+  - first:
+      213: 8915936055608818206
+    second: maroon_tunic_178
+  - first:
+      213: 504777507574122568
+    second: maroon_tunic_179
+  - first:
+      213: -2810033936761549485
+    second: maroon_tunic_180
+  - first:
+      213: 1079675886468948282
+    second: maroon_tunic_181
+  - first:
+      213: -2413740488734320618
+    second: maroon_tunic_182
+  - first:
+      213: 902064101408469392
+    second: maroon_tunic_183
+  - first:
+      213: -5940320081221935281
+    second: maroon_tunic_184
+  - first:
+      213: -235192530907832799
+    second: maroon_tunic_185
+  - first:
+      213: -3755536511389007533
+    second: maroon_tunic_186
+  - first:
+      213: -1378041090555809703
+    second: maroon_tunic_187
+  - first:
+      213: 1286168922384884234
+    second: maroon_tunic_188
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: maroon_tunic_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1290
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9ce25732c42cd80800000000000000
+      internalID: -8231933453706278449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1290
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a9c1ec46deca3e0800000000000000
+      internalID: -2040995513895183830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1290
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8ef6cfe28b67df0800000000000000
+      internalID: -182756222918727472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1290
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a464c46949eab10800000000000000
+      internalID: 1994695058217388545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1290
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ddac1286dd7b9ef0800000000000000
+      internalID: -100348206426313260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_5
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1290
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab184c6d4a9eca40800000000000000
+      internalID: 5390415461328886700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_6
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1290
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be11a3077cb01e7b0800000000000000
+      internalID: -5196859543799590421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_7
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1227
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a964d8b87be475d0800000000000000
+      internalID: -3065566542602933855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_8
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1227
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf7eab5dabc3e7d0800000000000000
+      internalID: -2890242590413783089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_9
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1233
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2074635209951a840800000000000000
+      internalID: 5233562717615703810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_10
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1227
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee260c34d7552af80800000000000000
+      internalID: -8096815183562775826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_11
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1227
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d10340caaea7780800000000000000
+      internalID: -8684370906905043659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_12
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1227
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463456875e404dcb0800000000000000
+      internalID: -4840238315902516380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_13
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1227
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36245b1a61749ad70800000000000000
+      internalID: 9054846688332956259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_14
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1227
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5510b6dee727e4f70800000000000000
+      internalID: 9173395380474937685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_15
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1163
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6598cb924a298fd20800000000000000
+      internalID: 3312558759703513430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_16
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1163
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41dd34748e2e7e260800000000000000
+      internalID: 7126914422593019156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_17
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1163
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7ded9c3ed7415d0800000000000000
+      internalID: -3092708626798815255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_18
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1163
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0b7cbbdd04d3f50800000000000000
+      internalID: 6862712728264880335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_19
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1163
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9bf3b1b5b39c94f0800000000000000
+      internalID: -820618623508546662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_20
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1163
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2dc0a15377817e80800000000000000
+      internalID: -8182610118594998994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_21
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1163
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d837d55b72d91ec0800000000000000
+      internalID: -3595611400315651883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_22
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1099
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d515c24c1f1be9220800000000000000
+      internalID: 2494626895546306909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_23
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1099
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96cde33fde98d2c50800000000000000
+      internalID: 6642116680522587241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_24
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1105
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952b7e73ee54c3020800000000000000
+      internalID: 2322808397258797657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_25
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1099
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4665cdddc1e3b59c0800000000000000
+      internalID: -3937485155503155612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_26
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1099
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3706198233b4d1e00800000000000000
+      internalID: 1017051773951631475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_27
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1099
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e740182903dbc6db0800000000000000
+      internalID: -4797251486742412162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_28
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1099
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8744a29ac87de7840800000000000000
+      internalID: 5223849616929866872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_29
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1099
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37fae980ee96e4c0800000000000000
+      internalID: -4258541710408485060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_30
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1033
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83065a20032a4a360800000000000000
+      internalID: 7180042033021935672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_31
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1033
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d469cd1d787d5220800000000000000
+      internalID: 2476267848889623763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_32
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1033
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba8d4bdc06e2ba60800000000000000
+      internalID: 7688460456768146100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_33
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1034
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e2802cea520ff30800000000000000
+      internalID: 4607223851309870614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_34
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1033
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14045aa82927981e0800000000000000
+      internalID: -2195097369649528767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_35
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1033
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fdcd12c75a817410800000000000000
+      internalID: 1473110662650383864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_36
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1033
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0d68759c3f34950800000000000000
+      internalID: 6432252738897629351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_37
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1034
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd864f3d457b0a20800000000000000
+      internalID: 3029644148971310530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_38
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 971
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2963549100cdd030800000000000000
+      internalID: 3521181596689590574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_39
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 971
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9628d6a794b871530800000000000000
+      internalID: 3825679556177396329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_40
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 971
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac87fa8373e2fb1c0800000000000000
+      internalID: -4485815889128621878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_41
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 971
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f4b6cc655369fa0800000000000000
+      internalID: -5794385223652520129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_42
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 972
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37679840a74cf480800000000000000
+      internalID: -8864131212833757381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_43
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 972
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bda49731e6e7fd10800000000000000
+      internalID: 2159448401321962937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_44
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 972
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6dd642f6df1ba8b0800000000000000
+      internalID: -5139979541665096341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_45
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 971
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606f358c1c2714220800000000000000
+      internalID: 2468380247390942726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_46
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 907
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0b0dbf4374a2b60800000000000000
+      internalID: 7722062803968766173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_47
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 907
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c76557ca436a090800000000000000
+      internalID: -8023667770806338418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_48
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 917
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb5a40fff4ba6bb0800000000000000
+      internalID: -4941938629744632902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_49
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 907
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3dc63247cf13360800000000000000
+      internalID: 7147771659354428343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_50
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 919
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd40b5d61a7c2010800000000000000
+      internalID: 1165440642075086273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_51
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 907
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f9e88c3ce189640800000000000000
+      internalID: 5086849605347221277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_52
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 916
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae08cc5378c56750800000000000000
+      internalID: 6297660051750915755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_53
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 915
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc417bdcf6808b50800000000000000
+      internalID: 6593418275041922295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_54
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 916
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad1819144539db10800000000000000
+      internalID: 2006693675565325729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_55
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 919
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988cb6c2c4edd5820800000000000000
+      internalID: 2908725353095350409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_56
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 907
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c28381464b4a360800000000000000
+      internalID: 7180062047931477065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_57
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 906
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1b7a31305cab880800000000000000
+      internalID: -8594340321877839399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_58
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 906
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f216ca72d4367db10800000000000000
+      internalID: 2006181342046085423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_59
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 906
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39ef0258cb138140800000000000000
+      internalID: 4720647381598595391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_60
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 843
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0afb2facdb741ecc0800000000000000
+      internalID: -3683584139733057632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_61
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 843
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9de19fb03cbfc1d0800000000000000
+      internalID: -3328234682045043302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_62
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 843
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21aa8de8e1d9c84f0800000000000000
+      internalID: -825111877144499694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_63
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 843
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93daf766647443840800000000000000
+      internalID: 5202861837212691769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_64
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 843
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9227bbf795c1d5ac0800000000000000
+      internalID: -3864901734493359575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_65
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 843
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f114205a6711d590800000000000000
+      internalID: -7651308546547248648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_66
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 843
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2a9d44724494220800000000000000
+      internalID: 2470580806038954710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_67
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 843
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945a9afc0305c07a0800000000000000
+      internalID: -6409659999082404535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_68
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 778
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812a0392d1ea118f0800000000000000
+      internalID: -571484237431004648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_69
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 778
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a38280cd8566dd20800000000000000
+      internalID: 3302939036217410467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_70
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 778
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa5b84d697593520800000000000000
+      internalID: 2682271358398454524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_71
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 778
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c4ff76b8de308c0800000000000000
+      internalID: -4034119658192810942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_72
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 778
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c36931c36fbf0d60800000000000000
+      internalID: 7858710309949236165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_73
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 778
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8837dfb29e1d7b490800000000000000
+      internalID: -7730479435962551416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_74
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 778
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ef78f937fcb7630800000000000000
+      internalID: 3925959595688197771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_75
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 778
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb40f1cb906fe4d20800000000000000
+      internalID: 3264817301561476284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_76
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 778
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65de32c98a24e8ac0800000000000000
+      internalID: -3851067339413656234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_77
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 715
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69831e6c3c4fd69e0800000000000000
+      internalID: -1626374768718432106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_78
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 714
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ea2609c61c8fcb0800000000000000
+      internalID: -4829897928331841940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_79
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 714
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473a3fa70b288e590800000000000000
+      internalID: -7644716672972774540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_80
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 715
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3ab1f76ea85b010800000000000000
+      internalID: 1204021197971104741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_81
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 715
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63572a63ebf4ae240800000000000000
+      internalID: 4821754029432534326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_82
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 714
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca803f3d090c00040800000000000000
+      internalID: 4611897746691131564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_83
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 714
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355b7c589f5ea9400800000000000000
+      internalID: 331830382419227987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_84
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 715
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6abc8e88dd9ff810800000000000000
+      internalID: 1801331929401571951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_85
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 715
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538aa7266abfb06e0800000000000000
+      internalID: -1870124528206960587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_86
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 651
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48fbded8d822ef30800000000000000
+      internalID: 4603286681043073101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_87
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 651
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421965083bd2fdb30800000000000000
+      internalID: 4314217217019777316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_88
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 651
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ab4dc830b97f410800000000000000
+      internalID: 1510846639556049520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_89
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 650
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6e41a93ed08e360800000000000000
+      internalID: 7199019275545536198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_90
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 651
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1fcb8039ea366030800000000000000
+      internalID: 3487539734661287709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_91
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 651
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adbba5f4a0ff82600800000000000000
+      internalID: 443884983042096090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_92
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 651
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9076cd39a71148800800000000000000
+      internalID: 613634667393607433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_93
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 650
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c6f2d0641557f70800000000000000
+      internalID: 9184336376402766873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_94
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 651
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ccd274015dd3690800000000000000
+      internalID: -7620700728550634428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_95
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 587
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3fe32fac936c180800000000000000
+      internalID: -9095518853617749009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_96
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 586
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54319c5cdd4f61390800000000000000
+      internalID: -7847816067303271611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_97
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 586
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12518a07345730300800000000000000
+      internalID: 217146139557238049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_98
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 587
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd42d63c59c1586e0800000000000000
+      internalID: -1836029843529194276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_99
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 587
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd27845be59ce5530800000000000000
+      internalID: 3845732540426515165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_100
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 586
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f0881e7a4624980800000000000000
+      internalID: -8556165669844414576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_101
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 586
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198a393eec0eea520800000000000000
+      internalID: 2715354804536977553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_102
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 587
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8084a6615e67caf70800000000000000
+      internalID: 9199858865106733064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_103
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 587
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844c3d0bd1785c150800000000000000
+      internalID: 5892264249074631752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_104
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 522
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b59ed762a5c19f0800000000000000
+      internalID: -496422737549894758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_105
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 522
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbe5dd3ee636bdf0800000000000000
+      internalID: -164883939484898356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_106
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 522
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d57a721ed5d54c0800000000000000
+      internalID: -4297175247827280563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_107
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 523
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ffba9eafff24fa0800000000000000
+      internalID: -5817806315481989271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_108
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 523
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a8167107b2dd6e0800000000000000
+      internalID: -1811243714704471465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_109
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 523
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2053e82d0d2d76f0800000000000000
+      internalID: -685342033746636756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_110
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 459
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbad220c73353e640800000000000000
+      internalID: 5108017901280090815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_111
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 457
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2662ace5d598fa080800000000000000
+      internalID: -9173962881815140766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_112
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 458
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5ad758b32bd1b40800000000000000
+      internalID: 5412678295881622948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_113
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 459
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11fbe5b4f747af440800000000000000
+      internalID: 4970413228830932753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_114
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 459
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7027a7cd59d9c87d0800000000000000
+      internalID: -2914781591840853497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_115
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 459
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955bb428872a85ed0800000000000000
+      internalID: -2425009760873237159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_116
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 395
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a23819e05f50f10800000000000000
+      internalID: 2235462232978958966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_117
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 393
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16530079716d6b520800000000000000
+      internalID: 2717594821970638177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_118
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 394
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeaeefb6677a54d80800000000000000
+      internalID: -8267017413908829458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_119
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 395
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16cb733f4bce407e0800000000000000
+      internalID: -1800053689122571167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_120
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 395
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41f4c367184588d0800000000000000
+      internalID: -2844788324319301298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_121
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 395
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65707734054f382f0800000000000000
+      internalID: -971664469015460010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_122
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 331
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc770b1347ae5c20800000000000000
+      internalID: 3197176692137753849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_123
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 329
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4508ae1794bc148c0800000000000000
+      internalID: -4016705876333526956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_124
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 330
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87b14b6df030ae90800000000000000
+      internalID: -7016554354458904693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_125
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 331
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177eb4edf4b20fe60800000000000000
+      internalID: 7993936960614557553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_126
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 331
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec891ecc20bc2cbc0800000000000000
+      internalID: -3764223125640603442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_127
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 331
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7069f17b2d4a27ae0800000000000000
+      internalID: -1552997696567011833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_128
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 266
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1954d8288d837e520800000000000000
+      internalID: 2731214201577883025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_129
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 266
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51d6ba2579213220800000000000000
+      internalID: 2463796054352908638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_130
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 266
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3ba7932de119e10800000000000000
+      internalID: 2202575581017191338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_131
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 265
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44fb6bb0cde54c0c0800000000000000
+      internalID: -4556412623809757372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_132
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 265
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5151f90133cc3c00800000000000000
+      internalID: 881794242445398367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_133
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 265
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b46b1b2da7ce0c0800000000000000
+      internalID: -4545122878580438223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_134
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 265
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe528af87e2a6900800000000000000
+      internalID: 678405791006482162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_135
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 265
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65df8a6814308ca00800000000000000
+      internalID: 776874515688389974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_136
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 265
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ef43f91b7f1eef0800000000000000
+      internalID: -80510976063635944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_137
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 265
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df34ffaa5931fd1b0800000000000000
+      internalID: -5629759475649920003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_138
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 265
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5316c01e5ec96640800000000000000
+      internalID: 5073813358613238620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_139
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 265
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab67bf9c268ea6b20800000000000000
+      internalID: 3128568402155370170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_140
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 265
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b20cc466959b9fe0800000000000000
+      internalID: -1181186004085898573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_141
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 203
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71207b6180a969e60800000000000000
+      internalID: 7968725950210179607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_142
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 203
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d75ac26f0317de0800000000000000
+      internalID: -1337233780483195564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_143
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 203
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf651ee4115f91a0800000000000000
+      internalID: -6800627761970581580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_144
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 201
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b3e4a064a4ab7c0800000000000000
+      internalID: -4054846849812645107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_145
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 203
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c65d1002b8fefd0800000000000000
+      internalID: -2310475114231796718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_146
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 203
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7b807816326ec70800000000000000
+      internalID: 8999919807130810361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_147
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 203
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6658dbf0c6303e9b0800000000000000
+      internalID: -5052190594324134554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_148
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 203
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ed7bdf1ca287020800000000000000
+      internalID: 2339667019092713016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_149
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 203
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4634e25d4eeae90800000000000000
+      internalID: -7012415965513947961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_150
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 203
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6e1fa2e07b89960800000000000000
+      internalID: 7609032841920374507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_151
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 203
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca32f9a84a1cec90800000000000000
+      internalID: -7139302409897887029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_152
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 203
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80252145ab3d11530800000000000000
+      internalID: 3824070355842126344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_153
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 203
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f94553ef23d58bd0800000000000000
+      internalID: -2628462604869875212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_154
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 139
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608ddc05504731270800000000000000
+      internalID: 8220041311060613126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_155
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 139
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d58eeb6a2f0e6c90800000000000000
+      internalID: -7174780481480784423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_156
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 139
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b08c65e305b9cb0800000000000000
+      internalID: -4856199544514802897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_157
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 139
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34cd0b26cc91ef6e0800000000000000
+      internalID: -1801974435281839037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_158
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 139
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09846b5907bdaa40800000000000000
+      internalID: 5381158380593514764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_159
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 139
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243ce0296de10c970800000000000000
+      internalID: 8773045981040001858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_160
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 152
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76008cc2b544d9ea0800000000000000
+      internalID: -5864455981382500249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_161
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 139
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be088fcad0061bd0800000000000000
+      internalID: -2659937590131028298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_162
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 152
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86afbbbb4fc285a70800000000000000
+      internalID: 8815845700211047016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_163
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 139
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b30bcab46f4a5b00800000000000000
+      internalID: 818053576370357168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_164
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 139
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e5b32a4c46bfd50800000000000000
+      internalID: 6772117260379840074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_165
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 139
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c9c218a68f2edd0800000000000000
+      internalID: -2458129310273463137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_166
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 139
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77de6abb09cb8dbf0800000000000000
+      internalID: -299282045410546313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_167
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 149
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd330c492f80a9ef0800000000000000
+      internalID: -100758203691682852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_168
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 139
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23bd71b613ea2ce0800000000000000
+      internalID: -1429080245130120404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_169
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 139
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17b7e4991d0b5c60800000000000000
+      internalID: 7807848782500443934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_170
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 75
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43840cde93732b170800000000000000
+      internalID: 8192671394081818676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_171
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 75
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5378d017ba0d081f0800000000000000
+      internalID: -1044605678795258059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_172
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 75
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83cc01a5b4061a80800000000000000
+      internalID: -8496598468850302068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_173
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 73
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bbb14cb76b0404b0800000000000000
+      internalID: -5475238706807718987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_174
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 75
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e8c8f51e5a17f70800000000000000
+      internalID: 9183303502574423655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_175
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 75
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517e2a8abbc278ee0800000000000000
+      internalID: -1258988386327009515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_176
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 75
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1510ca41bc903f360800000000000000
+      internalID: 7202110996925382993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_177
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 75
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ff094bb9951c090800000000000000
+      internalID: -8016027336458567898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_178
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 75
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a39aa9a94cbbb70800000000000000
+      internalID: 8915936055608818206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_179
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 75
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848009df774510700800000000000000
+      internalID: 504777507574122568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_180
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 75
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d0980d501c009d0800000000000000
+      internalID: -2810033936761549485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_181
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 75
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3169859f77cbfe00800000000000000
+      internalID: 1079675886468948282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_182
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 75
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618530560dba08ed0800000000000000
+      internalID: -2413740488734320618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_183
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 10
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09175195586c48c00800000000000000
+      internalID: 902064101408469392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_184
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 10
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f95aafb5ebf8da0800000000000000
+      internalID: -5940320081221935281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_185
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 3
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ed965a3ad6cbcf0800000000000000
+      internalID: -235192530907832799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_186
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 4
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35106a9c077a1ebc0800000000000000
+      internalID: -3755536511389007533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_187
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 18
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9507787ede630ece0800000000000000
+      internalID: -1378041090555809703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maroon_tunic_188
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 6
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02e5eb02d369d110800000000000000
+      internalID: 1286168922384884234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
